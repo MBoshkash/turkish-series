@@ -4,17 +4,25 @@
   "episode_number": 15,
   "title": "الحلقة 15",
   "date_added": "الإثنين 29 ديسمبر 2025 - 12:13 صباحا",
-  "last_updated": "2026-01-12T20:11:58.224807Z",
+  "last_updated": "2026-01-12T20:15:41.595569Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "akwam_page",
-        "url": "http://go.ak.sv/watch/169335",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92002/المنظمة-الموسم-السادس/الحلقة-15",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": []
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92002/المنظمة-الموسم-السادس/الحلقة-15",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
   }
 }

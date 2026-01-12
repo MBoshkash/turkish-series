@@ -4,17 +4,25 @@
   "episode_number": 13,
   "title": "الحلقة 13",
   "date_added": "الإثنين 12 يناير 2026 - 12:49 صباحا",
-  "last_updated": "2026-01-12T20:11:51.382255Z",
+  "last_updated": "2026-01-12T20:15:41.236539Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "akwam_page",
-        "url": "http://go.ak.sv/watch/169833",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92381/المحتالون-مترجم/الحلقة-13",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": []
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92381/المحتالون-مترجم/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
   }
 }

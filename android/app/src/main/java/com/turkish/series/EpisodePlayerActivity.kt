@@ -15,6 +15,7 @@ import com.turkish.series.api.ApiClient
 import com.turkish.series.databinding.ActivityEpisodePlayerBinding
 import com.turkish.series.models.EpisodeDetail
 import com.turkish.series.models.WatchServer
+import com.turkish.series.utils.AkwamResolver
 import com.turkish.series.utils.TDMHelper
 import kotlinx.coroutines.launch
 
@@ -34,6 +35,10 @@ class EpisodePlayerActivity : AppCompatActivity() {
     private var exoPlayer: ExoPlayer? = null
     private var episodeDetail: EpisodeDetail? = null
     private var currentServer: WatchServer? = null
+
+    // الرابط المباشر للحلقة الحالية (بعد الـ resolve)
+    private var resolvedWatchUrl: String? = null
+    private var resolvedDownloadUrl: String? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -72,7 +77,6 @@ class EpisodePlayerActivity : AppCompatActivity() {
                 val filename = "${seriesId}_${String.format("%02d", episodeNumber)}"
                 episodeDetail = ApiClient.apiService.getEpisodeDetail(filename)
                 episodeDetail?.let { displayEpisodeDetail(it) }
-                showLoading(false)
             } catch (e: Exception) {
                 showError(e.message)
             }
@@ -118,6 +122,10 @@ class EpisodePlayerActivity : AppCompatActivity() {
         currentServer = server
         showLoading(true)
 
+        // Reset resolved URLs
+        resolvedWatchUrl = null
+        resolvedDownloadUrl = null
+
         when (server.type) {
             "direct" -> {
                 // Play directly with ExoPlayer
@@ -125,7 +133,6 @@ class EpisodePlayerActivity : AppCompatActivity() {
             }
             "webview" -> {
                 // Open in WebView (for qissah eshq, etc.)
-                // نضيف /see/ للرابط لفتح صفحة السيرفرات مباشرة
                 val watchUrl = if (server.url.endsWith("/")) {
                     "${server.url}see/"
                 } else {
@@ -134,16 +141,41 @@ class EpisodePlayerActivity : AppCompatActivity() {
                 openWebViewPlayer(watchUrl)
             }
             "iframe" -> {
-                // Open in WebView
                 openWebViewPlayer(server.url)
             }
-            "akwam_page" -> {
-                // روابط صفحات أكوام - نفتحها في WebView لأن الروابط المباشرة مؤقتة
-                playInEmbeddedWebView(server.url)
+            "akwam" -> {
+                // روابط أكوام - نعمل resolve للحصول على الرابط المباشر
+                resolveAndPlayAkwam(server.url)
             }
             else -> {
-                // Default: try embedded WebView
+                // Default: try WebView
                 playInEmbeddedWebView(server.url)
+            }
+        }
+    }
+
+    /**
+     * يحل رابط أكوام ويشغل الفيديو
+     */
+    private fun resolveAndPlayAkwam(episodeUrl: String) {
+        lifecycleScope.launch {
+            try {
+                val result = AkwamResolver.resolve(episodeUrl)
+
+                resolvedWatchUrl = result.watchUrl
+                resolvedDownloadUrl = result.downloadUrl
+
+                if (result.watchUrl != null) {
+                    // نجح! شغل الفيديو مباشرة
+                    playWithExoPlayer(result.watchUrl)
+                } else {
+                    // فشل - نفتح في WebView
+                    showToast("جاري فتح صفحة المشاهدة...")
+                    playInEmbeddedWebView(episodeUrl)
+                }
+            } catch (e: Exception) {
+                showError("فشل جلب رابط الفيديو: ${e.message}")
+                playInEmbeddedWebView(episodeUrl)
             }
         }
     }
@@ -183,10 +215,10 @@ class EpisodePlayerActivity : AppCompatActivity() {
 
         // Create DataSource with headers for Akwam servers
         val dataSourceFactory = DefaultHttpDataSource.Factory()
-            .setUserAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
+            .setUserAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
             .setAllowCrossProtocolRedirects(true)
             .setConnectTimeoutMs(15000)
-            .setReadTimeoutMs(15000)
+            .setReadTimeoutMs(30000)
 
         // Create new player with custom DataSource
         exoPlayer = ExoPlayer.Builder(this)
@@ -205,7 +237,6 @@ class EpisodePlayerActivity : AppCompatActivity() {
     }
 
     private fun openWebViewPlayer(url: String) {
-        // Open WebViewPlayerActivity
         val intent = Intent(this, WebViewPlayerActivity::class.java).apply {
             putExtra(WebViewPlayerActivity.EXTRA_URL, url)
             putExtra(WebViewPlayerActivity.EXTRA_TITLE, episodeDetail?.title ?: "المشاهدة")
@@ -215,30 +246,60 @@ class EpisodePlayerActivity : AppCompatActivity() {
     }
 
     private fun downloadCurrentEpisode() {
-        // Get download URL from servers
-        val downloadServer = episodeDetail?.servers?.download?.firstOrNull()
+        showLoading(true)
 
-        if (downloadServer != null) {
-            TDMHelper.downloadWithTDM(
-                this,
-                downloadServer.url,
-                "${episodeDetail?.seriesTitle}_${episodeDetail?.episodeNumber}.mp4"
-            )
-        } else {
-            // لو مفيش رابط تحميل، نستخدم رابط المشاهدة
-            val watchServer = currentServer ?: episodeDetail?.servers?.watch?.firstOrNull()
-            if (watchServer != null) {
-                TDMHelper.downloadWithTDM(
-                    this,
-                    watchServer.url,
-                    "${episodeDetail?.seriesTitle}_${episodeDetail?.episodeNumber}.mp4"
-                )
-            } else {
-                Toast.makeText(
-                    this,
-                    R.string.error_video_not_found,
-                    Toast.LENGTH_SHORT
-                ).show()
+        lifecycleScope.launch {
+            try {
+                // لو عندنا رابط تحميل محلول
+                if (resolvedDownloadUrl != null) {
+                    TDMHelper.downloadWithTDM(
+                        this@EpisodePlayerActivity,
+                        resolvedDownloadUrl!!,
+                        "${episodeDetail?.seriesTitle}_الحلقة${episodeDetail?.episodeNumber}.mp4"
+                    )
+                    showLoading(false)
+                    return@launch
+                }
+
+                // لو عندنا رابط مشاهدة محلول
+                if (resolvedWatchUrl != null) {
+                    TDMHelper.downloadWithTDM(
+                        this@EpisodePlayerActivity,
+                        resolvedWatchUrl!!,
+                        "${episodeDetail?.seriesTitle}_الحلقة${episodeDetail?.episodeNumber}.mp4"
+                    )
+                    showLoading(false)
+                    return@launch
+                }
+
+                // نحتاج نحل الرابط
+                val server = currentServer ?: episodeDetail?.servers?.watch?.firstOrNull()
+                if (server != null && server.type == "akwam") {
+                    showToast("جاري جلب رابط التحميل...")
+                    val downloadUrl = AkwamResolver.resolveDownload(server.url)
+                    if (downloadUrl != null) {
+                        resolvedDownloadUrl = downloadUrl
+                        TDMHelper.downloadWithTDM(
+                            this@EpisodePlayerActivity,
+                            downloadUrl,
+                            "${episodeDetail?.seriesTitle}_الحلقة${episodeDetail?.episodeNumber}.mp4"
+                        )
+                    } else {
+                        showToast("فشل جلب رابط التحميل")
+                    }
+                } else if (server != null) {
+                    TDMHelper.downloadWithTDM(
+                        this@EpisodePlayerActivity,
+                        server.url,
+                        "${episodeDetail?.seriesTitle}_الحلقة${episodeDetail?.episodeNumber}.mp4"
+                    )
+                } else {
+                    showToast("لا يوجد رابط للتحميل")
+                }
+            } catch (e: Exception) {
+                showError("فشل التحميل: ${e.message}")
+            } finally {
+                showLoading(false)
             }
         }
     }
@@ -254,6 +315,10 @@ class EpisodePlayerActivity : AppCompatActivity() {
             message ?: getString(R.string.error_loading),
             Toast.LENGTH_SHORT
         ).show()
+    }
+
+    private fun showToast(message: String) {
+        Toast.makeText(this, message, Toast.LENGTH_SHORT).show()
     }
 
     override fun onPause() {

@@ -4,17 +4,25 @@
   "episode_number": 12,
   "title": "الحلقة 12",
   "date_added": "الإثنين 08 ديسمبر 2025 - 01:21 صباحا",
-  "last_updated": "2026-01-12T20:11:56.694684Z",
+  "last_updated": "2026-01-12T20:15:41.595557Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "akwam_page",
-        "url": "http://go.ak.sv/watch/168498",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91374/المنظمة-الموسم-السادس/الحلقة-12",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": []
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91374/المنظمة-الموسم-السادس/الحلقة-12",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
   }
 }

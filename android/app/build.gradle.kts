@@ -74,4 +74,10 @@ dependencies {
 
     // Coroutines
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
+
+    // Jsoup for HTML parsing (Akwam resolver)
+    implementation("org.jsoup:jsoup:1.17.2")
+
+    // ExoPlayer DataSource for custom headers
+    implementation("androidx.media3:media3-datasource:1.2.1")
 }

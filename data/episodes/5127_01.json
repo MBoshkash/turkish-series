@@ -4,17 +4,25 @@
   "episode_number": 1,
   "title": "الحلقة 1",
   "date_added": "الثلاثاء 14 أكتوبر 2025 - 07:25 مساءاً",
-  "last_updated": "2026-01-12T20:11:46.708500Z",
+  "last_updated": "2026-01-12T20:15:41.236444Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "akwam_page",
-        "url": "http://go.ak.sv/watch/166477",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89932/المحتالون-مترجم/الحلقة-1",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": []
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89932/المحتالون-مترجم/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
   }
 }

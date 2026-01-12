@@ -4,17 +4,25 @@
   "episode_number": 8,
   "title": "الحلقة 8",
   "date_added": "الإثنين 01 ديسمبر 2025 - 02:17 صباحا",
-  "last_updated": "2026-01-12T20:11:49.074936Z",
+  "last_updated": "2026-01-12T20:15:41.236508Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "akwam_page",
-        "url": "http://go.ak.sv/watch/168254",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91202/المحتالون-مترجم/الحلقة-8",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": []
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91202/المحتالون-مترجم/الحلقة-8",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
   }
 }

@@ -4,17 +4,25 @@
   "episode_number": 16,
   "title": "الحلقة 16",
   "date_added": "الإثنين 12 يناير 2026 - 12:07 صباحا",
-  "last_updated": "2026-01-12T20:11:59.069531Z",
+  "last_updated": "2026-01-12T20:15:41.595572Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "akwam_page",
-        "url": "http://go.ak.sv/watch/169832",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92380/المنظمة-الموسم-السادس/الحلقة-16",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": []
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92380/المنظمة-الموسم-السادس/الحلقة-16",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
   }
 }

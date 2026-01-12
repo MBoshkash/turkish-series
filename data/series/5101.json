@@ -9,111 +9,111 @@
   "country": "تركيا",
   "rating": 6.0,
   "genres": [
-    "دراما",
     "مغامرة",
+    "دراما",
     "اكشن"
   ],
   "quality": "",
   "cast": [],
   "total_episodes": 16,
   "status": "ongoing",
-  "last_updated": "2026-01-12T20:11:51.672553Z",
+  "last_updated": "2026-01-12T20:15:41.242456Z",
   "episodes": [
     {
       "number": 1,
       "title": "الحلقة 1",
       "date_added": "الإثنين 22 سبتمبر 2025 - 08:10 مساءاً",
-      "servers_count": 1
+      "servers_count": 2
     },
     {
       "number": 2,
       "title": "الحلقة 2",
       "date_added": "الإثنين 29 سبتمبر 2025 - 11:20 مساءاً",
-      "servers_count": 1
+      "servers_count": 2
     },
     {
       "number": 3,
       "title": "الحلقة 3",
       "date_added": "الإثنين 06 أكتوبر 2025 - 06:27 مساءاً",
-      "servers_count": 1
+      "servers_count": 2
     },
     {
       "number": 4,
       "title": "الحلقة 4",
       "date_added": "الإثنين 13 أكتوبر 2025 - 10:08 مساءاً",
-      "servers_count": 1
+      "servers_count": 2
     },
     {
       "number": 5,
       "title": "الحلقة 5",
       "date_added": "الإثنين 20 أكتوبر 2025 - 06:57 مساءاً",
-      "servers_count": 1
+      "servers_count": 2
     },
     {
       "number": 6,
       "title": "الحلقة 6",
       "date_added": "الإثنين 27 أكتوبر 2025 - 11:23 مساءاً",
-      "servers_count": 1
+      "servers_count": 2
     },
     {
       "number": 7,
       "title": "الحلقة 7",
       "date_added": "الإثنين 03 نوفمبر 2025 - 12:54 صباحا",
-      "servers_count": 1
+      "servers_count": 2
     },
     {
       "number": 8,
       "title": "الحلقة 8",
       "date_added": "الإثنين 10 نوفمبر 2025 - 08:23 مساءاً",
-      "servers_count": 1
+      "servers_count": 2
     },
     {
       "number": 9,
       "title": "الحلقة 9",
       "date_added": "الإثنين 17 نوفمبر 2025 - 06:18 مساءاً",
-      "servers_count": 1
+      "servers_count": 2
     },
     {
       "number": 10,
       "title": "الحلقة 10",
       "date_added": "الإثنين 24 نوفمبر 2025 - 08:07 مساءاً",
-      "servers_count": 1
+      "servers_count": 2
     },
     {
       "number": 11,
       "title": "الحلقة 11",
       "date_added": "الإثنين 01 ديسمبر 2025 - 12:22 صباحا",
-      "servers_count": 1
+      "servers_count": 2
     },
     {
       "number": 12,
       "title": "الحلقة 12",
       "date_added": "الإثنين 08 ديسمبر 2025 - 01:21 صباحا",
-      "servers_count": 1
+      "servers_count": 2
     },
     {
       "number": 13,
       "title": "الحلقة 13",
       "date_added": "الأحد 14 ديسمبر 2025 - 11:45 مساءاً",
-      "servers_count": 1
+      "servers_count": 2
     },
     {
       "number": 14,
       "title": "الحلقة 14",
       "date_added": "الإثنين 22 ديسمبر 2025 - 01:55 صباحا",
-      "servers_count": 1
+      "servers_count": 2
     },
     {
       "number": 15,
       "title": "الحلقة 15",
       "date_added": "الإثنين 29 ديسمبر 2025 - 12:13 صباحا",
-      "servers_count": 1
+      "servers_count": 2
     },
     {
       "number": 16,
       "title": "الحلقة 16",
       "date_added": "الإثنين 12 يناير 2026 - 12:07 صباحا",
-      "servers_count": 1
+      "servers_count": 2
     }
   ]
 }

@@ -154,60 +154,24 @@ class AkwamScraper(BaseScraper):
         return episodes
 
     def get_episode_servers(self, episode_url: str) -> Dict[str, Any]:
-        """Get watch and download servers for an episode"""
-        soup = self.get_page(episode_url)
-
-        if not soup:
-            return {'watch': [], 'download': []}
-
-        result = {
-            'watch': [],
-            'download': [],
-            'screenshots': [],
-            'info': {}
+        """
+        نحفظ رابط صفحة الحلقة فقط.
+        التطبيق هيعمل scraping وقت التشغيل للحصول على الرابط المباشر.
+        """
+        return {
+            'watch': [{
+                'name': 'أكوام',
+                'type': 'akwam',
+                'url': episode_url,
+                'quality': '720p'
+            }],
+            'download': [{
+                'name': 'أكوام',
+                'type': 'akwam',
+                'url': episode_url,
+                'quality': '720p'
+            }]
         }
-
-        # === WATCH LINKS ===
-        # نحفظ رابط صفحة المشاهدة (مش المباشر) - لأن الروابط المباشرة مؤقتة
-        watch_links = soup.select('a[href*="/watch/"]')
-        seen_watch = set()
-        for link in watch_links:
-            href = link.get('href', '')
-            if href and '/watch/' in href and href not in seen_watch:
-                seen_watch.add(href)
-                full_url = href if href.startswith('http') else f"{self.base_url}{href}"
-                result['watch'].append({
-                    'name': 'أكوام',
-                    'type': 'akwam_page',  # صفحة أكوام - التطبيق هيحلها
-                    'url': full_url,
-                    'quality': '720p'
-                })
-                break  # نكتفي برابط واحد
-
-        # === DOWNLOAD LINKS ===
-        # نحفظ رابط صفحة التحميل
-        download_links = soup.select('a[href*="/download/"]')
-        seen_download = set()
-        for link in download_links:
-            href = link.get('href', '')
-            if href and '/download/' in href and href not in seen_download:
-                seen_download.add(href)
-                full_url = href if href.startswith('http') else f"{self.base_url}{href}"
-
-                # Get size from link text
-                size_text = link.get_text()
-                size_match = re.search(r'(\d+\.?\d*\s*[MGT]B)', size_text, re.I)
-
-                result['download'].append({
-                    'name': 'أكوام',
-                    'type': 'akwam_page',
-                    'url': full_url,
-                    'quality': '720p',
-                    'size': size_match.group(1) if size_match else ''
-                })
-                break  # نكتفي برابط واحد
-
-        return result
 
     def resolve_download_link(self, redirect_url: str) -> Optional[str]:
         """

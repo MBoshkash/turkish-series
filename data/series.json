@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-12T20:11:59.735657Z",
+  "last_updated": "2026-01-12T20:15:41.603535Z",
   "total": 3,
   "series": [
     {
@@ -10,12 +10,12 @@
       "year": "2026",
       "rating": 1.0,
       "genres": [
-        "دراما",
-        "جريمة"
+        "جريمة",
+        "دراما"
       ],
       "episodes_count": 13,
       "last_episode": 13,
-      "last_updated": "2026-01-12T20:11:45.817794Z",
+      "last_updated": "2026-01-12T20:15:40.080214Z",
       "status": "ongoing"
     },
     {
@@ -26,13 +26,13 @@
       "year": "2026",
       "rating": 6.0,
       "genres": [
-        "دراما",
         "مغامرة",
+        "دراما",
         "اكشن"
       ],
       "episodes_count": 16,
       "last_episode": 16,
-      "last_updated": "2026-01-12T20:11:51.672553Z",
+      "last_updated": "2026-01-12T20:15:41.242456Z",
       "status": "ongoing"
     },
     {
@@ -45,7 +45,7 @@
       "genres": [],
       "episodes_count": 3,
       "last_episode": 81,
-      "last_updated": "2026-01-12T20:11:59.734223Z",
+      "last_updated": "2026-01-12T20:15:41.602045Z",
       "status": "ongoing"
     }
   ]

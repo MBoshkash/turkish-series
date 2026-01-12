@@ -4,17 +4,25 @@
   "episode_number": 14,
   "title": "الحلقة 14",
   "date_added": "الإثنين 22 ديسمبر 2025 - 01:55 صباحا",
-  "last_updated": "2026-01-12T20:11:57.632376Z",
+  "last_updated": "2026-01-12T20:15:41.595565Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "akwam_page",
-        "url": "http://go.ak.sv/watch/169076",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91805/المنظمة-الموسم-السادس/الحلقة-14",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": []
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91805/المنظمة-الموسم-السادس/الحلقة-14",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
   }
 }

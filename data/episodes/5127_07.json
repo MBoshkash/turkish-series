@@ -4,17 +4,25 @@
   "episode_number": 7,
   "title": "الحلقة 7",
   "date_added": "الإثنين 24 نوفمبر 2025 - 01:29 صباحا",
-  "last_updated": "2026-01-12T20:11:48.738447Z",
+  "last_updated": "2026-01-12T20:15:41.236502Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "akwam_page",
-        "url": "http://go.ak.sv/watch/168021",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91031/المحتالون-مترجم/الحلقة-7",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": []
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91031/المحتالون-مترجم/الحلقة-7",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
   }
 }

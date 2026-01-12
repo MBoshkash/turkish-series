@@ -4,17 +4,25 @@
   "episode_number": 10,
   "title": "الحلقة 10",
   "date_added": "الإثنين 15 ديسمبر 2025 - 02:06 صباحا",
-  "last_updated": "2026-01-12T20:11:49.745024Z",
+  "last_updated": "2026-01-12T20:15:41.236519Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "akwam_page",
-        "url": "http://go.ak.sv/watch/168806",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91594/المحتالون-مترجم/الحلقة-10",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": []
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91594/المحتالون-مترجم/الحلقة-10",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
   }
 }

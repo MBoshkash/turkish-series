@@ -4,17 +4,25 @@
   "episode_number": 12,
   "title": "الحلقة 12",
   "date_added": "الإثنين 29 ديسمبر 2025 - 01:57 مساءاً",
-  "last_updated": "2026-01-12T20:11:50.898724Z",
+  "last_updated": "2026-01-12T20:15:41.236533Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "akwam_page",
-        "url": "http://go.ak.sv/watch/169341",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92008/المحتالون-مترجم/الحلقة-12",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": []
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92008/المحتالون-مترجم/الحلقة-12",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
   }
 }

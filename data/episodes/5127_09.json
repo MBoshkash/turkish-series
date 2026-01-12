@@ -4,17 +4,25 @@
   "episode_number": 9,
   "title": "الحلقة 9",
   "date_added": "الإثنين 08 ديسمبر 2025 - 01:34 صباحا",
-  "last_updated": "2026-01-12T20:11:49.339698Z",
+  "last_updated": "2026-01-12T20:15:41.236513Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "akwam_page",
-        "url": "http://go.ak.sv/watch/168500",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91378/المحتالون-مترجم/الحلقة-9",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": []
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91378/المحتالون-مترجم/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
   }
 }

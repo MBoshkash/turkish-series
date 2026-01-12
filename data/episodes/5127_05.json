@@ -4,17 +4,25 @@
   "episode_number": 5,
   "title": "الحلقة 5",
   "date_added": "الإثنين 10 نوفمبر 2025 - 08:20 مساءاً",
-  "last_updated": "2026-01-12T20:11:48.043152Z",
+  "last_updated": "2026-01-12T20:15:41.236491Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "akwam_page",
-        "url": "http://go.ak.sv/watch/167458",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90613/المحتالون-مترجم/الحلقة-5",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": []
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90613/المحتالون-مترجم/الحلقة-5",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
   }
 }
