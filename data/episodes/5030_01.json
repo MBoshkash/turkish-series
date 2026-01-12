@@ -1,0 +1,28 @@
+{
+  "series_id": "5030",
+  "series_title": "Eyes of Wakanda",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "السبت 02 اغسطس 2025 - 12:56 صباحا",
+  "last_updated": "2026-01-12T20:45:01.863029Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88815/eyes-of-wakanda/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88815/eyes-of-wakanda/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

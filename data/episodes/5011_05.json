@@ -1,0 +1,28 @@
+{
+  "series_id": "5011",
+  "series_title": "The Defects",
+  "episode_number": 5,
+  "title": "الحلقة 5",
+  "date_added": "الثلاثاء 05 اغسطس 2025 - 08:25 مساءاً",
+  "last_updated": "2026-01-12T20:45:00.175414Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88841/the-defects/الحلقة-5",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88841/the-defects/الحلقة-5",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

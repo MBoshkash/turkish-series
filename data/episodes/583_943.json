@@ -1,0 +1,28 @@
+{
+  "series_id": "583",
+  "series_title": "One Piece",
+  "episode_number": 943,
+  "title": "الحلقة 943",
+  "date_added": "الأحد 27 سبتمبر 2020 - 10:39 صباحا",
+  "last_updated": "2026-01-12T20:43:57.763353Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/15616/one-piece/الحلقة-943",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/15616/one-piece/الحلقة-943",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

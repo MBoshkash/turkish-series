@@ -1,0 +1,28 @@
+{
+  "series_id": "583",
+  "series_title": "One Piece",
+  "episode_number": 965,
+  "title": "الحلقة 965",
+  "date_added": "الأحد 07 مارس 2021 - 06:24 صباحا",
+  "last_updated": "2026-01-12T20:43:57.763428Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/25950/one-piece/الحلقة-965",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/25950/one-piece/الحلقة-965",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

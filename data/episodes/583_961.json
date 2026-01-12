@@ -1,0 +1,28 @@
+{
+  "series_id": "583",
+  "series_title": "One Piece",
+  "episode_number": 961,
+  "title": "الحلقة 961",
+  "date_added": "الأحد 07 فبراير 2021 - 06:30 صباحا",
+  "last_updated": "2026-01-12T20:43:57.763415Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/23777/one-piece/الحلقة-961",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/23777/one-piece/الحلقة-961",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "4983",
+  "series_title": "Smoke",
+  "episode_number": 5,
+  "title": "الحلقة 5",
+  "date_added": "الجمعة 18 يوليو 2025 - 10:05 مساءاً",
+  "last_updated": "2026-01-12T20:44:59.025564Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88492/smoke/الحلقة-5",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88492/smoke/الحلقة-5",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

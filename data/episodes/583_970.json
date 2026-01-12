@@ -1,0 +1,28 @@
+{
+  "series_id": "583",
+  "series_title": "One Piece",
+  "episode_number": 970,
+  "title": "الحلقة 970",
+  "date_added": "الأحد 18 ابريل 2021 - 05:26 مساءاً",
+  "last_updated": "2026-01-12T20:43:57.763445Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/28540/one-piece/الحلقة-970",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/28540/one-piece/الحلقة-970",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

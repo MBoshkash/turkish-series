@@ -1,0 +1,28 @@
+{
+  "series_id": "5175",
+  "series_title": "2 قهوة",
+  "episode_number": 19,
+  "title": "الحلقة 19",
+  "date_added": "الثلاثاء 23 ديسمبر 2025 - 12:21 صباحا",
+  "last_updated": "2026-01-12T20:43:52.912973Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91816/2-قهوة/الحلقة-19",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91816/2-قهوة/الحلقة-19",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

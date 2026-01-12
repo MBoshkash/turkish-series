@@ -1,0 +1,28 @@
+{
+  "series_id": "5204",
+  "series_title": "لدي عشق",
+  "episode_number": 17,
+  "title": "الحلقة 17",
+  "date_added": "الأحد 11 يناير 2026 - 11:00 مساءاً",
+  "last_updated": "2026-01-12T20:43:33.111748Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92366/لدي-عشق/الحلقة-17",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92366/لدي-عشق/الحلقة-17",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

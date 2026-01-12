@@ -1,0 +1,28 @@
+{
+  "series_id": "5149",
+  "series_title": "Pluribus",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "السبت 08 نوفمبر 2025 - 08:23 مساءاً",
+  "last_updated": "2026-01-12T20:44:02.051431Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90540/pluribus/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90540/pluribus/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

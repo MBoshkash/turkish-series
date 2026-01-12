@@ -1,0 +1,28 @@
+{
+  "series_id": "5129",
+  "series_title": "The Lowdown",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "الأحد 19 أكتوبر 2025 - 02:17 مساءاً",
+  "last_updated": "2026-01-12T20:44:28.066354Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90045/the-lowdown/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90045/the-lowdown/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

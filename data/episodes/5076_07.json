@@ -1,0 +1,28 @@
+{
+  "series_id": "5076",
+  "series_title": "صيف 99",
+  "episode_number": 7,
+  "title": "الحلقة 7",
+  "date_added": "الجمعة 19 سبتمبر 2025 - 10:48 صباحا",
+  "last_updated": "2026-01-12T20:44:36.868204Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89354/صيف-99/الحلقة-7",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89354/صيف-99/الحلقة-7",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

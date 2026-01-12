@@ -1,0 +1,28 @@
+{
+  "series_id": "583",
+  "series_title": "One Piece",
+  "episode_number": 124,
+  "title": "الحلقة 124",
+  "date_added": "الإثنين 28 يوليو 2025 - 12:37 صباحا",
+  "last_updated": "2026-01-12T20:43:57.763299Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88705/one-piece/الحلقة-124",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88705/one-piece/الحلقة-124",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "5190",
+  "series_title": "The Town",
+  "episode_number": 8,
+  "title": "الحلقة 8",
+  "date_added": "الثلاثاء 16 ديسمبر 2025 - 10:19 مساءاً",
+  "last_updated": "2026-01-12T20:44:07.952013Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91636/the-town/الحلقة-8",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91636/the-town/الحلقة-8",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

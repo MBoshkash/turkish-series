@@ -1,0 +1,28 @@
+{
+  "series_id": "583",
+  "series_title": "One Piece",
+  "episode_number": 980,
+  "title": "الحلقة 980",
+  "date_added": "الأحد 27 يونيو 2021 - 02:58 مساءاً",
+  "last_updated": "2026-01-12T20:43:57.763478Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/32583/one-piece/الحلقة-980",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/32583/one-piece/الحلقة-980",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

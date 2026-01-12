@@ -1,0 +1,28 @@
+{
+  "series_id": "4962",
+  "series_title": "اسر",
+  "episode_number": 88,
+  "title": "الحلقة 88",
+  "date_added": "الإثنين 04 اغسطس 2025 - 08:32 مساءاً",
+  "last_updated": "2026-01-12T20:45:01.424118Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88836/اسر/الحلقة-88",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88836/اسر/الحلقة-88",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

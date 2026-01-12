@@ -1,0 +1,28 @@
+{
+  "series_id": "5132",
+  "series_title": "الطبعة",
+  "episode_number": 25,
+  "title": "الحلقة 25",
+  "date_added": "الأربعاء 19 نوفمبر 2025 - 02:20 صباحا",
+  "last_updated": "2026-01-12T20:44:19.636099Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90904/الطبعة/الحلقة-25",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90904/الطبعة/الحلقة-25",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

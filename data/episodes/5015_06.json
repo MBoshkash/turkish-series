@@ -1,0 +1,28 @@
+{
+  "series_id": "5015",
+  "series_title": "Washington Black",
+  "episode_number": 6,
+  "title": "الحلقة 6",
+  "date_added": "الخميس 24 يوليو 2025 - 08:30 صباحا",
+  "last_updated": "2026-01-12T20:45:10.308590Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88605/washington-black/الحلقة-6",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88605/washington-black/الحلقة-6",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

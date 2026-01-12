@@ -1,0 +1,28 @@
+{
+  "series_id": "5208",
+  "series_title": "The Copenhagen Test",
+  "episode_number": 6,
+  "title": "الحلقة 6",
+  "date_added": "السبت 03 يناير 2026 - 09:38 مساءاً",
+  "last_updated": "2026-01-12T20:43:54.839576Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92153/the-copenhagen-test/الحلقة-6",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92153/the-copenhagen-test/الحلقة-6",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "5011",
+  "series_title": "The Defects",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الأربعاء 23 يوليو 2025 - 08:43 صباحا",
+  "last_updated": "2026-01-12T20:45:00.175400Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88568/the-defects/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88568/the-defects/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

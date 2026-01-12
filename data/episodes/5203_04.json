@@ -1,0 +1,28 @@
+{
+  "series_id": "5203",
+  "series_title": "ليل",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "الأربعاء 31 ديسمبر 2025 - 11:45 مساءاً",
+  "last_updated": "2026-01-12T20:43:37.863595Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92077/ليل/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92077/ليل/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

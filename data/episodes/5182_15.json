@@ -1,0 +1,28 @@
+{
+  "series_id": "5182",
+  "series_title": "ميد تيرم",
+  "episode_number": 15,
+  "title": "الحلقة 15",
+  "date_added": "الجمعة 26 ديسمبر 2025 - 02:50 صباحا",
+  "last_updated": "2026-01-12T20:43:38.222525Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91937/ميد-تيرم/الحلقة-15",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91937/ميد-تيرم/الحلقة-15",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "5188",
+  "series_title": "ياسمين مترجم",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الأحد 14 ديسمبر 2025 - 10:18 مساءاً",
+  "last_updated": "2026-01-12T20:43:40.574536Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91581/ياسمين-مترجم/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91581/ياسمين-مترجم/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

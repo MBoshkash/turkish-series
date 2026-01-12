@@ -1,0 +1,28 @@
+{
+  "series_id": "5065",
+  "series_title": "The Heritage",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "السبت 06 سبتمبر 2025 - 07:22 مساءاً",
+  "last_updated": "2026-01-12T20:44:37.577938Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89177/the-heritage/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89177/the-heritage/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

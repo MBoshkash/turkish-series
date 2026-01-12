@@ -1,0 +1,28 @@
+{
+  "series_id": "5113",
+  "series_title": "اسمي ليمان",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "الأحد 26 أكتوبر 2025 - 11:41 مساءاً",
+  "last_updated": "2026-01-12T20:43:58.545754Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90225/اسمي-ليمان/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90225/اسمي-ليمان/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

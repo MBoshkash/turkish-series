@@ -1,0 +1,28 @@
+{
+  "series_id": "5056",
+  "series_title": "Atomic",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "السبت 06 سبتمبر 2025 - 06:16 مساءاً",
+  "last_updated": "2026-01-12T20:44:43.908362Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89171/atomic/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89171/atomic/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

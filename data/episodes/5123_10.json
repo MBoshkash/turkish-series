@@ -1,0 +1,28 @@
+{
+  "series_id": "5123",
+  "series_title": "The Last Frontier",
+  "episode_number": 10,
+  "title": "الحلقة 10",
+  "date_added": "الثلاثاء 23 ديسمبر 2025 - 07:43 مساءاً",
+  "last_updated": "2026-01-12T20:44:03.464106Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91839/the-last-frontier/الحلقة-10",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91839/the-last-frontier/الحلقة-10",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "5011",
+  "series_title": "The Defects",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "الثلاثاء 29 يوليو 2025 - 09:12 مساءاً",
+  "last_updated": "2026-01-12T20:45:00.175406Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88728/the-defects/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88728/the-defects/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

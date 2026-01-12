@@ -1,0 +1,28 @@
+{
+  "series_id": "4970",
+  "series_title": "فات الميعاد",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الإثنين 23 يونيو 2025 - 11:29 مساءاً",
+  "last_updated": "2026-01-12T20:45:12.845284Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88114/فات-الميعاد/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88114/فات-الميعاد/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

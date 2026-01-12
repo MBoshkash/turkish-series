@@ -1,0 +1,28 @@
+{
+  "series_id": "5158",
+  "series_title": "I Love LA",
+  "episode_number": 6,
+  "title": "الحلقة 6",
+  "date_added": "الثلاثاء 09 ديسمبر 2025 - 03:52 مساءاً",
+  "last_updated": "2026-01-12T20:43:59.185371Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91409/i-love-la/الحلقة-6",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91409/i-love-la/الحلقة-6",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

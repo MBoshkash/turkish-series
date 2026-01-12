@@ -1,0 +1,28 @@
+{
+  "series_id": "5066",
+  "series_title": "NCIS: Tony & Ziva",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الجمعة 17 أكتوبر 2025 - 11:12 صباحا",
+  "last_updated": "2026-01-12T20:44:33.370517Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90015/ncis-tony-ziva/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90015/ncis-tony-ziva/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

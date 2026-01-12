@@ -1,0 +1,28 @@
+{
+  "series_id": "5160",
+  "series_title": "Bat-Fam",
+  "episode_number": 8,
+  "title": "الحلقة 8",
+  "date_added": "الجمعة 14 نوفمبر 2025 - 12:40 صباحا",
+  "last_updated": "2026-01-12T20:44:25.899147Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90763/bat-fam/الحلقة-8",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90763/bat-fam/الحلقة-8",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

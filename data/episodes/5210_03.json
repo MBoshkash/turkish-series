@@ -1,0 +1,28 @@
+{
+  "series_id": "5210",
+  "series_title": "علي رشم",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "الثلاثاء 06 يناير 2026 - 06:08 مساءاً",
+  "last_updated": "2026-01-12T20:43:45.510361Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92213/علي-رشم/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92213/علي-رشم/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

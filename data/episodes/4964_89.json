@@ -1,0 +1,28 @@
+{
+  "series_id": "4964",
+  "series_title": "امي",
+  "episode_number": 89,
+  "title": "الحلقة 89",
+  "date_added": "الثلاثاء 02 سبتمبر 2025 - 09:56 مساءاً",
+  "last_updated": "2026-01-12T20:44:54.998003Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89112/امي/الحلقة-89",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89112/امي/الحلقة-89",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

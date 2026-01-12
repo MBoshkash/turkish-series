@@ -1,0 +1,28 @@
+{
+  "series_id": "5012",
+  "series_title": "Acapulco الموسم الرابع",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الأربعاء 23 يوليو 2025 - 06:42 مساءاً",
+  "last_updated": "2026-01-12T20:44:48.415896Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88572/acapulco-الموسم-الرابع/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88572/acapulco-الموسم-الرابع/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

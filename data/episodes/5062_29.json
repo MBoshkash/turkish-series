@@ -1,0 +1,28 @@
+{
+  "series_id": "5062",
+  "series_title": "أنا حرة",
+  "episode_number": 29,
+  "title": "الحلقة 29",
+  "date_added": "السبت 13 ديسمبر 2025 - 08:54 مساءاً",
+  "last_updated": "2026-01-12T20:44:09.037096Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91536/أنا-حرة/الحلقة-29",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91536/أنا-حرة/الحلقة-29",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "5022",
+  "series_title": "220 يوم",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الخميس 31 يوليو 2025 - 01:46 صباحا",
+  "last_updated": "2026-01-12T20:44:56.189677Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88743/220-يوم/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88743/220-يوم/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "5228",
+  "series_title": "ون بيس مدبلج",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الإثنين 12 يناير 2026 - 10:27 مساءاً",
+  "last_updated": "2026-01-12T20:43:30.068186Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92404/ون-بيس-مدبلج/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92404/ون-بيس-مدبلج/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

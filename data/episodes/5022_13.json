@@ -1,0 +1,28 @@
+{
+  "series_id": "5022",
+  "series_title": "220 يوم",
+  "episode_number": 13,
+  "title": "الحلقة 13",
+  "date_added": "السبت 23 اغسطس 2025 - 02:04 صباحا",
+  "last_updated": "2026-01-12T20:44:56.189716Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89006/220-يوم/الحلقة-13",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89006/220-يوم/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "5015",
+  "series_title": "Washington Black",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "الخميس 24 يوليو 2025 - 01:28 صباحا",
+  "last_updated": "2026-01-12T20:45:10.308579Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88602/washington-black/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88602/washington-black/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

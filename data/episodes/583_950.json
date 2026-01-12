@@ -1,0 +1,28 @@
+{
+  "series_id": "583",
+  "series_title": "One Piece",
+  "episode_number": 950,
+  "title": "الحلقة 950",
+  "date_added": "الأحد 15 نوفمبر 2020 - 11:20 صباحا",
+  "last_updated": "2026-01-12T20:43:57.763378Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/18618/one-piece/الحلقة-950",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/18618/one-piece/الحلقة-950",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

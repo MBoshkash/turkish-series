@@ -1,0 +1,28 @@
+{
+  "series_id": "5065",
+  "series_title": "The Heritage",
+  "episode_number": 6,
+  "title": "الحلقة 6",
+  "date_added": "الأربعاء 08 أكتوبر 2025 - 01:34 صباحا",
+  "last_updated": "2026-01-12T20:44:37.577955Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89765/the-heritage/الحلقة-6",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89765/the-heritage/الحلقة-6",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

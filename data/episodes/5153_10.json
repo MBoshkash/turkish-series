@@ -1,0 +1,28 @@
+{
+  "series_id": "5153",
+  "series_title": "Dear X",
+  "episode_number": 10,
+  "title": "الحلقة 10",
+  "date_added": "الجمعة 28 نوفمبر 2025 - 03:14 مساءاً",
+  "last_updated": "2026-01-12T20:44:10.960724Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91150/dear-x/الحلقة-10",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91150/dear-x/الحلقة-10",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

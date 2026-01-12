@@ -1,0 +1,28 @@
+{
+  "series_id": "5202",
+  "series_title": "أنا_معك",
+  "episode_number": 12,
+  "title": "الحلقة 12",
+  "date_added": "الإثنين 12 يناير 2026 - 09:58 مساءاً",
+  "last_updated": "2026-01-12T20:43:30.377915Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92403/أنا_معك/الحلقة-12",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92403/أنا_معك/الحلقة-12",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

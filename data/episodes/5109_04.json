@@ -1,0 +1,28 @@
+{
+  "series_id": "5109",
+  "series_title": "ابن النادي",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "الخميس 09 أكتوبر 2025 - 08:34 مساءاً",
+  "last_updated": "2026-01-12T20:44:31.813416Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89803/ابن-النادي/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89803/ابن-النادي/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

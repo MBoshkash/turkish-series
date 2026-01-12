@@ -1,0 +1,28 @@
+{
+  "series_id": "5164",
+  "series_title": "قفطان خديجة",
+  "episode_number": 12,
+  "title": "الحلقة 12",
+  "date_added": "الخميس 08 يناير 2026 - 10:00 مساءاً",
+  "last_updated": "2026-01-12T20:43:45.210948Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92295/قفطان-خديجة/الحلقة-12",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92295/قفطان-خديجة/الحلقة-12",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

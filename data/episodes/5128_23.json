@@ -1,0 +1,28 @@
+{
+  "series_id": "5128",
+  "series_title": "المرسى",
+  "episode_number": 23,
+  "title": "الحلقة 23",
+  "date_added": "الثلاثاء 11 نوفمبر 2025 - 10:04 مساءاً",
+  "last_updated": "2026-01-12T20:43:38.817156Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90643/المرسى/الحلقة-23",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90643/المرسى/الحلقة-23",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

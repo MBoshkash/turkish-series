@@ -1,0 +1,28 @@
+{
+  "series_id": "5167",
+  "series_title": "سيموزا",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الخميس 20 نوفمبر 2025 - 12:06 صباحا",
+  "last_updated": "2026-01-12T20:44:15.772030Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90921/سيموزا/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90921/سيموزا/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

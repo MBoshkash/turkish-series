@@ -1,0 +1,28 @@
+{
+  "series_id": "5172",
+  "series_title": "The Mighty Nein",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الجمعة 21 نوفمبر 2025 - 11:47 مساءاً",
+  "last_updated": "2026-01-12T20:44:02.693052Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90971/the-mighty-nein/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90971/the-mighty-nein/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

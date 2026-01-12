@@ -1,0 +1,28 @@
+{
+  "series_id": "5175",
+  "series_title": "2 قهوة",
+  "episode_number": 15,
+  "title": "الحلقة 15",
+  "date_added": "الثلاثاء 16 ديسمبر 2025 - 11:35 مساءاً",
+  "last_updated": "2026-01-12T20:43:52.912954Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91645/2-قهوة/الحلقة-15",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91645/2-قهوة/الحلقة-15",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

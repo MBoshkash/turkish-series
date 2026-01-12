@@ -1,0 +1,28 @@
+{
+  "series_id": "5202",
+  "series_title": "أنا_معك",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الجمعة 09 يناير 2026 - 11:47 مساءاً",
+  "last_updated": "2026-01-12T20:43:30.377904Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92322/أنا_معك/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92322/أنا_معك/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

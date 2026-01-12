@@ -1,0 +1,28 @@
+{
+  "series_id": "583",
+  "series_title": "One Piece",
+  "episode_number": 935,
+  "title": "الحلقة 935",
+  "date_added": "الأحد 02 اغسطس 2020 - 03:34 مساءاً",
+  "last_updated": "2026-01-12T20:43:57.763324Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/12504/one-piece/الحلقة-935",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/12504/one-piece/الحلقة-935",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

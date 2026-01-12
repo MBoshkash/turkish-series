@@ -1,0 +1,28 @@
+{
+  "series_id": "5015",
+  "series_title": "Washington Black",
+  "episode_number": 5,
+  "title": "الحلقة 5",
+  "date_added": "الخميس 24 يوليو 2025 - 08:29 صباحا",
+  "last_updated": "2026-01-12T20:45:10.308587Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88604/washington-black/الحلقة-5",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88604/washington-black/الحلقة-5",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

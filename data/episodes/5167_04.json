@@ -1,0 +1,28 @@
+{
+  "series_id": "5167",
+  "series_title": "سيموزا",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "الجمعة 21 نوفمبر 2025 - 02:23 صباحا",
+  "last_updated": "2026-01-12T20:44:15.772051Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90945/سيموزا/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90945/سيموزا/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

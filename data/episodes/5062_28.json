@@ -1,0 +1,28 @@
+{
+  "series_id": "5062",
+  "series_title": "أنا حرة",
+  "episode_number": 28,
+  "title": "الحلقة 28",
+  "date_added": "السبت 13 ديسمبر 2025 - 08:53 مساءاً",
+  "last_updated": "2026-01-12T20:44:09.037093Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91534/أنا-حرة/الحلقة-28",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91534/أنا-حرة/الحلقة-28",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

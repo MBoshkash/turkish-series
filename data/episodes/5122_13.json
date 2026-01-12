@@ -1,0 +1,28 @@
+{
+  "series_id": "5122",
+  "series_title": "لينك",
+  "episode_number": 13,
+  "title": "الحلقة 13",
+  "date_added": "الإثنين 27 أكتوبر 2025 - 09:50 مساءاً",
+  "last_updated": "2026-01-12T20:44:20.739494Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90241/لينك/الحلقة-13",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90241/لينك/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

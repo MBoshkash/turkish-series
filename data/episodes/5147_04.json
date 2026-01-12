@@ -1,0 +1,28 @@
+{
+  "series_id": "5147",
+  "series_title": "Robin Hood",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "الأحد 16 نوفمبر 2025 - 07:24 مساءاً",
+  "last_updated": "2026-01-12T20:43:58.849505Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90818/robin-hood/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90818/robin-hood/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

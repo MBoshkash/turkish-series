@@ -1,0 +1,28 @@
+{
+  "series_id": "5182",
+  "series_title": "ميد تيرم",
+  "episode_number": 12,
+  "title": "الحلقة 12",
+  "date_added": "الثلاثاء 23 ديسمبر 2025 - 12:21 صباحا",
+  "last_updated": "2026-01-12T20:43:38.222515Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91814/ميد-تيرم/الحلقة-12",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91814/ميد-تيرم/الحلقة-12",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "5095",
+  "series_title": "الخليفة",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "الجمعة 03 أكتوبر 2025 - 09:02 مساءاً",
+  "last_updated": "2026-01-12T20:43:42.272774Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89657/الخليفة/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89657/الخليفة/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

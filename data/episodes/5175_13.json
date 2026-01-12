@@ -1,0 +1,28 @@
+{
+  "series_id": "5175",
+  "series_title": "2 قهوة",
+  "episode_number": 13,
+  "title": "الحلقة 13",
+  "date_added": "الأحد 14 ديسمبر 2025 - 11:44 مساءاً",
+  "last_updated": "2026-01-12T20:43:52.912940Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91582/2-قهوة/الحلقة-13",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91582/2-قهوة/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

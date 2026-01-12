@@ -5,13 +5,18 @@
     "timeout_seconds": 30,
     "github_pages_url": "https://YOUR_USERNAME.github.io/turkish-series"
   },
-
   "sources": {
     "akwam": {
       "name": "أكوام",
       "base_url": "https://ak.sv",
       "enabled": true,
-      "provides": ["info", "poster", "episodes", "download", "watch"],
+      "provides": [
+        "info",
+        "poster",
+        "episodes",
+        "download",
+        "watch"
+      ],
       "auto_scrape": true,
       "player_type": "direct"
     },
@@ -19,23 +24,306 @@
       "name": "قصة عشق",
       "base_url": "https://aa.3ick.net",
       "enabled": true,
-      "provides": ["webview"],
+      "provides": [
+        "webview"
+      ],
       "auto_scrape": false,
       "player_type": "webview",
       "note": "الموقع بيحمّل الفيديو بـ JavaScript، فلازم نفتحه في WebView"
     }
   },
-
   "series": [
+    {
+      "id": "5115",
+      "name": "جراح الروح",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5115/جراح-الروح",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5228",
+      "name": "ون بيس مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5228/ون-بيس-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5202",
+      "name": "أنا_معك",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5202/أنا_معك",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5166",
+      "name": "النصيب الموسم الثاني مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5166/النصيب-الموسم-الثاني-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5189",
+      "name": "الانكار",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5189/الانكار",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5116",
+      "name": "حياة قلبي الجزء السابع",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5116/حياة-قلبي-الجزء-السابع",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5177",
+      "name": "المنظمة مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5177/المنظمة-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5225",
+      "name": "انت اسيري مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5225/انت-اسيري-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5207",
+      "name": "ورود وذنوب مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5207/ورود-وذنوب-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5204",
+      "name": "لدي عشق",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5204/لدي-عشق",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5227",
+      "name": "موعد العرض مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5227/موعد-العرض-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5226",
+      "name": "the night manager الموسم الثاني",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5226/the-night-manager-الموسم-الثاني",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
     {
       "id": "5127",
       "name": "المحتالون مترجم",
-      "original_name": "Sahtekarlar",
+      "original_name": "",
       "enabled": true,
       "sources": {
         "akwam": {
           "url": "https://ak.sv/series/5127/المحتالون-مترجم",
-          "fetch": ["info", "poster", "episodes", "download", "watch"]
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
         },
         "qissah": {
           "series_url": "",
@@ -47,12 +335,18 @@
     {
       "id": "5101",
       "name": "المنظمة الموسم السادس",
-      "original_name": "Teşkilat",
+      "original_name": "",
       "enabled": true,
       "sources": {
         "akwam": {
           "url": "https://ak.sv/series/5101/المنظمة-الموسم-السادس",
-          "fetch": ["info", "poster", "episodes", "download", "watch"]
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
         },
         "qissah": {
           "series_url": "",
@@ -62,25 +356,5200 @@
       }
     },
     {
-      "id": "surprise_marriage",
-      "name": "طعم الحب",
-      "original_name": "Surprise Marriage",
+      "id": "5209",
+      "name": "يوم شفتك",
+      "original_name": "",
       "enabled": true,
       "sources": {
         "akwam": {
-          "url": "",
-          "fetch": []
+          "url": "https://ak.sv/series/5209/يوم-شفتك",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
         },
         "qissah": {
-          "series_url": "https://aa.3ick.net/watch/tvshows/serie-surprise-marriage-2oct5/",
-          "episode_pattern": "https://aa.3ick.net/watch/episodes/serie-surprise-marriage-season-1-episode-{ep}/",
-          "total_episodes": 81,
-          "episodes": {
-            "1": "https://aa.3ick.net/watch/episodes/serie-surprise-marriage-season-1-episode-1/",
-            "80": "https://aa.3ick.net/watch/episodes/serie-surprise-marriage-season-1-episode-80/",
-            "81": "https://aa.3ick.net/watch/episodes/serie-surprise-marriage-season-1-episode-81/"
-          },
-          "note": "pattern يدعم توليد روابط الحلقات تلقائياً"
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5198",
+      "name": "سجين الإيهام",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5198/سجين-الإيهام",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5162",
+      "name": "ليلة فونطاستيك مع أبلة فاهيتا",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5162/ليلة-فونطاستيك-مع-أبلة-فاهيتا",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5224",
+      "name": "سر الحنين مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5224/سر-الحنين-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5223",
+      "name": "سر الحنين مترجم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5223/سر-الحنين-مترجم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5222",
+      "name": "مأمور الثلاجة",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5222/مأمور-الثلاجة",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5221",
+      "name": "بيت بابا",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5221/بيت-بابا",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5203",
+      "name": "ليل",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5203/ليل",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5182",
+      "name": "ميد تيرم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5182/ميد-تيرم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5219",
+      "name": "لعبة وقلبت بجد",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5219/لعبة-وقلبت-بجد",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5128",
+      "name": "المرسى",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5128/المرسى",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5211",
+      "name": "the judge returns",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5211/the-judge-returns",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5212",
+      "name": "to my beloved thief",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5212/to-my-beloved-thief",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5220",
+      "name": "اتحداك حتي الموت dare you to death",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5220/اتحداك-حتي-الموت-dare-you-to-death",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5187",
+      "name": "ورود حمراء الموسم الثاني مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5187/ورود-حمراء-الموسم-الثاني-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5218",
+      "name": "jujutsu kaisen الموسم الثالث",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5218/jujutsu-kaisen-الموسم-الثالث",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5188",
+      "name": "ياسمين مترجم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5188/ياسمين-مترجم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5126",
+      "name": "هذا البحر سوف يفيض مترجم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5126/هذا-البحر-سوف-يفيض-مترجم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5180",
+      "name": "spartacus house of ashur",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5180/spartacus-house-of-ashur",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5111",
+      "name": "نيران الحسد",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5111/نيران-الحسد",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5171",
+      "name": "الاعراف مترجم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5171/الاعراف-مترجم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5095",
+      "name": "الخليفة",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5095/الخليفة",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5074",
+      "name": "ولي العهد",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5074/ولي-العهد",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5077",
+      "name": "وأزهر الحب",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5077/وأزهر-الحب",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5200",
+      "name": "made in korea",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5200/made-in-korea",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5217",
+      "name": "his hers",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5217/his-hers",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5142",
+      "name": "خيوط الحياة مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5142/خيوط-الحياة-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5164",
+      "name": "قفطان خديجة",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5164/قفطان-خديجة",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5210",
+      "name": "علي رشم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5210/علي-رشم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5185",
+      "name": "لا ترد ولا تستبدل",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5185/لا-ترد-ولا-تستبدل",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5201",
+      "name": "أثر بارد",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5201/أثر-بارد",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5085",
+      "name": "المدينة البعيدة الموسم الثاني مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5085/المدينة-البعيدة-الموسم-الثاني-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5199",
+      "name": "idol i",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5199/idol-i",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5197",
+      "name": "سنجل ماذر فاذر",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5197/سنجل-ماذر-فاذر",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5086",
+      "name": "high potential الموسم الثاني",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5086/high-potential-الموسم-الثاني",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5216",
+      "name": "percy jackson and the olympians الموسم الثاني",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5216/percy-jackson-and-the-olympians-الموسم-الثاني",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5103",
+      "name": "حلم أشرف الموسم الثاني مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5103/حلم-أشرف-الموسم-الثاني-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5186",
+      "name": "مدرسة النخبة ج2",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5186/مدرسة-النخبة-ج2",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5215",
+      "name": "best medicine",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5215/best-medicine",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5213",
+      "name": "spring fever",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5213/spring-fever",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5165",
+      "name": "يد الحنة",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5165/يد-الحنة",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5193",
+      "name": "fallout الموسم الثاني",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5193/fallout-الموسم-الثاني",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5194",
+      "name": "fallout الموسم الثاني مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5194/fallout-الموسم-الثاني-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5084",
+      "name": "الحسد مترجم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5084/الحسد-مترجم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5179",
+      "name": "مثل الحلم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5179/مثل-الحلم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5214",
+      "name": "the pendragon cycle rise of the merlin",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5214/the-pendragon-cycle-rise-of-the-merlin",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5184",
+      "name": "الوريث مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5184/الوريث-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5081",
+      "name": "محمد الفاتح الموسم الثالث مترجم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5081/محمد-الفاتح-الموسم-الثالث-مترجم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5175",
+      "name": "2 قهوة",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5175/2-قهوة",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5079",
+      "name": "المدينة البعيدة الموسم الثاني",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5079/المدينة-البعيدة-الموسم-الثاني",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5183",
+      "name": "وينك من زمان",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5183/وينك-من-زمان",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5119",
+      "name": "الأسيرة مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5119/الأسيرة-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5208",
+      "name": "the copenhagen test",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5208/the-copenhagen-test",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5206",
+      "name": "run away",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5206/run-away",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5174",
+      "name": "stranger things الموسم الخامس",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5174/stranger-things-الموسم-الخامس",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5124",
+      "name": "the simpsons الموسم 37",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5124/the-simpsons-الموسم-37",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5152",
+      "name": "المحتالون مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5152/المحتالون-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5148",
+      "name": "nice to not meet you",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5148/nice-to-not-meet-you",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5089",
+      "name": "اطفال الجنة مترجم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5089/اطفال-الجنة-مترجم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5205",
+      "name": "mrs deshpande",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5205/mrs-deshpande",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "583",
+      "name": "one piece 2",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/583/one-piece-2",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5044",
+      "name": "الزوجة الاخرى مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5044/الزوجة-الاخرى-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5113",
+      "name": "اسمي ليمان",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5113/اسمي-ليمان",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5147",
+      "name": "robin hood",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5147/robin-hood",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5158",
+      "name": "i love la",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5158/i-love-la",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5157",
+      "name": "mayor of kingstown",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5157/mayor-of-kingstown",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5125",
+      "name": "ورود وذنوب مترجم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5125/ورود-وذنوب-مترجم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5169",
+      "name": "المؤسس اورهان مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5169/المؤسس-اورهان-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5087",
+      "name": "حلم اشرف الموسم الثاني مترجم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5087/حلم-اشرف-الموسم-الثاني-مترجم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5121",
+      "name": "قلب اسود مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5121/قلب-اسود-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5141",
+      "name": "المؤسس اورهان مترجم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5141/المؤسس-اورهان-مترجم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5149",
+      "name": "pluribus",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5149/pluribus",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5181",
+      "name": "مش مهم الاسم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5181/مش-مهم-الاسم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5172",
+      "name": "the mighty nein",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5172/the-mighty-nein",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5178",
+      "name": "sandokan",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5178/sandokan",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5123",
+      "name": "the last frontier",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5123/the-last-frontier",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5071",
+      "name": "عيناك كالبحر الأسود مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5071/عيناك-كالبحر-الأسود-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5196",
+      "name": "emily in paris الموسم الخامس",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5196/emily-in-paris-الموسم-الخامس",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5195",
+      "name": "emily in paris الموسم الرابع",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5195/emily-in-paris-الموسم-الرابع",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5080",
+      "name": "رياح الحب الموسمية الموسم 5",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5080/رياح-الحب-الموسمية-الموسم-5",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5155",
+      "name": "الحسناء والعاصي",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5155/الحسناء-والعاصي",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5192",
+      "name": "fallout الموسم الاول مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5192/fallout-الموسم-الاول-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5170",
+      "name": "المشبوه مترجم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5170/المشبوه-مترجم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5168",
+      "name": "حالات نادرة",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5168/حالات-نادرة",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5058",
+      "name": "عيناك كالبحر الأسود مترجم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5058/عيناك-كالبحر-الأسود-مترجم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5134",
+      "name": "it welcome to derry",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5134/it-welcome-to-derry",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5191",
+      "name": "البلدة الصغيرة مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5191/البلدة-الصغيرة-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5190",
+      "name": "the town",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5190/the-town",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5043",
+      "name": "سلمى",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5043/سلمى",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5062",
+      "name": "أنا حرة",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5062/أنا-حرة",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5130",
+      "name": "ncis origins الموسم الثاني",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5130/ncis-origins-الموسم-الثاني",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5069",
+      "name": "خفقان مترجم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5069/خفقان-مترجم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5075",
+      "name": "ورود حمراء مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5075/ورود-حمراء-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5153",
+      "name": "dear x",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5153/dear-x",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5133",
+      "name": "بنات البومب",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5133/بنات-البومب",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5154",
+      "name": "the manipulated",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5154/the-manipulated",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5143",
+      "name": "الضارية",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5143/الضارية",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5145",
+      "name": "الأراضي المباركة مترجم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5145/الأراضي-المباركة-مترجم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5117",
+      "name": "اجمل منك مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5117/اجمل-منك-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5176",
+      "name": "باب الجحيم الموسم الثاني",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5176/باب-الجحيم-الموسم-الثاني",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5150",
+      "name": "maxton hall the world between us الموسم الثاني",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5150/maxton-hall-the-world-between-us-الموسم-الثاني",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5151",
+      "name": "مدرسة ماكستون هول الموسم الثاني مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5151/مدرسة-ماكستون-هول-الموسم-الثاني-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5167",
+      "name": "سيموزا",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5167/سيموزا",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5140",
+      "name": "down cemetery road",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5140/down-cemetery-road",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5137",
+      "name": "كارثة طبيعية",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5137/كارثة-طبيعية",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5107",
+      "name": "billy the kid الموسم الثالث",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5107/billy-the-kid-الموسم-الثالث",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5135",
+      "name": "tracker الموسم الثالث",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5135/tracker-الموسم-الثالث",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5146",
+      "name": "talamasca the secret order",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5146/talamasca-the-secret-order",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5163",
+      "name": "التألق",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5163/التألق",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5132",
+      "name": "الطبعة",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5132/الطبعة",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5100",
+      "name": "tulsa king الموسم الثالث",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5100/tulsa-king-الموسم-الثالث",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5122",
+      "name": "لينك",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5122/لينك",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5131",
+      "name": "ncis sydney الموسم الثالث",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5131/ncis-sydney-الموسم-الثالث",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5098",
+      "name": "وتر حساس 2",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5098/وتر-حساس-2",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5088",
+      "name": "the morning show الموسم الرابع",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5088/the-morning-show-الموسم-الرابع",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5156",
+      "name": "9 1 1 nashville",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5156/9-1-1-nashville",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5136",
+      "name": "تشريح الفوضى مترجم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5136/تشريح-الفوضى-مترجم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5144",
+      "name": "أنا أمها مترجم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5144/أنا-أمها-مترجم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5112",
+      "name": "غريب في المرآة",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5112/غريب-في-المرآة",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5090",
+      "name": "reasonable doubt الموسم الثالث",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5090/reasonable-doubt-الموسم-الثالث",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5161",
+      "name": "عائلة باتمان مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5161/عائلة-باتمان-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5160",
+      "name": "bat fam",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5160/bat-fam",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5159",
+      "name": "last samurai standing",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5159/last-samurai-standing",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5102",
+      "name": "ميرا وسليم مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5102/ميرا-وسليم-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5096",
+      "name": "حب و دموع",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5096/حب-و-دموع",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5078",
+      "name": "ضرغام",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5078/ضرغام",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5129",
+      "name": "the lowdown",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5129/the-lowdown",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5120",
+      "name": "watching you",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5120/watching-you",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5110",
+      "name": "كاراته",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5110/كاراته",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5138",
+      "name": "the witcher الموسم الرابع",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5138/the-witcher-الموسم-الرابع",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5106",
+      "name": "slow horses الموسم الخامس",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5106/slow-horses-الموسم-الخامس",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5072",
+      "name": "only murders in the building الموسم الخامس",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5072/only-murders-in-the-building-الموسم-الخامس",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5109",
+      "name": "ابن النادي",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5109/ابن-النادي",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5108",
+      "name": "ولد وبنت وشايب",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5108/ولد-وبنت-وشايب",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5048",
+      "name": "invasion الموسم الثالث",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5048/invasion-الموسم-الثالث",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5070",
+      "name": "task",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5070/task",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5066",
+      "name": "ncis tony ziva",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5066/ncis-tony-ziva",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5105",
+      "name": "المحامية",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5105/المحامية",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5083",
+      "name": "gen v الموسم الثاني مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5083/gen-v-الموسم-الثاني-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5082",
+      "name": "gen v الموسم الثاني",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5082/gen-v-الموسم-الثاني",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5068",
+      "name": "the walking dead daryl dixon الموسم الثالث",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5068/the-walking-dead-daryl-dixon-الموسم-الثالث",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5059",
+      "name": "كواليس",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5059/كواليس",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5067",
+      "name": "confidence queen",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5067/confidence-queen",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5047",
+      "name": "peacemaker الموسم الثاني",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5047/peacemaker-الموسم-الثاني",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5114",
+      "name": "فخر السويدي",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5114/فخر-السويدي",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5076",
+      "name": "صيف 99",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5076/صيف-99",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5118",
+      "name": "gen v الموسم الاول مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5118/gen-v-الموسم-الاول-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5065",
+      "name": "the heritage",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5065/the-heritage",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5063",
+      "name": "فبراير الأسود",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5063/فبراير-الأسود",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5073",
+      "name": "tempest",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5073/tempest",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5045",
+      "name": "the twisted tale of amanda knox",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5045/the-twisted-tale-of-amanda-knox",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5035",
+      "name": "platonic الموسم الثاني",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5035/platonic-الموسم-الثاني",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5061",
+      "name": "ايام الموسم الثالث",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5061/ايام-الموسم-الثالث",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5099",
+      "name": "حريم الجراح",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5099/حريم-الجراح",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5053",
+      "name": "the terminal list dark wolf مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5053/the-terminal-list-dark-wolf-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5052",
+      "name": "the terminal list dark wolf",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5052/the-terminal-list-dark-wolf",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5039",
+      "name": "alien earth",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5039/alien-earth",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5104",
+      "name": "marvel zombies",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5104/marvel-zombies",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5037",
+      "name": "ما تراه ليس كما يبدو",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5037/ما-تراه-ليس-كما-يبدو",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5038",
+      "name": "outlander blood of my blood",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5038/outlander-blood-of-my-blood",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5056",
+      "name": "atomic",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5056/atomic",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5097",
+      "name": "وتر حساس",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5097/وتر-حساس",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5029",
+      "name": "chief of war",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5029/chief-of-war",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5094",
+      "name": "أقوياء بوليوود مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5094/أقوياء-بوليوود-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5093",
+      "name": "the bads of bollywood",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5093/the-bads-of-bollywood",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5092",
+      "name": "الحب الأفلاطوني مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5092/الحب-الأفلاطوني-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5091",
+      "name": "platonik",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5091/platonik",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5055",
+      "name": "كان إنسان",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5055/كان-إنسان",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "4999",
+      "name": "countdown مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/4999/countdown-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5064",
+      "name": "suga",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5064/suga",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5000",
+      "name": "the summer i turned pretty الموسم الثالث",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5000/the-summer-i-turned-pretty-الموسم-الثالث",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5012",
+      "name": "acapulco الموسم الرابع",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5012/acapulco-الموسم-الرابع",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5051",
+      "name": "twelve",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5051/twelve",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5007",
+      "name": "star trek strange new worlds الموسم الثالث",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5007/star-trek-strange-new-worlds-الموسم-الثالث",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "4993",
+      "name": "foundation الموسم الثالث",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/4993/foundation-الموسم-الثالث",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5042",
+      "name": "betty la fea the story continues الموسم الثاني",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5042/betty-la-fea-the-story-continues-الموسم-الثاني",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5050",
+      "name": "أزمة ثقة",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5050/أزمة-ثقة",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5032",
+      "name": "افراح ابليس 3",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5032/افراح-ابليس-3",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5031",
+      "name": "السعادة العائلية",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5031/السعادة-العائلية",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5027",
+      "name": "smilla s sense of snow",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5027/smilla-s-sense-of-snow",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "4994",
+      "name": "dexter resurrection",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/4994/dexter-resurrection",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5054",
+      "name": "سفاح التاكسي",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5054/سفاح-التاكسي",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5036",
+      "name": "عايشين معانا",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5036/عايشين-معانا",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5060",
+      "name": "the runarounds",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5060/the-runarounds",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "4979",
+      "name": "countdown",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/4979/countdown",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5033",
+      "name": "wednesday الموسم الثاني مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5033/wednesday-الموسم-الثاني-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5034",
+      "name": "wednesday الموسم الثاني",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5034/wednesday-الموسم-الثاني",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "4964",
+      "name": "امي",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/4964/امي",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5057",
+      "name": "خارج عن المألوف",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5057/خارج-عن-المألوف",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5026",
+      "name": "twisted metal الموسم الثاني",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5026/twisted-metal-الموسم-الثاني",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5022",
+      "name": "220 يوم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5022/220-يوم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5001",
+      "name": "the summer i turned pretty الموسم الثالث مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5001/the-summer-i-turned-pretty-الموسم-الثالث-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "4996",
+      "name": "the institute",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/4996/the-institute",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5049",
+      "name": "aema",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5049/aema",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5046",
+      "name": "rivers of fate",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5046/rivers-of-fate",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5003",
+      "name": "low life",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5003/low-life",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5002",
+      "name": "الزوجة الاخري",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5002/الزوجة-الاخري",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "4983",
+      "name": "smoke",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/4983/smoke",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5041",
+      "name": "butterfly مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5041/butterfly-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5040",
+      "name": "butterfly",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5040/butterfly",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5011",
+      "name": "the defects",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5011/the-defects",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "4992",
+      "name": "حمود وأبوه",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/4992/حمود-وأبوه",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "4962",
+      "name": "اسر",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/4962/اسر",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5030",
+      "name": "eyes of wakanda",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5030/eyes-of-wakanda",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5028",
+      "name": "glass heart",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5028/glass-heart",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5010",
+      "name": "فندق الاحلام مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5010/فندق-الاحلام-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "4968",
+      "name": "سيوف العرب",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/4968/سيوف-العرب",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5016",
+      "name": "hell motel",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5016/hell-motel",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5025",
+      "name": "marked",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5025/marked",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5024",
+      "name": "leanne",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5024/leanne",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "4980",
+      "name": "the sandman الموسم الثاني",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/4980/the-sandman-الموسم-الثاني",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5023",
+      "name": "unspeakable sins",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5023/unspeakable-sins",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "4960",
+      "name": "حرب الجبالي",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/4960/حرب-الجبالي",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5021",
+      "name": "wednesday مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5021/wednesday-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5020",
+      "name": "rangeen",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5020/rangeen",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5017",
+      "name": "the assassin",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5017/the-assassin",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5019",
+      "name": "trigger",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5019/trigger",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5018",
+      "name": "mandala murders",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5018/mandala-murders",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "4971",
+      "name": "كويت رياض كويت",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/4971/كويت-رياض-كويت",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5015",
+      "name": "washington black",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5015/washington-black",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "4966",
+      "name": "خطيئة اخيرة",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/4966/خطيئة-اخيرة",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5014",
+      "name": "letters from the past مدبلج",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5014/letters-from-the-past-مدبلج",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5013",
+      "name": "letters from the past",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5013/letters-from-the-past",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "4981",
+      "name": "تذكر الحب مترجم",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/4981/تذكر-الحب-مترجم",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "4970",
+      "name": "فات الميعاد",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/4970/فات-الميعاد",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "4978",
+      "name": "فرقة محاربة العصابات",
+      "original_name": "",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/4978/فرقة-محاربة-العصابات",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
         }
       }
     }

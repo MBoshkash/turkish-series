@@ -1,0 +1,28 @@
+{
+  "series_id": "5110",
+  "series_title": "كاراته",
+  "episode_number": 7,
+  "title": "الحلقة 7",
+  "date_added": "الجمعة 24 أكتوبر 2025 - 05:18 مساءاً",
+  "last_updated": "2026-01-12T20:44:30.113393Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90202/كاراته/الحلقة-7",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90202/كاراته/الحلقة-7",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

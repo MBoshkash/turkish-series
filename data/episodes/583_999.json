@@ -1,0 +1,28 @@
+{
+  "series_id": "583",
+  "series_title": "One Piece",
+  "episode_number": 999,
+  "title": "الحلقة 999",
+  "date_added": "الأحد 14 نوفمبر 2021 - 01:04 مساءاً",
+  "last_updated": "2026-01-12T20:43:57.763540Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/39814/one-piece/الحلقة-999",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/39814/one-piece/الحلقة-999",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

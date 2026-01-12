@@ -1,0 +1,28 @@
+{
+  "series_id": "5132",
+  "series_title": "الطبعة",
+  "episode_number": 17,
+  "title": "الحلقة 17",
+  "date_added": "الأربعاء 05 نوفمبر 2025 - 10:39 مساءاً",
+  "last_updated": "2026-01-12T20:44:19.636047Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90472/الطبعة/الحلقة-17",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90472/الطبعة/الحلقة-17",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

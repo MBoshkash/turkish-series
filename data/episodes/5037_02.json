@@ -1,0 +1,28 @@
+{
+  "series_id": "5037",
+  "series_title": "ما تراه ليس كما يبدو",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الأحد 10 اغسطس 2025 - 07:28 مساءاً",
+  "last_updated": "2026-01-12T20:44:43.214039Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88888/ما-تراه-ليس-كما-يبدو/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88888/ما-تراه-ليس-كما-يبدو/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

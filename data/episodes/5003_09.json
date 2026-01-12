@@ -1,0 +1,28 @@
+{
+  "series_id": "5003",
+  "series_title": "Low Life",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الجمعة 08 اغسطس 2025 - 11:41 صباحا",
+  "last_updated": "2026-01-12T20:44:58.138200Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88879/low-life/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88879/low-life/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,7 +1,209 @@
 {
-  "last_updated": "2026-01-12T20:15:41.603535Z",
-  "total": 3,
+  "last_updated": "2026-01-12T20:45:13.245640Z",
+  "total": 240,
   "series": [
+    {
+      "id": "5115",
+      "title": "جراح الروح",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 115,
+      "last_episode": 115,
+      "last_updated": "2026-01-12T20:43:28.758683Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5228",
+      "title": "ون بيس مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/BwhAR.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "فانتازيا",
+        "انمي",
+        "مدبلج"
+      ],
+      "episodes_count": 5,
+      "last_episode": 5,
+      "last_updated": "2026-01-12T20:43:29.784768Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5202",
+      "title": "أنا_معك",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "مدبلج",
+        "دراما",
+        "رومانسي"
+      ],
+      "episodes_count": 12,
+      "last_episode": 12,
+      "last_updated": "2026-01-12T20:43:30.070964Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5166",
+      "title": "النصيب الموسم الثاني مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 11.0,
+      "genres": [
+        "مدبلج",
+        "دراما",
+        "رومانسي"
+      ],
+      "episodes_count": 50,
+      "last_episode": 50,
+      "last_updated": "2026-01-12T20:43:30.383920Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5189",
+      "title": "الانكار",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "مدبلج",
+        "دراما",
+        "رومانسي"
+      ],
+      "episodes_count": 22,
+      "last_episode": 22,
+      "last_updated": "2026-01-12T20:43:30.728001Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5116",
+      "title": "حياة قلبي الجزء السابع",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 14.0,
+      "genres": [
+        "عائلي",
+        "مدبلج",
+        "دراما",
+        "رومانسي"
+      ],
+      "episodes_count": 87,
+      "last_episode": 87,
+      "last_updated": "2026-01-12T20:43:31.079480Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5177",
+      "title": "المنظمة مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/ilnbj.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "مدبلج",
+        "دراما"
+      ],
+      "episodes_count": 56,
+      "last_episode": 56,
+      "last_updated": "2026-01-12T20:43:31.559496Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5225",
+      "title": "انت اسيري مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "مدبلج",
+        "دراما",
+        "رومانسي"
+      ],
+      "episodes_count": 4,
+      "last_episode": 4,
+      "last_updated": "2026-01-12T20:43:32.160892Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5207",
+      "title": "ورود وذنوب مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 3.0,
+      "genres": [
+        "مدبلج",
+        "دراما",
+        "رومانسي"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:43:32.437093Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5204",
+      "title": "لدي عشق",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "مدبلج",
+        "دراما",
+        "رومانسي"
+      ],
+      "episodes_count": 18,
+      "last_episode": 18,
+      "last_updated": "2026-01-12T20:43:32.768564Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5227",
+      "title": "موعد العرض مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "مدبلج",
+        "دراما"
+      ],
+      "episodes_count": 7,
+      "last_episode": 7,
+      "last_updated": "2026-01-12T20:43:33.119791Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5226",
+      "title": "The Night Manager الموسم الثاني",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/zKmnO.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "اثارة",
+        "دراما"
+      ],
+      "episodes_count": 3,
+      "last_episode": 3,
+      "last_updated": "2026-01-12T20:43:33.408393Z",
+      "status": "ongoing"
+    },
     {
       "id": "5127",
       "title": "المحتالون مترجم",
@@ -15,7 +217,7 @@
       ],
       "episodes_count": 13,
       "last_episode": 13,
-      "last_updated": "2026-01-12T20:15:40.080214Z",
+      "last_updated": "2026-01-12T20:43:33.882584Z",
       "status": "ongoing"
     },
     {
@@ -32,20 +234,3664 @@
       ],
       "episodes_count": 16,
       "last_episode": 16,
-      "last_updated": "2026-01-12T20:15:41.242456Z",
+      "last_updated": "2026-01-12T20:43:34.544445Z",
       "status": "ongoing"
     },
     {
-      "id": "surprise_marriage",
-      "title": "طعم الحب",
+      "id": "5209",
+      "title": "يوم شفتك",
       "original_title": "",
-      "poster": "",
-      "year": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/FkZhY.webp",
+      "year": "2026",
       "rating": 0.0,
-      "genres": [],
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:43:34.918401Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5198",
+      "title": "سجين الإيهام",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 5.0,
+      "genres": [
+        "مدبلج",
+        "دراما",
+        "رومانسي"
+      ],
+      "episodes_count": 16,
+      "last_episode": 16,
+      "last_updated": "2026-01-12T20:43:35.373424Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5162",
+      "title": "ليلة فونطاستيك مع أبلة فاهيتا",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "كوميدي"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:43:35.658502Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5224",
+      "title": "سر الحنين مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "مدبلج",
+        "دراما",
+        "رومانسي"
+      ],
+      "episodes_count": 1,
+      "last_episode": 1,
+      "last_updated": "2026-01-12T20:43:36.003658Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5223",
+      "title": "سر الحنين مترجم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/Az3Jg.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "رومانسي"
+      ],
+      "episodes_count": 1,
+      "last_episode": 1,
+      "last_updated": "2026-01-12T20:43:36.371947Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5222",
+      "title": "مأمور الثلاجة",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/lg3qY.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "اثارة"
+      ],
+      "episodes_count": 2,
+      "last_episode": 2,
+      "last_updated": "2026-01-12T20:43:36.710847Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5221",
+      "title": "بيت بابا",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/muLHh.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "كوميدي"
+      ],
       "episodes_count": 3,
-      "last_episode": 81,
-      "last_updated": "2026-01-12T20:15:41.602045Z",
+      "last_episode": 3,
+      "last_updated": "2026-01-12T20:43:37.038749Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5203",
+      "title": "ليل",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/TeVz6.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "رومانسي"
+      ],
+      "episodes_count": 11,
+      "last_episode": 11,
+      "last_updated": "2026-01-12T20:43:37.465980Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5182",
+      "title": "ميد تيرم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 39.0,
+      "genres": [
+        "اثارة",
+        "دراما"
+      ],
+      "episodes_count": 26,
+      "last_episode": 26,
+      "last_updated": "2026-01-12T20:43:37.868873Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5219",
+      "title": "لعبة وقلبت بجد",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/XaxGb.webp",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "عائلي",
+        "دراما"
+      ],
+      "episodes_count": 2,
+      "last_episode": 2,
+      "last_updated": "2026-01-12T20:43:38.234353Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5128",
+      "title": "المرسى",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 8.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 66,
+      "last_episode": 66,
+      "last_updated": "2026-01-12T20:43:38.507028Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5211",
+      "title": "The Judge Returns",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/hYKlU.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "فانتازيا",
+        "دراما",
+        "جريمة"
+      ],
+      "episodes_count": 4,
+      "last_episode": 4,
+      "last_updated": "2026-01-12T20:43:38.849133Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5212",
+      "title": "To My Beloved Thief",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/gOsx9.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "فانتازيا",
+        "كوميدي"
+      ],
+      "episodes_count": 4,
+      "last_episode": 4,
+      "last_updated": "2026-01-12T20:43:39.080041Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5220",
+      "title": "اتحداك حتي الموت Dare You to Death",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/zqoo0.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "جريمة",
+        "اثارة",
+        "دراما"
+      ],
+      "episodes_count": 2,
+      "last_episode": 2,
+      "last_updated": "2026-01-12T20:43:39.323670Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5187",
+      "title": "ورود حمراء الموسم الثاني مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 27,
+      "last_episode": 27,
+      "last_updated": "2026-01-12T20:43:39.593424Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5218",
+      "title": "Jujutsu Kaisen الموسم الثالث",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/Yl2qo.webp",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "انمي",
+        "اكشن"
+      ],
+      "episodes_count": 2,
+      "last_episode": 2,
+      "last_updated": "2026-01-12T20:43:39.912154Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5188",
+      "title": "ياسمين مترجم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/lZJa5.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 5,
+      "last_episode": 5,
+      "last_updated": "2026-01-12T20:43:40.293724Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5126",
+      "title": "هذا البحر سوف يفيض مترجم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/QoCUS.webp",
+      "year": "2026",
+      "rating": 19.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 13,
+      "last_episode": 13,
+      "last_updated": "2026-01-12T20:43:40.576996Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5180",
+      "title": "Spartacus: House of Ashur",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/fRBU8.webp",
+      "year": "2010",
+      "rating": 4.0,
+      "genres": [
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 7,
+      "last_episode": 7,
+      "last_updated": "2026-01-12T20:43:40.822256Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5111",
+      "title": "نيران الحسد",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "مدبلج",
+        "دراما"
+      ],
+      "episodes_count": 85,
+      "last_episode": 85,
+      "last_updated": "2026-01-12T20:43:41.165231Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5171",
+      "title": "الاعراف مترجم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/BZkg5.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 35,
+      "last_episode": 35,
+      "last_updated": "2026-01-12T20:43:41.518078Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5095",
+      "title": "الخليفة",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/PIHFR.webp",
+      "year": "2026",
+      "rating": 4.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 15,
+      "last_episode": 15,
+      "last_updated": "2026-01-12T20:43:41.812522Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5074",
+      "title": "ولي العهد",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/UAsj0.webp",
+      "year": "2026",
+      "rating": 4.0,
+      "genres": [
+        "عائلي",
+        "دراما"
+      ],
+      "episodes_count": 16,
+      "last_episode": 16,
+      "last_updated": "2026-01-12T20:43:42.279798Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5077",
+      "title": "وأزهر الحب",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 4.0,
+      "genres": [
+        "عائلي",
+        "مدبلج",
+        "كوميدي",
+        "رومانسي"
+      ],
+      "episodes_count": 101,
+      "last_episode": 102,
+      "last_updated": "2026-01-12T20:43:42.876294Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5200",
+      "title": "Made in Korea",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "episodes_count": 5,
+      "last_episode": 5,
+      "last_updated": "2026-01-12T20:43:43.423453Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5217",
+      "title": "His & Hers",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/gse1Y.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "اثارة",
+        "NETFLIX",
+        "دراما"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:43:43.989550Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5142",
+      "title": "خيوط الحياة مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/al3jD.webp",
+      "year": "2026",
+      "rating": 27.0,
+      "genres": [
+        "مدبلج",
+        "دراما"
+      ],
+      "episodes_count": 55,
+      "last_episode": 55,
+      "last_updated": "2026-01-12T20:43:44.377251Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5164",
+      "title": "قفطان خديجة",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 12,
+      "last_episode": 12,
+      "last_updated": "2026-01-12T20:43:44.829569Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5210",
+      "title": "علي رشم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "اثارة",
+        "دراما"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:43:45.217286Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5185",
+      "title": "لا ترد ولا تستبدل",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/IA2Te.webp",
+      "year": "2026",
+      "rating": 15.0,
+      "genres": [
+        "عائلي",
+        "دراما"
+      ],
+      "episodes_count": 15,
+      "last_episode": 15,
+      "last_updated": "2026-01-12T20:43:45.513610Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5201",
+      "title": "أثر بارد",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "اثارة"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:43:45.900598Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5085",
+      "title": "المدينة البعيدة الموسم الثاني مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 7.0,
+      "genres": [
+        "مدبلج",
+        "دراما"
+      ],
+      "episodes_count": 80,
+      "last_episode": 80,
+      "last_updated": "2026-01-12T20:43:46.304793Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5199",
+      "title": "Idol I",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/iaifF.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "NETFLIX",
+        "كوميدي"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:43:46.653067Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5197",
+      "title": "سنجل ماذر فاذر",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/EbX78.webp",
+      "year": "2026",
+      "rating": 5.0,
+      "genres": [
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 15,
+      "last_episode": 15,
+      "last_updated": "2026-01-12T20:43:47.061570Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5086",
+      "title": "High Potential الموسم الثاني",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/Oaxk0.webp",
+      "year": "2026",
+      "rating": 3.0,
+      "genres": [
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:43:47.597248Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5216",
+      "title": "Percy Jackson and the Olympians الموسم الثاني",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/BcFO3.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "فانتازيا",
+        "عائلي",
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:43:47.989301Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5103",
+      "title": "حلم أشرف الموسم الثاني مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 23.0,
+      "genres": [
+        "مدبلج",
+        "دراما"
+      ],
+      "episodes_count": 43,
+      "last_episode": 51,
+      "last_updated": "2026-01-12T20:43:48.308873Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5186",
+      "title": "مدرسة النخبة ج2",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/LUXgD.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:43:48.833207Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5215",
+      "title": "Best Medicine",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/xyVDO.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 1,
+      "last_episode": 1,
+      "last_updated": "2026-01-12T20:43:49.187098Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5213",
+      "title": "Spring Fever",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/bIPjr.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "دراما",
+        "رومانسي"
+      ],
+      "episodes_count": 2,
+      "last_episode": 2,
+      "last_updated": "2026-01-12T20:43:49.680965Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5165",
+      "title": "يد الحنة",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 3.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 12,
+      "last_episode": 12,
+      "last_updated": "2026-01-12T20:43:49.965810Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5193",
+      "title": "Fallout الموسم الثاني",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/3VjuH.webp",
+      "year": "2026",
+      "rating": 5.0,
+      "genres": [
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 4,
+      "last_episode": 4,
+      "last_updated": "2026-01-12T20:43:50.371838Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5194",
+      "title": "Fallout الموسم الثاني مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "مدبلج",
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 4,
+      "last_episode": 4,
+      "last_updated": "2026-01-12T20:43:50.698747Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5084",
+      "title": "الحسد مترجم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/y9VVz.webp",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 17,
+      "last_episode": 17,
+      "last_updated": "2026-01-12T20:43:51.033909Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5179",
+      "title": "مثل الحلم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/V8vG8.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:43:51.404085Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5214",
+      "title": "The Pendragon Cycle: Rise of the Merlin",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/ZsC5A.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "فانتازيا",
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 2,
+      "last_episode": 2,
+      "last_updated": "2026-01-12T20:43:51.681788Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5184",
+      "title": "الوريث مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "عائلي",
+        "دراما"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:43:51.969363Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5081",
+      "title": "محمد الفاتح الموسم الثالث مترجم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/tNv5B.webp",
+      "year": "2026",
+      "rating": 13.0,
+      "genres": [
+        "تاريخي",
+        "حربي",
+        "دراما"
+      ],
+      "episodes_count": 15,
+      "last_episode": 15,
+      "last_updated": "2026-01-12T20:43:52.335236Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5175",
+      "title": "2 قهوة",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 9.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 30,
+      "last_episode": 30,
+      "last_updated": "2026-01-12T20:43:52.617447Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5079",
+      "title": "المدينة البعيدة الموسم الثاني",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/9QVru.webp",
+      "year": "2026",
+      "rating": 3.0,
+      "genres": [
+        "عائلي",
+        "اثارة",
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 16,
+      "last_episode": 16,
+      "last_updated": "2026-01-12T20:43:52.929708Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5183",
+      "title": "وينك من زمان",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "رومانسي"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:43:53.563939Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5119",
+      "title": "الأسيرة مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/xyB28.webp",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "مدبلج",
+        "دراما"
+      ],
+      "episodes_count": 165,
+      "last_episode": 166,
+      "last_updated": "2026-01-12T20:43:53.833625Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5208",
+      "title": "The Copenhagen Test",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/5QB9n.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "فانتازيا",
+        "اثارة",
+        "اكشن"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:43:54.366024Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5206",
+      "title": "Run Away",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "اثارة",
+        "NETFLIX",
+        "دراما"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:43:54.843814Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5174",
+      "title": "Stranger Things الموسم الخامس",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/h8U7F.webp",
+      "year": "2026",
+      "rating": 24.0,
+      "genres": [
+        "فانتازيا",
+        "NETFLIX",
+        "اكشن"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:43:55.181447Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5124",
+      "title": "The Simpsons الموسم 37",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/nypyV.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "انمي",
+        "عائلي",
+        "كوميدي"
+      ],
+      "episodes_count": 12,
+      "last_episode": 12,
+      "last_updated": "2026-01-12T20:43:55.576164Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5152",
+      "title": "المحتالون مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 4.0,
+      "genres": [
+        "جريمة",
+        "مدبلج",
+        "دراما"
+      ],
+      "episodes_count": 60,
+      "last_episode": 60,
+      "last_updated": "2026-01-12T20:43:55.924296Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5148",
+      "title": "Nice to Not Meet You",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/Ye9IX.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 16,
+      "last_episode": 16,
+      "last_updated": "2026-01-12T20:43:56.298746Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5089",
+      "title": "اطفال الجنة مترجم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/6qNs3.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "عائلي",
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 16,
+      "last_episode": 16,
+      "last_updated": "2026-01-12T20:43:56.708330Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5205",
+      "title": "Mrs. Deshpande",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/6wLRo.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:43:57.008473Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "583",
+      "title": "One Piece",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 328.0,
+      "genres": [
+        "فانتازيا",
+        "انمي",
+        "اكشن",
+        "مغامرة"
+      ],
+      "episodes_count": 72,
+      "last_episode": 999,
+      "last_updated": "2026-01-12T20:43:57.345481Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5044",
+      "title": "الزوجة الاخرى مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/bMPuE.webp",
+      "year": "2026",
+      "rating": 4.0,
+      "genres": [
+        "مدبلج",
+        "دراما"
+      ],
+      "episodes_count": 100,
+      "last_episode": 100,
+      "last_updated": "2026-01-12T20:43:57.795293Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5113",
+      "title": "اسمي ليمان",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/AvpOF.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 12,
+      "last_episode": 13,
+      "last_updated": "2026-01-12T20:43:58.243431Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5147",
+      "title": "Robin Hood",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 4.0,
+      "genres": [
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:43:58.552232Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5158",
+      "title": "I Love LA",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/eyzrf.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "كوميدي"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:43:58.855373Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5157",
+      "title": "Mayor of Kingstown",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/gIBi5.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:43:59.189442Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5125",
+      "title": "ورود وذنوب مترجم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/uTS2y.webp",
+      "year": "2026",
+      "rating": 18.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 12,
+      "last_episode": 12,
+      "last_updated": "2026-01-12T20:43:59.520675Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5169",
+      "title": "المؤسس اورهان مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 15.0,
+      "genres": [
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 7,
+      "last_episode": 7,
+      "last_updated": "2026-01-12T20:43:59.778629Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5087",
+      "title": "حلم اشرف الموسم الثاني مترجم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/SHdDY.webp",
+      "year": "2026",
+      "rating": 13.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 14,
+      "last_episode": 14,
+      "last_updated": "2026-01-12T20:44:00.025969Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5121",
+      "title": "قلب اسود مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 13.0,
+      "genres": [
+        "مدبلج",
+        "دراما"
+      ],
+      "episodes_count": 112,
+      "last_episode": 112,
+      "last_updated": "2026-01-12T20:44:00.440251Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5141",
+      "title": "المؤسس اورهان مترجم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/YaIgg.webp",
+      "year": "2026",
+      "rating": 14.0,
+      "genres": [
+        "تاريخي",
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 9,
+      "last_episode": 9,
+      "last_updated": "2026-01-12T20:44:01.029795Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5149",
+      "title": "Pluribus",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/umFLD.webp",
+      "year": "2026",
+      "rating": 8.0,
+      "genres": [
+        "فانتازيا",
+        "دراما"
+      ],
+      "episodes_count": 9,
+      "last_episode": 9,
+      "last_updated": "2026-01-12T20:44:01.376676Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5181",
+      "title": "مش مهم الاسم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "رومانسي"
+      ],
+      "episodes_count": 15,
+      "last_episode": 15,
+      "last_updated": "2026-01-12T20:44:02.056931Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5172",
+      "title": "The Mighty Nein",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/Neqyi.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "فانتازيا",
+        "انمي",
+        "اكشن"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:02.350485Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5178",
+      "title": "Sandokan",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/9a2lo.webp",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "حربي",
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:02.697329Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5123",
+      "title": "The Last Frontier",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/vQDQG.webp",
+      "year": "2026",
+      "rating": 3.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:03.205265Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5071",
+      "title": "عيناك كالبحر الأسود مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 9.0,
+      "genres": [
+        "عائلي",
+        "مدبلج",
+        "دراما",
+        "رومانسي"
+      ],
+      "episodes_count": 79,
+      "last_episode": 80,
+      "last_updated": "2026-01-12T20:44:03.469461Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5196",
+      "title": "Emily in Paris الموسم الخامس",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/1DOhi.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "NETFLIX",
+        "كوميدي"
+      ],
+      "episodes_count": 9,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:03.981474Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5195",
+      "title": "Emily in Paris الموسم الرابع",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/3eJwd.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "NETFLIX",
+        "كوميدي"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:04.359440Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5080",
+      "title": "رياح الحب الموسمية الموسم 5",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 4.0,
+      "genres": [
+        "مدبلج",
+        "دراما",
+        "رومانسي"
+      ],
+      "episodes_count": 67,
+      "last_episode": 70,
+      "last_updated": "2026-01-12T20:44:04.664064Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5155",
+      "title": "الحسناء والعاصي",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "عائلي",
+        "مدبلج",
+        "دراما"
+      ],
+      "episodes_count": 31,
+      "last_episode": 65,
+      "last_updated": "2026-01-12T20:44:05.062007Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5192",
+      "title": "Fallout الموسم الاول مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/8C9mE.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "مدبلج",
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:05.442537Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5170",
+      "title": "المشبوه مترجم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/28YTG.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 5,
+      "last_episode": 5,
+      "last_updated": "2026-01-12T20:44:05.724854Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5168",
+      "title": "حالات نادرة",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/UZ29D.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "دراما",
+        "اكشن",
+        "رعب"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:06.123332Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5058",
+      "title": "عيناك كالبحر الأسود مترجم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/V3Fbz.webp",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 16,
+      "last_episode": 16,
+      "last_updated": "2026-01-12T20:44:06.401037Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5134",
+      "title": "It: Welcome to Derry",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 24.0,
+      "genres": [
+        "رعب"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:06.682180Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5191",
+      "title": "البلدة الصغيرة مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/nn14U.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "مدبلج",
+        "NETFLIX",
+        "دراما"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:07.008820Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5190",
+      "title": "The Town",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/BYSU2.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "NETFLIX",
+        "دراما"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:07.383053Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5043",
+      "title": "سلمى",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/nlUXd.webp",
+      "year": "2026",
+      "rating": 15.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 88,
+      "last_episode": 90,
+      "last_updated": "2026-01-12T20:44:07.956315Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5062",
+      "title": "أنا حرة",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 16.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 30,
+      "last_episode": 30,
+      "last_updated": "2026-01-12T20:44:08.468157Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5130",
+      "title": "NCIS: Origins الموسم الثاني",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/PLH9v.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "episodes_count": 7,
+      "last_episode": 7,
+      "last_updated": "2026-01-12T20:44:09.053495Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5069",
+      "title": "خفقان مترجم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/lplvx.webp",
+      "year": "2026",
+      "rating": 3.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 13,
+      "last_episode": 13,
+      "last_updated": "2026-01-12T20:44:09.397268Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5075",
+      "title": "ورود حمراء مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 63,
+      "last_episode": 63,
+      "last_updated": "2026-01-12T20:44:09.796232Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5153",
+      "title": "Dear X",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/ppGds.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "episodes_count": 12,
+      "last_episode": 12,
+      "last_updated": "2026-01-12T20:44:10.532565Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5133",
+      "title": "بنات البومب",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 4.0,
+      "genres": [
+        "كوميدي"
+      ],
+      "episodes_count": 13,
+      "last_episode": 13,
+      "last_updated": "2026-01-12T20:44:10.966526Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5154",
+      "title": "The Manipulated",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 4.0,
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "episodes_count": 12,
+      "last_episode": 12,
+      "last_updated": "2026-01-12T20:44:11.943937Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5143",
+      "title": "الضارية",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "اثارة",
+        "دراما"
+      ],
+      "episodes_count": 7,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:12.296168Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5145",
+      "title": "الأراضي المباركة مترجم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/AeQwI.webp",
+      "year": "2026",
+      "rating": 3.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 5,
+      "last_episode": 5,
+      "last_updated": "2026-01-12T20:44:12.865090Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5117",
+      "title": "اجمل منك مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "مدبلج",
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 42,
+      "last_episode": 42,
+      "last_updated": "2026-01-12T20:44:13.244429Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5176",
+      "title": "باب الجحيم الموسم الثاني",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/GctKH.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "اثارة",
+        "اكشن"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:13.719891Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5150",
+      "title": "Maxton Hall - The World Between Us الموسم الثاني",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/9u6uq.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:44:14.240408Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5151",
+      "title": "مدرسة ماكستون هول الموسم الثاني مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/PCEzJ.webp",
+      "year": "2026",
+      "rating": 5.0,
+      "genres": [
+        "مدبلج",
+        "دراما"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:44:14.595525Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5167",
+      "title": "سيموزا",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "اثارة",
+        "اكشن"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:15.278626Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5140",
+      "title": "Down Cemetery Road",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/1llRt.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:44:15.777075Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5137",
+      "title": "كارثة طبيعية",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 127.0,
+      "genres": [
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:16.480980Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5107",
+      "title": "Billy the Kid الموسم الثالث",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/mEhkW.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:16.936797Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5135",
+      "title": "Tracker الموسم الثالث",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/Hixu3.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:44:17.952761Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5146",
+      "title": "Talamasca: The Secret Order",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/aDaWq.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "فانتازيا"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:44:18.413282Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5163",
+      "title": "التألق",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "جريمة",
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 3,
+      "last_episode": 3,
+      "last_updated": "2026-01-12T20:44:18.764357Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5132",
+      "title": "الطبعة",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "تاريخي",
+        "دراما"
+      ],
+      "episodes_count": 30,
+      "last_episode": 30,
+      "last_updated": "2026-01-12T20:44:19.237955Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5100",
+      "title": "Tulsa King الموسم الثالث",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/Nuw9a.webp",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "جريمة",
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:19.652449Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5122",
+      "title": "لينك",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 6.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 30,
+      "last_episode": 30,
+      "last_updated": "2026-01-12T20:44:20.251294Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5131",
+      "title": "NCIS: Sydney الموسم الثالث",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/xGpww.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:44:20.754379Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5098",
+      "title": "وتر حساس 2",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 45,
+      "last_episode": 45,
+      "last_updated": "2026-01-12T20:44:21.588846Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5088",
+      "title": "The Morning Show الموسم الرابع",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/xpBro.webp",
+      "year": "2026",
+      "rating": 11.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:22.173347Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5156",
+      "title": "9-1-1: Nashville",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/6pDMl.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 5,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:44:22.657011Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5136",
+      "title": "تشريح الفوضى مترجم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:23.070585Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5144",
+      "title": "أنا أمها مترجم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/HXz21.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "episodes_count": 4,
+      "last_episode": 4,
+      "last_updated": "2026-01-12T20:44:23.829076Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5112",
+      "title": "غريب في المرآة",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 7,
+      "last_episode": 7,
+      "last_updated": "2026-01-12T20:44:24.283370Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5090",
+      "title": "Reasonable Doubt الموسم الثالث",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/CzZA3.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:24.764204Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5161",
+      "title": "عائلة باتمان مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "انمي",
+        "عائلي",
+        "مدبلج"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:25.145838Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5160",
+      "title": "Bat-Fam",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "انمي",
+        "عائلي"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:25.489233Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5159",
+      "title": "Last Samurai Standing",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/gAei6.webp",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "دراما",
+        "مغامرة",
+        "NETFLIX",
+        "اكشن"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:44:25.905048Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5102",
+      "title": "ميرا وسليم مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "مدبلج",
+        "دراما"
+      ],
+      "episodes_count": 35,
+      "last_episode": 35,
+      "last_updated": "2026-01-12T20:44:26.217913Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5096",
+      "title": "حب و دموع",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 7,
+      "last_episode": 7,
+      "last_updated": "2026-01-12T20:44:26.615466Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5078",
+      "title": "ضرغام",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "عائلي",
+        "مدبلج",
+        "دراما"
+      ],
+      "episodes_count": 40,
+      "last_episode": 40,
+      "last_updated": "2026-01-12T20:44:27.105767Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5129",
+      "title": "The Lowdown",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/IoVY9.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:27.478026Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5120",
+      "title": "Watching You",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/ntoEe.webp",
+      "year": "2026",
+      "rating": 3.0,
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:44:28.070922Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5110",
+      "title": "كاراته",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/1qWAG.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "عائلي",
+        "دراما"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:29.077168Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5138",
+      "title": "The Witcher الموسم الرابع",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 7.0,
+      "genres": [
+        "فانتازيا",
+        "اثارة",
+        "NETFLIX",
+        "دراما"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:30.119314Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5106",
+      "title": "Slow Horses الموسم الخامس",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/OiH1z.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:44:30.586992Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5072",
+      "title": "Only Murders in the Building الموسم الخامس",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "كوميدي"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:31.014776Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5109",
+      "title": "ابن النادي",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 17.0,
+      "genres": [
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:31.435375Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5108",
+      "title": "ولد وبنت وشايب",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 3.0,
+      "genres": [
+        "دراما",
+        "غموض",
+        "رومانسي"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:31.819497Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5048",
+      "title": "invasion الموسم الثالث",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/uvlpU.webp",
+      "year": "2026",
+      "rating": 3.0,
+      "genres": [
+        "فانتازيا",
+        "دراما"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:32.214014Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5070",
+      "title": "Task",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/WqIYC.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "episodes_count": 7,
+      "last_episode": 7,
+      "last_updated": "2026-01-12T20:44:32.683039Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5066",
+      "title": "NCIS: Tony & Ziva",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/ChFIB.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:33.040162Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5105",
+      "title": "المحامية",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/T1KL8.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:33.376595Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5083",
+      "title": "Gen V  الموسم الثاني مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 3.0,
+      "genres": [
+        "فانتازيا",
+        "مدبلج",
+        "مغامرة",
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:33.742488Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5082",
+      "title": "Gen V  الموسم الثاني",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/48JTB.webp",
+      "year": "2026",
+      "rating": 7.0,
+      "genres": [
+        "فانتازيا",
+        "مغامرة",
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:34.161420Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5068",
+      "title": "The Walking Dead: Daryl Dixon الموسم الثالث",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/XhURD.webp",
+      "year": "2026",
+      "rating": 8.0,
+      "genres": [
+        "فانتازيا",
+        "اثارة",
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 7,
+      "last_episode": 7,
+      "last_updated": "2026-01-12T20:44:34.520462Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5059",
+      "title": "كواليس",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 21,
+      "last_episode": 21,
+      "last_updated": "2026-01-12T20:44:34.844809Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5067",
+      "title": "Confidence Queen",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/FfJpi.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "كوميدي"
+      ],
+      "episodes_count": 12,
+      "last_episode": 12,
+      "last_updated": "2026-01-12T20:44:35.218240Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5047",
+      "title": "Peacemaker الموسم الثاني",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/2pbTA.webp",
+      "year": "2026",
+      "rating": 8.0,
+      "genres": [
+        "فانتازيا",
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:35.577199Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5114",
+      "title": "فخر السويدي",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:35.901142Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5076",
+      "title": "صيف 99",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2025",
+      "rating": 0.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 22,
+      "last_episode": 22,
+      "last_updated": "2026-01-12T20:44:36.292719Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5118",
+      "title": "Gen V  الموسم الاول مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/C0rfv.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "فانتازيا",
+        "مدبلج",
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:36.880060Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5065",
+      "title": "The Heritage",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/6PCgy.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "episodes_count": 7,
+      "last_episode": 7,
+      "last_updated": "2026-01-12T20:44:37.251817Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5063",
+      "title": "فبراير الأسود",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:37.582072Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5073",
+      "title": "Tempest",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/6cjY6.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "اثارة",
+        "دراما"
+      ],
+      "episodes_count": 9,
+      "last_episode": 9,
+      "last_updated": "2026-01-12T20:44:38.227601Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5045",
+      "title": "The Twisted Tale of Amanda Knox",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/7FCG4.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:38.609743Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5035",
+      "title": "Platonic الموسم الثاني",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/LsuKI.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "كوميدي"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:39.252395Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5061",
+      "title": "ايام الموسم الثالث",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 7.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 20,
+      "last_episode": 20,
+      "last_updated": "2026-01-12T20:44:39.740614Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5099",
+      "title": "حريم الجراح",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 11,
+      "last_episode": 11,
+      "last_updated": "2026-01-12T20:44:40.203620Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5053",
+      "title": "The Terminal List: Dark Wolf مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/KbNOd.webp",
+      "year": "2026",
+      "rating": 3.0,
+      "genres": [
+        "مدبلج",
+        "دراما",
+        "اكشن",
+        "اثارة"
+      ],
+      "episodes_count": 7,
+      "last_episode": 7,
+      "last_updated": "2026-01-12T20:44:40.600042Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5052",
+      "title": "The Terminal List: Dark Wolf",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/VNv5k.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "اثارة",
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 7,
+      "last_episode": 7,
+      "last_updated": "2026-01-12T20:44:41.078345Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5039",
+      "title": "Alien: Earth",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/ZcMYd.webp",
+      "year": "2026",
+      "rating": 10.0,
+      "genres": [
+        "فانتازيا",
+        "اثارة",
+        "خيال علمي"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:41.807643Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5104",
+      "title": "Marvel Zombies",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/FFJ2g.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "فانتازيا",
+        "انمي"
+      ],
+      "episodes_count": 4,
+      "last_episode": 4,
+      "last_updated": "2026-01-12T20:44:42.286182Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5037",
+      "title": "ما تراه ليس كما يبدو",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 50.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 35,
+      "last_episode": 35,
+      "last_updated": "2026-01-12T20:44:42.820364Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5038",
+      "title": "Outlander: Blood of My Blood",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/e1c5M.webp",
+      "year": "2026",
+      "rating": 4.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:43.230215Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5056",
+      "title": "Atomic",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/W4hxH.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "اثارة",
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 5,
+      "last_episode": 5,
+      "last_updated": "2026-01-12T20:44:43.574778Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5097",
+      "title": "وتر حساس",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 45,
+      "last_episode": 45,
+      "last_updated": "2026-01-12T20:44:43.911776Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5029",
+      "title": "Chief of War",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/IXRXs.webp",
+      "year": "2026",
+      "rating": 13.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 9,
+      "last_episode": 9,
+      "last_updated": "2026-01-12T20:44:44.282358Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5094",
+      "title": "أقوياء بوليوود مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "NETFLIX",
+        "مدبلج",
+        "اكشن",
+        "مغامرة",
+        "كوميدي"
+      ],
+      "episodes_count": 7,
+      "last_episode": 7,
+      "last_updated": "2026-01-12T20:44:44.606746Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5093",
+      "title": "The Ba***ds of Bollywood",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/AFRYr.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "كوميدي",
+        "مغامرة",
+        "NETFLIX",
+        "اكشن"
+      ],
+      "episodes_count": 7,
+      "last_episode": 7,
+      "last_updated": "2026-01-12T20:44:45.057598Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5092",
+      "title": "الحب الأفلاطوني مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "مدبلج",
+        "NETFLIX",
+        "كوميدي"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:45.458567Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5091",
+      "title": "Platonik",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/ajR2i.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "NETFLIX",
+        "كوميدي"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:46.056329Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5055",
+      "title": "كان إنسان",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "رومانسي"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:46.447136Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "4999",
+      "title": "Countdown مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/Ljl44.webp",
+      "year": "2026",
+      "rating": 8.0,
+      "genres": [
+        "جريمة",
+        "مدبلج",
+        "دراما",
+        "اثارة"
+      ],
+      "episodes_count": 13,
+      "last_episode": 13,
+      "last_updated": "2026-01-12T20:44:46.902303Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5064",
+      "title": "Suga",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/pUc34.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "episodes_count": 5,
+      "last_episode": 5,
+      "last_updated": "2026-01-12T20:44:47.379433Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5000",
+      "title": "The Summer I Turned Pretty الموسم الثالث",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/CqV6a.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 11,
+      "last_episode": 11,
+      "last_updated": "2026-01-12T20:44:47.723726Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5012",
+      "title": "Acapulco الموسم الرابع",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/6rIzk.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:48.067934Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5051",
+      "title": "Twelve",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/U2gcD.webp",
+      "year": "2026",
+      "rating": 3.0,
+      "genres": [
+        "فانتازيا",
+        "اثارة",
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:48.422068Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5007",
+      "title": "Star Trek: Strange New Worlds الموسم الثالث",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/fjiUb.webp",
+      "year": "2026",
+      "rating": 3.0,
+      "genres": [
+        "فانتازيا"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:48.861292Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "4993",
+      "title": "Foundation الموسم الثالث",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/MIoGr.webp",
+      "year": "2026",
+      "rating": 9.0,
+      "genres": [
+        "فانتازيا",
+        "دراما",
+        "خيال علمي"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:49.229376Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5042",
+      "title": "Betty la Fea, the Story Continues الموسم الثاني",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:49.590464Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5050",
+      "title": "أزمة ثقة",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "جريمة",
+        "اثارة",
+        "دراما"
+      ],
+      "episodes_count": 15,
+      "last_episode": 15,
+      "last_updated": "2026-01-12T20:44:49.939106Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5032",
+      "title": "افراح ابليس 3",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 5.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 30,
+      "last_episode": 30,
+      "last_updated": "2026-01-12T20:44:50.280838Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5031",
+      "title": "السعادة العائلية",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/Mhbtd.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "عائلي",
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 13,
+      "last_episode": 13,
+      "last_updated": "2026-01-12T20:44:50.696101Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5027",
+      "title": "Smilla's Sense of Snow",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/YXdYn.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "فانتازيا",
+        "دراما"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:44:51.138095Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "4994",
+      "title": "Dexter: Resurrection",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/cU3Wm.webp",
+      "year": "2026",
+      "rating": 13.0,
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:51.475154Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5054",
+      "title": "سفاح التاكسي",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/iRByy.webp",
+      "year": "2011",
+      "rating": 0.0,
+      "genres": [
+        "جريمة",
+        "سيرة ذاتية"
+      ],
+      "episodes_count": 4,
+      "last_episode": 4,
+      "last_updated": "2026-01-12T20:44:51.914038Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5036",
+      "title": "عايشين معانا",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "فانتازيا",
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:44:52.274153Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5060",
+      "title": "The Runarounds",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/HalvT.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:52.949900Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "4979",
+      "title": "Countdown",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 3.0,
+      "genres": [
+        "جريمة",
+        "اثارة",
+        "دراما"
+      ],
+      "episodes_count": 12,
+      "last_episode": 12,
+      "last_updated": "2026-01-12T20:44:53.343055Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5033",
+      "title": "Wednesday الموسم الثاني مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 3.0,
+      "genres": [
+        "فانتازيا",
+        "NETFLIX",
+        "خيال علمي",
+        "مدبلج",
+        "كوميدي"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:53.742422Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5034",
+      "title": "Wednesday الموسم الثاني",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/k6x4T.webp",
+      "year": "2026",
+      "rating": 9.0,
+      "genres": [
+        "فانتازيا",
+        "NETFLIX",
+        "كوميدي",
+        "خيال علمي"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:54.199591Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "4964",
+      "title": "امي",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 6.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 90,
+      "last_episode": 90,
+      "last_updated": "2026-01-12T20:44:54.577077Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5057",
+      "title": "خارج عن المألوف",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:55.040664Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5026",
+      "title": "Twisted Metal الموسم الثاني",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/rlv9E.webp",
+      "year": "2026",
+      "rating": 4.0,
+      "genres": [
+        "كوميدي",
+        "اكشن"
+      ],
+      "episodes_count": 12,
+      "last_episode": 12,
+      "last_updated": "2026-01-12T20:44:55.403203Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5022",
+      "title": "220 يوم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/1eYfR.webp",
+      "year": "2026",
+      "rating": 14.0,
+      "genres": [
+        "اثارة",
+        "دراما",
+        "رومانسي"
+      ],
+      "episodes_count": 15,
+      "last_episode": 15,
+      "last_updated": "2026-01-12T20:44:55.811567Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5001",
+      "title": "The Summer I Turned Pretty الموسم الثالث مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:56.197387Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "4996",
+      "title": "The Institute",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/BY6AP.webp",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "فانتازيا",
+        "خيال علمي"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:56.543986Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5049",
+      "title": "Aema",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "NETFLIX",
+        "كوميدي"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:44:56.939929Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5046",
+      "title": "Rivers of Fate",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/BAR6d.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "مدبلج",
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 4,
+      "last_episode": 4,
+      "last_updated": "2026-01-12T20:44:57.265449Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5003",
+      "title": "Low Life",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "episodes_count": 11,
+      "last_episode": 11,
+      "last_updated": "2026-01-12T20:44:57.652485Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5002",
+      "title": "الزوجة الاخري",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/Jk27N.webp",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 40,
+      "last_episode": 40,
+      "last_updated": "2026-01-12T20:44:58.144361Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "4983",
+      "title": "Smoke",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "جريمة",
+        "دراما"
+      ],
+      "episodes_count": 9,
+      "last_episode": 9,
+      "last_updated": "2026-01-12T20:44:58.517615Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5041",
+      "title": "Butterfly مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/WsCoj.webp",
+      "year": "2026",
+      "rating": 4.0,
+      "genres": [
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:44:59.030487Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5040",
+      "title": "Butterfly",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/BYNJG.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:44:59.396621Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5011",
+      "title": "The Defects",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/wGggL.webp",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:44:59.823700Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "4992",
+      "title": "حمود وأبوه",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:45:00.179802Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "4962",
+      "title": "اسر",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 3.0,
+      "genres": [
+        "اثارة",
+        "دراما"
+      ],
+      "episodes_count": 90,
+      "last_episode": 609,
+      "last_updated": "2026-01-12T20:45:00.993072Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5030",
+      "title": "Eyes of Wakanda",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/RWx0p.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "فانتازيا",
+        "انمي",
+        "اكشن",
+        "خيال علمي"
+      ],
+      "episodes_count": 4,
+      "last_episode": 4,
+      "last_updated": "2026-01-12T20:45:01.466594Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5028",
+      "title": "Glass Heart",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "NETFLIX",
+        "رومانسي"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:45:01.865954Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5010",
+      "title": "فندق الاحلام مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 5.0,
+      "genres": [
+        "دراما",
+        "كوميدي",
+        "رومانسي"
+      ],
+      "episodes_count": 40,
+      "last_episode": 61,
+      "last_updated": "2026-01-12T20:45:02.265469Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "4968",
+      "title": "سيوف العرب",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 10.0,
+      "genres": [
+        "تاريخي",
+        "دراما",
+        "مغامرة"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:45:02.781428Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5016",
+      "title": "Hell Motel",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/SwV6F.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "اثارة",
+        "جريمة",
+        "رعب"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:45:03.293034Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5025",
+      "title": "Marked",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/430ZP.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "NETFLIX",
+        "اكشن"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:45:03.787454Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5024",
+      "title": "Leanne",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/v2uYL.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "NETFLIX",
+        "كوميدي"
+      ],
+      "episodes_count": 16,
+      "last_episode": 16,
+      "last_updated": "2026-01-12T20:45:04.487943Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "4980",
+      "title": "The Sandman الموسم الثاني",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/CKe7n.webp",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "فانتازيا",
+        "NETFLIX",
+        "اثارة",
+        "دراما",
+        "اكشن"
+      ],
+      "episodes_count": 12,
+      "last_episode": 12,
+      "last_updated": "2026-01-12T20:45:05.113974Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5023",
+      "title": "Unspeakable Sins",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/BByjm.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "NETFLIX",
+        "دراما"
+      ],
+      "episodes_count": 18,
+      "last_episode": 18,
+      "last_updated": "2026-01-12T20:45:05.711134Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "4960",
+      "title": "حرب الجبالي",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 17.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 50,
+      "last_episode": 50,
+      "last_updated": "2026-01-12T20:45:06.303060Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5021",
+      "title": "Wednesday مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 7.0,
+      "genres": [
+        "فانتازيا",
+        "مدبلج",
+        "NETFLIX",
+        "كوميدي"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:45:06.815478Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5020",
+      "title": "Rangeen",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/9ZeGC.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "كوميدي"
+      ],
+      "episodes_count": 9,
+      "last_episode": 9,
+      "last_updated": "2026-01-12T20:45:07.317446Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5017",
+      "title": "The Assassin",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/kML8m.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "جريمة",
+        "اثارة",
+        "دراما"
+      ],
+      "episodes_count": 6,
+      "last_episode": 6,
+      "last_updated": "2026-01-12T20:45:07.790038Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5019",
+      "title": "Trigger.",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/Yt2fR.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما",
+        "NETFLIX",
+        "اكشن",
+        "جريمة"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:45:08.346893Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5018",
+      "title": "Mandala Murders",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/5fl6g.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "اثارة",
+        "جريمة"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:45:09.178934Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "4971",
+      "title": "كويت رياض كويت",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "كوميدي"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:45:09.531787Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5015",
+      "title": "Washington Black",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/aTLJy.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:45:09.876293Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "4966",
+      "title": "خطيئة اخيرة",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 44,
+      "last_episode": 45,
+      "last_updated": "2026-01-12T20:45:10.313138Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5014",
+      "title": "Letters from the Past مدبلج",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "مدبلج",
+        "NETFLIX",
+        "دراما"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:45:10.780419Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5013",
+      "title": "Letters from the Past",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/mEJy8.webp",
+      "year": "2026",
+      "rating": 0.0,
+      "genres": [
+        "NETFLIX",
+        "دراما"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:45:11.248627Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "4981",
+      "title": "تذكر الحب مترجم",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/EN7Gj.webp",
+      "year": "2026",
+      "rating": 1.0,
+      "genres": [
+        "دراما",
+        "كوميدي",
+        "رومانسي"
+      ],
+      "episodes_count": 8,
+      "last_episode": 8,
+      "last_updated": "2026-01-12T20:45:11.611484Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "4970",
+      "title": "فات الميعاد",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 13.0,
+      "genres": [
+        "دراما"
+      ],
+      "episodes_count": 30,
+      "last_episode": 30,
+      "last_updated": "2026-01-12T20:45:12.389416Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "4978",
+      "title": "فرقة محاربة العصابات",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+      "year": "2026",
+      "rating": 2.0,
+      "genres": [
+        "جريمة",
+        "اكشن"
+      ],
+      "episodes_count": 10,
+      "last_episode": 10,
+      "last_updated": "2026-01-12T20:45:12.870624Z",
       "status": "ongoing"
     }
   ]

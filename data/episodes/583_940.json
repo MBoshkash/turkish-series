@@ -1,0 +1,28 @@
+{
+  "series_id": "583",
+  "series_title": "One Piece",
+  "episode_number": 940,
+  "title": "الحلقة 940",
+  "date_added": "الأحد 06 سبتمبر 2020 - 11:29 صباحا",
+  "last_updated": "2026-01-12T20:43:57.763342Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/14756/one-piece/الحلقة-940",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/14756/one-piece/الحلقة-940",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

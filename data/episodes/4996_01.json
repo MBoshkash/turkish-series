@@ -1,0 +1,28 @@
+{
+  "series_id": "4996",
+  "series_title": "The Institute",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الإثنين 14 يوليو 2025 - 11:26 مساءاً",
+  "last_updated": "2026-01-12T20:44:56.934477Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88402/the-institute/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88402/the-institute/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

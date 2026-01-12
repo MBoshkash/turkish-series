@@ -1,0 +1,28 @@
+{
+  "series_id": "5182",
+  "series_title": "ميد تيرم",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "الأربعاء 10 ديسمبر 2025 - 10:45 مساءاً",
+  "last_updated": "2026-01-12T20:43:38.222487Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91457/ميد-تيرم/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91457/ميد-تيرم/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

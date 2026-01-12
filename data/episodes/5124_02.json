@@ -1,0 +1,28 @@
+{
+  "series_id": "5124",
+  "series_title": "The Simpsons الموسم 37",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الأحد 12 أكتوبر 2025 - 10:36 مساءاً",
+  "last_updated": "2026-01-12T20:43:55.918144Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89895/the-simpsons-الموسم-37/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89895/the-simpsons-الموسم-37/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

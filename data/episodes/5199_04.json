@@ -1,0 +1,28 @@
+{
+  "series_id": "5199",
+  "series_title": "Idol I",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "الأربعاء 31 ديسمبر 2025 - 10:05 مساءاً",
+  "last_updated": "2026-01-12T20:43:47.058357Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92066/idol-i/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92066/idol-i/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

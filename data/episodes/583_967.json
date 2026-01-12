@@ -1,0 +1,28 @@
+{
+  "series_id": "583",
+  "series_title": "One Piece",
+  "episode_number": 967,
+  "title": "الحلقة 967",
+  "date_added": "الأحد 28 مارس 2021 - 12:35 مساءاً",
+  "last_updated": "2026-01-12T20:43:57.763435Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/26740/one-piece/الحلقة-967",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/26740/one-piece/الحلقة-967",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

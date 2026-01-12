@@ -1,0 +1,28 @@
+{
+  "series_id": "583",
+  "series_title": "One Piece",
+  "episode_number": 951,
+  "title": "الحلقة 951",
+  "date_added": "الأحد 22 نوفمبر 2020 - 09:53 صباحا",
+  "last_updated": "2026-01-12T20:43:57.763382Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/19115/one-piece/الحلقة-951",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/19115/one-piece/الحلقة-951",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

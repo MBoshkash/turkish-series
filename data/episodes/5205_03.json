@@ -1,0 +1,28 @@
+{
+  "series_id": "5205",
+  "series_title": "Mrs. Deshpande",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "الثلاثاء 30 ديسمبر 2025 - 08:56 مساءاً",
+  "last_updated": "2026-01-12T20:43:57.341597Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92029/mrs-deshpande/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92029/mrs-deshpande/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

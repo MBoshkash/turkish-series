@@ -1,0 +1,28 @@
+{
+  "series_id": "5034",
+  "series_title": "Wednesday الموسم الثاني",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الأربعاء 06 اغسطس 2025 - 12:25 مساءاً",
+  "last_updated": "2026-01-12T20:44:54.571873Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88855/wednesday-الموسم-الثاني/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88855/wednesday-الموسم-الثاني/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "5122",
+  "series_title": "لينك",
+  "episode_number": 20,
+  "title": "الحلقة 20",
+  "date_added": "السبت 08 نوفمبر 2025 - 10:30 مساءاً",
+  "last_updated": "2026-01-12T20:44:20.739519Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90548/لينك/الحلقة-20",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90548/لينك/الحلقة-20",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

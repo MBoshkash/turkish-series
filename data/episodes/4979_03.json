@@ -1,0 +1,28 @@
+{
+  "series_id": "4979",
+  "series_title": "Countdown",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "الأربعاء 02 يوليو 2025 - 10:38 مساءاً",
+  "last_updated": "2026-01-12T20:44:53.735719Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88220/countdown/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88220/countdown/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

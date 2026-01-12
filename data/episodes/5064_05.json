@@ -1,0 +1,28 @@
+{
+  "series_id": "5064",
+  "series_title": "Suga",
+  "episode_number": 5,
+  "title": "الحلقة 5",
+  "date_added": "الخميس 18 سبتمبر 2025 - 07:57 مساءاً",
+  "last_updated": "2026-01-12T20:44:47.720640Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89344/suga/الحلقة-5",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89344/suga/الحلقة-5",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

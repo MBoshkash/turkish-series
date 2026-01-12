@@ -1,0 +1,28 @@
+{
+  "series_id": "5165",
+  "series_title": "يد الحنة",
+  "episode_number": 12,
+  "title": "الحلقة 12",
+  "date_added": "الأربعاء 07 يناير 2026 - 07:15 مساءاً",
+  "last_updated": "2026-01-12T20:43:50.365856Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92248/يد-الحنة/الحلقة-12",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92248/يد-الحنة/الحلقة-12",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

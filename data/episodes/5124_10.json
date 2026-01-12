@@ -1,0 +1,28 @@
+{
+  "series_id": "5124",
+  "series_title": "The Simpsons الموسم 37",
+  "episode_number": 10,
+  "title": "الحلقة 10",
+  "date_added": "السبت 13 ديسمبر 2025 - 09:43 مساءاً",
+  "last_updated": "2026-01-12T20:43:55.918173Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91547/the-simpsons-الموسم-37/الحلقة-10",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91547/the-simpsons-الموسم-37/الحلقة-10",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

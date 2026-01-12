@@ -1,0 +1,28 @@
+{
+  "series_id": "583",
+  "series_title": "One Piece",
+  "episode_number": 971,
+  "title": "الحلقة 971",
+  "date_added": "الأحد 25 ابريل 2021 - 04:21 مساءاً",
+  "last_updated": "2026-01-12T20:43:57.763449Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/29288/one-piece/الحلقة-971",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/29288/one-piece/الحلقة-971",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

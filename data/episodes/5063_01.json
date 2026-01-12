@@ -1,0 +1,28 @@
+{
+  "series_id": "5063",
+  "series_title": "فبراير الأسود",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الجمعة 05 سبتمبر 2025 - 09:46 صباحا",
+  "last_updated": "2026-01-12T20:44:38.222132Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89155/فبراير-الأسود/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89155/فبراير-الأسود/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

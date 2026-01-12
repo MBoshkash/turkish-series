@@ -1,0 +1,28 @@
+{
+  "series_id": "5221",
+  "series_title": "بيت بابا",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الأحد 11 يناير 2026 - 11:11 مساءاً",
+  "last_updated": "2026-01-12T20:43:37.464219Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92370/بيت-بابا/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92370/بيت-بابا/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

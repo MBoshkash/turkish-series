@@ -1,0 +1,28 @@
+{
+  "series_id": "5201",
+  "series_title": "أثر بارد",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الخميس 25 ديسمبر 2025 - 12:42 صباحا",
+  "last_updated": "2026-01-12T20:43:46.301614Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91898/أثر-بارد/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91898/أثر-بارد/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

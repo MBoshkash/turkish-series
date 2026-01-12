@@ -1,0 +1,28 @@
+{
+  "series_id": "583",
+  "series_title": "One Piece",
+  "episode_number": 959,
+  "title": "الحلقة 959",
+  "date_added": "الأحد 24 يناير 2021 - 04:05 مساءاً",
+  "last_updated": "2026-01-12T20:43:57.763409Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/22990/one-piece/الحلقة-959",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/22990/one-piece/الحلقة-959",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

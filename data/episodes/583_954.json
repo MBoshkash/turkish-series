@@ -1,0 +1,28 @@
+{
+  "series_id": "583",
+  "series_title": "One Piece",
+  "episode_number": 954,
+  "title": "الحلقة 954",
+  "date_added": "الأحد 13 ديسمبر 2020 - 02:46 مساءاً",
+  "last_updated": "2026-01-12T20:43:57.763392Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/20669/one-piece/الحلقة-954",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/20669/one-piece/الحلقة-954",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

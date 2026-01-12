@@ -1,0 +1,28 @@
+{
+  "series_id": "5122",
+  "series_title": "لينك",
+  "episode_number": 17,
+  "title": "الحلقة 17",
+  "date_added": "الثلاثاء 04 نوفمبر 2025 - 01:46 صباحا",
+  "last_updated": "2026-01-12T20:44:20.739509Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90446/لينك/الحلقة-17",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90446/لينك/الحلقة-17",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "5095",
+  "series_title": "الخليفة",
+  "episode_number": 15,
+  "title": "الحلقة 15",
+  "date_added": "الجمعة 09 يناير 2026 - 10:58 صباحا",
+  "last_updated": "2026-01-12T20:43:42.272819Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92315/الخليفة/الحلقة-15",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92315/الخليفة/الحلقة-15",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

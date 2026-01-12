@@ -1,0 +1,28 @@
+{
+  "series_id": "583",
+  "series_title": "One Piece",
+  "episode_number": 931,
+  "title": "الحلقة 931",
+  "date_added": "الأحد 05 يوليو 2020 - 06:30 صباحا",
+  "last_updated": "2026-01-12T20:43:57.763308Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/9493/one-piece/الحلقة-931",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/9493/one-piece/الحلقة-931",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

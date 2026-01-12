@@ -1,0 +1,28 @@
+{
+  "series_id": "5091",
+  "series_title": "Platonik",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الجمعة 19 سبتمبر 2025 - 01:02 مساءاً",
+  "last_updated": "2026-01-12T20:44:46.442855Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89359/platonik/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89359/platonik/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

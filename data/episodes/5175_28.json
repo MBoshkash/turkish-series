@@ -1,0 +1,28 @@
+{
+  "series_id": "5175",
+  "series_title": "2 قهوة",
+  "episode_number": 28,
+  "title": "الحلقة 28",
+  "date_added": "الأحد 04 يناير 2026 - 11:48 مساءاً",
+  "last_updated": "2026-01-12T20:43:52.913025Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92175/2-قهوة/الحلقة-28",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92175/2-قهوة/الحلقة-28",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

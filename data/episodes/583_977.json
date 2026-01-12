@@ -1,0 +1,28 @@
+{
+  "series_id": "583",
+  "series_title": "One Piece",
+  "episode_number": 977,
+  "title": "الحلقة 977",
+  "date_added": "الأحد 06 يونيو 2021 - 03:23 مساءاً",
+  "last_updated": "2026-01-12T20:43:57.763469Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/31971/one-piece/الحلقة-977",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/31971/one-piece/الحلقة-977",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

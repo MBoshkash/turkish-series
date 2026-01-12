@@ -1,0 +1,28 @@
+{
+  "series_id": "5203",
+  "series_title": "ليل",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الأربعاء 07 يناير 2026 - 10:07 مساءاً",
+  "last_updated": "2026-01-12T20:43:37.863612Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92267/ليل/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92267/ليل/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

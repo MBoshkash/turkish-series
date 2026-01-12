@@ -1,0 +1,28 @@
+{
+  "series_id": "5132",
+  "series_title": "الطبعة",
+  "episode_number": 23,
+  "title": "الحلقة 23",
+  "date_added": "الإثنين 17 نوفمبر 2025 - 08:09 مساءاً",
+  "last_updated": "2026-01-12T20:44:19.636087Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90862/الطبعة/الحلقة-23",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90862/الطبعة/الحلقة-23",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

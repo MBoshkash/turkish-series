@@ -1,0 +1,28 @@
+{
+  "series_id": "5110",
+  "series_title": "كاراته",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الجمعة 31 أكتوبر 2025 - 03:45 مساءاً",
+  "last_updated": "2026-01-12T20:44:30.113400Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90332/كاراته/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90332/كاراته/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

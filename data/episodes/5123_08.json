@@ -1,0 +1,28 @@
+{
+  "series_id": "5123",
+  "series_title": "The Last Frontier",
+  "episode_number": 8,
+  "title": "الحلقة 8",
+  "date_added": "الأحد 23 نوفمبر 2025 - 06:34 مساءاً",
+  "last_updated": "2026-01-12T20:44:03.464097Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91011/the-last-frontier/الحلقة-8",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91011/the-last-frontier/الحلقة-8",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

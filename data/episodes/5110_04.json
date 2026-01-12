@@ -1,0 +1,28 @@
+{
+  "series_id": "5110",
+  "series_title": "كاراته",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "الجمعة 10 أكتوبر 2025 - 02:09 مساءاً",
+  "last_updated": "2026-01-12T20:44:30.113382Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89835/كاراته/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89835/كاراته/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

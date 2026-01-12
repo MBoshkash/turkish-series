@@ -1,0 +1,28 @@
+{
+  "series_id": "5091",
+  "series_title": "Platonik",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الجمعة 19 سبتمبر 2025 - 01:55 مساءاً",
+  "last_updated": "2026-01-12T20:44:46.442868Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89360/platonik/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89360/platonik/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

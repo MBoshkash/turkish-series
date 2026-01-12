@@ -1,0 +1,28 @@
+{
+  "series_id": "5202",
+  "series_title": "أنا_معك",
+  "episode_number": 11,
+  "title": "الحلقة 11",
+  "date_added": "الأحد 11 يناير 2026 - 01:11 صباحا",
+  "last_updated": "2026-01-12T20:43:30.377910Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/92356/أنا_معك/الحلقة-11",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92356/أنا_معك/الحلقة-11",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

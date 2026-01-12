@@ -1,0 +1,28 @@
+{
+  "series_id": "5061",
+  "series_title": "ايام الموسم الثالث",
+  "episode_number": 8,
+  "title": "الحلقة 8",
+  "date_added": "الثلاثاء 16 سبتمبر 2025 - 12:13 صباحا",
+  "last_updated": "2026-01-12T20:44:40.193956Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89284/ايام-الموسم-الثالث/الحلقة-8",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89284/ايام-الموسم-الثالث/الحلقة-8",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

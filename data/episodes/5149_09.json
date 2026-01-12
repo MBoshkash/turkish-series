@@ -1,0 +1,28 @@
+{
+  "series_id": "5149",
+  "series_title": "Pluribus",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الأربعاء 24 ديسمبر 2025 - 06:38 مساءاً",
+  "last_updated": "2026-01-12T20:44:02.051473Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91865/pluribus/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91865/pluribus/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

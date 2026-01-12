@@ -1,0 +1,28 @@
+{
+  "series_id": "5088",
+  "series_title": "The Morning Show الموسم الرابع",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "الجمعة 03 أكتوبر 2025 - 08:30 مساءاً",
+  "last_updated": "2026-01-12T20:44:22.652002Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89650/the-morning-show-الموسم-الرابع/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89650/the-morning-show-الموسم-الرابع/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

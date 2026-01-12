@@ -1,0 +1,28 @@
+{
+  "series_id": "5124",
+  "series_title": "The Simpsons الموسم 37",
+  "episode_number": 8,
+  "title": "الحلقة 8",
+  "date_added": "الثلاثاء 02 ديسمبر 2025 - 02:26 صباحا",
+  "last_updated": "2026-01-12T20:43:55.918166Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91210/the-simpsons-الموسم-37/الحلقة-8",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91210/the-simpsons-الموسم-37/الحلقة-8",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

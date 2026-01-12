@@ -1,0 +1,28 @@
+{
+  "series_id": "5050",
+  "series_title": "أزمة ثقة",
+  "episode_number": 13,
+  "title": "الحلقة 13",
+  "date_added": "الأربعاء 10 سبتمبر 2025 - 01:13 صباحا",
+  "last_updated": "2026-01-12T20:44:50.272910Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89211/أزمة-ثقة/الحلقة-13",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89211/أزمة-ثقة/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

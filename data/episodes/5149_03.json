@@ -1,0 +1,28 @@
+{
+  "series_id": "5149",
+  "series_title": "Pluribus",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "الأحد 16 نوفمبر 2025 - 12:34 صباحا",
+  "last_updated": "2026-01-12T20:44:02.051436Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90799/pluribus/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90799/pluribus/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

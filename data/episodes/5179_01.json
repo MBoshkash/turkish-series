@@ -1,0 +1,28 @@
+{
+  "series_id": "5179",
+  "series_title": "مثل الحلم",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الجمعة 05 ديسمبر 2025 - 01:05 صباحا",
+  "last_updated": "2026-01-12T20:43:51.678756Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91310/مثل-الحلم/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91310/مثل-الحلم/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

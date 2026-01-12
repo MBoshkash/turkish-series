@@ -1,0 +1,28 @@
+{
+  "series_id": "5113",
+  "series_title": "اسمي ليمان",
+  "episode_number": 10,
+  "title": "الحلقة 10",
+  "date_added": "الإثنين 08 ديسمبر 2025 - 01:49 صباحا",
+  "last_updated": "2026-01-12T20:43:58.545785Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91381/اسمي-ليمان/الحلقة-10",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91381/اسمي-ليمان/الحلقة-10",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

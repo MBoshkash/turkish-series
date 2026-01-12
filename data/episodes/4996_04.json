@@ -1,0 +1,28 @@
+{
+  "series_id": "4996",
+  "series_title": "The Institute",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "الإثنين 28 يوليو 2025 - 11:07 مساءاً",
+  "last_updated": "2026-01-12T20:44:56.934506Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88725/the-institute/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88725/the-institute/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

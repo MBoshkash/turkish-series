@@ -1,0 +1,28 @@
+{
+  "series_id": "583",
+  "series_title": "One Piece",
+  "episode_number": 969,
+  "title": "الحلقة 969",
+  "date_added": "الأحد 11 ابريل 2021 - 04:57 مساءاً",
+  "last_updated": "2026-01-12T20:43:57.763442Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/27733/one-piece/الحلقة-969",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/27733/one-piece/الحلقة-969",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "5167",
+  "series_title": "سيموزا",
+  "episode_number": 6,
+  "title": "الحلقة 6",
+  "date_added": "الإثنين 24 نوفمبر 2025 - 01:01 صباحا",
+  "last_updated": "2026-01-12T20:44:15.772057Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91022/سيموزا/الحلقة-6",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91022/سيموزا/الحلقة-6",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

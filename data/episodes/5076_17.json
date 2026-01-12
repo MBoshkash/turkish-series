@@ -1,0 +1,28 @@
+{
+  "series_id": "5076",
+  "series_title": "صيف 99",
+  "episode_number": 17,
+  "title": "الحلقة 17",
+  "date_added": "الخميس 02 أكتوبر 2025 - 10:13 مساءاً",
+  "last_updated": "2026-01-12T20:44:36.868247Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/89646/صيف-99/الحلقة-17",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/89646/صيف-99/الحلقة-17",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

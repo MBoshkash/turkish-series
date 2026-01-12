@@ -1,28 +1,0 @@
-{
-  "series_id": "5101",
-  "series_title": "Ø§ÙÙÙØ¸ÙØ© Ø§ÙÙÙØ³Ù Ø§ÙØ³Ø§Ø¯Ø³",
-  "episode_number": 89470,
-  "title": "الحلقة 89470",
-  "date_added": "",
-  "last_updated": "2026-01-12T17:21:15.617369Z",
-  "servers": {
-    "watch": [
-      {
-        "name": "أكوام",
-        "type": "redirect",
-        "url": "http://go.ak.sv/watch/165797",
-        "quality": "ÙØ´Ø§ÙØ¯Ø©ØªØ­ÙÙÙ1.8 GB",
-        "source": "akwam"
-      }
-    ],
-    "download": [
-      {
-        "name": "أكوام",
-        "url": "http://go.ak.sv/link/165797",
-        "quality": "720p",
-        "size": "1.8 GB",
-        "source": "akwam"
-      }
-    ]
-  }
-}

@@ -1,0 +1,28 @@
+{
+  "series_id": "5022",
+  "series_title": "220 يوم",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "الجمعة 01 اغسطس 2025 - 01:14 صباحا",
+  "last_updated": "2026-01-12T20:44:56.189681Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/88797/220-يوم/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/88797/220-يوم/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}
