@@ -1,15 +1,19 @@
 #!/usr/bin/env python3
 """
 Turkish Series Scraper - Main Runner
-يسحب البيانات من المصادر المختلفة ويحفظها في JSON files
 """
 
 import json
 import os
 import sys
-from datetime import datetime
+import io
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, List, Any, Optional
+
+# Fix Windows console encoding
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='replace')
 
 # Add parent directory to path
 sys.path.insert(0, str(Path(__file__).parent))
@@ -229,7 +233,7 @@ class SeriesScraper:
         """Scrape all enabled series"""
         print("\n" + "="*60)
         print("Turkish Series Scraper - Starting")
-        print(f"Time: {datetime.utcnow().isoformat()}")
+        print(f"Time: {datetime.now(timezone.utc).isoformat()}")
         print("="*60)
 
         all_series = []

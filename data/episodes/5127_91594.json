@@ -1,0 +1,28 @@
+{
+  "series_id": "5127",
+  "series_title": "Ø§ÙÙØ­ØªØ§ÙÙÙ ÙØªØ±Ø¬Ù",
+  "episode_number": 91594,
+  "title": "الحلقة 91594",
+  "date_added": "",
+  "last_updated": "2026-01-12T17:21:12.932700Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "redirect",
+        "url": "http://go.ak.sv/watch/168806",
+        "quality": "ÙØ´Ø§ÙØ¯Ø©ØªØ­ÙÙÙ1.6 GB",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "http://go.ak.sv/link/168806",
+        "quality": "720p",
+        "size": "1.6 GB",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "5127",
+  "series_title": "Ø§ÙÙØ­ØªØ§ÙÙÙ ÙØªØ±Ø¬Ù",
+  "episode_number": 90613,
+  "title": "الحلقة 90613",
+  "date_added": "",
+  "last_updated": "2026-01-12T17:21:10.057509Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "redirect",
+        "url": "http://go.ak.sv/watch/167458",
+        "quality": "ÙØ´Ø§ÙØ¯Ø©ØªØ­ÙÙÙ335.4 MB",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "http://go.ak.sv/link/167458",
+        "quality": "720p",
+        "size": "335.4 MB",
+        "source": "akwam"
+      }
+    ]
+  }
+}

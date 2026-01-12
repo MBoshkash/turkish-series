@@ -1,0 +1,52 @@
+{
+  "last_updated": "2026-01-12T17:21:25.573300Z",
+  "total": 3,
+  "series": [
+    {
+      "id": "5127",
+      "title": "Ø§ÙÙØ­ØªØ§ÙÙÙ ÙØªØ±Ø¬Ù",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/178x260/placeholder.png",
+      "year": "2025",
+      "rating": 1.0,
+      "genres": [
+        "Ø¯Ø±Ø§ÙØ§",
+        "Ø¬Ø±ÙÙØ©"
+      ],
+      "episodes_count": 13,
+      "last_episode": 92381,
+      "last_updated": "2026-01-12T17:21:06.962623Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "5101",
+      "title": "Ø§ÙÙÙØ¸ÙØ© Ø§ÙÙÙØ³Ù Ø§ÙØ³Ø§Ø¯Ø³",
+      "original_title": "",
+      "poster": "https://img.downet.net/thumb/178x260/placeholder.png",
+      "year": "2025",
+      "rating": 6.0,
+      "genres": [
+        "Ø§ÙØ´Ù",
+        "Ø¯Ø±Ø§ÙØ§",
+        "ÙØºØ§ÙØ±Ø©"
+      ],
+      "episodes_count": 16,
+      "last_episode": 92380,
+      "last_updated": "2026-01-12T17:21:15.264866Z",
+      "status": "ongoing"
+    },
+    {
+      "id": "surprise_marriage",
+      "title": "طعم الحب",
+      "original_title": "",
+      "poster": "",
+      "year": "",
+      "rating": 0.0,
+      "genres": [],
+      "episodes_count": 3,
+      "last_episode": 81,
+      "last_updated": "2026-01-12T17:21:25.571807Z",
+      "status": "ongoing"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "5101",
+  "series_title": "Ø§ÙÙÙØ¸ÙØ© Ø§ÙÙÙØ³Ù Ø§ÙØ³Ø§Ø¯Ø³",
+  "episode_number": 91049,
+  "title": "الحلقة 91049",
+  "date_added": "",
+  "last_updated": "2026-01-12T17:21:21.706595Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "redirect",
+        "url": "http://go.ak.sv/watch/168046",
+        "quality": "ÙØ´Ø§ÙØ¯Ø©ØªØ­ÙÙÙ1.7 GB",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "http://go.ak.sv/link/168046",
+        "quality": "720p",
+        "size": "1.7 GB",
+        "source": "akwam"
+      }
+    ]
+  }
+}
