@@ -11,8 +11,8 @@ import java.util.concurrent.TimeUnit
  */
 object ApiClient {
 
-    // غيّر ده للـ GitHub Pages URL بتاعك
-    private const val BASE_URL = "https://YOUR_USERNAME.github.io/turkish-series/"
+    // GitHub Pages URL
+    private const val BASE_URL = "https://mboshkash.github.io/turkish-series/"
 
     private val okHttpClient by lazy {
         val logging = HttpLoggingInterceptor().apply {
