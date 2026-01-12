@@ -4,25 +4,17 @@
   "episode_number": 11,
   "title": "الحلقة 11",
   "date_added": "الثلاثاء 23 ديسمبر 2025 - 01:12 صباحا",
-  "last_updated": "2026-01-12T19:24:02.900525Z",
+  "last_updated": "2026-01-12T20:11:50.384450Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "direct",
-        "url": "https://s202d1.downet.net/download/1768332245/69654a559d0e8/Frauders 11.WEB-DL.AKWAM.mkv",
+        "type": "akwam_page",
+        "url": "http://go.ak.sv/watch/169100",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": [
-      {
-        "name": "أكوام",
-        "url": "https://s202d1.downet.net/download/1768332246/69654a56ee5aa/Frauders 11.WEB-DL.AKWAM.mkv",
-        "quality": "720p",
-        "size": "1.3 GB",
-        "source": "akwam"
-      }
-    ]
+    "download": []
   }
 }

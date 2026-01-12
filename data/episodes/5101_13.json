@@ -4,25 +4,17 @@
   "episode_number": 13,
   "title": "الحلقة 13",
   "date_added": "الأحد 14 ديسمبر 2025 - 11:45 مساءاً",
-  "last_updated": "2026-01-12T19:27:18.092325Z",
+  "last_updated": "2026-01-12T20:11:57.134218Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "direct",
-        "url": "https://s201d1.downet.net/download/1768332440/69654b1835b4b/The.Shadow.Team.S06E13.WEB-DL.AKWAM.mp4",
+        "type": "akwam_page",
+        "url": "http://go.ak.sv/watch/168796",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": [
-      {
-        "name": "أكوام",
-        "url": "https://s201d1.downet.net/download/1768332441/69654b198d6e5/The.Shadow.Team.S06E13.WEB-DL.AKWAM.mp4",
-        "quality": "720p",
-        "size": "1.6 GB",
-        "source": "akwam"
-      }
-    ]
+    "download": []
   }
 }

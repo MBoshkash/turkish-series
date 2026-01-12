@@ -4,25 +4,17 @@
   "episode_number": 5,
   "title": "الحلقة 5",
   "date_added": "الإثنين 20 أكتوبر 2025 - 06:57 مساءاً",
-  "last_updated": "2026-01-12T19:25:47.187426Z",
+  "last_updated": "2026-01-12T20:11:53.828409Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "direct",
-        "url": "https://s302d2.downet.net/download/1768332349/69654abd3e76b/The Shadow Team.2021.S06EP05.WEB-DL.AKWAM.mp4",
+        "type": "akwam_page",
+        "url": "http://go.ak.sv/watch/166712",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": [
-      {
-        "name": "أكوام",
-        "url": "https://s302d2.downet.net/download/1768332352/69654ac0cfed8/The Shadow Team.2021.S06EP05.WEB-DL.AKWAM.mp4",
-        "quality": "720p",
-        "size": "1.7 GB",
-        "source": "akwam"
-      }
-    ]
+    "download": []
   }
 }

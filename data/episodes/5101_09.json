@@ -4,25 +4,17 @@
   "episode_number": 9,
   "title": "الحلقة 9",
   "date_added": "الإثنين 17 نوفمبر 2025 - 06:18 مساءاً",
-  "last_updated": "2026-01-12T19:27:01.108152Z",
+  "last_updated": "2026-01-12T20:11:55.523123Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "direct",
-        "url": "https://s302d1.downet.net/download/1768332423/69654b076b99b/The Shadow Team.2021.S06EP09.WEB-DL.AKWAM.mp4",
+        "type": "akwam_page",
+        "url": "http://go.ak.sv/watch/167789",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": [
-      {
-        "name": "أكوام",
-        "url": "https://s302d1.downet.net/download/1768332424/69654b08b2361/The Shadow Team.2021.S06EP09.WEB-DL.AKWAM.mp4",
-        "quality": "720p",
-        "size": "1.7 GB",
-        "source": "akwam"
-      }
-    ]
+    "download": []
   }
 }

@@ -7,7 +7,9 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import androidx.media3.common.MediaItem
+import androidx.media3.datasource.DefaultHttpDataSource
 import androidx.media3.exoplayer.ExoPlayer
+import androidx.media3.exoplayer.source.DefaultMediaSourceFactory
 import com.google.android.material.tabs.TabLayout
 import com.turkish.series.api.ApiClient
 import com.turkish.series.databinding.ActivityEpisodePlayerBinding
@@ -135,16 +137,40 @@ class EpisodePlayerActivity : AppCompatActivity() {
                 // Open in WebView
                 openWebViewPlayer(server.url)
             }
-            "redirect" -> {
-                // Try to resolve redirect and play
-                // For now, open in WebView
-                openWebViewPlayer(server.url)
+            "akwam_page" -> {
+                // روابط صفحات أكوام - نفتحها في WebView لأن الروابط المباشرة مؤقتة
+                playInEmbeddedWebView(server.url)
             }
             else -> {
-                // Default: try WebView
-                openWebViewPlayer(server.url)
+                // Default: try embedded WebView
+                playInEmbeddedWebView(server.url)
             }
         }
+    }
+
+    private fun playInEmbeddedWebView(url: String) {
+        // Hide ExoPlayer, show WebView
+        binding.playerView.visibility = View.GONE
+        binding.webView.visibility = View.VISIBLE
+
+        // Release ExoPlayer
+        exoPlayer?.release()
+        exoPlayer = null
+
+        // Setup WebView
+        binding.webView.settings.apply {
+            javaScriptEnabled = true
+            domStorageEnabled = true
+            mediaPlaybackRequiresUserGesture = false
+            allowContentAccess = true
+            loadWithOverviewMode = true
+            useWideViewPort = true
+        }
+
+        binding.webView.webViewClient = android.webkit.WebViewClient()
+        binding.webView.loadUrl(url)
+
+        showLoading(false)
     }
 
     private fun playWithExoPlayer(url: String) {
@@ -155,15 +181,25 @@ class EpisodePlayerActivity : AppCompatActivity() {
         // Release previous player
         exoPlayer?.release()
 
-        // Create new player
-        exoPlayer = ExoPlayer.Builder(this).build().apply {
-            binding.playerView.player = this
+        // Create DataSource with headers for Akwam servers
+        val dataSourceFactory = DefaultHttpDataSource.Factory()
+            .setUserAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
+            .setAllowCrossProtocolRedirects(true)
+            .setConnectTimeoutMs(15000)
+            .setReadTimeoutMs(15000)
 
-            val mediaItem = MediaItem.fromUri(url)
-            setMediaItem(mediaItem)
-            prepare()
-            playWhenReady = true
-        }
+        // Create new player with custom DataSource
+        exoPlayer = ExoPlayer.Builder(this)
+            .setMediaSourceFactory(DefaultMediaSourceFactory(dataSourceFactory))
+            .build()
+            .apply {
+                binding.playerView.player = this
+
+                val mediaItem = MediaItem.fromUri(url)
+                setMediaItem(mediaItem)
+                prepare()
+                playWhenReady = true
+            }
 
         showLoading(false)
     }
@@ -189,11 +225,21 @@ class EpisodePlayerActivity : AppCompatActivity() {
                 "${episodeDetail?.seriesTitle}_${episodeDetail?.episodeNumber}.mp4"
             )
         } else {
-            Toast.makeText(
-                this,
-                R.string.error_video_not_found,
-                Toast.LENGTH_SHORT
-            ).show()
+            // لو مفيش رابط تحميل، نستخدم رابط المشاهدة
+            val watchServer = currentServer ?: episodeDetail?.servers?.watch?.firstOrNull()
+            if (watchServer != null) {
+                TDMHelper.downloadWithTDM(
+                    this,
+                    watchServer.url,
+                    "${episodeDetail?.seriesTitle}_${episodeDetail?.episodeNumber}.mp4"
+                )
+            } else {
+                Toast.makeText(
+                    this,
+                    R.string.error_video_not_found,
+                    Toast.LENGTH_SHORT
+                ).show()
+            }
         }
     }
 

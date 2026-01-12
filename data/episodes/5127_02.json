@@ -4,25 +4,17 @@
   "episode_number": 2,
   "title": "الحلقة 2",
   "date_added": "الإثنين 20 أكتوبر 2025 - 09:41 مساءاً",
-  "last_updated": "2026-01-12T19:23:18.587104Z",
+  "last_updated": "2026-01-12T20:11:47.079352Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "direct",
-        "url": "https://s302d2.downet.net/download/1768332201/69654a29c514c/Sahtekarlar.S01E02.WEB-DL.AKWAM.mkv",
+        "type": "akwam_page",
+        "url": "http://go.ak.sv/watch/166715",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": [
-      {
-        "name": "أكوام",
-        "url": "https://s302d2.downet.net/download/1768332203/69654a2bc28d5/Sahtekarlar.S01E02.WEB-DL.AKWAM.mkv",
-        "quality": "720p",
-        "size": "1.2 GB",
-        "source": "akwam"
-      }
-    ]
+    "download": []
   }
 }

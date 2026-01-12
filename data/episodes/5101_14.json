@@ -4,25 +4,17 @@
   "episode_number": 14,
   "title": "الحلقة 14",
   "date_added": "الإثنين 22 ديسمبر 2025 - 01:55 صباحا",
-  "last_updated": "2026-01-12T19:27:21.170404Z",
+  "last_updated": "2026-01-12T20:11:57.632376Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "direct",
-        "url": "https://s203d1.downet.net/download/1768332443/69654b1b2a455/The.Shadow.Team.S06E14.WEB-DL.AKWAM.mkv",
+        "type": "akwam_page",
+        "url": "http://go.ak.sv/watch/169076",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": [
-      {
-        "name": "أكوام",
-        "url": "https://s203d1.downet.net/download/1768332444/69654b1c85d08/The.Shadow.Team.S06E14.WEB-DL.AKWAM.mkv",
-        "quality": "720p",
-        "size": "1.6 GB",
-        "source": "akwam"
-      }
-    ]
+    "download": []
   }
 }

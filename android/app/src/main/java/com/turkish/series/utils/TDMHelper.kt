@@ -4,6 +4,7 @@ import android.content.Context
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.net.Uri
+import android.os.Build
 import android.widget.Toast
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.turkish.series.R
@@ -14,23 +15,25 @@ import com.turkish.series.R
 object TDMHelper {
 
     // Package name لتطبيق TDM
-    private const val TDM_PACKAGE = "idm.internet.download.manager.plus"
-    private const val TDM_PACKAGE_ALT = "idm.internet.download.manager" // النسخة العادية
+    private const val TDM_PACKAGE = "com.tdm.manager"
 
-    // رابط التحميل من Play Store
-    private const val PLAY_STORE_URL = "https://play.google.com/store/apps/details?id=$TDM_PACKAGE"
+    // Activity للتحميل
+    private const val TDM_DOWNLOAD_ACTIVITY = "com.tdm.manager.dialog.DownloadEditor"
 
     /**
      * التحقق إذا TDM مثبت
      */
     fun isTDMInstalled(context: Context): Boolean {
-        return isPackageInstalled(context, TDM_PACKAGE) ||
-                isPackageInstalled(context, TDM_PACKAGE_ALT)
-    }
-
-    private fun isPackageInstalled(context: Context, packageName: String): Boolean {
         return try {
-            context.packageManager.getPackageInfo(packageName, 0)
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
+                context.packageManager.getPackageInfo(
+                    TDM_PACKAGE,
+                    PackageManager.PackageInfoFlags.of(0)
+                )
+            } else {
+                @Suppress("DEPRECATION")
+                context.packageManager.getPackageInfo(TDM_PACKAGE, 0)
+            }
             true
         } catch (e: PackageManager.NameNotFoundException) {
             false
@@ -41,25 +44,45 @@ object TDMHelper {
      * تحميل ملف باستخدام TDM
      */
     fun downloadWithTDM(context: Context, url: String, fileName: String? = null) {
-        if (!isTDMInstalled(context)) {
-            showInstallDialog(context)
+        // نحاول التحميل مباشرة بدون التحقق أولاً
+        try {
+            // الطريقة الأولى: استخدام DownloadEditor مباشرة
+            val intent = Intent(Intent.ACTION_VIEW).apply {
+                data = Uri.parse(url)
+                setClassName(TDM_PACKAGE, TDM_DOWNLOAD_ACTIVITY)
+                addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+            }
+            context.startActivity(intent)
             return
+        } catch (e: Exception) {
+            // فشل، نجرب الطريقة الثانية
         }
 
         try {
-            val intent = Intent(Intent.ACTION_VIEW).apply {
-                data = Uri.parse(url)
-                // جرب Package الأولاني، ولو مش موجود جرب التاني
-                setPackage(
-                    if (isPackageInstalled(context, TDM_PACKAGE)) TDM_PACKAGE
-                    else TDM_PACKAGE_ALT
-                )
+            // الطريقة الثانية: استخدام ACTION_SEND
+            val intent = Intent(Intent.ACTION_SEND).apply {
+                type = "text/plain"
+                putExtra(Intent.EXTRA_TEXT, url)
+                setPackage(TDM_PACKAGE)
+                addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
             }
             context.startActivity(intent)
+            return
+        } catch (e: Exception) {
+            // فشل، نجرب الطريقة الثالثة
+        }
+
+        try {
+            // الطريقة الثالثة: فتح الرابط عادي وخلي TDM يلتقطه
+            val intent = Intent(Intent.ACTION_VIEW).apply {
+                data = Uri.parse(url)
+                addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+            }
+            context.startActivity(Intent.createChooser(intent, "تحميل بواسطة"))
         } catch (e: Exception) {
             Toast.makeText(
                 context,
-                context.getString(R.string.error_server),
+                "فشل فتح رابط التحميل",
                 Toast.LENGTH_SHORT
             ).show()
         }
@@ -71,31 +94,8 @@ object TDMHelper {
     fun showInstallDialog(context: Context) {
         MaterialAlertDialogBuilder(context)
             .setTitle(R.string.tdm_not_installed)
-            .setMessage("لتحميل الفيديوهات، تحتاج تثبيت تطبيق TDM من Play Store")
-            .setPositiveButton(R.string.install_tdm) { _, _ ->
-                openPlayStore(context)
-            }
+            .setMessage("لتحميل الفيديوهات، تحتاج تثبيت تطبيق TDM")
             .setNegativeButton(R.string.cancel, null)
             .show()
-    }
-
-    /**
-     * فتح صفحة TDM في Play Store
-     */
-    private fun openPlayStore(context: Context) {
-        try {
-            // جرب فتح Play Store app
-            val intent = Intent(Intent.ACTION_VIEW).apply {
-                data = Uri.parse("market://details?id=$TDM_PACKAGE")
-                setPackage("com.android.vending")
-            }
-            context.startActivity(intent)
-        } catch (e: Exception) {
-            // لو Play Store مش موجود، افتح في browser
-            val intent = Intent(Intent.ACTION_VIEW).apply {
-                data = Uri.parse(PLAY_STORE_URL)
-            }
-            context.startActivity(intent)
-        }
     }
 }

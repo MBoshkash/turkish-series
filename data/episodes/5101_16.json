@@ -4,25 +4,17 @@
   "episode_number": 16,
   "title": "الحلقة 16",
   "date_added": "الإثنين 12 يناير 2026 - 12:07 صباحا",
-  "last_updated": "2026-01-12T19:27:27.183893Z",
+  "last_updated": "2026-01-12T20:11:59.069531Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "direct",
-        "url": "https://s201d1.downet.net/download/1768332449/69654b2155ad9/The.Shadow.Team.S06E16.WEB-DL.AKWAM.mkv",
+        "type": "akwam_page",
+        "url": "http://go.ak.sv/watch/169832",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": [
-      {
-        "name": "أكوام",
-        "url": "https://s201d1.downet.net/download/1768332450/69654b22b23d9/The.Shadow.Team.S06E16.WEB-DL.AKWAM.mkv",
-        "quality": "720p",
-        "size": "1.7 GB",
-        "source": "akwam"
-      }
-    ]
+    "download": []
   }
 }

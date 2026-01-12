@@ -4,25 +4,17 @@
   "episode_number": 1,
   "title": "الحلقة 1",
   "date_added": "الإثنين 22 سبتمبر 2025 - 08:10 مساءاً",
-  "last_updated": "2026-01-12T19:24:13.774762Z",
+  "last_updated": "2026-01-12T20:11:52.064248Z",
   "servers": {
     "watch": [
       {
         "name": "أكوام",
-        "type": "direct",
-        "url": "https://s302d1.downet.net/download/1768332288/69654a8030239/The Shadow Team.2021.S06EP01.WEB-DL.AKWAM.mp4",
+        "type": "akwam_page",
+        "url": "http://go.ak.sv/watch/165797",
         "quality": "720p",
         "source": "akwam"
       }
     ],
-    "download": [
-      {
-        "name": "أكوام",
-        "url": "https://s302d1.downet.net/download/1768332291/69654a83947ca/The Shadow Team.2021.S06EP01.WEB-DL.AKWAM.mp4",
-        "quality": "720p",
-        "size": "1.8 GB",
-        "source": "akwam"
-      }
-    ]
+    "download": []
   }
 }

@@ -168,26 +168,31 @@ class AkwamScraper(BaseScraper):
         }
 
         # === WATCH LINKS ===
-        watch_links = soup.select('a[href*="go.ak.sv/watch"], a[href*="/watch/"]')
+        # نحفظ رابط صفحة المشاهدة (مش المباشر) - لأن الروابط المباشرة مؤقتة
+        watch_links = soup.select('a[href*="/watch/"]')
+        seen_watch = set()
         for link in watch_links:
             href = link.get('href', '')
-            if href:
-                # Try to resolve to direct link
-                direct_url = self.resolve_watch_link(href)
+            if href and '/watch/' in href and href not in seen_watch:
+                seen_watch.add(href)
+                full_url = href if href.startswith('http') else f"{self.base_url}{href}"
                 result['watch'].append({
                     'name': 'أكوام',
-                    'type': 'direct' if direct_url else 'redirect',
-                    'url': direct_url or href,
+                    'type': 'akwam_page',  # صفحة أكوام - التطبيق هيحلها
+                    'url': full_url,
                     'quality': '720p'
                 })
+                break  # نكتفي برابط واحد
 
         # === DOWNLOAD LINKS ===
-        download_links = soup.select('a[href*="go.ak.sv/link"], a[href*="/link/"]')
+        # نحفظ رابط صفحة التحميل
+        download_links = soup.select('a[href*="/download/"]')
+        seen_download = set()
         for link in download_links:
             href = link.get('href', '')
-            if href:
-                # Try to resolve to direct link
-                direct_url = self.resolve_download_link(href)
+            if href and '/download/' in href and href not in seen_download:
+                seen_download.add(href)
+                full_url = href if href.startswith('http') else f"{self.base_url}{href}"
 
                 # Get size from link text
                 size_text = link.get_text()
@@ -195,10 +200,12 @@ class AkwamScraper(BaseScraper):
 
                 result['download'].append({
                     'name': 'أكوام',
-                    'url': direct_url or href,
+                    'type': 'akwam_page',
+                    'url': full_url,
                     'quality': '720p',
                     'size': size_match.group(1) if size_match else ''
                 })
+                break  # نكتفي برابط واحد
 
         return result
 
