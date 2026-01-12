@@ -1,0 +1,28 @@
+{
+  "series_id": "5127",
+  "series_title": "المحتالون مترجم",
+  "episode_number": 6,
+  "title": "الحلقة 6",
+  "date_added": "الإثنين 17 نوفمبر 2025 - 06:14 مساءاً",
+  "last_updated": "2026-01-12T19:23:35.715082Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "direct",
+        "url": "https://s302d1.downet.net/download/1768332218/69654a3a41936/Sahtekarlar.S01E06.WEB-DL.AKWAM.mkv",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://s302d1.downet.net/download/1768332228/69654a442fb27/Sahtekarlar.S01E06.WEB-DL.AKWAM.mkv",
+        "quality": "720p",
+        "size": "1.3 GB",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -8,7 +8,7 @@ import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
-import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.GridLayoutManager
 import com.turkish.series.adapters.SeriesAdapter
 import com.turkish.series.api.ApiClient
 import com.turkish.series.databinding.ActivityMainBinding
@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         binding.seriesRecyclerView.apply {
-            layoutManager = LinearLayoutManager(this@MainActivity)
+            layoutManager = GridLayoutManager(this@MainActivity, 3)
             adapter = this@MainActivity.adapter
         }
     }

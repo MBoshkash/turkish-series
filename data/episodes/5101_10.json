@@ -1,0 +1,28 @@
+{
+  "series_id": "5101",
+  "series_title": "المنظمة الموسم السادس",
+  "episode_number": 10,
+  "title": "الحلقة 10",
+  "date_added": "الإثنين 24 نوفمبر 2025 - 08:07 مساءاً",
+  "last_updated": "2026-01-12T19:27:04.272032Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "direct",
+        "url": "https://s302d1.downet.net/download/1768332426/69654b0a2f060/The.Shadow.Team.S06E10.WEB-DL.AKWAM.mp4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://s302d1.downet.net/download/1768332427/69654b0b9bf09/The.Shadow.Team.S06E10.WEB-DL.AKWAM.mp4",
+        "quality": "720p",
+        "size": "1.7 GB",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,38 +1,38 @@
 {
-  "last_updated": "2026-01-12T17:21:25.573300Z",
+  "last_updated": "2026-01-12T19:27:30.287349Z",
   "total": 3,
   "series": [
     {
       "id": "5127",
-      "title": "Ø§ÙÙØ­ØªØ§ÙÙÙ ÙØªØ±Ø¬Ù",
+      "title": "المحتالون مترجم",
       "original_title": "",
-      "poster": "https://img.downet.net/thumb/178x260/placeholder.png",
-      "year": "2025",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/c0aZH.webp",
+      "year": "2026",
       "rating": 1.0,
       "genres": [
-        "Ø¯Ø±Ø§ÙØ§",
-        "Ø¬Ø±ÙÙØ©"
+        "جريمة",
+        "دراما"
       ],
       "episodes_count": 13,
-      "last_episode": 92381,
-      "last_updated": "2026-01-12T17:21:06.962623Z",
+      "last_episode": 13,
+      "last_updated": "2026-01-12T19:23:10.338514Z",
       "status": "ongoing"
     },
     {
       "id": "5101",
-      "title": "Ø§ÙÙÙØ¸ÙØ© Ø§ÙÙÙØ³Ù Ø§ÙØ³Ø§Ø¯Ø³",
+      "title": "المنظمة الموسم السادس",
       "original_title": "",
-      "poster": "https://img.downet.net/thumb/178x260/placeholder.png",
-      "year": "2025",
+      "poster": "https://img.downet.net/thumb/260x380/uploads/bsd2S.webp",
+      "year": "2026",
       "rating": 6.0,
       "genres": [
-        "Ø§ÙØ´Ù",
-        "Ø¯Ø±Ø§ÙØ§",
-        "ÙØºØ§ÙØ±Ø©"
+        "دراما",
+        "مغامرة",
+        "اكشن"
       ],
       "episodes_count": 16,
-      "last_episode": 92380,
-      "last_updated": "2026-01-12T17:21:15.264866Z",
+      "last_episode": 16,
+      "last_updated": "2026-01-12T19:24:13.074878Z",
       "status": "ongoing"
     },
     {
@@ -45,7 +45,7 @@
       "genres": [],
       "episodes_count": 3,
       "last_episode": 81,
-      "last_updated": "2026-01-12T17:21:25.571807Z",
+      "last_updated": "2026-01-12T19:27:30.286008Z",
       "status": "ongoing"
     }
   ]

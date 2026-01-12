@@ -34,6 +34,8 @@ class BaseScraper(ABC):
             try:
                 response = self.scraper.get(url, headers=self.headers, timeout=30)
                 response.raise_for_status()
+                # Force UTF-8 encoding for Arabic text
+                response.encoding = 'utf-8'
                 return BeautifulSoup(response.text, 'lxml')
             except Exception as e:
                 print(f"[{self.source_name}] Attempt {attempt + 1} failed for {url}: {e}")

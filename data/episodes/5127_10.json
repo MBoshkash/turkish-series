@@ -1,0 +1,28 @@
+{
+  "series_id": "5127",
+  "series_title": "المحتالون مترجم",
+  "episode_number": 10,
+  "title": "الحلقة 10",
+  "date_added": "الإثنين 15 ديسمبر 2025 - 02:06 صباحا",
+  "last_updated": "2026-01-12T19:23:59.270020Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "direct",
+        "url": "https://s201d1.downet.net/download/1768332241/69654a514c648/Sahtekarlar.S01.E10.WEB-DL.AKWAM.mkv",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://s201d1.downet.net/download/1768332243/69654a533b331/Sahtekarlar.S01.E10.WEB-DL.AKWAM.mkv",
+        "quality": "720p",
+        "size": "1.6 GB",
+        "source": "akwam"
+      }
+    ]
+  }
+}

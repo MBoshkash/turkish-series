@@ -1,0 +1,28 @@
+{
+  "series_id": "5101",
+  "series_title": "المنظمة الموسم السادس",
+  "episode_number": 6,
+  "title": "الحلقة 6",
+  "date_added": "الإثنين 27 أكتوبر 2025 - 11:23 مساءاً",
+  "last_updated": "2026-01-12T19:26:18.685072Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "direct",
+        "url": "https://s302d2.downet.net/download/1768332380/69654adc9cbb6/The Shadow Team.2021.S06EP06.WEB-DL.AKWAM.mp4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://s302d2.downet.net/download/1768332388/69654ae41e69a/The Shadow Team.2021.S06EP06.WEB-DL.AKWAM.mp4",
+        "quality": "720p",
+        "size": "1.7 GB",
+        "source": "akwam"
+      }
+    ]
+  }
+}

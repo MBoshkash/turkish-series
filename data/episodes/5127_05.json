@@ -1,0 +1,28 @@
+{
+  "series_id": "5127",
+  "series_title": "المحتالون مترجم",
+  "episode_number": 5,
+  "title": "الحلقة 5",
+  "date_added": "الإثنين 10 نوفمبر 2025 - 08:20 مساءاً",
+  "last_updated": "2026-01-12T19:23:32.417651Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "direct",
+        "url": "https://s302d2.downet.net/download/1768332214/69654a36922d9/Sahtekarlar.S01E05.WEB-DL.AKWAM.mkv",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://s302d2.downet.net/download/1768332216/69654a380aa8c/Sahtekarlar.S01E05.WEB-DL.AKWAM.mkv",
+        "quality": "720p",
+        "size": "335.4 MB",
+        "source": "akwam"
+      }
+    ]
+  }
+}

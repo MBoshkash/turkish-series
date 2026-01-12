@@ -1,0 +1,28 @@
+{
+  "series_id": "5127",
+  "series_title": "المحتالون مترجم",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الإثنين 08 ديسمبر 2025 - 01:34 صباحا",
+  "last_updated": "2026-01-12T19:23:55.939671Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "direct",
+        "url": "https://s202d1.downet.net/download/1768332237/69654a4dd6dc3/Mohtalon.S01E09.WEB-DL.AKWAM.mkv",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://s202d1.downet.net/download/1768332239/69654a4fa3811/Mohtalon.S01E09.WEB-DL.AKWAM.mkv",
+        "quality": "720p",
+        "size": "1.2 GB",
+        "source": "akwam"
+      }
+    ]
+  }
+}
