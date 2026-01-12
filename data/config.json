@@ -1,0 +1,88 @@
+{
+  "settings": {
+    "scrape_interval_minutes": 60,
+    "retry_attempts": 3,
+    "timeout_seconds": 30,
+    "github_pages_url": "https://YOUR_USERNAME.github.io/turkish-series"
+  },
+
+  "sources": {
+    "akwam": {
+      "name": "أكوام",
+      "base_url": "https://ak.sv",
+      "enabled": true,
+      "provides": ["info", "poster", "episodes", "download", "watch"],
+      "auto_scrape": true,
+      "player_type": "direct"
+    },
+    "qissah": {
+      "name": "قصة عشق",
+      "base_url": "https://aa.3ick.net",
+      "enabled": true,
+      "provides": ["webview"],
+      "auto_scrape": false,
+      "player_type": "webview",
+      "note": "الموقع بيحمّل الفيديو بـ JavaScript، فلازم نفتحه في WebView"
+    }
+  },
+
+  "series": [
+    {
+      "id": "5127",
+      "name": "المحتالون مترجم",
+      "original_name": "Sahtekarlar",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5127/المحتالون-مترجم",
+          "fetch": ["info", "poster", "episodes", "download", "watch"]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "5101",
+      "name": "المنظمة الموسم السادس",
+      "original_name": "Teşkilat",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "https://ak.sv/series/5101/المنظمة-الموسم-السادس",
+          "fetch": ["info", "poster", "episodes", "download", "watch"]
+        },
+        "qissah": {
+          "series_url": "",
+          "episode_pattern": "",
+          "episodes": {}
+        }
+      }
+    },
+    {
+      "id": "surprise_marriage",
+      "name": "طعم الحب",
+      "original_name": "Surprise Marriage",
+      "enabled": true,
+      "sources": {
+        "akwam": {
+          "url": "",
+          "fetch": []
+        },
+        "qissah": {
+          "series_url": "https://aa.3ick.net/watch/tvshows/serie-surprise-marriage-2oct5/",
+          "episode_pattern": "https://aa.3ick.net/watch/episodes/serie-surprise-marriage-season-1-episode-{ep}/",
+          "total_episodes": 81,
+          "episodes": {
+            "1": "https://aa.3ick.net/watch/episodes/serie-surprise-marriage-season-1-episode-1/",
+            "80": "https://aa.3ick.net/watch/episodes/serie-surprise-marriage-season-1-episode-80/",
+            "81": "https://aa.3ick.net/watch/episodes/serie-surprise-marriage-season-1-episode-81/"
+          },
+          "note": "pattern يدعم توليد روابط الحلقات تلقائياً"
+        }
+      }
+    }
+  ]
+}

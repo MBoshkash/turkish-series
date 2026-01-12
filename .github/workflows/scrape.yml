@@ -1,0 +1,67 @@
+name: Scrape Turkish Series
+
+on:
+  # تشغيل كل ساعة
+  schedule:
+    - cron: '0 * * * *'
+
+  # تشغيل يدوي
+  workflow_dispatch:
+    inputs:
+      series_id:
+        description: 'Series ID to scrape (leave empty for all)'
+        required: false
+        default: ''
+
+  # تشغيل عند تحديث config.json
+  push:
+    paths:
+      - 'data/config.json'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r scraper/requirements.txt
+
+      - name: Run scraper
+        run: |
+          if [ -n "${{ github.event.inputs.series_id }}" ]; then
+            python scraper/main.py --series "${{ github.event.inputs.series_id }}"
+          else
+            python scraper/main.py --all
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add data/
+
+          # Check if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🔄 Auto-update series data - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      - name: Summary
+        run: |
+          echo "## Scrape Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Time**: $(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "- **Series scraped**: $(ls -1 data/series/*.json 2>/dev/null | wc -l)" >> $GITHUB_STEP_SUMMARY
+          echo "- **Episodes scraped**: $(ls -1 data/episodes/*.json 2>/dev/null | wc -l)" >> $GITHUB_STEP_SUMMARY

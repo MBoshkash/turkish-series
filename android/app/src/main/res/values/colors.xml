@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Turkish Theme -->
+    <color name="primary">#E30A17</color>          <!-- Turkish Red -->
+    <color name="primary_dark">#B00812</color>
+    <color name="primary_light">#FF3D47</color>
+    <color name="accent">#FFD700</color>           <!-- Gold -->
+
+    <!-- Background Colors -->
+    <color name="background">#0D0D0D</color>
+    <color name="surface">#1A1A1A</color>
+    <color name="card_background">#242424</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="text_hint">#666666</color>
+
+    <!-- Status Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="error">#F44336</color>
+    <color name="warning">#FF9800</color>
+
+    <!-- Rating -->
+    <color name="rating_star">#FFD700</color>
+</resources>

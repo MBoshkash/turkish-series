@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مسلسلات تركية</string>
+
+    <!-- MainActivity -->
+    <string name="search_hint">ابحث عن مسلسل...</string>
+    <string name="no_series">لا توجد مسلسلات</string>
+    <string name="loading">جاري التحميل...</string>
+    <string name="error_loading">حدث خطأ في التحميل</string>
+    <string name="retry">إعادة المحاولة</string>
+
+    <!-- SeriesDetailActivity -->
+    <string name="episodes">الحلقات</string>
+    <string name="description">القصة</string>
+    <string name="cast">الممثلون</string>
+    <string name="episode_count">%d حلقة</string>
+    <string name="rating_format">%s/10</string>
+
+    <!-- EpisodePlayerActivity -->
+    <string name="watch">مشاهدة</string>
+    <string name="download">تحميل</string>
+    <string name="servers">السيرفرات</string>
+    <string name="quality">الجودة</string>
+
+    <!-- Download -->
+    <string name="download_with_tdm">تحميل بـ TDM</string>
+    <string name="tdm_not_installed">برنامج TDM غير مثبت</string>
+    <string name="install_tdm">تثبيت TDM</string>
+    <string name="cancel">إلغاء</string>
+
+    <!-- Errors -->
+    <string name="error_no_internet">لا يوجد اتصال بالإنترنت</string>
+    <string name="error_server">خطأ في السيرفر</string>
+    <string name="error_video_not_found">الفيديو غير متاح</string>
+</resources>

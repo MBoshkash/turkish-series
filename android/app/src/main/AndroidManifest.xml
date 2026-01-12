@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TurkishSeries"
+        android:usesCleartextTraffic="true">
+
+        <!-- Main Activity - قائمة المسلسلات -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Series Detail Activity - تفاصيل المسلسل -->
+        <activity
+            android:name=".SeriesDetailActivity"
+            android:parentActivityName=".MainActivity" />
+
+        <!-- Episode Player Activity - مشاهدة الحلقة -->
+        <activity
+            android:name=".EpisodePlayerActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:parentActivityName=".SeriesDetailActivity" />
+
+        <!-- WebView Player Activity - للمصادر اللي بتحتاج WebView -->
+        <activity
+            android:name=".WebViewPlayerActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:parentActivityName=".EpisodePlayerActivity" />
+
+    </application>
+
+</manifest>
