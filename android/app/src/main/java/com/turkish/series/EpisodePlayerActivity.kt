@@ -14,6 +14,7 @@ import androidx.media3.exoplayer.source.DefaultMediaSourceFactory
 import com.google.android.material.tabs.TabLayout
 import com.turkish.series.api.ApiClient
 import com.turkish.series.databinding.ActivityEpisodePlayerBinding
+import com.turkish.series.models.DownloadServer
 import com.turkish.series.models.EpisodeDetail
 import com.turkish.series.models.WatchServer
 import com.turkish.series.utils.AkwamResolver
@@ -152,20 +153,27 @@ class EpisodePlayerActivity : AppCompatActivity() {
         resolvedWatchUrl = null
         resolvedDownloadUrl = null
 
-        // لو عندنا رابط مباشر من عرب سيد، نستخدمه
-        if (!server.directUrl.isNullOrEmpty()) {
-            resolvedWatchUrl = server.directUrl
-            playWithExoPlayer(server.directUrl)
-            return
-        }
-
-        when (server.type) {
-            "direct" -> {
-                // Play directly with ExoPlayer
+        // التعامل حسب المصدر والنوع
+        when {
+            // سيرفرات ArabSeed - دائماً نفتح في WebView (الروابط المباشرة قد تنتهي صلاحيتها)
+            server.source == "arabseed" -> {
+                // لو عندنا رابط مباشر صالح، نحفظه للتحميل لاحقاً
+                if (!server.directUrl.isNullOrEmpty()) {
+                    resolvedWatchUrl = server.directUrl
+                }
+                // نفتح في WebView دائماً لأن روابط reviewrate.net تحتاج المتصفح
+                openWebViewPlayer(server.url)
+            }
+            // سيرفرات أكوام
+            server.type == "akwam" -> {
+                resolveAndPlayAkwam(server.url)
+            }
+            // روابط مباشرة
+            server.type == "direct" -> {
                 playWithExoPlayer(server.url)
             }
-            "webview" -> {
-                // Open in WebView
+            // WebView
+            server.type == "webview" -> {
                 val watchUrl = if (server.url.endsWith("/")) {
                     "${server.url}see/"
                 } else {
@@ -173,20 +181,12 @@ class EpisodePlayerActivity : AppCompatActivity() {
                 }
                 openWebViewPlayer(watchUrl)
             }
-            "iframe" -> {
-                // ArabSeed iframes - open in WebView
+            // iframe
+            server.type == "iframe" -> {
                 openWebViewPlayer(server.url)
             }
-            "akwam" -> {
-                // روابط أكوام - نعمل resolve للحصول على الرابط المباشر
-                resolveAndPlayAkwam(server.url)
-            }
-            "arabseed" -> {
-                // روابط عرب سيد - نفتح في WebView
-                openWebViewPlayer(server.url)
-            }
+            // Default
             else -> {
-                // Default: try WebView
                 playInEmbeddedWebView(server.url)
             }
         }
@@ -288,29 +288,49 @@ class EpisodePlayerActivity : AppCompatActivity() {
 
         lifecycleScope.launch {
             try {
-                // لو عندنا رابط تحميل محلول
+                val fileName = "${seriesTitle}_الحلقة${episodeDetail?.episodeNumber}.mp4"
+
+                // أولاً: نبحث عن سيرفر تحميل من نفس مصدر السيرفر الحالي
+                val currentSource = currentServer?.source
+                val downloadServers = episodeDetail?.servers?.download
+
+                // نبحث عن سيرفر تحميل مناسب
+                val downloadServer = downloadServers?.find { it.source == currentSource }
+                    ?: downloadServers?.firstOrNull()
+
+                if (downloadServer != null) {
+                    // الرابط قد يكون TDM deep link أو رابط عادي
+                    TDMHelper.downloadWithTDM(
+                        this@EpisodePlayerActivity,
+                        downloadServer.url,
+                        fileName
+                    )
+                    showLoading(false)
+                    return@launch
+                }
+
+                // لو مفيش سيرفر تحميل، نستخدم رابط المشاهدة
                 if (resolvedDownloadUrl != null) {
                     TDMHelper.downloadWithTDM(
                         this@EpisodePlayerActivity,
                         resolvedDownloadUrl!!,
-                        "${seriesTitle}_الحلقة${episodeDetail?.episodeNumber}.mp4"
+                        fileName
                     )
                     showLoading(false)
                     return@launch
                 }
 
-                // لو عندنا رابط مشاهدة محلول
                 if (resolvedWatchUrl != null) {
                     TDMHelper.downloadWithTDM(
                         this@EpisodePlayerActivity,
                         resolvedWatchUrl!!,
-                        "${seriesTitle}_الحلقة${episodeDetail?.episodeNumber}.mp4"
+                        fileName
                     )
                     showLoading(false)
                     return@launch
                 }
 
-                // نحتاج نحل الرابط
+                // آخر محاولة: نحل رابط أكوام
                 val server = currentServer ?: episodeDetail?.servers?.watch?.firstOrNull()
                 if (server != null && server.type == "akwam") {
                     val downloadUrl = AkwamResolver.resolveDownload(server.url)
@@ -319,17 +339,11 @@ class EpisodePlayerActivity : AppCompatActivity() {
                         TDMHelper.downloadWithTDM(
                             this@EpisodePlayerActivity,
                             downloadUrl,
-                            "${seriesTitle}_الحلقة${episodeDetail?.episodeNumber}.mp4"
+                            fileName
                         )
                     } else {
                         showToast("فشل جلب رابط التحميل")
                     }
-                } else if (server != null) {
-                    TDMHelper.downloadWithTDM(
-                        this@EpisodePlayerActivity,
-                        server.url,
-                        "${seriesTitle}_الحلقة${episodeDetail?.episodeNumber}.mp4"
-                    )
                 } else {
                     showToast("لا يوجد رابط للتحميل")
                 }
