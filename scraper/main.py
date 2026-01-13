@@ -118,6 +118,15 @@ class SeriesScraper:
                             'servers': {'watch': [], 'download': []}
                         }
                     if ep.get('url'):
+                        # إزالة سيرفرات أكوام القديمة قبل إضافة الجديدة
+                        episodes_data[ep_num]['servers']['watch'] = [
+                            s for s in episodes_data[ep_num]['servers']['watch']
+                            if s.get('source') != 'akwam'
+                        ]
+                        episodes_data[ep_num]['servers']['download'] = [
+                            s for s in episodes_data[ep_num]['servers']['download']
+                            if s.get('source') != 'akwam'
+                        ]
                         servers = akwam.get_episode_servers(ep['url'])
                         for s in servers.get('watch', []):
                             episodes_data[ep_num]['servers']['watch'].append({
@@ -136,35 +145,52 @@ class SeriesScraper:
         if arabseed_config.get('url'):
             print(f"\n[ArabSeed] Scraping: {arabseed_config['url']}")
             arabseed = self.scrapers['arabseed']
-            episodes_list = arabseed.get_episodes_list(arabseed_config['url'])
-            if episodes_list:
-                new_count = 0
-                for ep in episodes_list:
-                    ep_num = ep['number']
-                    if self.new_only and not force_all and ep_num in existing_episodes:
-                        continue
-                    new_count += 1
-                    if ep_num not in episodes_data:
-                        episodes_data[ep_num] = {
-                            'series_id': series_id, 'series_title': series_data['title'],
-                            'episode_number': ep_num, 'title': f'الحلقة {ep_num}',
-                            'date_added': '', 'last_updated': datetime.utcnow().isoformat() + 'Z',
-                            'servers': {'watch': [], 'download': []}
-                        }
-                    servers = arabseed.get_episode_servers(ep['url'])
-                    for s in servers.get('watch', []):
-                        episodes_data[ep_num]['servers']['watch'].append({
-                            'name': s.get('name', 'عرب سيد'), 'type': s.get('type', 'iframe'),
-                            'url': s['url'], 'direct_url': s.get('direct_url', ''),
-                            'quality': s.get('quality', '720p'), 'source': 'arabseed'
-                        })
-                    for s in servers.get('download', []):
-                        episodes_data[ep_num]['servers']['download'].append({
-                            'name': s.get('name', 'عرب سيد'), 'url': s['url'],
-                            'quality': s.get('quality', '720p'),
-                            'is_direct': s.get('is_direct', False), 'source': 'arabseed'
-                        })
-                print(f"[ArabSeed] Got {len(episodes_list)} total, {new_count} new")
+            try:
+                episodes_list = arabseed.get_episodes_list(arabseed_config['url'])
+                print(f"[ArabSeed] Found {len(episodes_list) if episodes_list else 0} episodes")
+                if episodes_list:
+                    new_count = 0
+                    for ep in episodes_list:
+                        ep_num = ep['number']
+                        if self.new_only and not force_all and ep_num in existing_episodes:
+                            continue
+                        new_count += 1
+                        if ep_num not in episodes_data:
+                            episodes_data[ep_num] = {
+                                'series_id': series_id, 'series_title': series_data['title'],
+                                'episode_number': ep_num, 'title': f'الحلقة {ep_num}',
+                                'date_added': '', 'last_updated': datetime.utcnow().isoformat() + 'Z',
+                                'servers': {'watch': [], 'download': []}
+                            }
+                        # إزالة سيرفرات عرب سيد القديمة قبل إضافة الجديدة
+                        episodes_data[ep_num]['servers']['watch'] = [
+                            s for s in episodes_data[ep_num]['servers']['watch']
+                            if s.get('source') != 'arabseed'
+                        ]
+                        episodes_data[ep_num]['servers']['download'] = [
+                            s for s in episodes_data[ep_num]['servers']['download']
+                            if s.get('source') != 'arabseed'
+                        ]
+                        print(f"[ArabSeed] Getting servers for episode {ep_num}: {ep['url']}")
+                        servers = arabseed.get_episode_servers(ep['url'])
+                        print(f"[ArabSeed] Episode {ep_num} got {len(servers.get('watch', []))} watch, {len(servers.get('download', []))} download")
+                        for s in servers.get('watch', []):
+                            episodes_data[ep_num]['servers']['watch'].append({
+                                'name': s.get('name', 'عرب سيد'), 'type': s.get('type', 'iframe'),
+                                'url': s['url'], 'direct_url': s.get('direct_url', ''),
+                                'quality': s.get('quality', '720p'), 'source': 'arabseed'
+                            })
+                        for s in servers.get('download', []):
+                            episodes_data[ep_num]['servers']['download'].append({
+                                'name': s.get('name', 'عرب سيد'), 'url': s['url'],
+                                'quality': s.get('quality', '720p'),
+                                'is_direct': s.get('is_direct', False), 'source': 'arabseed'
+                            })
+                    print(f"[ArabSeed] Got {len(episodes_list)} total, {new_count} new")
+            except Exception as e:
+                print(f"[ArabSeed] ERROR: {e}")
+                import traceback
+                traceback.print_exc()
 
         series_data['episodes'] = []
         for ep_num in sorted(episodes_data.keys()):

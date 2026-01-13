@@ -543,17 +543,20 @@ function loadSeriesPage() {
 
     pageData.forEach(series => {
         const tr = document.createElement('tr');
+        // جلب المصادر الفعلية من scraperConfig
+        const scraperSeries = scraperConfig?.series?.find(s => s.id === series.id || s.id === String(series.id));
+        const sources = scraperSeries?.sources || {};
+        const sourcesBadges = getSourcesBadges(sources);
+
         tr.innerHTML = `
             <td>${series.id}</td>
             <td>${series.title}</td>
             <td>${series.episodes_count || 0}</td>
-            <td>
-                <span class="badge badge-success">أكوام</span>
-            </td>
+            <td>${sourcesBadges}</td>
             <td class="actions">
                 <button class="btn btn-secondary btn-sm" onclick="editSeriesSources('${series.id}')">
-                    <i class="fas fa-plus"></i>
-                    إضافة مصدر
+                    <i class="fas fa-edit"></i>
+                    تعديل المصادر
                 </button>
             </td>
         `;
@@ -562,6 +565,26 @@ function loadSeriesPage() {
 
     // Pagination
     renderPagination();
+}
+
+/**
+ * إنشاء badges للمصادر المتوفرة
+ */
+function getSourcesBadges(sources) {
+    const badges = [];
+    if (sources.akwam?.url) {
+        badges.push('<span class="badge badge-success">أكوام</span>');
+    }
+    if (sources.arabseed?.url) {
+        badges.push('<span class="badge badge-info">عرب سيد</span>');
+    }
+    // أي مصادر أخرى
+    Object.keys(sources).forEach(key => {
+        if (key !== 'akwam' && key !== 'arabseed' && sources[key]?.url) {
+            badges.push(`<span class="badge badge-secondary">${key}</span>`);
+        }
+    });
+    return badges.length > 0 ? badges.join(' ') : '<span class="badge badge-warning">لا يوجد</span>';
 }
 
 function renderPagination() {
@@ -607,15 +630,20 @@ function filterSeries() {
     tbody.innerHTML = '';
     filtered.slice(0, itemsPerPage).forEach(series => {
         const tr = document.createElement('tr');
+        // جلب المصادر الفعلية من scraperConfig
+        const scraperSeries = scraperConfig?.series?.find(s => s.id === series.id || s.id === String(series.id));
+        const sources = scraperSeries?.sources || {};
+        const sourcesBadges = getSourcesBadges(sources);
+
         tr.innerHTML = `
             <td>${series.id}</td>
             <td>${series.title}</td>
             <td>${series.episodes_count || 0}</td>
-            <td><span class="badge badge-success">أكوام</span></td>
+            <td>${sourcesBadges}</td>
             <td class="actions">
                 <button class="btn btn-secondary btn-sm" onclick="editSeriesSources('${series.id}')">
-                    <i class="fas fa-plus"></i>
-                    إضافة مصدر
+                    <i class="fas fa-edit"></i>
+                    تعديل المصادر
                 </button>
             </td>
         `;
