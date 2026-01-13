@@ -91,13 +91,34 @@ class GitHubAPI {
 
         const data = await response.json();
 
-        // فك ترميز Base64
-        const content = atob(data.content);
+        // فك ترميز Base64 مع دعم UTF-8
+        const content = this.decodeBase64UTF8(data.content);
         return {
             content: content,
             sha: data.sha,
             path: data.path
         };
+    }
+
+    /**
+     * فك ترميز Base64 مع دعم UTF-8 (للنصوص العربية)
+     */
+    decodeBase64UTF8(base64) {
+        // إزالة الأسطر الجديدة من Base64
+        const cleanBase64 = base64.replace(/\n/g, '');
+
+        // تحويل Base64 إلى binary
+        const binaryString = atob(cleanBase64);
+
+        // تحويل إلى Uint8Array
+        const bytes = new Uint8Array(binaryString.length);
+        for (let i = 0; i < binaryString.length; i++) {
+            bytes[i] = binaryString.charCodeAt(i);
+        }
+
+        // فك الترميز كـ UTF-8
+        const decoder = new TextDecoder('utf-8');
+        return decoder.decode(bytes);
     }
 
     /**

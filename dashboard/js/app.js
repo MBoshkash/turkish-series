@@ -316,6 +316,8 @@ function editSource(id) {
     const source = appConfig.sources[id];
     if (!source) return;
 
+    const resolverType = source.resolver?.type || 'iframe';
+
     document.getElementById('modalTitle').textContent = `تعديل ${source.name}`;
     document.getElementById('modalBody').innerHTML = `
         <div class="form-group">
@@ -338,6 +340,22 @@ function editSource(id) {
             <label>الأولوية:</label>
             <input type="number" id="editSourcePriority" class="form-control" value="${source.priority}">
         </div>
+        <div class="form-group">
+            <label>نوع الـ Resolver:</label>
+            <select id="editSourceResolverType" class="form-control">
+                <option value="redirect" ${resolverType === 'redirect' ? 'selected' : ''}>redirect - الموقع يعمل redirect لرابط مباشر</option>
+                <option value="iframe" ${resolverType === 'iframe' ? 'selected' : ''}>iframe - الفيديو في iframe محتاج extraction</option>
+                <option value="webview" ${resolverType === 'webview' ? 'selected' : ''}>webview - محتاج WebView كامل (حماية قوية)</option>
+                <option value="direct" ${resolverType === 'direct' ? 'selected' : ''}>direct - رابط مباشر للفيديو</option>
+            </select>
+            <small>redirect: مثل أكوام | iframe: مثل عرب سيد | webview: مثل قصة عشق</small>
+        </div>
+        <div class="form-group">
+            <label>
+                <input type="checkbox" id="editSourceNeedsWebview" ${source.resolver?.needs_webview ? 'checked' : ''}>
+                يحتاج WebView
+            </label>
+        </div>
     `;
 
     document.getElementById('modalSaveBtn').onclick = () => saveSourceEdit(id);
@@ -352,6 +370,13 @@ async function saveSourceEdit(id) {
     source.current_domain = document.getElementById('editSourceDomain').value;
     source.domains = document.getElementById('editSourceDomains').value.split(',').map(d => d.trim());
     source.priority = parseInt(document.getElementById('editSourcePriority').value);
+
+    // تحديث الـ Resolver
+    if (!source.resolver) {
+        source.resolver = { version: 1 };
+    }
+    source.resolver.type = document.getElementById('editSourceResolverType').value;
+    source.resolver.needs_webview = document.getElementById('editSourceNeedsWebview').checked;
 
     closeModal();
     loadSourcesPage();
@@ -388,6 +413,21 @@ function addNewSource() {
             <label>الأولوية:</label>
             <input type="number" id="newSourcePriority" class="form-control" value="5">
         </div>
+        <div class="form-group">
+            <label>نوع الـ Resolver:</label>
+            <select id="newSourceResolverType" class="form-control">
+                <option value="redirect">redirect - الموقع يعمل redirect لرابط مباشر</option>
+                <option value="iframe" selected>iframe - الفيديو في iframe محتاج extraction</option>
+                <option value="webview">webview - محتاج WebView كامل (حماية قوية)</option>
+                <option value="direct">direct - رابط مباشر للفيديو</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label>
+                <input type="checkbox" id="newSourceNeedsWebview" checked>
+                يحتاج WebView
+            </label>
+        </div>
     `;
 
     document.getElementById('modalSaveBtn').onclick = saveNewSource;
@@ -400,6 +440,8 @@ async function saveNewSource() {
     const nameEn = document.getElementById('newSourceNameEn').value.trim();
     const domain = document.getElementById('newSourceDomain').value.trim();
     const priority = parseInt(document.getElementById('newSourcePriority').value);
+    const resolverType = document.getElementById('newSourceResolverType').value;
+    const needsWebview = document.getElementById('newSourceNeedsWebview').checked;
 
     if (!id || !name || !domain) {
         showToast('error', 'خطأ', 'يجب ملء جميع الحقول المطلوبة');
@@ -428,8 +470,8 @@ async function saveNewSource() {
         headers: {},
         resolver: {
             version: 1,
-            type: 'iframe',
-            needs_webview: true
+            type: resolverType,
+            needs_webview: needsWebview
         },
         qualities: ['1080p', '720p', '480p'],
         default_quality: '720p',
