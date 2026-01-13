@@ -20,10 +20,16 @@ data class SeriesSummary(
     @SerializedName("original_title") val originalTitle: String?,
     @SerializedName("poster") val poster: String?,
     @SerializedName("year") val year: String?,
+    @SerializedName("country") val country: String?,
+    @SerializedName("language") val language: String?,
     @SerializedName("rating") val rating: Double?,
     @SerializedName("genres") val genres: List<String>?,
+    @SerializedName("tags") val tags: List<String>?,
+    @SerializedName("quality") val quality: String?,
+    @SerializedName("duration") val duration: String?,
     @SerializedName("episodes_count") val episodesCount: Int?,
     @SerializedName("last_episode") val lastEpisode: Int?,
+    @SerializedName("last_episode_date") val lastEpisodeDate: String?,
     @SerializedName("last_updated") val lastUpdated: String?,
     @SerializedName("status") val status: String?
 )
@@ -40,9 +46,12 @@ data class SeriesDetail(
     @SerializedName("backdrop") val backdrop: String?,
     @SerializedName("year") val year: String?,
     @SerializedName("country") val country: String?,
+    @SerializedName("language") val language: String?,
     @SerializedName("rating") val rating: Double?,
     @SerializedName("genres") val genres: List<String>?,
+    @SerializedName("tags") val tags: List<String>?,
     @SerializedName("quality") val quality: String?,
+    @SerializedName("duration") val duration: String?,
     @SerializedName("age_rating") val ageRating: String?,
     @SerializedName("cast") val cast: List<CastMember>?,
     @SerializedName("total_episodes") val totalEpisodes: Int?,
@@ -114,4 +123,91 @@ data class DownloadServer(
     @SerializedName("quality") val quality: String?,
     @SerializedName("size") val size: String?,
     @SerializedName("source") val source: String?
+)
+
+// ============================================
+// App Config Models - إعدادات التطبيق من GitHub
+// ============================================
+
+/**
+ * إعدادات التطبيق الكاملة
+ */
+data class AppConfig(
+    @SerializedName("config_version") val configVersion: Int,
+    @SerializedName("last_updated") val lastUpdated: String,
+    @SerializedName("sources") val sources: Map<String, SourceConfig>,
+    @SerializedName("app") val app: AppInfo,
+    @SerializedName("messages") val messages: Messages,
+    @SerializedName("settings") val settings: AppSettings,
+    @SerializedName("api") val api: ApiConfig
+)
+
+/**
+ * إعدادات مصدر واحد (أكوام، عرب سيد، إلخ)
+ */
+data class SourceConfig(
+    @SerializedName("id") val id: String,
+    @SerializedName("name") val name: String,
+    @SerializedName("name_en") val nameEn: String?,
+    @SerializedName("enabled") val enabled: Boolean,
+    @SerializedName("priority") val priority: Int,
+    @SerializedName("icon") val icon: String?,
+    @SerializedName("domains") val domains: List<String>,
+    @SerializedName("current_domain") val currentDomain: String,
+    @SerializedName("patterns") val patterns: Map<String, String>,
+    @SerializedName("headers") val headers: Map<String, String>?,
+    @SerializedName("resolver") val resolver: ResolverConfig?,
+    @SerializedName("qualities") val qualities: List<String>?,
+    @SerializedName("default_quality") val defaultQuality: String?,
+    @SerializedName("supports_download") val supportsDownload: Boolean?,
+    @SerializedName("supports_watch") val supportsWatch: Boolean?
+)
+
+/**
+ * إعدادات الـ Resolver لكل مصدر
+ */
+data class ResolverConfig(
+    @SerializedName("version") val version: Int,
+    @SerializedName("type") val type: String,  // redirect, iframe, webview, direct
+    @SerializedName("needs_webview") val needsWebview: Boolean?,
+    @SerializedName("bypass_cloudflare") val bypassCloudflare: Boolean?
+)
+
+/**
+ * معلومات التطبيق والتحديثات
+ */
+data class AppInfo(
+    @SerializedName("min_version_code") val minVersionCode: Int,
+    @SerializedName("latest_version_code") val latestVersionCode: Int,
+    @SerializedName("latest_version_name") val latestVersionName: String,
+    @SerializedName("update_url") val updateUrl: String,
+    @SerializedName("force_update") val forceUpdate: Boolean
+)
+
+/**
+ * رسائل للمستخدمين
+ */
+data class Messages(
+    @SerializedName("maintenance") val maintenance: String?,
+    @SerializedName("announcement") val announcement: String?,
+    @SerializedName("news") val news: List<String>?
+)
+
+/**
+ * إعدادات عامة
+ */
+data class AppSettings(
+    @SerializedName("default_source") val defaultSource: String,
+    @SerializedName("fallback_sources") val fallbackSources: List<String>?,
+    @SerializedName("cache_duration_hours") val cacheDurationHours: Int?,
+    @SerializedName("retry_attempts") val retryAttempts: Int?,
+    @SerializedName("timeout_seconds") val timeoutSeconds: Int?
+)
+
+/**
+ * إعدادات API
+ */
+data class ApiConfig(
+    @SerializedName("base_url") val baseUrl: String,
+    @SerializedName("endpoints") val endpoints: Map<String, String>
 )

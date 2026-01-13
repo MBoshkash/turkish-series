@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>لوحة تحكم المسلسلات التركية</title>
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <img src="https://flagcdn.com/w80/tr.png" alt="Turkish Flag" class="logo">
+            <h2>لوحة التحكم</h2>
+        </div>
+        <nav class="sidebar-nav">
+            <a href="#" class="nav-item active" data-page="dashboard">
+                <i class="fas fa-home"></i>
+                <span>الرئيسية</span>
+            </a>
+            <a href="#" class="nav-item" data-page="sources">
+                <i class="fas fa-server"></i>
+                <span>المصادر</span>
+            </a>
+            <a href="#" class="nav-item" data-page="series">
+                <i class="fas fa-film"></i>
+                <span>المسلسلات</span>
+            </a>
+            <a href="#" class="nav-item" data-page="episodes">
+                <i class="fas fa-play-circle"></i>
+                <span>الحلقات</span>
+            </a>
+            <a href="#" class="nav-item" data-page="messages">
+                <i class="fas fa-bullhorn"></i>
+                <span>الرسائل</span>
+            </a>
+            <a href="#" class="nav-item" data-page="settings">
+                <i class="fas fa-cog"></i>
+                <span>الإعدادات</span>
+            </a>
+        </nav>
+        <div class="sidebar-footer">
+            <a href="https://github.com/MBoshkash/turkish-series" target="_blank">
+                <i class="fab fa-github"></i>
+                GitHub
+            </a>
+        </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Header -->
+        <header class="header">
+            <button class="menu-toggle" id="menuToggle">
+                <i class="fas fa-bars"></i>
+            </button>
+            <div class="header-title">
+                <h1 id="pageTitle">الرئيسية</h1>
+            </div>
+            <div class="header-actions">
+                <button class="btn btn-primary" id="syncBtn" onclick="syncWithGitHub()">
+                    <i class="fas fa-sync"></i>
+                    مزامنة
+                </button>
+                <span class="status-badge" id="connectionStatus">
+                    <i class="fas fa-circle"></i>
+                    غير متصل
+                </span>
+            </div>
+        </header>
+
+        <!-- Pages Container -->
+        <div class="pages-container">
+            <!-- Dashboard Page -->
+            <section class="page active" id="page-dashboard">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon" style="background: #E50914;">
+                            <i class="fas fa-film"></i>
+                        </div>
+                        <div class="stat-info">
+                            <h3 id="totalSeries">0</h3>
+                            <p>المسلسلات</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon" style="background: #00C853;">
+                            <i class="fas fa-server"></i>
+                        </div>
+                        <div class="stat-info">
+                            <h3 id="activeSources">0</h3>
+                            <p>المصادر النشطة</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon" style="background: #2196F3;">
+                            <i class="fas fa-play"></i>
+                        </div>
+                        <div class="stat-info">
+                            <h3 id="totalEpisodes">0</h3>
+                            <p>الحلقات</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon" style="background: #FF9800;">
+                            <i class="fas fa-clock"></i>
+                        </div>
+                        <div class="stat-info">
+                            <h3 id="lastUpdate">-</h3>
+                            <p>آخر تحديث</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
+                        <h2><i class="fas fa-info-circle"></i> نظرة عامة</h2>
+                    </div>
+                    <div class="card-body">
+                        <p>مرحباً بك في لوحة تحكم تطبيق المسلسلات التركية.</p>
+                        <p>من هنا يمكنك:</p>
+                        <ul>
+                            <li><strong>إدارة المصادر:</strong> تفعيل/تعطيل المصادر وتغيير الدومينات</li>
+                            <li><strong>إدارة المسلسلات:</strong> إضافة مصادر جديدة للمسلسلات</li>
+                            <li><strong>إرسال رسائل:</strong> إعلانات أو رسائل صيانة للمستخدمين</li>
+                            <li><strong>الإعدادات:</strong> التحكم في إعدادات التطبيق</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
+                        <h2><i class="fas fa-key"></i> إعداد GitHub Token</h2>
+                    </div>
+                    <div class="card-body">
+                        <p>لحفظ التغييرات، تحتاج إلى GitHub Personal Access Token:</p>
+                        <div class="form-group">
+                            <label for="githubToken">GitHub Token:</label>
+                            <input type="password" id="githubToken" placeholder="ghp_xxxxxxxxxxxx" class="form-control">
+                            <small>يتم حفظه محلياً في المتصفح فقط</small>
+                        </div>
+                        <div class="form-group">
+                            <label for="repoOwner">صاحب الـ Repo:</label>
+                            <input type="text" id="repoOwner" value="MBoshkash" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <label for="repoName">اسم الـ Repo:</label>
+                            <input type="text" id="repoName" value="turkish-series" class="form-control">
+                        </div>
+                        <button class="btn btn-success" onclick="saveGitHubSettings()">
+                            <i class="fas fa-save"></i>
+                            حفظ الإعدادات
+                        </button>
+                        <button class="btn btn-primary" onclick="testConnection()">
+                            <i class="fas fa-plug"></i>
+                            اختبار الاتصال
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Sources Page -->
+            <section class="page" id="page-sources">
+                <div class="card">
+                    <div class="card-header">
+                        <h2><i class="fas fa-server"></i> إدارة المصادر</h2>
+                        <button class="btn btn-success btn-sm" onclick="addNewSource()">
+                            <i class="fas fa-plus"></i>
+                            إضافة مصدر
+                        </button>
+                    </div>
+                    <div class="card-body">
+                        <div id="sourcesList" class="sources-grid">
+                            <!-- يتم تحميلها ديناميكياً -->
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Series Page -->
+            <section class="page" id="page-series">
+                <div class="card">
+                    <div class="card-header">
+                        <h2><i class="fas fa-film"></i> المسلسلات</h2>
+                        <div class="header-controls">
+                            <input type="text" id="seriesSearch" placeholder="بحث..." class="form-control" onkeyup="filterSeries()">
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div id="seriesList" class="series-table-container">
+                            <table class="data-table">
+                                <thead>
+                                    <tr>
+                                        <th>ID</th>
+                                        <th>الاسم</th>
+                                        <th>الحلقات</th>
+                                        <th>المصادر</th>
+                                        <th>إجراءات</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="seriesTableBody">
+                                    <!-- يتم تحميلها ديناميكياً -->
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="pagination" id="seriesPagination"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Episodes Page -->
+            <section class="page" id="page-episodes">
+                <div class="card">
+                    <div class="card-header">
+                        <h2><i class="fas fa-play-circle"></i> إدارة الحلقات</h2>
+                    </div>
+                    <div class="card-body">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="episodeSeriesSelect">اختر المسلسل:</label>
+                                <select id="episodeSeriesSelect" class="form-control" onchange="loadEpisodes()">
+                                    <option value="">-- اختر مسلسل --</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div id="episodesList" class="episodes-grid">
+                            <!-- يتم تحميلها ديناميكياً -->
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Messages Page -->
+            <section class="page" id="page-messages">
+                <div class="card">
+                    <div class="card-header">
+                        <h2><i class="fas fa-bullhorn"></i> الرسائل والإعلانات</h2>
+                    </div>
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label for="maintenanceMsg">رسالة الصيانة:</label>
+                            <textarea id="maintenanceMsg" class="form-control" rows="3" placeholder="اتركه فارغاً لإخفاء الرسالة"></textarea>
+                            <small>تظهر للمستخدمين عند فتح التطبيق ولا يمكن تجاوزها</small>
+                        </div>
+                        <div class="form-group">
+                            <label for="announcementMsg">الإعلان:</label>
+                            <textarea id="announcementMsg" class="form-control" rows="3" placeholder="اتركه فارغاً لإخفاء الإعلان"></textarea>
+                            <small>يظهر مرة واحدة للمستخدمين</small>
+                        </div>
+                        <button class="btn btn-success" onclick="saveMessages()">
+                            <i class="fas fa-save"></i>
+                            حفظ الرسائل
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Settings Page -->
+            <section class="page" id="page-settings">
+                <div class="card">
+                    <div class="card-header">
+                        <h2><i class="fas fa-cog"></i> إعدادات التطبيق</h2>
+                    </div>
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label for="defaultSource">المصدر الافتراضي:</label>
+                            <select id="defaultSource" class="form-control">
+                                <option value="akwam">أكوام</option>
+                                <option value="arabseed">عرب سيد</option>
+                                <option value="qissah">قصة عشق</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="minVersionCode">الحد الأدنى للإصدار:</label>
+                            <input type="number" id="minVersionCode" class="form-control" value="1">
+                        </div>
+                        <div class="form-group">
+                            <label for="latestVersionCode">أحدث إصدار:</label>
+                            <input type="number" id="latestVersionCode" class="form-control" value="1">
+                        </div>
+                        <div class="form-group">
+                            <label for="latestVersionName">اسم الإصدار:</label>
+                            <input type="text" id="latestVersionName" class="form-control" value="1.0.0">
+                        </div>
+                        <div class="form-group">
+                            <label>
+                                <input type="checkbox" id="forceUpdate">
+                                تحديث إجباري
+                            </label>
+                        </div>
+                        <button class="btn btn-success" onclick="saveSettings()">
+                            <i class="fas fa-save"></i>
+                            حفظ الإعدادات
+                        </button>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Modal -->
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modalTitle">عنوان</h3>
+                <button class="modal-close" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-body" id="modalBody">
+                <!-- محتوى ديناميكي -->
+            </div>
+            <div class="modal-footer" id="modalFooter">
+                <button class="btn btn-secondary" onclick="closeModal()">إلغاء</button>
+                <button class="btn btn-success" id="modalSaveBtn">حفظ</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Notifications -->
+    <div class="toast-container" id="toastContainer"></div>
+
+    <!-- Scripts -->
+    <script src="js/github-api.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

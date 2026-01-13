@@ -1,0 +1,149 @@
+{
+  "config_version": 1,
+  "last_updated": "2025-01-13T00:00:00Z",
+
+  "sources": {
+    "akwam": {
+      "id": "akwam",
+      "name": "أكوام",
+      "name_en": "Akwam",
+      "enabled": true,
+      "priority": 1,
+      "icon": "https://ak.sv/favicon.ico",
+      "domains": ["ak.sv", "akwam.to", "akwam.cx", "akwam.net"],
+      "current_domain": "ak.sv",
+      "patterns": {
+        "base": "https://{domain}",
+        "series": "/series/{id}/{slug}",
+        "episode": "/episode/{id}/{slug}/الحلقة-{ep}",
+        "download": "/download/{id}",
+        "watch": "/watch/{id}"
+      },
+      "headers": {
+        "Referer": "https://ak.sv/",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36"
+      },
+      "resolver": {
+        "version": 2,
+        "type": "redirect",
+        "needs_webview": false,
+        "bypass_cloudflare": true
+      },
+      "qualities": ["1080p", "720p", "480p", "360p"],
+      "default_quality": "720p",
+      "supports_download": true,
+      "supports_watch": true
+    },
+    "arabseed": {
+      "id": "arabseed",
+      "name": "عرب سيد",
+      "name_en": "ArabSeed",
+      "enabled": false,
+      "priority": 2,
+      "icon": "",
+      "domains": ["arabseed.ink", "arabseed.sbs", "arabseed.net"],
+      "current_domain": "arabseed.ink",
+      "patterns": {
+        "base": "https://{domain}",
+        "series": "/series/{slug}",
+        "episode": "/episode/{slug}-ep-{ep}"
+      },
+      "headers": {
+        "Referer": "https://arabseed.ink/"
+      },
+      "resolver": {
+        "version": 1,
+        "type": "iframe",
+        "needs_webview": true,
+        "bypass_cloudflare": false
+      },
+      "qualities": ["1080p", "720p", "480p"],
+      "default_quality": "720p",
+      "supports_download": true,
+      "supports_watch": true
+    },
+    "qissah": {
+      "id": "qissah",
+      "name": "قصة عشق",
+      "name_en": "3isk",
+      "enabled": false,
+      "priority": 3,
+      "icon": "",
+      "domains": ["3isk.tv", "3isk.com", "3esk.tv"],
+      "current_domain": "3isk.tv",
+      "patterns": {
+        "base": "https://{domain}",
+        "series": "/watch/tvshows/serie-{slug}",
+        "episode": "/watch/episodes/{slug}-season-{season}-episode-{ep}"
+      },
+      "headers": {},
+      "resolver": {
+        "version": 1,
+        "type": "webview",
+        "needs_webview": true,
+        "bypass_cloudflare": false
+      },
+      "qualities": ["1080p", "720p"],
+      "default_quality": "1080p",
+      "supports_download": false,
+      "supports_watch": true
+    },
+    "cimaclub": {
+      "id": "cimaclub",
+      "name": "سيما كلوب",
+      "name_en": "CimaClub",
+      "enabled": false,
+      "priority": 4,
+      "icon": "",
+      "domains": ["cimaclub.cam"],
+      "current_domain": "cimaclub.cam",
+      "patterns": {
+        "base": "https://{domain}",
+        "series": "/series/{slug}",
+        "episode": "/episode/{slug}-ep-{ep}"
+      },
+      "headers": {},
+      "resolver": {
+        "version": 1,
+        "type": "iframe",
+        "needs_webview": true
+      },
+      "qualities": ["1080p", "720p", "480p"],
+      "default_quality": "720p",
+      "supports_download": true,
+      "supports_watch": true
+    }
+  },
+
+  "app": {
+    "min_version_code": 1,
+    "latest_version_code": 1,
+    "latest_version_name": "1.0.0",
+    "update_url": "https://github.com/MBoshkash/turkish-series/releases",
+    "force_update": false
+  },
+
+  "messages": {
+    "maintenance": null,
+    "announcement": null,
+    "news": []
+  },
+
+  "settings": {
+    "default_source": "akwam",
+    "fallback_sources": ["arabseed", "qissah"],
+    "cache_duration_hours": 6,
+    "retry_attempts": 3,
+    "timeout_seconds": 30
+  },
+
+  "api": {
+    "base_url": "https://mboshkash.github.io/turkish-series",
+    "endpoints": {
+      "series_list": "/data/series.json",
+      "series_detail": "/data/series/{id}.json",
+      "episode": "/data/episodes/{series_id}_{ep}.json",
+      "config": "/data/app_config.json"
+    }
+  }
+}
