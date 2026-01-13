@@ -1,6 +1,6 @@
 {
   "config_version": 1,
-  "last_updated": "2026-01-13T04:42:52.309Z",
+  "last_updated": "2026-01-13T04:43:51.290Z",
   "sources": {
     "akwam": {
       "id": "akwam",
@@ -152,8 +152,8 @@
     "force_update": false
   },
   "messages": {
-    "maintenance": null,
-    "announcement": null,
+    "maintenance": "يبسس",
+    "announcement": "بسيبسيب",
     "news": []
   },
   "settings": {
