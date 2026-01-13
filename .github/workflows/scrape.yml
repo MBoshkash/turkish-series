@@ -17,19 +17,15 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          token: ${{ secrets.PAT_TOKEN }}
           fetch-depth: 0
-          ref: main
 
-      - name: Pull latest changes
-        run: |
-          git pull origin main
+      - name: Pull latest
+        run: git pull origin main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -39,8 +35,7 @@ jobs:
           cache-dependency-path: 'scraper/requirements.txt'
 
       - name: Install dependencies
-        run: |
-          pip install -r scraper/requirements.txt
+        run: pip install -r scraper/requirements.txt
 
       - name: Run scraper
         run: |
@@ -54,26 +49,19 @@ jobs:
           PYTHONIOENCODING: utf-8
 
       - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
           git add data/
-
-          # Check if there are changes
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "🔄 Auto-update series data - $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push --force origin main
+            git push
           fi
 
       - name: Summary
         run: |
           echo "## Scrape Summary" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
           echo "- **Time**: $(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
-          echo "- **Series scraped**: $(ls -1 data/series/*.json 2>/dev/null | wc -l)" >> $GITHUB_STEP_SUMMARY
-          echo "- **Episodes scraped**: $(ls -1 data/episodes/*.json 2>/dev/null | wc -l)" >> $GITHUB_STEP_SUMMARY
+          echo "- **Series**: $(ls -1 data/series/*.json 2>/dev/null | wc -l)" >> $GITHUB_STEP_SUMMARY
