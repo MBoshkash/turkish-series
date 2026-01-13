@@ -43,6 +43,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r scraper/requirements.txt
 
+      - name: Setup proxy list
+        run: |
+          if [ -n "${{ secrets.PROXY_LIST }}" ]; then
+            echo "${{ secrets.PROXY_LIST }}" > scraper/proxies.txt
+            echo "Proxy list created with $(wc -l < scraper/proxies.txt) proxies"
+          fi
+
       - name: Run scraper
         run: |
           cd scraper
