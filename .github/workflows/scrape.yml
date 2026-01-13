@@ -57,6 +57,7 @@ jobs:
           fi
         env:
           PYTHONIOENCODING: utf-8
+          SCRAPER_PROXY: ${{ secrets.SCRAPER_PROXY }}
 
       - name: Commit and push changes
         run: |

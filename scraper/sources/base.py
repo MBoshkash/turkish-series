@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 import cloudscraper
 import time
 import re
+import os
 
 
 class BaseScraper(ABC):
@@ -28,11 +29,26 @@ class BaseScraper(ABC):
         self.base_url = ""
         self.source_name = ""
 
+        # Proxy support from environment
+        self.proxies = None
+        proxy_url = os.environ.get('SCRAPER_PROXY')
+        if proxy_url:
+            self.proxies = {
+                'http': proxy_url,
+                'https': proxy_url
+            }
+            print(f"[BaseScraper] Using proxy: {proxy_url[:30]}...")
+
     def get_page(self, url: str, retries: int = 3) -> Optional[BeautifulSoup]:
         """Fetch a page and return BeautifulSoup object"""
         for attempt in range(retries):
             try:
-                response = self.scraper.get(url, headers=self.headers, timeout=30)
+                response = self.scraper.get(
+                    url,
+                    headers=self.headers,
+                    timeout=30,
+                    proxies=self.proxies
+                )
                 response.raise_for_status()
                 # Force UTF-8 encoding for Arabic text
                 response.encoding = 'utf-8'
