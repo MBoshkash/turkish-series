@@ -255,6 +255,12 @@ class SeriesScraper:
             try:
                 series_data = self.scrape_series(series_config)
                 if series_data:
+                    # Get last episode date for proper sorting
+                    last_episode_date = ''
+                    if series_data['episodes']:
+                        last_ep = series_data['episodes'][-1]
+                        last_episode_date = last_ep.get('date_added', '')
+
                     all_series.append({
                         'id': series_data['id'],
                         'title': series_data['title'],
@@ -270,6 +276,7 @@ class SeriesScraper:
                         'duration': series_data.get('duration', ''),
                         'episodes_count': series_data.get('total_episodes', 0),
                         'last_episode': series_data['episodes'][-1]['number'] if series_data['episodes'] else 0,
+                        'last_episode_date': last_episode_date,
                         'last_updated': series_data['last_updated'],
                         'status': series_data.get('status', 'ongoing')
                     })
