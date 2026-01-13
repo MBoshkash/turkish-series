@@ -962,3 +962,97 @@ select.form-control {
     background: rgba(33, 150, 243, 0.2);
     color: var(--info);
 }
+
+/* ============================================
+   Scraper Buttons
+   ============================================ */
+
+.scraper-buttons {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    margin: 20px 0;
+}
+
+.scraper-buttons .btn-lg {
+    padding: 16px 32px;
+    font-size: 1.1rem;
+}
+
+.scraper-buttons .btn-lg i {
+    font-size: 1.2rem;
+}
+
+.btn-warning {
+    background: var(--warning);
+    color: #000;
+}
+
+.btn-warning:hover {
+    background: #E68900;
+}
+
+.btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.scraper-status {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px;
+    background: rgba(33, 150, 243, 0.1);
+    border-radius: 8px;
+    border: 1px solid rgba(33, 150, 243, 0.3);
+    margin: 16px 0;
+    color: var(--info);
+}
+
+.scraper-status i {
+    font-size: 1.2rem;
+}
+
+.last-run-info {
+    margin-top: 16px;
+}
+
+.last-run-card {
+    background: var(--surface-light);
+    border-radius: 10px;
+    padding: 16px;
+    border: 1px solid var(--border);
+}
+
+.last-run-card h4 {
+    margin-bottom: 12px;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+}
+
+.run-info {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.run-status {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 500;
+}
+
+.run-date {
+    color: var(--text-muted);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.text-success { color: var(--success); }
+.text-warning { color: var(--warning); }
+.text-danger { color: var(--error); }
+.text-info { color: var(--info); }
+.text-secondary { color: var(--text-muted); }

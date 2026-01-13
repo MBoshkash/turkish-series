@@ -36,6 +36,8 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (hasSettings && githubAPI.hasToken()) {
         console.log('Auto-syncing with saved token...');
         await syncWithGitHub();
+        // جلب حالة آخر تشغيل للسكرابر
+        loadLastScraperRun();
     }
 });
 
@@ -1057,6 +1059,189 @@ function formatDate(dateString) {
             year: 'numeric',
             month: 'short',
             day: 'numeric'
+        });
+    } catch {
+        return dateString;
+    }
+}
+
+// ============================================
+// Scraper Workflow
+// ============================================
+
+/**
+ * عرض نافذة جلب مسلسل واحد
+ */
+function showScrapeSingleSeriesModal() {
+    if (!seriesList || seriesList.length === 0) {
+        showToast('warning', 'تنبيه', 'يجب تحميل بيانات المسلسلات أولاً');
+        return;
+    }
+
+    document.getElementById('modalTitle').textContent = 'جلب حلقات مسلسل واحد';
+    document.getElementById('modalBody').innerHTML = `
+        <div class="form-group">
+            <label for="singleSeriesSelect">اختر المسلسل:</label>
+            <select id="singleSeriesSelect" class="form-control">
+                <option value="">-- اختر مسلسل --</option>
+                ${seriesList.map(s => `<option value="${s.id}">${s.title}</option>`).join('')}
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="singleSeriesMode">وضع الجلب:</label>
+            <select id="singleSeriesMode" class="form-control">
+                <option value="new">الحلقات الجديدة فقط</option>
+                <option value="full">جميع الحلقات</option>
+            </select>
+        </div>
+    `;
+
+    document.getElementById('modalSaveBtn').textContent = 'تشغيل السكرابر';
+    document.getElementById('modalSaveBtn').onclick = triggerSingleSeriesScraper;
+    openModal();
+}
+
+/**
+ * تشغيل السكرابر لمسلسل واحد
+ */
+async function triggerSingleSeriesScraper() {
+    const seriesId = document.getElementById('singleSeriesSelect').value;
+    const mode = document.getElementById('singleSeriesMode').value;
+
+    if (!seriesId) {
+        showToast('error', 'خطأ', 'يجب اختيار مسلسل');
+        return;
+    }
+
+    closeModal();
+    await triggerScraper(mode, seriesId);
+}
+
+/**
+ * تشغيل سكرابر الحلقات
+ * @param {string} mode - 'new' للحلقات الجديدة فقط، 'full' لجميع الحلقات
+ * @param {string} seriesId - معرف المسلسل (اختياري)
+ */
+async function triggerScraper(mode, seriesId = '') {
+    if (!githubAPI.hasToken()) {
+        showToast('warning', 'تنبيه', 'يجب إدخال GitHub Token أولاً');
+        return;
+    }
+
+    const newBtn = document.getElementById('scrapeNewBtn');
+    const fullBtn = document.getElementById('scrapeFullBtn');
+    const statusDiv = document.getElementById('scraperStatus');
+    const statusText = document.getElementById('scraperStatusText');
+
+    // تعطيل الأزرار
+    newBtn.disabled = true;
+    fullBtn.disabled = true;
+    statusDiv.style.display = 'flex';
+
+    const modeText = mode === 'new' ? 'الحلقات الجديدة' : 'جميع الحلقات';
+    const seriesText = seriesId ? ` للمسلسل ${seriesId}` : '';
+    statusText.textContent = `جاري تشغيل السكرابر (${modeText}${seriesText})...`;
+
+    try {
+        const inputs = { scrape_mode: mode };
+        if (seriesId) {
+            inputs.series_id = seriesId;
+        }
+        await githubAPI.triggerWorkflow('scrape.yml', inputs);
+
+        showToast('success', 'تم التشغيل', `تم تشغيل السكرابر لجلب ${modeText}${seriesText}`);
+        statusText.textContent = `تم إرسال الأمر! يمكنك متابعة التقدم من GitHub Actions`;
+
+        // تحديث حالة آخر تشغيل بعد ثواني
+        setTimeout(loadLastScraperRun, 3000);
+
+    } catch (error) {
+        console.error('Scraper trigger error:', error);
+        showToast('error', 'خطأ', 'فشل تشغيل السكرابر: ' + error.message);
+        statusDiv.style.display = 'none';
+    } finally {
+        // إعادة تفعيل الأزرار
+        newBtn.disabled = false;
+        fullBtn.disabled = false;
+    }
+}
+
+/**
+ * جلب معلومات آخر تشغيل للسكرابر
+ */
+async function loadLastScraperRun() {
+    if (!githubAPI.hasToken()) return;
+
+    const container = document.getElementById('lastScraperRun');
+
+    try {
+        const run = await githubAPI.getLatestWorkflowRun('scrape.yml');
+
+        if (run) {
+            const statusIcons = {
+                'completed': '<i class="fas fa-check-circle text-success"></i>',
+                'in_progress': '<i class="fas fa-spinner fa-spin text-warning"></i>',
+                'queued': '<i class="fas fa-clock text-info"></i>',
+                'failure': '<i class="fas fa-times-circle text-danger"></i>',
+                'cancelled': '<i class="fas fa-ban text-secondary"></i>'
+            };
+
+            const statusTexts = {
+                'completed': 'مكتمل',
+                'in_progress': 'قيد التشغيل',
+                'queued': 'في الانتظار',
+                'failure': 'فشل',
+                'cancelled': 'ملغي'
+            };
+
+            const conclusionTexts = {
+                'success': 'ناجح',
+                'failure': 'فشل',
+                'cancelled': 'ملغي',
+                'skipped': 'تم تخطيه'
+            };
+
+            const icon = statusIcons[run.status] || statusIcons['completed'];
+            const status = run.conclusion ? conclusionTexts[run.conclusion] : statusTexts[run.status];
+            const date = formatDateTime(run.created_at);
+
+            container.innerHTML = `
+                <div class="last-run-card">
+                    <h4>آخر تشغيل للسكرابر:</h4>
+                    <div class="run-info">
+                        <span class="run-status">${icon} ${status}</span>
+                        <span class="run-date"><i class="fas fa-calendar"></i> ${date}</span>
+                        <a href="${run.html_url}" target="_blank" class="btn btn-secondary btn-sm">
+                            <i class="fas fa-external-link-alt"></i>
+                            عرض التفاصيل
+                        </a>
+                    </div>
+                </div>
+            `;
+
+            // لو قيد التشغيل، نحدث كل 10 ثواني
+            if (run.status === 'in_progress' || run.status === 'queued') {
+                setTimeout(loadLastScraperRun, 10000);
+            }
+        } else {
+            container.innerHTML = '<p class="text-muted">لم يتم تشغيل السكرابر من قبل</p>';
+        }
+    } catch (error) {
+        console.log('Could not load scraper run:', error);
+        container.innerHTML = '';
+    }
+}
+
+function formatDateTime(dateString) {
+    if (!dateString) return '-';
+    try {
+        const date = new Date(dateString);
+        return date.toLocaleDateString('ar-EG', {
+            year: 'numeric',
+            month: 'short',
+            day: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit'
         });
     } catch {
         return dateString;

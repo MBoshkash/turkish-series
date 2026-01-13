@@ -108,10 +108,11 @@ data class Servers(
  */
 data class WatchServer(
     @SerializedName("name") val name: String,
-    @SerializedName("type") val type: String,  // direct, iframe, webview
+    @SerializedName("type") val type: String,  // direct, iframe, webview, akwam, arabseed
     @SerializedName("url") val url: String,
+    @SerializedName("direct_url") val directUrl: String?,  // الرابط المباشر للفيديو (من arabseed)
     @SerializedName("quality") val quality: String?,
-    @SerializedName("source") val source: String?  // akwam
+    @SerializedName("source") val source: String?  // akwam, arabseed
 )
 
 /**
@@ -120,8 +121,10 @@ data class WatchServer(
 data class DownloadServer(
     @SerializedName("name") val name: String,
     @SerializedName("url") val url: String,
+    @SerializedName("original_url") val originalUrl: String?,  // الرابط الأصلي قبل TDM wrap
     @SerializedName("quality") val quality: String?,
     @SerializedName("size") val size: String?,
+    @SerializedName("is_direct") val isDirect: Boolean?,  // هل الرابط مباشر أم يحتاج TDM
     @SerializedName("source") val source: String?
 )
 
@@ -170,7 +173,8 @@ data class ResolverConfig(
     @SerializedName("version") val version: Int,
     @SerializedName("type") val type: String,  // redirect, iframe, webview, direct
     @SerializedName("needs_webview") val needsWebview: Boolean?,
-    @SerializedName("bypass_cloudflare") val bypassCloudflare: Boolean?
+    @SerializedName("bypass_cloudflare") val bypassCloudflare: Boolean?,
+    @SerializedName("tdm_deeplink") val tdmDeeplink: String?  // tdm://open?url={url}
 )
 
 /**

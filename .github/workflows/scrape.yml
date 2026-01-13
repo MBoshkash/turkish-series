@@ -1,17 +1,23 @@
 name: Scrape Turkish Series
 
 on:
-  # تشغيل كل 6 ساعات
   schedule:
     - cron: '0 */6 * * *'
 
-  # تشغيل يدوي
   workflow_dispatch:
     inputs:
       series_id:
         description: 'Series ID to scrape (leave empty for all)'
         required: false
         default: ''
+      scrape_mode:
+        description: 'Scrape mode'
+        required: false
+        default: 'new'
+        type: choice
+        options:
+          - new
+          - full
 
 jobs:
   scrape:
@@ -40,10 +46,14 @@ jobs:
       - name: Run scraper
         run: |
           cd scraper
+          MODE_FLAG=""
+          if [ "${{ github.event.inputs.scrape_mode }}" = "full" ]; then
+            MODE_FLAG="--full"
+          fi
           if [ -n "${{ github.event.inputs.series_id }}" ]; then
-            python main.py --series "${{ github.event.inputs.series_id }}"
+            python main.py --series "${{ github.event.inputs.series_id }}" $MODE_FLAG
           else
-            python main.py --all
+            python main.py --all $MODE_FLAG
           fi
         env:
           PYTHONIOENCODING: utf-8
@@ -56,7 +66,8 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "🔄 Auto-update series data - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            MODE="${{ github.event.inputs.scrape_mode || 'new' }}"
+            git commit -m "Auto-update series data ($MODE) - $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
           fi
 
@@ -64,4 +75,5 @@ jobs:
         run: |
           echo "## Scrape Summary" >> $GITHUB_STEP_SUMMARY
           echo "- **Time**: $(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "- **Mode**: ${{ github.event.inputs.scrape_mode || 'new' }}" >> $GITHUB_STEP_SUMMARY
           echo "- **Series**: $(ls -1 data/series/*.json 2>/dev/null | wc -l)" >> $GITHUB_STEP_SUMMARY

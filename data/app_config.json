@@ -47,28 +47,32 @@
       "id": "arabseed",
       "name": "عرب سيد",
       "name_en": "ArabSeed",
-      "enabled": false,
+      "enabled": true,
       "priority": 2,
       "icon": "",
       "domains": [
+        "a.asd.homes",
         "arabseed.ink",
-        "arabseed.sbs",
-        "arabseed.net"
+        "arabseed.sbs"
       ],
-      "current_domain": "arabseed.ink",
+      "current_domain": "a.asd.homes",
       "patterns": {
         "base": "https://{domain}",
-        "series": "/series/{slug}",
-        "episode": "/episode/{slug}-ep-{ep}"
+        "series": "/{slug}/",
+        "episode": "/{slug}/",
+        "watch": "/{slug}/watch/",
+        "download": "/{slug}/download/"
       },
       "headers": {
-        "Referer": "https://arabseed.ink/"
+        "Referer": "https://a.asd.homes/",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36"
       },
       "resolver": {
         "version": 1,
         "type": "iframe",
         "needs_webview": true,
-        "bypass_cloudflare": false
+        "bypass_cloudflare": true,
+        "tdm_deeplink": "tdm://open?url={url}"
       },
       "qualities": [
         "1080p",

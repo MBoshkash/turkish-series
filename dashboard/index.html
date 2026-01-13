@@ -116,12 +116,43 @@
 
                 <div class="card">
                     <div class="card-header">
+                        <h2><i class="fas fa-robot"></i> سكرابر الحلقات</h2>
+                    </div>
+                    <div class="card-body">
+                        <p>تشغيل سكرابر الحلقات من GitHub Actions:</p>
+                        <div class="scraper-buttons">
+                            <button class="btn btn-success btn-lg" onclick="triggerScraper('new')" id="scrapeNewBtn">
+                                <i class="fas fa-sync"></i>
+                                جلب الحلقات الجديدة فقط
+                            </button>
+                            <button class="btn btn-warning btn-lg" onclick="triggerScraper('full')" id="scrapeFullBtn">
+                                <i class="fas fa-download"></i>
+                                جلب جميع الحلقات
+                            </button>
+                            <button class="btn btn-primary btn-lg" onclick="showScrapeSingleSeriesModal()" id="scrapeSingleBtn">
+                                <i class="fas fa-film"></i>
+                                جلب مسلسل واحد
+                            </button>
+                        </div>
+                        <div id="scraperStatus" class="scraper-status" style="display: none;">
+                            <i class="fas fa-spinner fa-spin"></i>
+                            <span id="scraperStatusText">جاري التشغيل...</span>
+                        </div>
+                        <div id="lastScraperRun" class="last-run-info">
+                            <!-- يتم تحديثها ديناميكياً -->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
                         <h2><i class="fas fa-info-circle"></i> نظرة عامة</h2>
                     </div>
                     <div class="card-body">
                         <p>مرحباً بك في لوحة تحكم تطبيق المسلسلات التركية.</p>
                         <p>من هنا يمكنك:</p>
                         <ul>
+                            <li><strong>تشغيل السكرابر:</strong> جلب حلقات جديدة أو تحديث جميع الحلقات</li>
                             <li><strong>إدارة المصادر:</strong> تفعيل/تعطيل المصادر وتغيير الدومينات</li>
                             <li><strong>إدارة المسلسلات:</strong> إضافة مصادر جديدة للمسلسلات</li>
                             <li><strong>إرسال رسائل:</strong> إعلانات أو رسائل صيانة للمستخدمين</li>

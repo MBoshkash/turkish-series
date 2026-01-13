@@ -20,6 +20,9 @@ object TDMHelper {
     // Activity للتحميل
     private const val TDM_DOWNLOAD_ACTIVITY = "com.tdm.manager.dialog.DownloadEditor"
 
+    // TDM Deep Link prefix
+    private const val TDM_DEEPLINK_PREFIX = "tdm://open?url="
+
     /**
      * التحقق إذا TDM مثبت
      */
@@ -41,9 +44,32 @@ object TDMHelper {
     }
 
     /**
+     * التحقق إذا الرابط هو TDM deep link
+     */
+    fun isTDMDeepLink(url: String): Boolean {
+        return url.startsWith("tdm://")
+    }
+
+    /**
+     * استخراج الرابط الأصلي من TDM deep link
+     */
+    fun extractUrlFromDeepLink(deepLink: String): String {
+        return if (deepLink.startsWith(TDM_DEEPLINK_PREFIX)) {
+            deepLink.removePrefix(TDM_DEEPLINK_PREFIX)
+        } else {
+            deepLink
+        }
+    }
+
+    /**
      * تحميل ملف باستخدام TDM
      */
     fun downloadWithTDM(context: Context, url: String, fileName: String? = null) {
+        // لو الرابط هو TDM deep link، نفتحه مباشرة
+        if (isTDMDeepLink(url)) {
+            openTDMDeepLink(context, url)
+            return
+        }
         // نحاول التحميل مباشرة بدون التحقق أولاً
         try {
             // الطريقة الأولى: استخدام DownloadEditor مباشرة
@@ -85,6 +111,35 @@ object TDMHelper {
                 "فشل فتح رابط التحميل",
                 Toast.LENGTH_SHORT
             ).show()
+        }
+    }
+
+    /**
+     * فتح رابط TDM deep link
+     */
+    private fun openTDMDeepLink(context: Context, deepLink: String) {
+        try {
+            val intent = Intent(Intent.ACTION_VIEW).apply {
+                data = Uri.parse(deepLink)
+                addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+            }
+            context.startActivity(intent)
+        } catch (e: Exception) {
+            // لو فشل فتح الـ deep link، نستخرج الرابط ونفتحه عادي
+            val actualUrl = extractUrlFromDeepLink(deepLink)
+            try {
+                val intent = Intent(Intent.ACTION_VIEW).apply {
+                    data = Uri.parse(actualUrl)
+                    addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+                }
+                context.startActivity(Intent.createChooser(intent, "تحميل بواسطة"))
+            } catch (e2: Exception) {
+                Toast.makeText(
+                    context,
+                    "فشل فتح رابط التحميل",
+                    Toast.LENGTH_SHORT
+                ).show()
+            }
         }
     }
 

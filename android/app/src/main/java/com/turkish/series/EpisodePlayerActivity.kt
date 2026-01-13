@@ -152,6 +152,13 @@ class EpisodePlayerActivity : AppCompatActivity() {
         resolvedWatchUrl = null
         resolvedDownloadUrl = null
 
+        // لو عندنا رابط مباشر من عرب سيد، نستخدمه
+        if (!server.directUrl.isNullOrEmpty()) {
+            resolvedWatchUrl = server.directUrl
+            playWithExoPlayer(server.directUrl)
+            return
+        }
+
         when (server.type) {
             "direct" -> {
                 // Play directly with ExoPlayer
@@ -167,11 +174,16 @@ class EpisodePlayerActivity : AppCompatActivity() {
                 openWebViewPlayer(watchUrl)
             }
             "iframe" -> {
+                // ArabSeed iframes - open in WebView
                 openWebViewPlayer(server.url)
             }
             "akwam" -> {
                 // روابط أكوام - نعمل resolve للحصول على الرابط المباشر
                 resolveAndPlayAkwam(server.url)
+            }
+            "arabseed" -> {
+                // روابط عرب سيد - نفتح في WebView
+                openWebViewPlayer(server.url)
             }
             else -> {
                 // Default: try WebView

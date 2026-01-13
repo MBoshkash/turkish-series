@@ -237,6 +237,55 @@ class GitHubAPI {
     hasToken() {
         return !!this.token;
     }
+
+    /**
+     * تشغيل workflow من GitHub Actions
+     * @param {string} workflowId - اسم ملف الـ workflow (مثل: scrape.yml)
+     * @param {object} inputs - المدخلات للـ workflow
+     */
+    async triggerWorkflow(workflowId, inputs = {}) {
+        const url = `${this.baseUrl}/repos/${this.owner}/${this.repo}/actions/workflows/${workflowId}/dispatches`;
+
+        const response = await fetch(url, {
+            method: 'POST',
+            headers: this.getHeaders(),
+            body: JSON.stringify({
+                ref: this.branch,
+                inputs: inputs
+            })
+        });
+
+        if (!response.ok) {
+            if (response.status === 404) {
+                throw new Error('Workflow غير موجود');
+            } else if (response.status === 422) {
+                throw new Error('مدخلات غير صالحة للـ Workflow');
+            }
+            const error = await response.json().catch(() => ({}));
+            throw new Error(error.message || `فشل تشغيل الـ Workflow: ${response.status}`);
+        }
+
+        return true;
+    }
+
+    /**
+     * جلب حالة آخر workflow run
+     * @param {string} workflowId - اسم ملف الـ workflow
+     */
+    async getLatestWorkflowRun(workflowId) {
+        const url = `${this.baseUrl}/repos/${this.owner}/${this.repo}/actions/workflows/${workflowId}/runs?per_page=1`;
+
+        const response = await fetch(url, {
+            headers: this.getHeaders()
+        });
+
+        if (!response.ok) {
+            throw new Error(`فشل جلب حالة الـ Workflow: ${response.status}`);
+        }
+
+        const data = await response.json();
+        return data.workflow_runs?.[0] || null;
+    }
 }
 
 // إنشاء instance واحد
