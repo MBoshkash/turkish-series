@@ -1,13 +1,14 @@
 package com.turkish.series
 
 import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import androidx.media3.common.MediaItem
-import androidx.media3.datasource.DefaultHttpDataSource
+import androidx.media3.datasource.okhttp.OkHttpDataSource
 import androidx.media3.exoplayer.ExoPlayer
 import androidx.media3.exoplayer.source.DefaultMediaSourceFactory
 import com.google.android.material.tabs.TabLayout
@@ -16,7 +17,9 @@ import com.turkish.series.databinding.ActivityEpisodePlayerBinding
 import com.turkish.series.models.EpisodeDetail
 import com.turkish.series.models.WatchServer
 import com.turkish.series.utils.AkwamResolver
+import com.turkish.series.utils.QissaResolver
 import com.turkish.series.utils.TDMHelper
+import com.turkish.series.utils.UnsafeOkHttpClient
 import kotlinx.coroutines.launch
 
 /**
@@ -35,6 +38,7 @@ class EpisodePlayerActivity : AppCompatActivity() {
     private var exoPlayer: ExoPlayer? = null
     private var episodeDetail: EpisodeDetail? = null
     private var currentServer: WatchServer? = null
+    private var seriesTitle: String = ""
 
     // الرابط المباشر للحلقة الحالية (بعد الـ resolve)
     private var resolvedWatchUrl: String? = null
@@ -46,46 +50,69 @@ class EpisodePlayerActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         val seriesId = intent.getStringExtra(EXTRA_SERIES_ID) ?: ""
-        val seriesTitle = intent.getStringExtra(EXTRA_SERIES_TITLE) ?: ""
+        seriesTitle = intent.getStringExtra(EXTRA_SERIES_TITLE) ?: ""
         val episodeNumber = intent.getIntExtra(EXTRA_EPISODE_NUMBER, 1)
 
         setupToolbar(seriesTitle, episodeNumber)
-        setupDownloadButton()
+        setupButtons()
 
         loadEpisodeDetail(seriesId, episodeNumber)
     }
 
     private fun setupToolbar(seriesTitle: String, episodeNumber: Int) {
-        binding.toolbar.title = "$seriesTitle - الحلقة $episodeNumber"
+        binding.toolbar.title = "الحلقة $episodeNumber"
         binding.toolbar.setNavigationOnClickListener {
             onBackPressedDispatcher.onBackPressed()
         }
     }
 
-    private fun setupDownloadButton() {
+    private fun setupButtons() {
         binding.downloadButton.setOnClickListener {
             downloadCurrentEpisode()
+        }
+
+        binding.externalPlayerButton.setOnClickListener {
+            openInExternalPlayer()
+        }
+    }
+
+    private fun openInExternalPlayer() {
+        val url = resolvedWatchUrl ?: currentServer?.url ?: return
+
+        try {
+            val intent = Intent(Intent.ACTION_VIEW).apply {
+                setDataAndType(Uri.parse(url), "video/*")
+            }
+            startActivity(Intent.createChooser(intent, "اختر مشغل الفيديو"))
+        } catch (e: Exception) {
+            showToast("لا يوجد مشغل فيديو متاح")
         }
     }
 
     private fun loadEpisodeDetail(seriesId: String, episodeNumber: Int) {
-        showLoading(true)
+        showLoading(true, "جاري تحميل بيانات الحلقة...")
 
         lifecycleScope.launch {
             try {
                 // Format: seriesId_episodeNumber (e.g., 5127_13)
                 val filename = "${seriesId}_${String.format("%02d", episodeNumber)}"
                 episodeDetail = ApiClient.apiService.getEpisodeDetail(filename)
-                episodeDetail?.let { displayEpisodeDetail(it) }
+                episodeDetail?.let { displayEpisodeDetail(it, episodeNumber) }
             } catch (e: Exception) {
                 showError(e.message)
             }
         }
     }
 
-    private fun displayEpisodeDetail(episode: EpisodeDetail) {
+    private fun displayEpisodeDetail(episode: EpisodeDetail, episodeNumber: Int) {
+        // Episode number badge
+        binding.episodeNumberBadge.text = episodeNumber.toString()
+
         // Title
-        binding.episodeTitleText.text = episode.title ?: "الحلقة ${episode.episodeNumber}"
+        binding.episodeTitleText.text = episode.title ?: "الحلقة $episodeNumber"
+
+        // Series title
+        binding.seriesTitleText.text = seriesTitle
 
         // Setup servers tabs
         setupServersTabs(episode)
@@ -120,7 +147,7 @@ class EpisodePlayerActivity : AppCompatActivity() {
 
     private fun playServer(server: WatchServer) {
         currentServer = server
-        showLoading(true)
+        showLoading(true, "جاري تحميل الفيديو...")
 
         // Reset resolved URLs
         resolvedWatchUrl = null
@@ -147,6 +174,10 @@ class EpisodePlayerActivity : AppCompatActivity() {
                 // روابط أكوام - نعمل resolve للحصول على الرابط المباشر
                 resolveAndPlayAkwam(server.url)
             }
+            "3isk", "qissa" -> {
+                // روابط قصة عشق - نعمل resolve للحصول على رابط الـ embed
+                resolveAndPlay3isk(server.url)
+            }
             else -> {
                 // Default: try WebView
                 playInEmbeddedWebView(server.url)
@@ -158,6 +189,8 @@ class EpisodePlayerActivity : AppCompatActivity() {
      * يحل رابط أكوام ويشغل الفيديو
      */
     private fun resolveAndPlayAkwam(episodeUrl: String) {
+        showLoading(true, "جاري جلب رابط الفيديو...")
+
         lifecycleScope.launch {
             try {
                 val result = AkwamResolver.resolve(episodeUrl)
@@ -176,6 +209,41 @@ class EpisodePlayerActivity : AppCompatActivity() {
             } catch (e: Exception) {
                 showError("فشل جلب رابط الفيديو: ${e.message}")
                 playInEmbeddedWebView(episodeUrl)
+            }
+        }
+    }
+
+    /**
+     * يحل رابط قصة عشق ويشغل الفيديو في WebView
+     */
+    private fun resolveAndPlay3isk(episodeUrl: String) {
+        showLoading(true, "جاري جلب سيرفرات المشاهدة...")
+
+        lifecycleScope.launch {
+            try {
+                val result = QissaResolver.resolve(episodeUrl)
+
+                if (result.servers.isNotEmpty()) {
+                    // نجح! نجيب أول سيرفر عنده streamUrl
+                    val server = result.servers.firstOrNull { it.streamUrl != null }
+                        ?: result.servers.first()
+
+                    val urlToPlay = server.streamUrl ?: server.embedUrl
+                    resolvedWatchUrl = urlToPlay
+
+                    // قصة عشق يرجع iframe - نفتحه في WebView
+                    openWebViewPlayer(urlToPlay)
+                } else {
+                    // فشل - نفتح صفحة المشاهدة مباشرة
+                    showToast("جاري فتح صفحة المشاهدة...")
+                    val watchUrl = if (episodeUrl.endsWith("/")) "${episodeUrl}see/" else "$episodeUrl/see/"
+                    openWebViewPlayer(watchUrl)
+                }
+            } catch (e: Exception) {
+                showError("فشل جلب السيرفرات: ${e.message}")
+                // Fallback: فتح صفحة المشاهدة
+                val watchUrl = if (episodeUrl.endsWith("/")) "${episodeUrl}see/" else "$episodeUrl/see/"
+                openWebViewPlayer(watchUrl)
             }
         }
     }
@@ -213,12 +281,10 @@ class EpisodePlayerActivity : AppCompatActivity() {
         // Release previous player
         exoPlayer?.release()
 
-        // Create DataSource with headers for Akwam servers
-        val dataSourceFactory = DefaultHttpDataSource.Factory()
-            .setUserAgent("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
-            .setAllowCrossProtocolRedirects(true)
-            .setConnectTimeoutMs(15000)
-            .setReadTimeoutMs(30000)
+        // Create OkHttp DataSource with SSL bypass for video servers
+        val okHttpClient = UnsafeOkHttpClient.getUnsafeOkHttpClient()
+        val dataSourceFactory = OkHttpDataSource.Factory(okHttpClient)
+            .setUserAgent("Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36")
 
         // Create new player with custom DataSource
         exoPlayer = ExoPlayer.Builder(this)
@@ -246,7 +312,7 @@ class EpisodePlayerActivity : AppCompatActivity() {
     }
 
     private fun downloadCurrentEpisode() {
-        showLoading(true)
+        showLoading(true, "جاري جلب رابط التحميل...")
 
         lifecycleScope.launch {
             try {
@@ -255,7 +321,7 @@ class EpisodePlayerActivity : AppCompatActivity() {
                     TDMHelper.downloadWithTDM(
                         this@EpisodePlayerActivity,
                         resolvedDownloadUrl!!,
-                        "${episodeDetail?.seriesTitle}_الحلقة${episodeDetail?.episodeNumber}.mp4"
+                        "${seriesTitle}_الحلقة${episodeDetail?.episodeNumber}.mp4"
                     )
                     showLoading(false)
                     return@launch
@@ -266,7 +332,7 @@ class EpisodePlayerActivity : AppCompatActivity() {
                     TDMHelper.downloadWithTDM(
                         this@EpisodePlayerActivity,
                         resolvedWatchUrl!!,
-                        "${episodeDetail?.seriesTitle}_الحلقة${episodeDetail?.episodeNumber}.mp4"
+                        "${seriesTitle}_الحلقة${episodeDetail?.episodeNumber}.mp4"
                     )
                     showLoading(false)
                     return@launch
@@ -275,14 +341,13 @@ class EpisodePlayerActivity : AppCompatActivity() {
                 // نحتاج نحل الرابط
                 val server = currentServer ?: episodeDetail?.servers?.watch?.firstOrNull()
                 if (server != null && server.type == "akwam") {
-                    showToast("جاري جلب رابط التحميل...")
                     val downloadUrl = AkwamResolver.resolveDownload(server.url)
                     if (downloadUrl != null) {
                         resolvedDownloadUrl = downloadUrl
                         TDMHelper.downloadWithTDM(
                             this@EpisodePlayerActivity,
                             downloadUrl,
-                            "${episodeDetail?.seriesTitle}_الحلقة${episodeDetail?.episodeNumber}.mp4"
+                            "${seriesTitle}_الحلقة${episodeDetail?.episodeNumber}.mp4"
                         )
                     } else {
                         showToast("فشل جلب رابط التحميل")
@@ -291,7 +356,7 @@ class EpisodePlayerActivity : AppCompatActivity() {
                     TDMHelper.downloadWithTDM(
                         this@EpisodePlayerActivity,
                         server.url,
-                        "${episodeDetail?.seriesTitle}_الحلقة${episodeDetail?.episodeNumber}.mp4"
+                        "${seriesTitle}_الحلقة${episodeDetail?.episodeNumber}.mp4"
                     )
                 } else {
                     showToast("لا يوجد رابط للتحميل")
@@ -304,8 +369,9 @@ class EpisodePlayerActivity : AppCompatActivity() {
         }
     }
 
-    private fun showLoading(show: Boolean) {
-        binding.loadingProgress.visibility = if (show) View.VISIBLE else View.GONE
+    private fun showLoading(show: Boolean, message: String = "جاري التحميل...") {
+        binding.loadingOverlay.visibility = if (show) View.VISIBLE else View.GONE
+        binding.loadingText.text = message
     }
 
     private fun showError(message: String?) {

@@ -6,7 +6,10 @@
       "Bash(git branch:*)",
       "Bash(git push:*)",
       "Bash(python scraper/main.py:*)",
-      "Bash(set:*)"
+      "Bash(set:*)",
+      "Bash(git rebase:*)",
+      "Bash(GIT_EDITOR=true git rebase:*)",
+      "Bash(git -c core.editor=true rebase --continue)"
     ]
   }
 }

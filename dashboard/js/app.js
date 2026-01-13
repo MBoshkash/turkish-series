@@ -363,8 +363,10 @@ function editSource(id) {
                 <option value="iframe" ${resolverType === 'iframe' ? 'selected' : ''}>iframe - الفيديو في iframe محتاج extraction</option>
                 <option value="webview" ${resolverType === 'webview' ? 'selected' : ''}>webview - محتاج WebView كامل (حماية قوية)</option>
                 <option value="direct" ${resolverType === 'direct' ? 'selected' : ''}>direct - رابط مباشر للفيديو</option>
+                <option value="3isk" ${resolverType === '3isk' ? 'selected' : ''}>3isk - قصة عشق (يجلب iframe من embed)</option>
+                <option value="akwam" ${resolverType === 'akwam' ? 'selected' : ''}>akwam - أكوام (يجلب رابط مباشر من redirect)</option>
             </select>
-            <small>redirect: مثل أكوام | iframe: مثل عرب سيد | webview: مثل قصة عشق</small>
+            <small>redirect: مثل أكوام | iframe: مثل عرب سيد | 3isk: قصة عشق | akwam: أكوام</small>
         </div>
         <div class="form-group">
             <label>
@@ -436,6 +438,8 @@ function addNewSource() {
                 <option value="iframe" selected>iframe - الفيديو في iframe محتاج extraction</option>
                 <option value="webview">webview - محتاج WebView كامل (حماية قوية)</option>
                 <option value="direct">direct - رابط مباشر للفيديو</option>
+                <option value="3isk">3isk - قصة عشق (يجلب iframe من embed)</option>
+                <option value="akwam">akwam - أكوام (يجلب رابط مباشر من redirect)</option>
             </select>
         </div>
         <div class="form-group">
