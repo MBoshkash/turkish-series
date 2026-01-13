@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 8.0,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
     "#Sahtekarlar",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-01-13T03:46:54.966454Z",
+  "last_updated": "2026-01-13T06:15:53.004730Z",
   "episodes": [
     {
       "number": 1,

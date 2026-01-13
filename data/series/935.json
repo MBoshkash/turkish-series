@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
+    "#Iyi Günde Kötü Günde",
     "رمضان",
-    "#Iyi Günde Kötü Günde"
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-01-13T03:48:59.993019Z",
+  "last_updated": "2026-01-13T06:18:12.715220Z",
   "episodes": [
     {
       "number": 1,

@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 6.3,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
     "#ذات اخرى",
-    "مدبلج",
+    "#Another Self",
     "#Another Self الموسم الاول",
-    "#Another Self"
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "55 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-01-13T03:47:57.661917Z",
+  "last_updated": "2026-01-13T06:17:03.517935Z",
   "episodes": [
     {
       "number": 1,

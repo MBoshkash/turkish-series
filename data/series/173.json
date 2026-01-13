@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 6.4,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "#Ihlamurlar altinda",
-    "مدبلج",
     "#يحيى ولميس",
-    "#سنوات الضياع"
+    "مدبلج",
+    "#سنوات الضياع",
+    "#Ihlamurlar altinda"
   ],
   "quality": "720p",
   "duration": "",
@@ -26,6 +26,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-01-13T03:49:10.912010Z",
+  "last_updated": "2026-01-13T06:18:25.020515Z",
   "episodes": []
 }
