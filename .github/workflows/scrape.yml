@@ -61,6 +61,11 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
 
+          # Stash changes, pull latest, then apply changes
+          git stash --include-untracked || true
+          git pull origin main --rebase || true
+          git stash pop || true
+
           git add data/
 
           # Check if there are changes
@@ -68,10 +73,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "🔄 Auto-update series data - $(date -u '+%Y-%m-%d %H:%M UTC')"
-
-            # Pull latest and rebase our commit on top, then push
-            git fetch origin main
-            git rebase origin/main
             git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" HEAD:main
           fi
 
