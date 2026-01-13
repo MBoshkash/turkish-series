@@ -67,7 +67,7 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "🔄 Auto-update series data - $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push origin main
+            git push --force origin main
           fi
 
       - name: Summary
