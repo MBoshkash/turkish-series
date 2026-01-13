@@ -13,6 +13,22 @@
         "url": "https://ak.sv/episode/89294/المدينة-البعيدة-الموسم-الثاني/الحلقة-1",
         "quality": "720p",
         "source": "akwam"
+      },
+      {
+        "name": "Savefiles",
+        "type": "iframe",
+        "url": "https://savefiles.com/e/7cyuqkkyvfl8",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Vidmoly",
+        "type": "iframe",
+        "url": "https://vidmoly.net/embed-xnpxppbw6weu.html",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
       }
     ],
     "download": [
@@ -22,6 +38,48 @@
         "quality": "720p",
         "size": "",
         "source": "akwam"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/1454ntx9last",
+        "quality": "1080p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Turbobit",
+        "url": "tdm://open?url=https://turbobit.net/7nilspeod6vz.html",
+        "quality": "1080p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/uivbmfbzawtj",
+        "quality": "720p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Turbobit",
+        "url": "tdm://open?url=https://turbobit.net/ejzbaua1nhop.html",
+        "quality": "720p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/w1lyid9psf90",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Turbobit",
+        "url": "tdm://open?url=https://turbobit.net/cvoei212rn1o.html",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
       }
     ]
   }

@@ -13,6 +13,22 @@
         "url": "https://ak.sv/episode/91405/المدينة-البعيدة-الموسم-الثاني/الحلقة-13",
         "quality": "720p",
         "source": "akwam"
+      },
+      {
+        "name": "Savefiles",
+        "type": "iframe",
+        "url": "https://savefiles.com/e/4wd9j68c15t7",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Ups2up",
+        "type": "iframe",
+        "url": "https://ups2up.fun/embed-4y0fb3883a4k.html",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
       }
     ],
     "download": [
@@ -22,6 +38,48 @@
         "quality": "720p",
         "size": "",
         "source": "akwam"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/fkxq4czg1a4a/%5Barabseed%5D.Uzak.Sehir.S02E13.1080p.mp4",
+        "quality": "1080p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Turbobit",
+        "url": "tdm://open?url=https://turbobit.net/mm4o8kgmpi11.html",
+        "quality": "1080p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/0g53ljlhcj7d",
+        "quality": "720p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/5yzxst1qjv67/%5Barabseed%5D.Uzak.Sehir.S02E13.720p.mp4",
+        "quality": "720p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/m7zqcru32jic",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/jei0yscxng50/%5Barabseed%5D.Uzak.Sehir.S02E13.480p.mp4",
+        "quality": "480p",
+        "is_direct": true,
+        "source": "arabseed"
       }
     ]
   }

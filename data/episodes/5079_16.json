@@ -13,6 +13,22 @@
         "url": "https://ak.sv/episode/92214/المدينة-البعيدة-الموسم-الثاني/الحلقة-16",
         "quality": "720p",
         "source": "akwam"
+      },
+      {
+        "name": "Savefiles",
+        "type": "iframe",
+        "url": "https://savefiles.com/e/xypg1c8unt9k",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Up4fun",
+        "type": "iframe",
+        "url": "https://up4fun.top/embed-mliahxovyhfa.html",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
       }
     ],
     "download": [
@@ -22,6 +38,48 @@
         "quality": "720p",
         "size": "",
         "source": "akwam"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/c2hd2cc2k4qd",
+        "quality": "1080p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/jecxy36m8dkj/%5Barabseed%5D.Uzak.Sehir.S02E16.1080p.mp4",
+        "quality": "1080p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/8hjoz5glex2o",
+        "quality": "720p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/slitxmwgyxz1/%5Barabseed%5D.Uzak.Sehir.S02E16.720p.mp4",
+        "quality": "720p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/pxr550vzc75s",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/t7z13h6rlkqo/%5Barabseed%5D.Uzak.Sehir.S02E16.480p.mp4",
+        "quality": "480p",
+        "is_direct": true,
+        "source": "arabseed"
       }
     ]
   }
