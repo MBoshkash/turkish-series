@@ -45,10 +45,12 @@ jobs:
 
       - name: Setup proxy list
         run: |
-          if [ -n "${{ secrets.PROXY_LIST }}" ]; then
-            echo "${{ secrets.PROXY_LIST }}" > scraper/proxies.txt
-            echo "Proxy list created with $(wc -l < scraper/proxies.txt) proxies"
-          fi
+          # Download fresh proxy list
+          curl -sL "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt" -o scraper/proxies_raw.txt
+          # Format proxies with http:// prefix and shuffle them
+          sed 's/^/http:\/\//' scraper/proxies_raw.txt | shuf | head -100 > scraper/proxies.txt
+          rm scraper/proxies_raw.txt
+          echo "Proxy list created with $(wc -l < scraper/proxies.txt) proxies"
 
       - name: Run scraper
         run: |

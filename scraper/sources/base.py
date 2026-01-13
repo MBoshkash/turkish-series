@@ -103,15 +103,32 @@ class BaseScraper(ABC):
     def get_page(self, url: str, retries: int = 3) -> Optional[BeautifulSoup]:
         """Fetch a page and return BeautifulSoup object"""
 
-        # Try with proxies first if available
+        # If we have a working proxy, use it first
+        if BaseScraper._working_proxy:
+            proxies = {'http': BaseScraper._working_proxy, 'https': BaseScraper._working_proxy}
+            try:
+                response = self.scraper.get(
+                    url,
+                    headers=self.headers,
+                    timeout=15,
+                    proxies=proxies
+                )
+                response.raise_for_status()
+                response.encoding = 'utf-8'
+                return BeautifulSoup(response.text, 'lxml')
+            except Exception as e:
+                print(f"[{self.source_name}] Working proxy failed: {str(e)[:50]}")
+                self._mark_proxy_failed(BaseScraper._working_proxy)
+
+        # Try other proxies from list
         if BaseScraper._proxy_list:
-            for proxy_url in list(BaseScraper._proxy_list):  # Copy list to iterate
+            for proxy_url in list(BaseScraper._proxy_list)[:20]:  # Try max 20 proxies
                 proxies = {'http': proxy_url, 'https': proxy_url}
                 try:
                     response = self.scraper.get(
                         url,
                         headers=self.headers,
-                        timeout=15,
+                        timeout=10,
                         proxies=proxies
                     )
                     response.raise_for_status()
@@ -119,7 +136,6 @@ class BaseScraper(ABC):
                     self._mark_proxy_working(proxy_url)
                     return BeautifulSoup(response.text, 'lxml')
                 except Exception as e:
-                    print(f"[{self.source_name}] Proxy {proxy_url[:25]}... failed: {str(e)[:50]}")
                     self._mark_proxy_failed(proxy_url)
                     continue
 
@@ -135,7 +151,7 @@ class BaseScraper(ABC):
                 response.encoding = 'utf-8'
                 return BeautifulSoup(response.text, 'lxml')
             except Exception as e:
-                print(f"[{self.source_name}] Attempt {attempt + 1} failed for {url}: {e}")
+                print(f"[{self.source_name}] Direct attempt {attempt + 1} failed: {str(e)[:50]}")
                 if attempt < retries - 1:
                     time.sleep(2 ** attempt)
         return None
