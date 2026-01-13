@@ -13,6 +13,22 @@
         "url": "https://ak.sv/episode/91191/المنظمة-الموسم-السادس/الحلقة-11",
         "quality": "720p",
         "source": "akwam"
+      },
+      {
+        "name": "Savefiles",
+        "type": "iframe",
+        "url": "https://savefiles.com/e/skrk5cpkofl8",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Ups2up",
+        "type": "iframe",
+        "url": "https://ups2up.fun/embed-971cie3uj1um.html",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
       }
     ],
     "download": [
@@ -22,6 +38,41 @@
         "quality": "720p",
         "size": "",
         "source": "akwam"
+      },
+      {
+        "name": "Frdl",
+        "url": "https://filespayouts.com/v7bl9daa5py3/%5Barabseed%5D.Teskilat.S06E11.480p.mp4https://fredl.ru/9ry1l9nx53cehttps://turbobit.net/w13i5b013gb1.htmlhttps://www.up-4ever.net/r15zkzoffobg",
+        "quality": "1080p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/cmqlx1lhe9wu",
+        "quality": "720p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/m94462a1uyt2/%5Barabseed%5D.Teskilat.S06E11.720p.mp4",
+        "quality": "720p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/ps8beem0yqpv",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/1n7msgi0190u/%5Barabseed%5D.Teskilat.S06E11.1080p.mp4",
+        "quality": "480p",
+        "is_direct": true,
+        "source": "arabseed"
       }
     ]
   }
