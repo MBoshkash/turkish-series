@@ -7,6 +7,8 @@ let appConfig = null;
 let appConfigSha = null;
 let seriesList = null;
 let seriesListSha = null;
+let scraperConfig = null;  // بيانات config.json (تحتوي على روابط المصادر للمسلسلات)
+let scraperConfigSha = null;
 let currentPage = 1;
 const itemsPerPage = 20;
 
@@ -16,7 +18,7 @@ const itemsPerPage = 20;
 
 document.addEventListener('DOMContentLoaded', async () => {
     // تحميل إعدادات GitHub
-    githubAPI.loadSettings();
+    const hasSettings = githubAPI.loadSettings();
     updateGitHubFields();
 
     // Navigation
@@ -29,6 +31,12 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     // محاولة تحميل البيانات
     await loadInitialData();
+
+    // لو عندنا Token محفوظ، نعمل sync تلقائي
+    if (hasSettings && githubAPI.hasToken()) {
+        console.log('Auto-syncing with saved token...');
+        await syncWithGitHub();
+    }
 });
 
 /**
@@ -137,6 +145,14 @@ async function syncWithGitHub() {
         if (seriesResult) {
             seriesList = seriesResult.data.series || [];
             seriesListSha = seriesResult.sha;
+        }
+
+        // جلب config.json (يحتوي على روابط المصادر للمسلسلات)
+        const scraperResult = await githubAPI.readJSON('data/config.json');
+        if (scraperResult) {
+            scraperConfig = scraperResult.data;
+            scraperConfigSha = scraperResult.sha;
+            console.log('Loaded scraper config with', scraperConfig.series?.length || 0, 'series');
         }
 
         // تحديث الواجهة
@@ -610,16 +626,25 @@ function editSeriesSources(seriesId) {
     const series = seriesList.find(s => s.id === seriesId);
     if (!series) return;
 
+    // البحث عن المسلسل في scraperConfig للحصول على الروابط الحالية
+    const scraperSeries = scraperConfig?.series?.find(s => s.id === seriesId || s.id === String(seriesId));
+    const existingSources = scraperSeries?.sources || {};
+
     document.getElementById('modalTitle').textContent = `مصادر: ${series.title}`;
     document.getElementById('modalBody').innerHTML = `
         <p class="text-muted mb-4">أضف روابط المسلسل من المصادر المختلفة:</p>
-        ${Object.entries(appConfig.sources).map(([id, source]) => `
+        ${Object.entries(appConfig.sources).map(([id, source]) => {
+            // جلب الرابط الحالي إن وجد
+            const currentUrl = existingSources[id]?.url || '';
+            return `
             <div class="form-group">
                 <label>${source.name}:</label>
                 <input type="text" id="source_${id}" class="form-control"
+                       value="${currentUrl}"
                        placeholder="رابط المسلسل في ${source.name}">
+                ${currentUrl ? '<small class="text-success">رابط موجود</small>' : '<small class="text-muted">لم يتم إضافة رابط بعد</small>'}
             </div>
-        `).join('')}
+        `}).join('')}
     `;
 
     document.getElementById('modalSaveBtn').onclick = () => saveSeriesSources(seriesId);
@@ -627,10 +652,49 @@ function editSeriesSources(seriesId) {
 }
 
 async function saveSeriesSources(seriesId) {
-    // هنا سيتم حفظ الروابط في config.json
-    // هذه الوظيفة تحتاج لتعديل config.json
-    showToast('info', 'قيد التطوير', 'سيتم إضافة هذه الميزة قريباً');
+    if (!scraperConfig) {
+        showToast('error', 'خطأ', 'لم يتم تحميل بيانات المصادر');
+        return;
+    }
+
+    // البحث عن المسلسل في scraperConfig
+    let scraperSeries = scraperConfig.series?.find(s => s.id === seriesId || s.id === String(seriesId));
+
+    // لو المسلسل غير موجود، نضيفه
+    if (!scraperSeries) {
+        const seriesInfo = seriesList.find(s => s.id === seriesId);
+        scraperSeries = {
+            id: String(seriesId),
+            name: seriesInfo?.title || '',
+            original_name: '',
+            enabled: true,
+            sources: {}
+        };
+        if (!scraperConfig.series) scraperConfig.series = [];
+        scraperConfig.series.push(scraperSeries);
+    }
+
+    // تحديث روابط المصادر
+    Object.keys(appConfig.sources).forEach(sourceId => {
+        const url = document.getElementById(`source_${sourceId}`).value.trim();
+        if (url) {
+            scraperSeries.sources[sourceId] = {
+                url: url,
+                fetch: ['info', 'poster', 'episodes', 'download', 'watch']
+            };
+        } else if (scraperSeries.sources[sourceId]) {
+            // حذف المصدر لو تم إفراغ الرابط
+            delete scraperSeries.sources[sourceId];
+        }
+    });
+
     closeModal();
+    showToast('success', 'تم الحفظ', 'تم تحديث روابط المصادر');
+
+    // حفظ في GitHub
+    if (githubAPI.hasToken() && scraperConfigSha) {
+        await saveScraperConfigToGitHub();
+    }
 }
 
 // ============================================
@@ -700,27 +764,137 @@ async function loadEpisodes() {
     }
 }
 
-function editEpisodeSources(seriesId, episodeNumber) {
+async function editEpisodeSources(seriesId, episodeNumber) {
+    // تحميل بيانات الحلقة من GitHub
+    const paddedEp = String(episodeNumber).padStart(2, '0');
+    const episodeFile = `data/episodes/${seriesId}_${paddedEp}.json`;
+
+    let episodeData = null;
+    let episodeSha = null;
+
+    // عرض loading
     document.getElementById('modalTitle').textContent = `الحلقة ${episodeNumber}`;
+    document.getElementById('modalBody').innerHTML = '<div class="spinner"></div>';
+    openModal();
+
+    try {
+        // محاولة جلب بيانات الحلقة
+        if (githubAPI.hasToken()) {
+            const result = await githubAPI.readJSON(episodeFile);
+            if (result) {
+                episodeData = result.data;
+                episodeSha = result.sha;
+            }
+        } else {
+            // جلب من GitHub Pages
+            const baseUrl = `https://${githubAPI.owner || 'mboshkash'}.github.io/${githubAPI.repo || 'turkish-series'}`;
+            const response = await fetch(`${baseUrl}/${episodeFile}`);
+            if (response.ok) {
+                episodeData = await response.json();
+            }
+        }
+    } catch (error) {
+        console.log('Episode file not found:', error);
+    }
+
+    // استخراج الروابط الحالية من servers.watch
+    const existingUrls = {};
+    if (episodeData?.servers?.watch) {
+        episodeData.servers.watch.forEach(server => {
+            if (server.source) {
+                existingUrls[server.source] = server.url;
+            }
+        });
+    }
+
     document.getElementById('modalBody').innerHTML = `
         <p class="text-muted mb-4">أضف روابط الحلقة من المصادر المختلفة:</p>
-        ${Object.entries(appConfig.sources).map(([id, source]) => `
+        ${Object.entries(appConfig.sources).map(([id, source]) => {
+            const currentUrl = existingUrls[id] || '';
+            return `
             <div class="form-group">
                 <label>${source.name}:</label>
                 <input type="text" id="ep_source_${id}" class="form-control"
+                       value="${currentUrl}"
                        placeholder="رابط الحلقة في ${source.name}">
+                ${currentUrl ? '<small class="text-success">رابط موجود</small>' : '<small class="text-muted">لم يتم إضافة رابط بعد</small>'}
             </div>
-        `).join('')}
+        `}).join('')}
     `;
 
+    // حفظ SHA للاستخدام عند الحفظ
+    window.currentEpisodeSha = episodeSha;
+    window.currentEpisodeData = episodeData;
+
     document.getElementById('modalSaveBtn').onclick = () => saveEpisodeSources(seriesId, episodeNumber);
-    openModal();
 }
 
 async function saveEpisodeSources(seriesId, episodeNumber) {
-    // سيتم تنفيذ هذا لاحقاً
-    showToast('info', 'قيد التطوير', 'سيتم إضافة هذه الميزة قريباً');
-    closeModal();
+    if (!githubAPI.hasToken()) {
+        showToast('error', 'خطأ', 'يجب الاتصال بـ GitHub أولاً');
+        return;
+    }
+
+    const paddedEp = String(episodeNumber).padStart(2, '0');
+    const episodeFile = `data/episodes/${seriesId}_${paddedEp}.json`;
+
+    // إنشاء أو تحديث بيانات الحلقة
+    let episodeData = window.currentEpisodeData || {
+        series_id: String(seriesId),
+        series_title: seriesList.find(s => s.id === seriesId)?.title || '',
+        episode_number: episodeNumber,
+        title: `الحلقة ${episodeNumber}`,
+        date_added: new Date().toLocaleDateString('ar-EG'),
+        last_updated: new Date().toISOString(),
+        servers: { watch: [], download: [] }
+    };
+
+    // تحديث السيرفرات
+    const newWatchServers = [];
+    const newDownloadServers = [];
+
+    Object.entries(appConfig.sources).forEach(([sourceId, source]) => {
+        const url = document.getElementById(`ep_source_${sourceId}`).value.trim();
+        if (url) {
+            newWatchServers.push({
+                name: source.name,
+                type: sourceId,
+                url: url,
+                quality: source.default_quality || '720p',
+                source: sourceId
+            });
+            newDownloadServers.push({
+                name: source.name,
+                url: url,
+                quality: source.default_quality || '720p',
+                size: '',
+                source: sourceId
+            });
+        }
+    });
+
+    episodeData.servers.watch = newWatchServers;
+    episodeData.servers.download = newDownloadServers;
+    episodeData.last_updated = new Date().toISOString();
+
+    // حفظ في GitHub
+    try {
+        const result = await githubAPI.writeJSON(
+            episodeFile,
+            episodeData,
+            `🔧 Update episode ${seriesId}_${paddedEp} sources from Dashboard`,
+            window.currentEpisodeSha
+        );
+
+        closeModal();
+        showToast('success', 'تم الحفظ', 'تم تحديث روابط الحلقة');
+
+        // تحديث عرض الحلقات
+        loadEpisodes();
+    } catch (error) {
+        console.error('Save episode error:', error);
+        showToast('error', 'خطأ', 'فشل حفظ الحلقة: ' + error.message);
+    }
 }
 
 // ============================================
@@ -797,6 +971,26 @@ async function saveConfigToGitHub() {
     } catch (error) {
         console.error('Save error:', error);
         showToast('error', 'خطأ', 'فشل الحفظ في GitHub: ' + error.message);
+    }
+}
+
+/**
+ * حفظ config.json (روابط المصادر للمسلسلات)
+ */
+async function saveScraperConfigToGitHub() {
+    try {
+        const result = await githubAPI.writeJSON(
+            'data/config.json',
+            scraperConfig,
+            '🔧 Update config.json from Dashboard',
+            scraperConfigSha
+        );
+
+        scraperConfigSha = result.content.sha;
+        showToast('success', 'تم الحفظ', 'تم حفظ روابط المصادر في GitHub');
+    } catch (error) {
+        console.error('Save scraper config error:', error);
+        showToast('error', 'خطأ', 'فشل حفظ روابط المصادر: ' + error.message);
     }
 }
 
