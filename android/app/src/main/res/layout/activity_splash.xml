@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary">
+
+    <!-- Logo Container -->
+    <FrameLayout
+        android:id="@+id/logoContainer"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        app:layout_constraintBottom_toTopOf="@+id/appName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="packed">
+
+        <!-- Main Circle Background -->
+        <View
+            android:id="@+id/logoCircle"
+            android:layout_width="140dp"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:background="@drawable/splash_circle_bg" />
+
+        <!-- Play Button Triangle -->
+        <ImageView
+            android:id="@+id/playButton"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_play_white"
+            android:contentDescription="تشغيل" />
+
+        <!-- Top Crescent (Turkish Moon) -->
+        <ImageView
+            android:id="@+id/crescentTop"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ic_crescent"
+            android:contentDescription="هلال" />
+
+        <!-- Top Star -->
+        <ImageView
+            android:id="@+id/starTop"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="70dp"
+            android:layout_marginTop="25dp"
+            android:src="@drawable/ic_star_white"
+            android:contentDescription="نجمة" />
+
+        <!-- Bottom Crescent -->
+        <ImageView
+            android:id="@+id/crescentBottom"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_gravity="bottom|end"
+            android:layout_marginEnd="25dp"
+            android:layout_marginBottom="15dp"
+            android:src="@drawable/ic_crescent"
+            android:alpha="0.7"
+            android:contentDescription="هلال" />
+
+        <!-- Bottom Star -->
+        <ImageView
+            android:id="@+id/starBottom"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_gravity="bottom|end"
+            android:layout_marginEnd="70dp"
+            android:layout_marginBottom="35dp"
+            android:src="@drawable/ic_star_white"
+            android:alpha="0.7"
+            android:contentDescription="نجمة" />
+
+    </FrameLayout>
+
+    <!-- App Name -->
+    <TextView
+        android:id="@+id/appName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:fontFamily="@font/tajawal"
+        android:text="@string/app_name"
+        android:textColor="@android:color/white"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/tagline"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/logoContainer" />
+
+    <!-- Tagline -->
+    <TextView
+        android:id="@+id/tagline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="100dp"
+        android:alpha="0.9"
+        android:fontFamily="@font/tajawal"
+        android:text="أفضل المسلسلات التركية"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/appName" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
