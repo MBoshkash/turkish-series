@@ -17,7 +17,6 @@ import com.turkish.series.databinding.ActivityEpisodePlayerBinding
 import com.turkish.series.models.EpisodeDetail
 import com.turkish.series.models.WatchServer
 import com.turkish.series.utils.AkwamResolver
-import com.turkish.series.utils.QissaResolver
 import com.turkish.series.utils.TDMHelper
 import com.turkish.series.utils.UnsafeOkHttpClient
 import kotlinx.coroutines.launch
@@ -159,7 +158,7 @@ class EpisodePlayerActivity : AppCompatActivity() {
                 playWithExoPlayer(server.url)
             }
             "webview" -> {
-                // Open in WebView (for qissah eshq, etc.)
+                // Open in WebView
                 val watchUrl = if (server.url.endsWith("/")) {
                     "${server.url}see/"
                 } else {
@@ -173,10 +172,6 @@ class EpisodePlayerActivity : AppCompatActivity() {
             "akwam" -> {
                 // روابط أكوام - نعمل resolve للحصول على الرابط المباشر
                 resolveAndPlayAkwam(server.url)
-            }
-            "3isk", "qissa" -> {
-                // روابط قصة عشق - نعمل resolve للحصول على رابط الـ embed
-                resolveAndPlay3isk(server.url)
             }
             else -> {
                 // Default: try WebView
@@ -209,41 +204,6 @@ class EpisodePlayerActivity : AppCompatActivity() {
             } catch (e: Exception) {
                 showError("فشل جلب رابط الفيديو: ${e.message}")
                 playInEmbeddedWebView(episodeUrl)
-            }
-        }
-    }
-
-    /**
-     * يحل رابط قصة عشق ويشغل الفيديو في WebView
-     */
-    private fun resolveAndPlay3isk(episodeUrl: String) {
-        showLoading(true, "جاري جلب سيرفرات المشاهدة...")
-
-        lifecycleScope.launch {
-            try {
-                val result = QissaResolver.resolve(episodeUrl)
-
-                if (result.servers.isNotEmpty()) {
-                    // نجح! نجيب أول سيرفر عنده streamUrl
-                    val server = result.servers.firstOrNull { it.streamUrl != null }
-                        ?: result.servers.first()
-
-                    val urlToPlay = server.streamUrl ?: server.embedUrl
-                    resolvedWatchUrl = urlToPlay
-
-                    // قصة عشق يرجع iframe - نفتحه في WebView
-                    openWebViewPlayer(urlToPlay)
-                } else {
-                    // فشل - نفتح صفحة المشاهدة مباشرة
-                    showToast("جاري فتح صفحة المشاهدة...")
-                    val watchUrl = if (episodeUrl.endsWith("/")) "${episodeUrl}see/" else "$episodeUrl/see/"
-                    openWebViewPlayer(watchUrl)
-                }
-            } catch (e: Exception) {
-                showError("فشل جلب السيرفرات: ${e.message}")
-                // Fallback: فتح صفحة المشاهدة
-                val watchUrl = if (episodeUrl.endsWith("/")) "${episodeUrl}see/" else "$episodeUrl/see/"
-                openWebViewPlayer(watchUrl)
             }
         }
     }

@@ -23,4 +23,8 @@
 
     <!-- Rating -->
     <color name="rating_star">#FFD700</color>
+
+    <!-- Chips -->
+    <color name="chip_background">#2A2A2A</color>
+    <color name="chip_selected">#E30A17</color>
 </resources>

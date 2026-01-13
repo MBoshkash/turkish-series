@@ -15,22 +15,23 @@
         android:layout_height="?attr/actionBarSize"
         android:background="@color/surface"
         app:navigationIcon="@drawable/ic_back"
-        app:title="الحلقة"
         app:titleTextColor="@color/text_primary" />
 
-    <!-- ExoPlayer -->
+    <!-- Video Player Container -->
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="1">
+        android:layout_weight="1"
+        android:background="@android:color/black">
 
+        <!-- ExoPlayer -->
         <androidx.media3.ui.PlayerView
             android:id="@+id/playerView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@android:color/black"
             app:show_buffering="when_playing"
-            app:use_controller="true" />
+            app:use_controller="true"
+            app:controller_layout_id="@layout/exo_player_control_view" />
 
         <!-- WebView for iframe sources -->
         <WebView
@@ -39,65 +40,166 @@
             android:layout_height="match_parent"
             android:visibility="gone" />
 
-        <!-- Loading -->
-        <ProgressBar
-            android:id="@+id/loadingProgress"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center" />
+        <!-- Loading Overlay -->
+        <FrameLayout
+            android:id="@+id/loadingOverlay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#88000000"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ProgressBar
+                    android:id="@+id/loadingProgress"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp" />
+
+                <TextView
+                    android:id="@+id/loadingText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    android:text="جاري تحميل الفيديو..."
+                    android:textColor="@color/text_primary"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+        </FrameLayout>
 
     </FrameLayout>
 
-    <!-- Bottom Section - Servers & Download -->
-    <LinearLayout
+    <!-- Bottom Controls Card -->
+    <com.google.android.material.card.MaterialCardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/surface"
-        android:orientation="vertical"
-        android:padding="16dp">
+        app:cardBackgroundColor="@color/surface"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="8dp"
+        android:layout_marginTop="-16dp">
 
-        <!-- Episode Title -->
-        <TextView
-            android:id="@+id/episodeTitleText"
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColor="@color/text_primary"
-            android:textSize="16sp"
-            android:textStyle="bold"
-            tools:text="الحلقة 13" />
+            android:orientation="vertical"
+            android:padding="16dp">
 
-        <!-- Servers Section -->
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="12dp"
-            android:text="@string/servers"
-            android:textColor="@color/text_secondary"
-            android:textSize="14sp" />
+            <!-- Episode Info Row -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
 
-        <!-- Servers Tabs -->
-        <com.google.android.material.tabs.TabLayout
-            android:id="@+id/serversTabLayout"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
-            app:tabBackground="@drawable/selector_server_tab"
-            app:tabGravity="start"
-            app:tabIndicatorHeight="0dp"
-            app:tabMode="scrollable"
-            app:tabSelectedTextColor="@color/text_primary"
-            app:tabTextColor="@color/text_secondary" />
+                <!-- Episode Number Badge -->
+                <TextView
+                    android:id="@+id/episodeNumberBadge"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:background="@drawable/bg_episode_badge"
+                    android:gravity="center"
+                    android:textColor="@color/text_primary"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    tools:text="13" />
 
-        <!-- Download Button -->
-        <com.google.android.material.button.MaterialButton
-            android:id="@+id/downloadButton"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="16dp"
-            android:text="@string/download_with_tdm"
-            app:icon="@drawable/ic_download"
-            app:iconGravity="textStart" />
+                <!-- Title & Info -->
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
 
-    </LinearLayout>
+                    <TextView
+                        android:id="@+id/episodeTitleText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="end"
+                        android:maxLines="1"
+                        android:textColor="@color/text_primary"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        tools:text="الحلقة 13" />
+
+                    <TextView
+                        android:id="@+id/seriesTitleText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:ellipsize="end"
+                        android:maxLines="1"
+                        android:textColor="@color/text_secondary"
+                        android:textSize="13sp"
+                        tools:text="المحتالون مترجم" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <!-- Servers Section -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="السيرفرات"
+                android:textColor="@color/text_secondary"
+                android:textSize="13sp" />
+
+            <!-- Servers Tabs -->
+            <com.google.android.material.tabs.TabLayout
+                android:id="@+id/serversTabLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                app:tabBackground="@drawable/selector_server_tab"
+                app:tabGravity="start"
+                app:tabIndicatorHeight="0dp"
+                app:tabMode="scrollable"
+                app:tabMinWidth="80dp"
+                app:tabSelectedTextColor="@color/text_primary"
+                app:tabTextColor="@color/text_secondary" />
+
+            <!-- Action Buttons -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:orientation="horizontal">
+
+                <!-- Download Button -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/downloadButton"
+                    android:layout_width="0dp"
+                    android:layout_height="48dp"
+                    android:layout_weight="1"
+                    android:text="@string/download_with_tdm"
+                    app:icon="@drawable/ic_download"
+                    app:iconGravity="textStart"
+                    app:cornerRadius="12dp" />
+
+                <!-- External Player Button -->
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/externalPlayerButton"
+                    style="@style/Widget.Material3.Button.OutlinedButton"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_marginStart="8dp"
+                    app:icon="@drawable/ic_external"
+                    app:iconGravity="textStart"
+                    app:iconPadding="0dp"
+                    app:cornerRadius="12dp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </com.google.android.material.card.MaterialCardView>
 
 </LinearLayout>

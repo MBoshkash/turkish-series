@@ -79,46 +79,6 @@
       "supports_download": true,
       "supports_watch": true
     },
-    "3isk": {
-      "id": "3isk",
-      "name": "قصة عشق",
-      "name_en": "3isk",
-      "enabled": true,
-      "priority": 2,
-      "icon": "",
-      "domains": [
-        "aa.3ick.net",
-        "3esk.onl",
-        "3isk.tv",
-        "3isk.co"
-      ],
-      "current_domain": "aa.3ick.net",
-      "patterns": {
-        "base": "https://{domain}",
-        "series": "/watch/tvshows/serie-{slug}/",
-        "episode": "/watch/episodes/serie-{slug}-season-{season}-episode-{ep}/",
-        "watch": "/watch/episodes/serie-{slug}-season-{season}-episode-{ep}/see/",
-        "embed": "/embed/{type}/{post_id}/{server_num}/"
-      },
-      "headers": {
-        "Referer": "https://aa.3ick.net/",
-        "User-Agent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36"
-      },
-      "resolver": {
-        "version": 1,
-        "type": "3isk",
-        "needs_webview": true,
-        "bypass_cloudflare": false
-      },
-      "qualities": [
-        "1080p",
-        "720p",
-        "480p"
-      ],
-      "default_quality": "1080p",
-      "supports_download": false,
-      "supports_watch": true
-    },
     "cimaclub": {
       "id": "cimaclub",
       "name": "سيما كلوب",
@@ -166,8 +126,7 @@
   "settings": {
     "default_source": "akwam",
     "fallback_sources": [
-      "arabseed",
-      "3isk"
+      "arabseed"
     ],
     "cache_duration_hours": 6,
     "retry_attempts": 3,

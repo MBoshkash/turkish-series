@@ -111,7 +111,7 @@ data class WatchServer(
     @SerializedName("type") val type: String,  // direct, iframe, webview
     @SerializedName("url") val url: String,
     @SerializedName("quality") val quality: String?,
-    @SerializedName("source") val source: String?  // akwam, qissah
+    @SerializedName("source") val source: String?  // akwam
 )
 
 /**

@@ -133,7 +133,6 @@ object ConfigManager {
         return sourceConfig?.currentDomain ?: when(sourceId) {
             "akwam" -> "ak.sv"
             "arabseed" -> "arabseed.ink"
-            "3isk", "qissah" -> "aa.3ick.net"
             else -> ""
         }
     }

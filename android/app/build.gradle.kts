@@ -80,4 +80,7 @@ dependencies {
 
     // ExoPlayer DataSource for custom headers
     implementation("androidx.media3:media3-datasource:1.2.1")
+
+    // OkHttp DataSource for ExoPlayer (to handle SSL issues)
+    implementation("androidx.media3:media3-datasource-okhttp:1.2.1")
 }

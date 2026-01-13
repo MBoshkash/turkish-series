@@ -1,97 +1,313 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.coordinatorlayout.widget.CoordinatorLayout
+<androidx.drawerlayout.widget.DrawerLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawerLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/background">
+    android:fitsSystemWindows="true">
 
-    <com.google.android.material.appbar.AppBarLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@color/background">
-
-        <!-- Search Bar -->
-        <com.google.android.material.card.MaterialCardView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="16dp"
-            app:cardBackgroundColor="@color/surface"
-            app:cardCornerRadius="12dp"
-            app:cardElevation="0dp">
-
-            <EditText
-                android:id="@+id/searchEditText"
-                android:layout_width="match_parent"
-                android:layout_height="48dp"
-                android:background="@android:color/transparent"
-                android:drawableStart="@drawable/ic_search"
-                android:drawablePadding="12dp"
-                android:hint="@string/search_hint"
-                android:imeOptions="actionSearch"
-                android:inputType="text"
-                android:paddingHorizontal="16dp"
-                android:textColor="@color/text_primary"
-                android:textColorHint="@color/text_hint" />
-
-        </com.google.android.material.card.MaterialCardView>
-
-    </com.google.android.material.appbar.AppBarLayout>
-
-    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
-        android:id="@+id/swipeRefresh"
+    <!-- Main Content -->
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        android:background="@color/background">
 
-        <FrameLayout
+        <com.google.android.material.appbar.AppBarLayout
+            android:id="@+id/appBarLayout"
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content"
+            android:background="@color/background"
+            app:elevation="0dp">
 
-            <!-- Series List -->
-            <androidx.recyclerview.widget.RecyclerView
-                android:id="@+id/seriesRecyclerView"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:clipToPadding="false"
-                android:padding="8dp" />
-
-            <!-- Loading -->
-            <ProgressBar
-                android:id="@+id/loadingProgress"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:visibility="gone" />
-
-            <!-- Empty State -->
+            <!-- Top Bar: Menu + Title + Search -->
             <LinearLayout
-                android:id="@+id/emptyState"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:gravity="center"
-                android:orientation="vertical"
-                android:visibility="gone">
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingHorizontal="8dp">
 
+                <!-- Menu Button -->
+                <ImageButton
+                    android:id="@+id/menuButton"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:src="@drawable/ic_menu"
+                    android:contentDescription="القائمة"
+                    app:tint="@color/text_primary" />
+
+                <!-- Logo -->
+                <ImageView
+                    android:id="@+id/logoImage"
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:layout_marginStart="8dp"
+                    android:src="@drawable/ic_logo"
+                    android:contentDescription="شعار التطبيق" />
+
+                <!-- Title -->
                 <TextView
-                    android:layout_width="wrap_content"
+                    android:id="@+id/titleText"
+                    android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:text="@string/no_series"
-                    android:textColor="@color/text_secondary"
-                    android:textSize="16sp" />
+                    android:layout_weight="1"
+                    android:layout_marginStart="8dp"
+                    android:text="@string/app_name"
+                    android:textColor="@color/text_primary"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:fontFamily="@font/tajawal" />
 
-                <com.google.android.material.button.MaterialButton
-                    android:id="@+id/retryButton"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="16dp"
-                    android:text="@string/retry" />
+                <!-- Search Button -->
+                <ImageButton
+                    android:id="@+id/searchButton"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:src="@drawable/ic_search"
+                    android:contentDescription="بحث"
+                    app:tint="@color/text_primary" />
 
             </LinearLayout>
 
-        </FrameLayout>
+            <!-- Search Bar (Hidden by default) -->
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/searchCard"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="16dp"
+                android:layout_marginBottom="8dp"
+                android:visibility="gone"
+                app:cardBackgroundColor="@color/surface"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="0dp">
 
-    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
 
-</androidx.coordinatorlayout.widget.CoordinatorLayout>
+                    <EditText
+                        android:id="@+id/searchEditText"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="@android:color/transparent"
+                        android:hint="@string/search_hint"
+                        android:imeOptions="actionSearch"
+                        android:inputType="text"
+                        android:paddingHorizontal="16dp"
+                        android:textColor="@color/text_primary"
+                        android:textColorHint="@color/text_hint"
+                        android:fontFamily="@font/tajawal" />
+
+                    <ImageButton
+                        android:id="@+id/closeSearchButton"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:layout_marginEnd="4dp"
+                        android:background="?attr/selectableItemBackgroundBorderless"
+                        android:src="@drawable/ic_close"
+                        android:contentDescription="إغلاق"
+                        app:tint="@color/text_hint" />
+
+                </LinearLayout>
+
+            </com.google.android.material.card.MaterialCardView>
+
+            <!-- Filter Bar -->
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="none"
+                android:paddingHorizontal="8dp"
+                android:paddingBottom="8dp">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <!-- Sort/Filter Button -->
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/sortFilterButton"
+                        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="36dp"
+                        android:layout_marginEnd="8dp"
+                        android:text="ترتيب"
+                        android:textColor="@color/text_secondary"
+                        android:textSize="12sp"
+                        android:fontFamily="@font/tajawal"
+                        app:icon="@drawable/ic_sort"
+                        app:iconTint="@color/text_secondary"
+                        app:iconSize="18dp"
+                        app:cornerRadius="18dp"
+                        app:strokeColor="@color/text_hint"
+                        app:strokeWidth="1dp"
+                        app:rippleColor="@color/text_hint" />
+
+                    <!-- Year Filter -->
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/yearFilterButton"
+                        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="36dp"
+                        android:layout_marginEnd="8dp"
+                        android:text="السنة"
+                        android:textColor="@color/text_secondary"
+                        android:textSize="12sp"
+                        android:fontFamily="@font/tajawal"
+                        app:icon="@drawable/ic_dropdown"
+                        app:iconTint="@color/text_secondary"
+                        app:iconGravity="end"
+                        app:iconSize="16dp"
+                        app:cornerRadius="18dp"
+                        app:strokeColor="@color/text_hint"
+                        app:strokeWidth="1dp"
+                        app:rippleColor="@color/text_hint" />
+
+                    <!-- Rating Filter -->
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/ratingFilterButton"
+                        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="36dp"
+                        android:layout_marginEnd="8dp"
+                        android:text="التقييم"
+                        android:textColor="@color/text_secondary"
+                        android:textSize="12sp"
+                        android:fontFamily="@font/tajawal"
+                        app:icon="@drawable/ic_dropdown"
+                        app:iconTint="@color/text_secondary"
+                        app:iconGravity="end"
+                        app:iconSize="16dp"
+                        app:cornerRadius="18dp"
+                        app:strokeColor="@color/text_hint"
+                        app:strokeWidth="1dp"
+                        app:rippleColor="@color/text_hint" />
+
+                    <!-- Genre Filter -->
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/genreFilterButton"
+                        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="36dp"
+                        android:layout_marginEnd="8dp"
+                        android:text="النوع"
+                        android:textColor="@color/text_secondary"
+                        android:textSize="12sp"
+                        android:fontFamily="@font/tajawal"
+                        app:icon="@drawable/ic_dropdown"
+                        app:iconTint="@color/text_secondary"
+                        app:iconGravity="end"
+                        app:iconSize="16dp"
+                        app:cornerRadius="18dp"
+                        app:strokeColor="@color/text_hint"
+                        app:strokeWidth="1dp"
+                        app:rippleColor="@color/text_hint" />
+
+                </LinearLayout>
+
+            </HorizontalScrollView>
+
+            <!-- Results count -->
+            <TextView
+                android:id="@+id/resultsCount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="16dp"
+                android:paddingBottom="8dp"
+                android:textColor="@color/text_secondary"
+                android:textSize="13sp"
+                android:fontFamily="@font/tajawal" />
+
+        </com.google.android.material.appbar.AppBarLayout>
+
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+            android:id="@+id/swipeRefresh"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <!-- Series List -->
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/seriesRecyclerView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clipToPadding="false"
+                    android:padding="8dp" />
+
+                <!-- Loading -->
+                <ProgressBar
+                    android:id="@+id/loadingProgress"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:visibility="gone" />
+
+                <!-- Empty State -->
+                <LinearLayout
+                    android:id="@+id/emptyState"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/no_series"
+                        android:textColor="@color/text_secondary"
+                        android:textSize="16sp"
+                        android:fontFamily="@font/tajawal" />
+
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/retryButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="16dp"
+                        android:text="@string/retry"
+                        android:fontFamily="@font/tajawal" />
+
+                </LinearLayout>
+
+            </FrameLayout>
+
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+        <!-- Bottom Loading Indicator -->
+        <ProgressBar
+            android:id="@+id/bottomLoading"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginBottom="16dp"
+            android:visibility="gone" />
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+    <!-- Navigation Drawer -->
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/navigationView"
+        android:layout_width="280dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="@color/surface"
+        android:fitsSystemWindows="true"
+        app:headerLayout="@layout/nav_header"
+        app:menu="@menu/nav_menu"
+        app:itemTextColor="@color/text_primary"
+        app:itemIconTint="@color/text_secondary" />
+
+</androidx.drawerlayout.widget.DrawerLayout>

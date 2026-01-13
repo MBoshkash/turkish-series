@@ -20,16 +20,24 @@
         android:padding="12dp">
 
         <!-- Episode Number -->
-        <TextView
-            android:id="@+id/episodeNumber"
+        <FrameLayout
             android:layout_width="40dp"
             android:layout_height="40dp"
-            android:background="@drawable/bg_episode_number"
-            android:gravity="center"
-            android:textColor="@color/text_primary"
-            android:textSize="16sp"
-            android:textStyle="bold"
-            tools:text="13" />
+            android:background="@drawable/bg_episode_number">
+
+            <TextView
+                android:id="@+id/episodeNumber"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textColor="@android:color/white"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:includeFontPadding="false"
+                android:fontFamily="sans-serif-medium"
+                tools:text="13" />
+
+        </FrameLayout>
 
         <!-- Episode Info -->
         <LinearLayout
@@ -62,13 +70,17 @@
                     tools:text="12 يناير 2026" />
 
                 <TextView
-                    android:id="@+id/serversCount"
+                    android:id="@+id/qualityBadge"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginStart="12dp"
+                    android:layout_marginStart="8dp"
+                    android:background="@drawable/bg_episode_badge"
+                    android:paddingHorizontal="6dp"
+                    android:paddingVertical="2dp"
                     android:textColor="@color/primary"
-                    android:textSize="12sp"
-                    tools:text="3 سيرفر" />
+                    android:textSize="10sp"
+                    android:textStyle="bold"
+                    tools:text="WEB-DL" />
 
             </LinearLayout>
 

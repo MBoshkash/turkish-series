@@ -19,7 +19,6 @@ sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='repla
 sys.path.insert(0, str(Path(__file__).parent))
 
 from sources.akwam import AkwamScraper
-from sources.qissah import QissahScraper
 
 
 class SeriesScraper:
@@ -39,8 +38,7 @@ class SeriesScraper:
 
         # Initialize scrapers
         self.scrapers = {
-            'akwam': AkwamScraper(),
-            'qissah': QissahScraper()
+            'akwam': AkwamScraper()
         }
 
     def _load_config(self) -> Dict:
@@ -172,45 +170,7 @@ class SeriesScraper:
                 print("[Akwam] ✗ Failed to get series info")
 
         # ============================================
-        # 2. Add Qissah Eshq iframes (manual links)
-        # ============================================
-        qissah_config = series_config.get('sources', {}).get('qissah', {})
-        qissah_episodes = qissah_config.get('episodes', {})
-
-        if qissah_episodes:
-            print(f"\n[Qissah] Adding {len(qissah_episodes)} manual episode links")
-
-            for ep_str, ep_url in qissah_episodes.items():
-                ep_num = int(ep_str)
-
-                if ep_num not in episodes_data:
-                    episodes_data[ep_num] = {
-                        'series_id': series_id,
-                        'series_title': series_data['title'],
-                        'episode_number': ep_num,
-                        'title': f'الحلقة {ep_num}',
-                        'date_added': '',
-                        'last_updated': datetime.utcnow().isoformat() + 'Z',
-                        'servers': {
-                            'watch': [],
-                            'download': []
-                        }
-                    }
-
-                # Add Qissah iframe server
-                # الموقع محمي، فهنضيف الرابط كـ webview بدل iframe
-                episodes_data[ep_num]['servers']['watch'].append({
-                    'name': 'قصة عشق',
-                    'type': 'webview',  # سيتم فتحه في WebView في التطبيق
-                    'url': ep_url,
-                    'quality': '1080p',
-                    'source': 'qissah'
-                })
-
-            print(f"[Qissah] ✓ Added {len(qissah_episodes)} episode links")
-
-        # ============================================
-        # 3. Build final episodes list
+        # 2. Build final episodes list
         # ============================================
         series_data['episodes'] = []
         for ep_num in sorted(episodes_data.keys()):
@@ -225,7 +185,7 @@ class SeriesScraper:
         series_data['total_episodes'] = len(series_data['episodes'])
 
         # ============================================
-        # 4. Save files
+        # 3. Save files
         # ============================================
         # Save series info
         series_path = self.data_dir / "series" / f"{series_id}.json"
