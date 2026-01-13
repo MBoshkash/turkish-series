@@ -4,7 +4,7 @@
   "episode_number": 4,
   "title": "الحلقة 4",
   "date_added": "الإثنين 12 يناير 2026 - 09:33 مساءاً",
-  "last_updated": "2026-01-13T06:15:52.754885Z",
+  "last_updated": "2026-01-13T06:28:19.008Z",
   "servers": {
     "watch": [
       {
@@ -13,6 +13,13 @@
         "url": "https://ak.sv/episode/92398/انت-اسيري-مدبلج/الحلقة-4",
         "quality": "720p",
         "source": "akwam"
+      },
+      {
+        "name": "قصة عشق",
+        "type": "3isk",
+        "url": "https://aa.3ick.net/watch/episodes/serie-esaretim-sensin-qw-mudblj-season-1-episode-4/",
+        "quality": "1080p",
+        "source": "3isk"
       }
     ],
     "download": [
@@ -22,6 +29,13 @@
         "quality": "720p",
         "size": "",
         "source": "akwam"
+      },
+      {
+        "name": "قصة عشق",
+        "url": "https://aa.3ick.net/watch/episodes/serie-esaretim-sensin-qw-mudblj-season-1-episode-4/",
+        "quality": "1080p",
+        "size": "",
+        "source": "3isk"
       }
     ]
   }
