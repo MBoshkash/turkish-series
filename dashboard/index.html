@@ -302,27 +302,46 @@
                                 <option value="arabseed">عرب سيد</option>
                             </select>
                         </div>
+                        <button class="btn btn-success" onclick="saveAppSettings()">
+                            <i class="fas fa-save"></i>
+                            حفظ إعدادات التطبيق
+                        </button>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
+                        <h2><i class="fas fa-download"></i> إعدادات التحديث</h2>
+                    </div>
+                    <div class="card-body">
                         <div class="form-group">
-                            <label for="minVersionCode">الحد الأدنى للإصدار:</label>
-                            <input type="number" id="minVersionCode" class="form-control" value="1">
+                            <label for="versionCode">كود الإصدار (Version Code):</label>
+                            <input type="number" id="versionCode" class="form-control" value="1">
+                            <small>رقم يزيد مع كل تحديث (1, 2, 3, ...)</small>
                         </div>
                         <div class="form-group">
-                            <label for="latestVersionCode">أحدث إصدار:</label>
-                            <input type="number" id="latestVersionCode" class="form-control" value="1">
+                            <label for="versionName">اسم الإصدار (Version Name):</label>
+                            <input type="text" id="versionName" class="form-control" value="1.0.0">
+                            <small>مثال: 1.0.0, 1.1.0, 2.0.0</small>
                         </div>
                         <div class="form-group">
-                            <label for="latestVersionName">اسم الإصدار:</label>
-                            <input type="text" id="latestVersionName" class="form-control" value="1.0.0">
+                            <label for="apkUrl">رابط تحميل التطبيق (APK URL):</label>
+                            <input type="text" id="apkUrl" class="form-control" placeholder="https://github.com/.../app-release.apk">
+                            <small>رابط مباشر لملف APK</small>
+                        </div>
+                        <div class="form-group">
+                            <label for="releaseNotes">ملاحظات التحديث:</label>
+                            <textarea id="releaseNotes" class="form-control" rows="3" placeholder="ما الجديد في هذا الإصدار..."></textarea>
                         </div>
                         <div class="form-group">
                             <label>
                                 <input type="checkbox" id="forceUpdate">
-                                تحديث إجباري
+                                تحديث إجباري (يجبر المستخدم على التحديث)
                             </label>
                         </div>
-                        <button class="btn btn-success" onclick="saveSettings()">
+                        <button class="btn btn-success" onclick="saveVersionSettings()">
                             <i class="fas fa-save"></i>
-                            حفظ الإعدادات
+                            حفظ إعدادات التحديث
                         </button>
                     </div>
                 </div>

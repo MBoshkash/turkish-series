@@ -9,6 +9,8 @@ let seriesList = null;
 let seriesListSha = null;
 let scraperConfig = null;  // بيانات config.json (تحتوي على روابط المصادر للمسلسلات)
 let scraperConfigSha = null;
+let versionConfig = null;  // بيانات version.json (إعدادات التحديث)
+let versionConfigSha = null;
 let currentPage = 1;
 const itemsPerPage = 20;
 
@@ -100,6 +102,13 @@ async function loadInitialData() {
             loadSettingsPage();
         }
 
+        // تحميل version.json
+        const versionResponse = await fetch(`${baseUrl}/data/version.json`);
+        if (versionResponse.ok) {
+            versionConfig = await versionResponse.json();
+            loadVersionSettings();
+        }
+
         // تحميل series.json
         const seriesResponse = await fetch(`${baseUrl}/data/series.json`);
         if (seriesResponse.ok) {
@@ -155,6 +164,15 @@ async function syncWithGitHub() {
             scraperConfig = scraperResult.data;
             scraperConfigSha = scraperResult.sha;
             console.log('Loaded scraper config with', scraperConfig.series?.length || 0, 'series');
+        }
+
+        // جلب version.json (إعدادات التحديث)
+        const versionResult = await githubAPI.readJSON('data/version.json');
+        if (versionResult) {
+            versionConfig = versionResult.data;
+            versionConfigSha = versionResult.sha;
+            console.log('Loaded version config:', versionConfig);
+            loadVersionSettings();
         }
 
         // تحديث الواجهة
@@ -960,26 +978,75 @@ async function saveMessages() {
 function loadSettingsPage() {
     if (!appConfig) return;
 
-    document.getElementById('defaultSource').value = appConfig.settings.default_source || 'akwam';
-    document.getElementById('minVersionCode').value = appConfig.app.min_version_code || 1;
-    document.getElementById('latestVersionCode').value = appConfig.app.latest_version_code || 1;
-    document.getElementById('latestVersionName').value = appConfig.app.latest_version_name || '1.0.0';
-    document.getElementById('forceUpdate').checked = appConfig.app.force_update || false;
+    document.getElementById('defaultSource').value = appConfig.settings?.default_source || 'akwam';
 }
 
-async function saveSettings() {
+/**
+ * تحميل إعدادات التحديث من version.json
+ */
+function loadVersionSettings() {
+    if (!versionConfig) return;
+
+    document.getElementById('versionCode').value = versionConfig.version_code || 1;
+    document.getElementById('versionName').value = versionConfig.version_name || '1.0.0';
+    document.getElementById('apkUrl').value = versionConfig.apk_url || '';
+    document.getElementById('releaseNotes').value = versionConfig.release_notes || '';
+    document.getElementById('forceUpdate').checked = versionConfig.force_update || false;
+}
+
+/**
+ * حفظ إعدادات التطبيق العامة
+ */
+async function saveAppSettings() {
     if (!appConfig) return;
 
     appConfig.settings.default_source = document.getElementById('defaultSource').value;
-    appConfig.app.min_version_code = parseInt(document.getElementById('minVersionCode').value);
-    appConfig.app.latest_version_code = parseInt(document.getElementById('latestVersionCode').value);
-    appConfig.app.latest_version_name = document.getElementById('latestVersionName').value;
-    appConfig.app.force_update = document.getElementById('forceUpdate').checked;
 
-    showToast('success', 'تم الحفظ', 'تم تحديث الإعدادات');
+    showToast('success', 'تم الحفظ', 'تم تحديث إعدادات التطبيق');
 
     if (githubAPI.hasToken() && appConfigSha) {
         await saveConfigToGitHub();
+    }
+}
+
+/**
+ * حفظ إعدادات التحديث في version.json
+ */
+async function saveVersionSettings() {
+    if (!versionConfig) {
+        versionConfig = {};
+    }
+
+    versionConfig.version_code = parseInt(document.getElementById('versionCode').value);
+    versionConfig.version_name = document.getElementById('versionName').value.trim();
+    versionConfig.apk_url = document.getElementById('apkUrl').value.trim();
+    versionConfig.release_notes = document.getElementById('releaseNotes').value.trim();
+    versionConfig.force_update = document.getElementById('forceUpdate').checked;
+
+    showToast('success', 'تم الحفظ', 'تم تحديث إعدادات التحديث');
+
+    if (githubAPI.hasToken()) {
+        await saveVersionToGitHub();
+    }
+}
+
+/**
+ * حفظ version.json في GitHub
+ */
+async function saveVersionToGitHub() {
+    try {
+        const result = await githubAPI.writeJSON(
+            'data/version.json',
+            versionConfig,
+            '🔧 Update version.json from Dashboard',
+            versionConfigSha
+        );
+
+        versionConfigSha = result.content.sha;
+        showToast('success', 'تم الحفظ', 'تم حفظ إعدادات التحديث في GitHub');
+    } catch (error) {
+        console.error('Save version error:', error);
+        showToast('error', 'خطأ', 'فشل الحفظ في GitHub: ' + error.message);
     }
 }
 
