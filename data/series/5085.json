@@ -11,13 +11,13 @@
   "rating": 7.2,
   "genres": [
     "دراما",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#Uzak Şehir",
     "مدبلج",
-    "رمضان"
+    "رمضان",
+    "#Uzak Şehir"
   ],
   "quality": "WEB-DL",
   "duration": "32 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 80,
   "status": "ongoing",
-  "last_updated": "2026-01-13T02:56:14.301891Z",
+  "last_updated": "2026-01-13T03:46:57.377922Z",
   "episodes": [
     {
       "number": 1,

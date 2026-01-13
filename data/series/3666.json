@@ -11,13 +11,13 @@
   "rating": 6.9,
   "genres": [
     "دراما",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#Hayat Bugün الموسم الاول",
     "#لعبة الحياة الموسم الاول",
-    "مدبلج"
+    "مدبلج",
+    "#Hayat Bugün الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 40,
   "status": "ongoing",
-  "last_updated": "2026-01-13T02:57:06.221772Z",
+  "last_updated": "2026-01-13T03:47:49.837515Z",
   "episodes": [
     {
       "number": 1,
