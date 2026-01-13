@@ -110,6 +110,16 @@
             "download",
             "watch"
           ]
+        },
+        "3isk": {
+          "url": "https://aa.3ick.net/watch/tvshows/serie-esaretim-sensin-mudblj/",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
         }
       }
     },
