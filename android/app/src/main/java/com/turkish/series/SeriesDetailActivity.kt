@@ -253,7 +253,8 @@ class SeriesDetailActivity : AppCompatActivity() {
             ServerItem(
                 name = getServerDisplayName(server.name, index),
                 quality = server.quality ?: "720p",
-                type = server.type
+                type = server.type,
+                originalName = server.name  // اسم السيرفر الأصلي
             )
         }) { position ->
             val server = servers[position]
@@ -286,7 +287,8 @@ class SeriesDetailActivity : AppCompatActivity() {
             ServerItem(
                 name = getServerDisplayName(server.name, index),
                 quality = server.quality ?: "720p",
-                type = "download"
+                type = "download",
+                originalName = server.name  // اسم السيرفر الأصلي
             )
         }) { position ->
             val server = servers[position]
@@ -310,28 +312,79 @@ class SeriesDetailActivity : AppCompatActivity() {
     private fun playVideo(server: WatchServer, episodeDetail: EpisodeDetail) {
         lifecycleScope.launch {
             try {
-                Toast.makeText(this@SeriesDetailActivity, "جاري تحميل الفيديو...", Toast.LENGTH_SHORT).show()
+                android.util.Log.d("SeriesDetail", "playVideo: type=${server.type}, source=${server.source}, url=${server.url}")
 
-                // Resolve the actual video URL
-                val videoUrl = withContext(Dispatchers.IO) {
-                    if (server.type == "akwam") {
-                        AkwamResolver.resolveWatch(server.url)
-                    } else {
-                        server.url
-                    }
+                // استبعاد روابط reviewrate.net و asd.homes - مش شغالة كويس
+                if (server.url.contains("reviewrate.net") || server.url.contains("asd.homes")) {
+                    Toast.makeText(this@SeriesDetailActivity, "هذا السيرفر غير متاح حالياً، جرب سيرفر آخر", Toast.LENGTH_SHORT).show()
+                    return@launch
                 }
 
-                if (videoUrl != null) {
-                    // Open ExoPlayer in fullscreen
-                    val intent = Intent(this@SeriesDetailActivity, VideoPlayerActivity::class.java).apply {
-                        putExtra(VideoPlayerActivity.EXTRA_VIDEO_URL, videoUrl)
-                        putExtra(VideoPlayerActivity.EXTRA_TITLE, "${seriesDetail?.title} - الحلقة ${episodeDetail.episodeNumber}")
+                // التعامل حسب نوع السيرفر
+                when (server.type) {
+                    // iframe أو webview - نفتح في WebView
+                    "iframe", "webview", "embed" -> {
+                        android.util.Log.d("SeriesDetail", "Opening in WebView (type=${server.type})")
+                        val intent = Intent(this@SeriesDetailActivity, WebViewPlayerActivity::class.java).apply {
+                            putExtra(WebViewPlayerActivity.EXTRA_URL, server.url)
+                            putExtra(WebViewPlayerActivity.EXTRA_TITLE, "${seriesDetail?.title} - الحلقة ${episodeDetail.episodeNumber}")
+                        }
+                        startActivity(intent)
                     }
-                    startActivity(intent)
-                } else {
-                    Toast.makeText(this@SeriesDetailActivity, "تعذر الحصول على رابط الفيديو", Toast.LENGTH_SHORT).show()
+                    // أكوام - نحتاج resolve أولاً
+                    "akwam" -> {
+                        android.util.Log.d("SeriesDetail", "Resolving Akwam URL")
+                        Toast.makeText(this@SeriesDetailActivity, "جاري تحميل الفيديو...", Toast.LENGTH_SHORT).show()
+
+                        val videoUrl = withContext(Dispatchers.IO) {
+                            AkwamResolver.resolveWatch(server.url)
+                        }
+
+                        if (videoUrl != null) {
+                            android.util.Log.d("SeriesDetail", "Akwam resolved to: $videoUrl")
+                            val intent = Intent(this@SeriesDetailActivity, VideoPlayerActivity::class.java).apply {
+                                putExtra(VideoPlayerActivity.EXTRA_VIDEO_URL, videoUrl)
+                                putExtra(VideoPlayerActivity.EXTRA_TITLE, "${seriesDetail?.title} - الحلقة ${episodeDetail.episodeNumber}")
+                            }
+                            startActivity(intent)
+                        } else {
+                            Toast.makeText(this@SeriesDetailActivity, "تعذر الحصول على رابط الفيديو", Toast.LENGTH_SHORT).show()
+                        }
+                    }
+                    // رابط مباشر - نشغل في ExoPlayer
+                    "direct" -> {
+                        android.util.Log.d("SeriesDetail", "Playing direct URL in ExoPlayer")
+                        val intent = Intent(this@SeriesDetailActivity, VideoPlayerActivity::class.java).apply {
+                            putExtra(VideoPlayerActivity.EXTRA_VIDEO_URL, server.url)
+                            putExtra(VideoPlayerActivity.EXTRA_TITLE, "${seriesDetail?.title} - الحلقة ${episodeDetail.episodeNumber}")
+                        }
+                        startActivity(intent)
+                    }
+                    // نوع غير معروف - نتحقق من المصدر أو الرابط
+                    else -> {
+                        // لو المصدر عرب سيد أو الرابط يحتوي على asd.homes - WebView
+                        if (server.source == "arabseed" ||
+                            server.url.contains("asd.homes") ||
+                            server.url.contains("embed")) {
+                            android.util.Log.d("SeriesDetail", "Opening in WebView (arabseed/embed URL)")
+                            val intent = Intent(this@SeriesDetailActivity, WebViewPlayerActivity::class.java).apply {
+                                putExtra(WebViewPlayerActivity.EXTRA_URL, server.url)
+                                putExtra(WebViewPlayerActivity.EXTRA_TITLE, "${seriesDetail?.title} - الحلقة ${episodeDetail.episodeNumber}")
+                            }
+                            startActivity(intent)
+                        } else {
+                            // محاولة تشغيل كرابط مباشر
+                            android.util.Log.d("SeriesDetail", "Trying as direct URL (fallback)")
+                            val intent = Intent(this@SeriesDetailActivity, VideoPlayerActivity::class.java).apply {
+                                putExtra(VideoPlayerActivity.EXTRA_VIDEO_URL, server.url)
+                                putExtra(VideoPlayerActivity.EXTRA_TITLE, "${seriesDetail?.title} - الحلقة ${episodeDetail.episodeNumber}")
+                            }
+                            startActivity(intent)
+                        }
+                    }
                 }
             } catch (e: Exception) {
+                android.util.Log.e("SeriesDetail", "playVideo error", e)
                 Toast.makeText(this@SeriesDetailActivity, "خطأ: ${e.message}", Toast.LENGTH_SHORT).show()
             }
         }
@@ -340,27 +393,44 @@ class SeriesDetailActivity : AppCompatActivity() {
     private fun downloadWithTDM(server: DownloadServer, episodeDetail: EpisodeDetail) {
         lifecycleScope.launch {
             try {
-                Toast.makeText(this@SeriesDetailActivity, "جاري تجهيز التحميل...", Toast.LENGTH_SHORT).show()
+                android.util.Log.d("SeriesDetail", "downloadWithTDM: source=${server.source}, url=${server.url}")
 
-                // Resolve the actual download URL
-                val downloadUrl = withContext(Dispatchers.IO) {
-                    AkwamResolver.resolveDownload(server.url)
+                // استبعاد روابط reviewrate.net
+                if (server.url.contains("reviewrate.net")) {
+                    Toast.makeText(this@SeriesDetailActivity, "هذا السيرفر غير متاح للتحميل، جرب سيرفر آخر", Toast.LENGTH_SHORT).show()
+                    return@launch
                 }
 
-                if (downloadUrl != null) {
-                    val fileName = "${seriesDetail?.title}_E${episodeDetail.episodeNumber}.mp4"
+                val fileName = "${seriesDetail?.title}_E${episodeDetail.episodeNumber}.mp4"
 
-                    // Check if TDM is installed
-                    if (TDMHelper.isTDMInstalled(this@SeriesDetailActivity)) {
+                // لو الرابط هو TDM deep link - نفتحه مباشرة
+                if (TDMHelper.isTDMDeepLink(server.url)) {
+                    android.util.Log.d("SeriesDetail", "Opening TDM deep link directly")
+                    TDMHelper.downloadWithTDM(this@SeriesDetailActivity, server.url, fileName)
+                    return@launch
+                }
+
+                // لو المصدر أكوام - نحتاج resolve
+                if (server.source == "akwam") {
+                    Toast.makeText(this@SeriesDetailActivity, "جاري تجهيز التحميل...", Toast.LENGTH_SHORT).show()
+
+                    val downloadUrl = withContext(Dispatchers.IO) {
+                        AkwamResolver.resolveDownload(server.url)
+                    }
+
+                    if (downloadUrl != null) {
+                        android.util.Log.d("SeriesDetail", "Akwam download resolved to: $downloadUrl")
                         TDMHelper.downloadWithTDM(this@SeriesDetailActivity, downloadUrl, fileName)
                     } else {
-                        // Prompt to install TDM
-                        TDMHelper.showInstallDialog(this@SeriesDetailActivity)
+                        Toast.makeText(this@SeriesDetailActivity, "تعذر الحصول على رابط التحميل", Toast.LENGTH_SHORT).show()
                     }
                 } else {
-                    Toast.makeText(this@SeriesDetailActivity, "تعذر الحصول على رابط التحميل", Toast.LENGTH_SHORT).show()
+                    // رابط مباشر أو عرب سيد - نستخدمه مباشرة
+                    android.util.Log.d("SeriesDetail", "Using direct download URL")
+                    TDMHelper.downloadWithTDM(this@SeriesDetailActivity, server.url, fileName)
                 }
             } catch (e: Exception) {
+                android.util.Log.e("SeriesDetail", "downloadWithTDM error", e)
                 Toast.makeText(this@SeriesDetailActivity, "خطأ: ${e.message}", Toast.LENGTH_SHORT).show()
             }
         }
@@ -390,7 +460,8 @@ class SeriesDetailActivity : AppCompatActivity() {
 data class ServerItem(
     val name: String,
     val quality: String,
-    val type: String
+    val type: String,
+    val originalName: String = ""  // اسم السيرفر الأصلي (بالإنجليزي)
 )
 
 // Server adapter for the dialog
@@ -419,7 +490,13 @@ class ServerAdapter(
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val server = servers[position]
         holder.serverName.text = server.name
-        holder.serverQuality.text = server.quality
+        // عرض الجودة مع اسم السيرفر الأصلي
+        val qualityText = if (server.originalName.isNotEmpty()) {
+            "${server.quality} • ${server.originalName}"
+        } else {
+            server.quality
+        }
+        holder.serverQuality.text = qualityText
     }
 
     override fun getItemCount() = servers.size

@@ -45,6 +45,14 @@ class ArabSeedScraper(BaseScraper):
         ]
         return any(host in url.lower() for host in direct_hosts)
 
+    def _is_excluded_url(self, url: str) -> bool:
+        """Check if URL should be excluded (not working properly)"""
+        excluded_hosts = [
+            'reviewrate.net',
+            'asd.homes',
+        ]
+        return any(host in url.lower() for host in excluded_hosts)
+
     def _format_download_url(self, url: str) -> str:
         """Format download URL - wrap non-direct links with TDM"""
         if self._is_direct_download(url):
@@ -172,7 +180,9 @@ class ArabSeedScraper(BaseScraper):
 
     def _get_watch_servers(self, watch_url: str) -> List[Dict[str, Any]]:
         """
-        Get watch iframe URLs for each quality (first 2 per quality)
+        Get watch iframe URLs for each quality (2 per quality max)
+        Excludes reviewrate.net and asd.homes URLs
+        Extracts all server URLs from /play.php?url= or /play/?id= patterns
         """
         print(f"[ArabSeed] Getting watch servers from: {watch_url}")
 
@@ -181,6 +191,7 @@ class ArabSeedScraper(BaseScraper):
             return []
 
         servers = []
+        seen_urls = set()  # لتجنب التكرار
 
         # Get qualities available
         qualities = []
@@ -193,89 +204,66 @@ class ArabSeedScraper(BaseScraper):
         if not qualities:
             qualities = ['720']  # Default
 
-        # Get first iframe (usually default quality)
-        iframe = soup.select_one('iframe[src]')
-        if iframe:
-            src = iframe.get('src', '')
+        # البحث عن كل روابط السيرفرات في HTML
+        # Pattern: /play.php?url=BASE64 or /play/?id=BASE64
+        html = str(soup)
+        play_pattern = r'/play[^"\']*\?(?:id|url)=([A-Za-z0-9+/_=-]+)'
+        matches = re.findall(play_pattern, html)
 
-            # Decode if base64
-            decoded_url = src
-            if 'url=' in src:
-                match = re.search(r'url=([A-Za-z0-9+/=_-]+)', src)
-                if match:
-                    decoded_url = self._decode_base64_url(match.group(1))
-            elif src.startswith('/play.php'):
-                decoded_url = self.base_url + src
+        print(f"[ArabSeed] Found {len(matches)} play URLs in HTML")
 
-            if decoded_url:
-                # Get direct video URL from embed page
-                direct_url = self._get_direct_video_url(decoded_url)
+        for encoded in matches:
+            decoded_url = self._decode_base64_url(encoded)
 
-                servers.append({
-                    'name': 'سيرفر عرب سيد',
-                    'type': 'iframe',
-                    'url': decoded_url,
-                    'direct_url': direct_url,
-                    'quality': qualities[0] + 'p' if qualities else '720p',
-                    'source': 'arabseed'
-                })
+            if not decoded_url or not decoded_url.startswith('http'):
+                continue
 
-        # Get server buttons for additional servers
-        server_items = soup.select('li[data-server]')
-        server_count = 0
-        for item in server_items[1:]:  # Skip first (already got default)
-            if server_count >= 1:  # Only get 1 more (total 2)
-                break
+            # تجنب التكرار
+            if decoded_url in seen_urls:
+                continue
+            seen_urls.add(decoded_url)
 
-            server_name = item.get_text(strip=True)
+            # Skip excluded URLs (reviewrate.net, asd.homes)
+            if self._is_excluded_url(decoded_url):
+                print(f"[ArabSeed] Skipping excluded watch URL: {decoded_url}")
+                continue
+
+            # استخراج اسم السيرفر من الدومين
+            server_name = self._extract_server_name(decoded_url)
+
             servers.append({
-                'name': server_name or f'سيرفر {len(servers) + 1}',
+                'name': server_name,
                 'type': 'iframe',
-                'url': watch_url,  # Server switching is done via JS
+                'url': decoded_url,
                 'quality': qualities[0] + 'p' if qualities else '720p',
                 'source': 'arabseed'
             })
-            server_count += 1
 
-        print(f"[ArabSeed] Found {len(servers)} watch servers")
+        # نأخذ أول سيرفرين فقط
+        servers = servers[:2]
+
+        print(f"[ArabSeed] Found {len(servers)} valid watch servers (excluded reviewrate.net/asd.homes)")
         return servers
 
-    def _get_direct_video_url(self, embed_url: str) -> Optional[str]:
-        """Extract direct video URL from embed page (reviewrate.net)"""
-        if not embed_url or 'reviewrate.net' not in embed_url:
-            return None
-
+    def _extract_server_name(self, url: str) -> str:
+        """Extract server name from URL domain"""
         try:
-            response = self.scraper.get(embed_url, headers=self.headers, timeout=30)
-            soup = BeautifulSoup(response.text, 'lxml')
-
-            # Look for video source
-            source = soup.select_one('video source[src]')
-            if source:
-                return source.get('src')
-
-            # Look in scripts
-            for script in soup.select('script'):
-                text = script.string or ''
-
-                # MP4 URLs
-                mp4_match = re.search(r'https?://[^\s\'"<>]+\.mp4[^\s\'"<>]*', text)
-                if mp4_match:
-                    return mp4_match.group(0)
-
-                # M3U8 URLs
-                m3u8_match = re.search(r'https?://[^\s\'"<>]+\.m3u8[^\s\'"<>]*', text)
-                if m3u8_match:
-                    return m3u8_match.group(0)
-
-        except Exception as e:
-            print(f"[ArabSeed] Error getting direct URL: {e}")
-
-        return None
+            from urllib.parse import urlparse
+            domain = urlparse(url).netloc
+            # Remove common prefixes
+            domain = domain.replace('www.', '').replace('m.', '')
+            # Get main domain name
+            parts = domain.split('.')
+            if len(parts) >= 2:
+                return parts[0].capitalize()
+            return domain.capitalize()
+        except:
+            return 'سيرفر'
 
     def _get_download_servers(self, download_url: str) -> List[Dict[str, Any]]:
         """
         Get download links for each quality (first 2 per quality)
+        Excludes reviewrate.net and asd.homes URLs
         """
         print(f"[ArabSeed] Getting download servers from: {download_url}")
 
@@ -284,6 +272,7 @@ class ArabSeedScraper(BaseScraper):
             return []
 
         servers = []
+        excluded_count = 0
 
         # Find all download sections by quality
         quality_sections = soup.select('div[data-quality]')
@@ -291,10 +280,14 @@ class ArabSeedScraper(BaseScraper):
         for section in quality_sections:
             quality = section.get('data-quality', 'unknown')
 
-            # Find download links in this section (first 2 only)
-            links = section.select('a[href*="/l/"]')[:2]
+            # Find download links in this section
+            links = section.select('a[href*="/l/"]')
 
+            valid_count = 0
             for link in links:
+                if valid_count >= 2:  # Max 2 per quality
+                    break
+
                 href = link.get('href', '')
                 name = link.get_text(strip=True)
 
@@ -305,6 +298,12 @@ class ArabSeedScraper(BaseScraper):
                     decoded = self._decode_base64_url(match.group(1))
 
                 if decoded:
+                    # Skip excluded URLs (reviewrate.net, asd.homes)
+                    if self._is_excluded_url(decoded):
+                        print(f"[ArabSeed] Skipping excluded download URL: {decoded}")
+                        excluded_count += 1
+                        continue
+
                     # Check if direct or needs TDM
                     is_direct = self._is_direct_download(decoded)
                     final_url = decoded if is_direct else self._format_download_url(decoded)
@@ -317,8 +316,9 @@ class ArabSeedScraper(BaseScraper):
                         'is_direct': is_direct,
                         'source': 'arabseed'
                     })
+                    valid_count += 1
 
-        print(f"[ArabSeed] Found {len(servers)} download servers")
+        print(f"[ArabSeed] Found {len(servers)} valid download servers (excluded {excluded_count} reviewrate.net/asd.homes)")
         return servers
 
     def _clean_server_name(self, name: str) -> str:
