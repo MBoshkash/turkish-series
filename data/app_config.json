@@ -1,6 +1,6 @@
 {
   "config_version": 1,
-  "last_updated": "2026-01-13T04:43:51.290Z",
+  "last_updated": "2026-01-13T08:14:36.667Z",
   "sources": {
     "akwam": {
       "id": "akwam",
@@ -69,7 +69,7 @@
       },
       "resolver": {
         "version": 1,
-        "type": "iframe",
+        "type": "webview",
         "needs_webview": true,
         "bypass_cloudflare": true,
         "tdm_deeplink": "tdm://open?url={url}"
