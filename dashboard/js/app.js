@@ -1123,10 +1123,15 @@ async function triggerSingleSeriesScraper() {
  * @param {string} seriesId - معرف المسلسل (اختياري)
  */
 async function triggerScraper(mode, seriesId = '') {
+    console.log('triggerScraper called with mode:', mode, 'seriesId:', seriesId);
+
     if (!githubAPI.hasToken()) {
+        console.log('No GitHub token found');
         showToast('warning', 'تنبيه', 'يجب إدخال GitHub Token أولاً');
         return;
     }
+
+    console.log('GitHub token found, proceeding...');
 
     const newBtn = document.getElementById('scrapeNewBtn');
     const fullBtn = document.getElementById('scrapeFullBtn');
@@ -1147,7 +1152,9 @@ async function triggerScraper(mode, seriesId = '') {
         if (seriesId) {
             inputs.series_id = seriesId;
         }
+        console.log('Calling triggerWorkflow with inputs:', inputs);
         await githubAPI.triggerWorkflow('scrape.yml', inputs);
+        console.log('Workflow triggered successfully');
 
         showToast('success', 'تم التشغيل', `تم تشغيل السكرابر لجلب ${modeText}${seriesText}`);
         statusText.textContent = `تم إرسال الأمر! يمكنك متابعة التقدم من GitHub Actions`;

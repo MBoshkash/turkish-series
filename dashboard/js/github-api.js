@@ -245,6 +245,8 @@ class GitHubAPI {
      */
     async triggerWorkflow(workflowId, inputs = {}) {
         const url = `${this.baseUrl}/repos/${this.owner}/${this.repo}/actions/workflows/${workflowId}/dispatches`;
+        console.log('triggerWorkflow URL:', url);
+        console.log('triggerWorkflow inputs:', inputs);
 
         const response = await fetch(url, {
             method: 'POST',
@@ -255,6 +257,8 @@ class GitHubAPI {
             })
         });
 
+        console.log('triggerWorkflow response status:', response.status);
+
         if (!response.ok) {
             if (response.status === 404) {
                 throw new Error('Workflow غير موجود');
@@ -262,6 +266,7 @@ class GitHubAPI {
                 throw new Error('مدخلات غير صالحة للـ Workflow');
             }
             const error = await response.json().catch(() => ({}));
+            console.error('triggerWorkflow error:', error);
             throw new Error(error.message || `فشل تشغيل الـ Workflow: ${response.status}`);
         }
 
