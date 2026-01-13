@@ -174,6 +174,16 @@
             "download",
             "watch"
           ]
+        },
+        "arabseed": {
+          "url": "https://a.asd.homes/%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-16-%D8%A7%D9%84/",
+          "fetch": [
+            "info",
+            "poster",
+            "episodes",
+            "download",
+            "watch"
+          ]
         }
       }
     },
