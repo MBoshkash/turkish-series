@@ -13,6 +13,22 @@
         "url": "https://ak.sv/episode/91202/المحتالون-مترجم/الحلقة-8",
         "quality": "720p",
         "source": "akwam"
+      },
+      {
+        "name": "سيرفر عرب سيد",
+        "type": "iframe",
+        "url": "https://m.reviewrate.net/embed-3d579ptnb21w.html",
+        "direct_url": "https://afd10b10.dls4all.online/d/bmqy5c5tfsrnuwfu3r6nl3vr7alkp67oigmmppuowwtwortobd2k4eg76wtvaxomi5hqlcjc/video.mp4",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "سيرفر 1",
+        "type": "iframe",
+        "url": "https://a.asd.homes/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%a7%d9%84%d9%88%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d8%a7/watch/",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
       }
     ],
     "download": [
@@ -22,6 +38,48 @@
         "quality": "720p",
         "size": "",
         "source": "akwam"
+      },
+      {
+        "name": "سيرفر عرب سيد المباشر",
+        "url": "tdm://open?url=https://m.reviewrate.net/u6f912ffqpel",
+        "quality": "1080p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/q9rhy8n6j44a",
+        "quality": "1080p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "سيرفر عرب سيد المباشر",
+        "url": "tdm://open?url=https://m.reviewrate.net/3lm87m5d082i",
+        "quality": "720p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/l4pdea9w9aab",
+        "quality": "720p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "سيرفر عرب سيد المباشر",
+        "url": "tdm://open?url=https://m.reviewrate.net/3d579ptnb21w",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/16ps5r1ojnri",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
       }
     ]
   }
