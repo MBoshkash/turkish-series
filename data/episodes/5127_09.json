@@ -8,13 +8,6 @@
   "servers": {
     "watch": [
       {
-        "name": "أكوام",
-        "type": "akwam",
-        "url": "https://ak.sv/episode/91378/المحتالون-مترجم/الحلقة-9",
-        "quality": "720p",
-        "source": "akwam"
-      },
-      {
         "name": "سيرفر عرب سيد",
         "type": "iframe",
         "url": "https://m.reviewrate.net/embed-7jd0rheerb9h.html",
@@ -29,16 +22,16 @@
         "direct_url": "",
         "quality": "480p",
         "source": "arabseed"
+      },
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/91378/المحتالون-مترجم/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
       }
     ],
     "download": [
-      {
-        "name": "أكوام",
-        "url": "https://ak.sv/episode/91378/المحتالون-مترجم/الحلقة-9",
-        "quality": "720p",
-        "size": "",
-        "source": "akwam"
-      },
       {
         "name": "سيرفر عرب سيد المباشر",
         "url": "tdm://open?url=https://m.reviewrate.net/obr1s6ggk7e0",
@@ -80,6 +73,13 @@
         "quality": "480p",
         "is_direct": true,
         "source": "arabseed"
+      },
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91378/المحتالون-مترجم/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
       }
     ]
   }

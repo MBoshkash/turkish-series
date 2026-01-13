@@ -8,13 +8,6 @@
   "servers": {
     "watch": [
       {
-        "name": "أكوام",
-        "type": "akwam",
-        "url": "https://ak.sv/episode/90430/المحتالون-مترجم/الحلقة-4",
-        "quality": "720p",
-        "source": "akwam"
-      },
-      {
         "name": "سيرفر عرب سيد",
         "type": "iframe",
         "url": "https://m.reviewrate.net/embed-w51mtzs3w724.html",
@@ -29,16 +22,16 @@
         "direct_url": "",
         "quality": "480p",
         "source": "arabseed"
+      },
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/90430/المحتالون-مترجم/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
       }
     ],
     "download": [
-      {
-        "name": "أكوام",
-        "url": "https://ak.sv/episode/90430/المحتالون-مترجم/الحلقة-4",
-        "quality": "720p",
-        "size": "",
-        "source": "akwam"
-      },
       {
         "name": "سيرفر عرب سيد المباشر",
         "url": "tdm://open?url=https://m.reviewrate.net/jtyjnopm8tsq",
@@ -66,6 +59,13 @@
         "quality": "480p",
         "is_direct": false,
         "source": "arabseed"
+      },
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90430/المحتالون-مترجم/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
       }
     ]
   }
