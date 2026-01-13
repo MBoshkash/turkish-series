@@ -1,0 +1,28 @@
+{
+  "series_id": "4028",
+  "series_title": "هذا العالم لا يسعني",
+  "episode_number": 98,
+  "title": "الحلقة 98",
+  "date_added": "الأربعاء 12 يوليو 2023 - 03:43 صباحا",
+  "last_updated": "2026-01-13T00:49:28.854759Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/79062/هذا-العالم-لا-يسعني/الحلقة-98",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/79062/هذا-العالم-لا-يسعني/الحلقة-98",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

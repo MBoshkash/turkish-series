@@ -1,0 +1,28 @@
+{
+  "series_id": "884",
+  "series_title": "Menajerimi Ara",
+  "episode_number": 27,
+  "title": "الحلقة 27",
+  "date_added": "الإثنين 01 مارس 2021 - 08:30 صباحا",
+  "last_updated": "2026-01-13T00:51:06.277598Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/25590/menajerimi-ara/الحلقة-27",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/25590/menajerimi-ara/الحلقة-27",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

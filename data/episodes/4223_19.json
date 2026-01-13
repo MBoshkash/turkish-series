@@ -1,0 +1,28 @@
+{
+  "series_id": "4223",
+  "series_title": "اسمي فرح الموسم الاول",
+  "episode_number": 19,
+  "title": "الحلقة 19",
+  "date_added": "الثلاثاء 30 مايو 2023 - 12:46 صباحا",
+  "last_updated": "2026-01-13T00:49:28.376035Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/78120/اسمي-فرح-الموسم-الاول/الحلقة-19",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/78120/اسمي-فرح-الموسم-الاول/الحلقة-19",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

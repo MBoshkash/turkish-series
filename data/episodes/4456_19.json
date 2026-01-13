@@ -1,0 +1,28 @@
+{
+  "series_id": "4456",
+  "series_title": "Yargi الموسم الثالث",
+  "episode_number": 19,
+  "title": "الحلقة 19",
+  "date_added": "الأربعاء 14 فبراير 2024 - 11:02 مساءاً",
+  "last_updated": "2026-01-13T00:49:05.330963Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/84793/yargi-الموسم-الثالث/الحلقة-19",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/84793/yargi-الموسم-الثالث/الحلقة-19",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

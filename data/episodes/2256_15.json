@@ -1,0 +1,28 @@
+{
+  "series_id": "2256",
+  "series_title": "عزيز الموسم الأول",
+  "episode_number": 15,
+  "title": "الحلقة 15",
+  "date_added": "السبت 04 ديسمبر 2021 - 04:46 صباحا",
+  "last_updated": "2026-01-13T00:50:15.745975Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/42111/عزيز-الموسم-الأول/الحلقة-15",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/42111/عزيز-الموسم-الأول/الحلقة-15",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

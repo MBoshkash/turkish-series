@@ -1,0 +1,28 @@
+{
+  "series_id": "1922",
+  "series_title": "السيد شريف",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الأربعاء 11 اغسطس 2021 - 02:53 صباحا",
+  "last_updated": "2026-01-13T00:51:01.822972Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/33828/السيد-شريف/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/33828/السيد-شريف/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

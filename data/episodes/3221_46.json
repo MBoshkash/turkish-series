@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 46,
+  "title": "الحلقة 46",
+  "date_added": "الإثنين 22 اغسطس 2022 - 03:15 صباحا",
+  "last_updated": "2026-01-13T00:49:56.508371Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/64896/اخوتي-الموسم-الثاني/الحلقة-46",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/64896/اخوتي-الموسم-الثاني/الحلقة-46",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

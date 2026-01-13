@@ -1,0 +1,28 @@
+{
+  "series_id": "2124",
+  "series_title": "Şahane Damat",
+  "episode_number": 7,
+  "title": "الحلقة 7",
+  "date_added": "الأحد 10 أكتوبر 2021 - 04:21 صباحا",
+  "last_updated": "2026-01-13T00:50:54.492181Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/36751/şahane-damat/الحلقة-7",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/36751/şahane-damat/الحلقة-7",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

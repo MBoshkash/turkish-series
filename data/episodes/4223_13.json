@@ -1,0 +1,28 @@
+{
+  "series_id": "4223",
+  "series_title": "اسمي فرح الموسم الاول",
+  "episode_number": 13,
+  "title": "الحلقة 13",
+  "date_added": "الأحد 21 مايو 2023 - 11:50 مساءاً",
+  "last_updated": "2026-01-13T00:49:28.376012Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/77895/اسمي-فرح-الموسم-الاول/الحلقة-13",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/77895/اسمي-فرح-الموسم-الاول/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

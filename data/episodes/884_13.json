@@ -1,0 +1,28 @@
+{
+  "series_id": "884",
+  "series_title": "Menajerimi Ara",
+  "episode_number": 13,
+  "title": "الحلقة 13",
+  "date_added": "الإثنين 23 نوفمبر 2020 - 03:07 صباحا",
+  "last_updated": "2026-01-13T00:51:06.277498Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/19135/menajerimi-ara/الحلقة-13",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/19135/menajerimi-ara/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

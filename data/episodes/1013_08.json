@@ -1,0 +1,28 @@
+{
+  "series_id": "1013",
+  "series_title": "أزاد",
+  "episode_number": 8,
+  "title": "الحلقة 8",
+  "date_added": "الجمعة 02 أكتوبر 2020 - 04:35 مساءاً",
+  "last_updated": "2026-01-13T00:51:36.072401Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/15951/أزاد/الحلقة-8",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/15951/أزاد/الحلقة-8",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

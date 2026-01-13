@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 66,
+  "title": "الحلقة 66",
+  "date_added": "الأحد 18 سبتمبر 2022 - 06:49 صباحا",
+  "last_updated": "2026-01-13T00:49:56.508450Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/66093/اخوتي-الموسم-الثاني/الحلقة-66",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/66093/اخوتي-الموسم-الثاني/الحلقة-66",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

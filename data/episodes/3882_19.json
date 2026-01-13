@@ -1,0 +1,28 @@
+{
+  "series_id": "3882",
+  "series_title": "Omer الموسم الاول",
+  "episode_number": 19,
+  "title": "الحلقة 19",
+  "date_added": "الثلاثاء 30 مايو 2023 - 04:31 صباحا",
+  "last_updated": "2026-01-13T00:49:39.328055Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/78123/omer-الموسم-الاول/الحلقة-19",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/78123/omer-الموسم-الاول/الحلقة-19",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

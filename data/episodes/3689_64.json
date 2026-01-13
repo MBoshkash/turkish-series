@@ -1,0 +1,28 @@
+{
+  "series_id": "3689",
+  "series_title": "فريد الموسم الاول",
+  "episode_number": 64,
+  "title": "الحلقة 64",
+  "date_added": "الإثنين 19 ديسمبر 2022 - 01:23 صباحا",
+  "last_updated": "2026-01-13T00:49:40.036469Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/70679/فريد-الموسم-الاول/الحلقة-64",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/70679/فريد-الموسم-الاول/الحلقة-64",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

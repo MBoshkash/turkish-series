@@ -1,0 +1,28 @@
+{
+  "series_id": "3882",
+  "series_title": "Omer الموسم الاول",
+  "episode_number": 7,
+  "title": "الحلقة 7",
+  "date_added": "الثلاثاء 07 مارس 2023 - 07:22 مساءاً",
+  "last_updated": "2026-01-13T00:49:39.328008Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/73738/omer-الموسم-الاول/الحلقة-7",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/73738/omer-الموسم-الاول/الحلقة-7",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

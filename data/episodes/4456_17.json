@@ -1,0 +1,28 @@
+{
+  "series_id": "4456",
+  "series_title": "Yargi الموسم الثالث",
+  "episode_number": 17,
+  "title": "الحلقة 17",
+  "date_added": "الثلاثاء 30 يناير 2024 - 10:04 مساءاً",
+  "last_updated": "2026-01-13T00:49:05.330940Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/84631/yargi-الموسم-الثالث/الحلقة-17",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/84631/yargi-الموسم-الثالث/الحلقة-17",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

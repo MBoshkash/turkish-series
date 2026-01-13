@@ -1,0 +1,28 @@
+{
+  "series_id": "730",
+  "series_title": "Kara Ekmek",
+  "episode_number": 34,
+  "title": "الحلقة 34",
+  "date_added": "الأربعاء 26 اغسطس 2020 - 09:42 مساءاً",
+  "last_updated": "2026-01-13T00:51:24.633576Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/14343/kara-ekmek/الحلقة-34",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/14343/kara-ekmek/الحلقة-34",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

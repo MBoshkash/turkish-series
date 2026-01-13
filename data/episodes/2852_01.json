@@ -1,0 +1,28 @@
+{
+  "series_id": "2852",
+  "series_title": "Vahsi Seyler الموسم الاول",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الأحد 06 مارس 2022 - 01:28 صباحا",
+  "last_updated": "2026-01-13T00:50:28.053655Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/52563/vahsi-seyler-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/52563/vahsi-seyler-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

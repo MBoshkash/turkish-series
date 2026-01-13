@@ -1,0 +1,28 @@
+{
+  "series_id": "2003",
+  "series_title": "مسألة شرف الموسم الاول",
+  "episode_number": 35,
+  "title": "الحلقة 35",
+  "date_added": "الخميس 09 سبتمبر 2021 - 06:17 مساءاً",
+  "last_updated": "2026-01-13T00:50:58.052562Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/35307/مسألة-شرف-الموسم-الاول/الحلقة-35",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/35307/مسألة-شرف-الموسم-الاول/الحلقة-35",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

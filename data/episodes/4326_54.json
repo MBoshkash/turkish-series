@@ -1,0 +1,28 @@
+{
+  "series_id": "4326",
+  "series_title": "ماذا لو الموسم الاول",
+  "episode_number": 54,
+  "title": "الحلقة 54",
+  "date_added": "الثلاثاء 19 سبتمبر 2023 - 01:43 صباحا",
+  "last_updated": "2026-01-13T00:49:21.978507Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/80672/ماذا-لو-الموسم-الاول/الحلقة-54",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/80672/ماذا-لو-الموسم-الاول/الحلقة-54",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

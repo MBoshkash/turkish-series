@@ -1,0 +1,28 @@
+{
+  "series_id": "1214",
+  "series_title": "Kefaret الموسم الاول",
+  "episode_number": 6,
+  "title": "الحلقة 6",
+  "date_added": "الإثنين 28 ديسمبر 2020 - 06:42 صباحا",
+  "last_updated": "2026-01-13T00:51:03.672358Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/21478/kefaret-الموسم-الاول/الحلقة-6",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/21478/kefaret-الموسم-الاول/الحلقة-6",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

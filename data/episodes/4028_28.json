@@ -1,0 +1,28 @@
+{
+  "series_id": "4028",
+  "series_title": "هذا العالم لا يسعني",
+  "episode_number": 28,
+  "title": "الحلقة 28",
+  "date_added": "الأحد 30 ابريل 2023 - 01:27 صباحا",
+  "last_updated": "2026-01-13T00:49:28.854491Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/77201/هذا-العالم-لا-يسعني/الحلقة-28",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/77201/هذا-العالم-لا-يسعني/الحلقة-28",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

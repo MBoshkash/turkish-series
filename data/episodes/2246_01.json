@@ -1,0 +1,28 @@
+{
+  "series_id": "2246",
+  "series_title": "Aziz الموسم الأول",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "السبت 06 نوفمبر 2021 - 03:38 صباحا",
+  "last_updated": "2026-01-13T00:50:16.409782Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/39146/aziz-الموسم-الأول/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/39146/aziz-الموسم-الأول/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

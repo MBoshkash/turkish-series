@@ -1,0 +1,28 @@
+{
+  "series_id": "265",
+  "series_title": "Baraj الموسم الاول",
+  "episode_number": 8,
+  "title": "الحلقة 8",
+  "date_added": "الأربعاء 07 أكتوبر 2020 - 05:52 مساءاً",
+  "last_updated": "2026-01-13T00:51:18.425415Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/16300/baraj-الموسم-الاول/الحلقة-8",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/16300/baraj-الموسم-الاول/الحلقة-8",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

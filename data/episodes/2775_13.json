@@ -1,0 +1,28 @@
+{
+  "series_id": "2775",
+  "series_title": "Baba الموسم الأول",
+  "episode_number": 13,
+  "title": "الحلقة 13",
+  "date_added": "الأربعاء 18 مايو 2022 - 03:30 صباحا",
+  "last_updated": "2026-01-13T00:50:17.692291Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/60078/baba-الموسم-الأول/الحلقة-13",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/60078/baba-الموسم-الأول/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

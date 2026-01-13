@@ -1,0 +1,28 @@
+{
+  "series_id": "4455",
+  "series_title": "فريد الموسم الثاني",
+  "episode_number": 13,
+  "title": "الحلقة 13",
+  "date_added": "الثلاثاء 03 أكتوبر 2023 - 12:18 صباحا",
+  "last_updated": "2026-01-13T00:49:05.777080Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/80962/فريد-الموسم-الثاني/الحلقة-13",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/80962/فريد-الموسم-الثاني/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

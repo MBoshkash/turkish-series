@@ -1,0 +1,28 @@
+{
+  "series_id": "4444",
+  "series_title": "الفخ الموسم الثاني",
+  "episode_number": 24,
+  "title": "الحلقة 24",
+  "date_added": "الخميس 26 أكتوبر 2023 - 09:16 مساءاً",
+  "last_updated": "2026-01-13T00:49:18.776373Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/81462/الفخ-الموسم-الثاني/الحلقة-24",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/81462/الفخ-الموسم-الثاني/الحلقة-24",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

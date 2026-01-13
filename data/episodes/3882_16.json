@@ -1,0 +1,28 @@
+{
+  "series_id": "3882",
+  "series_title": "Omer الموسم الاول",
+  "episode_number": 16,
+  "title": "الحلقة 16",
+  "date_added": "الخميس 11 مايو 2023 - 03:53 صباحا",
+  "last_updated": "2026-01-13T00:49:39.328043Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/77536/omer-الموسم-الاول/الحلقة-16",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/77536/omer-الموسم-الاول/الحلقة-16",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

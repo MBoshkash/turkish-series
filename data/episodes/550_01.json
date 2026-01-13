@@ -1,0 +1,28 @@
+{
+  "series_id": "550",
+  "series_title": "Gençligim Eyvah الموسم الاول",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الجمعة 19 يونيو 2020 - 07:42 مساءاً",
+  "last_updated": "2026-01-13T00:51:35.036669Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/8522/gençligim-eyvah-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/8522/gençligim-eyvah-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

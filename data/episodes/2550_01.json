@@ -1,0 +1,28 @@
+{
+  "series_id": "2550",
+  "series_title": "الملهى الموسم الثاني",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الإثنين 10 يناير 2022 - 04:23 صباحا",
+  "last_updated": "2026-01-13T00:50:39.340776Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/45734/الملهى-الموسم-الثاني/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/45734/الملهى-الموسم-الثاني/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

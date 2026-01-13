@@ -1,0 +1,28 @@
+{
+  "series_id": "936",
+  "series_title": "Ariza الموسم الاول",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الإثنين 09 نوفمبر 2020 - 02:06 صباحا",
+  "last_updated": "2026-01-13T00:51:22.009787Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/18160/ariza-الموسم-الاول/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/18160/ariza-الموسم-الاول/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

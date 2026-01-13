@@ -1,0 +1,28 @@
+{
+  "series_id": "730",
+  "series_title": "Kara Ekmek",
+  "episode_number": 23,
+  "title": "الحلقة 23",
+  "date_added": "الخميس 13 اغسطس 2020 - 07:57 مساءاً",
+  "last_updated": "2026-01-13T00:51:24.633520Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/13311/kara-ekmek/الحلقة-23",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/13311/kara-ekmek/الحلقة-23",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

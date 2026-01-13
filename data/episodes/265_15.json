@@ -1,0 +1,28 @@
+{
+  "series_id": "265",
+  "series_title": "Baraj الموسم الاول",
+  "episode_number": 15,
+  "title": "الحلقة 15",
+  "date_added": "الأربعاء 25 نوفمبر 2020 - 02:32 صباحا",
+  "last_updated": "2026-01-13T00:51:18.425443Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/19225/baraj-الموسم-الاول/الحلقة-15",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/19225/baraj-الموسم-الاول/الحلقة-15",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

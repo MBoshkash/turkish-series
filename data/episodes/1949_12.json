@@ -1,0 +1,28 @@
+{
+  "series_id": "1949",
+  "series_title": "اخوتي الموسم الاول",
+  "episode_number": 12,
+  "title": "الحلقة 12",
+  "date_added": "الإثنين 30 اغسطس 2021 - 05:10 صباحا",
+  "last_updated": "2026-01-13T00:50:47.528335Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/34832/اخوتي-الموسم-الاول/الحلقة-12",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/34832/اخوتي-الموسم-الاول/الحلقة-12",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

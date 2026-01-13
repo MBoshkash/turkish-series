@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 13,
+  "title": "الحلقة 13",
+  "date_added": "الثلاثاء 05 يوليو 2022 - 03:46 صباحا",
+  "last_updated": "2026-01-13T00:49:56.508244Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/62633/اخوتي-الموسم-الثاني/الحلقة-13",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/62633/اخوتي-الموسم-الثاني/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "4352",
+  "series_title": "أنا في ورطة",
+  "episode_number": 17,
+  "title": "الحلقة 17",
+  "date_added": "الأحد 01 أكتوبر 2023 - 12:39 صباحا",
+  "last_updated": "2026-01-13T00:49:22.517270Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/80928/أنا-في-ورطة/الحلقة-17",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/80928/أنا-في-ورطة/الحلقة-17",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

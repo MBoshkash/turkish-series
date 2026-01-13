@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 37,
+  "title": "الحلقة 37",
+  "date_added": "الإثنين 08 اغسطس 2022 - 04:13 مساءاً",
+  "last_updated": "2026-01-13T00:49:56.508335Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/64238/اخوتي-الموسم-الثاني/الحلقة-37",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/64238/اخوتي-الموسم-الثاني/الحلقة-37",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

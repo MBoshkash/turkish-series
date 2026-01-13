@@ -1,0 +1,28 @@
+{
+  "series_id": "4373",
+  "series_title": "الفخ الموسم الاول",
+  "episode_number": 42,
+  "title": "الحلقة 42",
+  "date_added": "الخميس 14 سبتمبر 2023 - 03:56 صباحا",
+  "last_updated": "2026-01-13T00:49:25.135938Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/80517/الفخ-الموسم-الاول/الحلقة-42",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/80517/الفخ-الموسم-الاول/الحلقة-42",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "51",
+  "series_title": "Sampiyon الموسم الاول",
+  "episode_number": 32,
+  "title": "الحلقة 32",
+  "date_added": "الجمعة 31 يوليو 2020 - 03:53 صباحا",
+  "last_updated": "2026-01-13T00:51:39.367005Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/12328/sampiyon-الموسم-الاول/الحلقة-32",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/12328/sampiyon-الموسم-الاول/الحلقة-32",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

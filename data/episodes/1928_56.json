@@ -1,0 +1,28 @@
+{
+  "series_id": "1928",
+  "series_title": "رامو الموسم الاول",
+  "episode_number": 56,
+  "title": "الحلقة 56",
+  "date_added": "الثلاثاء 05 أكتوبر 2021 - 01:32 صباحا",
+  "last_updated": "2026-01-13T00:50:39.942425Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/36393/رامو-الموسم-الاول/الحلقة-56",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/36393/رامو-الموسم-الاول/الحلقة-56",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

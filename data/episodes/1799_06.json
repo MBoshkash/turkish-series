@@ -1,0 +1,28 @@
+{
+  "series_id": "1799",
+  "series_title": "Askin Tarifi",
+  "episode_number": 6,
+  "title": "الحلقة 6",
+  "date_added": "الثلاثاء 13 يوليو 2021 - 03:57 صباحا",
+  "last_updated": "2026-01-13T00:50:59.401635Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/32991/askin-tarifi/الحلقة-6",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/32991/askin-tarifi/الحلقة-6",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

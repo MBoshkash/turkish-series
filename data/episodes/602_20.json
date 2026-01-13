@@ -1,0 +1,28 @@
+{
+  "series_id": "602",
+  "series_title": "زمهرير الموسم الاول",
+  "episode_number": 20,
+  "title": "الحلقة 20",
+  "date_added": "السبت 18 يوليو 2020 - 09:02 صباحا",
+  "last_updated": "2026-01-13T00:51:39.652469Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/11042/زمهرير-الموسم-الاول/الحلقة-20",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/11042/زمهرير-الموسم-الاول/الحلقة-20",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

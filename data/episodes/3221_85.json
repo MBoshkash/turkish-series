@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 85,
+  "title": "الحلقة 85",
+  "date_added": "الخميس 13 أكتوبر 2022 - 03:38 صباحا",
+  "last_updated": "2026-01-13T00:49:56.508523Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/67293/اخوتي-الموسم-الثاني/الحلقة-85",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/67293/اخوتي-الموسم-الثاني/الحلقة-85",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

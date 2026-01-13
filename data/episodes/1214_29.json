@@ -1,0 +1,28 @@
+{
+  "series_id": "1214",
+  "series_title": "Kefaret الموسم الاول",
+  "episode_number": 29,
+  "title": "الحلقة 29",
+  "date_added": "الإثنين 07 يونيو 2021 - 03:29 مساءاً",
+  "last_updated": "2026-01-13T00:51:03.672515Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/32029/kefaret-الموسم-الاول/الحلقة-29",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/32029/kefaret-الموسم-الاول/الحلقة-29",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

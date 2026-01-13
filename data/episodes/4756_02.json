@@ -1,0 +1,28 @@
+{
+  "series_id": "4756",
+  "series_title": "Gaddar الموسم الاول",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "السبت 27 يناير 2024 - 11:00 مساءاً",
+  "last_updated": "2026-01-13T00:49:08.470559Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/84564/gaddar-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/84564/gaddar-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

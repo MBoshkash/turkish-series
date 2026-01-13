@@ -1,0 +1,28 @@
+{
+  "series_id": "4042",
+  "series_title": "Aile الموسم الاول",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "الأربعاء 22 مارس 2023 - 04:01 صباحا",
+  "last_updated": "2026-01-13T00:49:43.748679Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/74265/aile-الموسم-الاول/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/74265/aile-الموسم-الاول/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

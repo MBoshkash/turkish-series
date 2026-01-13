@@ -1,0 +1,28 @@
+{
+  "series_id": "909",
+  "series_title": "Kırmızı Oda",
+  "episode_number": 22,
+  "title": "الحلقة 22",
+  "date_added": "الثلاثاء 09 فبراير 2021 - 08:56 صباحا",
+  "last_updated": "2026-01-13T00:51:21.341882Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/23999/kırmızı-oda/الحلقة-22",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/23999/kırmızı-oda/الحلقة-22",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

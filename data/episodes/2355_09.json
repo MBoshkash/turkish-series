@@ -1,0 +1,28 @@
+{
+  "series_id": "2355",
+  "series_title": "Sakli الموسم الاول",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الأربعاء 24 نوفمبر 2021 - 02:03 صباحا",
+  "last_updated": "2026-01-13T00:50:46.259088Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/41274/sakli-الموسم-الاول/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/41274/sakli-الموسم-الاول/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "938",
+  "series_title": "Masum الموسم الأول",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "الثلاثاء 15 سبتمبر 2020 - 06:11 مساءاً",
+  "last_updated": "2026-01-13T00:51:38.087693Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/15042/masum-الموسم-الأول/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/15042/masum-الموسم-الأول/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

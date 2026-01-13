@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 12,
+  "title": "الحلقة 12",
+  "date_added": "الإثنين 04 يوليو 2022 - 04:12 مساءاً",
+  "last_updated": "2026-01-13T00:49:56.508241Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/62605/اخوتي-الموسم-الثاني/الحلقة-12",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/62605/اخوتي-الموسم-الثاني/الحلقة-12",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

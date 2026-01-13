@@ -1,0 +1,28 @@
+{
+  "series_id": "3136",
+  "series_title": "لعبة قدري الموسم الاول",
+  "episode_number": 66,
+  "title": "الحلقة 66",
+  "date_added": "الخميس 22 سبتمبر 2022 - 01:54 صباحا",
+  "last_updated": "2026-01-13T00:49:56.893406Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/66285/لعبة-قدري-الموسم-الاول/الحلقة-66",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/66285/لعبة-قدري-الموسم-الاول/الحلقة-66",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

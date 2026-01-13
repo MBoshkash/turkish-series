@@ -1,0 +1,28 @@
+{
+  "series_id": "1434",
+  "series_title": "50 متر مربع",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الجمعة 05 فبراير 2021 - 11:14 مساءاً",
+  "last_updated": "2026-01-13T00:51:27.224500Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/23673/50-متر-مربع/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/23673/50-متر-مربع/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

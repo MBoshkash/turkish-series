@@ -1,0 +1,28 @@
+{
+  "series_id": "4223",
+  "series_title": "اسمي فرح الموسم الاول",
+  "episode_number": 36,
+  "title": "الحلقة 36",
+  "date_added": "الخميس 22 يونيو 2023 - 02:25 صباحا",
+  "last_updated": "2026-01-13T00:49:28.376097Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/78665/اسمي-فرح-الموسم-الاول/الحلقة-36",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/78665/اسمي-فرح-الموسم-الاول/الحلقة-36",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

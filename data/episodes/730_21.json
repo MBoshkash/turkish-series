@@ -1,0 +1,28 @@
+{
+  "series_id": "730",
+  "series_title": "Kara Ekmek",
+  "episode_number": 21,
+  "title": "الحلقة 21",
+  "date_added": "الثلاثاء 11 اغسطس 2020 - 09:31 مساءاً",
+  "last_updated": "2026-01-13T00:51:24.633511Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/13174/kara-ekmek/الحلقة-21",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/13174/kara-ekmek/الحلقة-21",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "3667",
+  "series_title": "Hayat Bugün الموسم الاول",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الخميس 20 أكتوبر 2022 - 03:25 صباحا",
+  "last_updated": "2026-01-13T00:49:57.480045Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/67699/hayat-bugün-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/67699/hayat-bugün-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

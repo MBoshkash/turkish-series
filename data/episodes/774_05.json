@@ -1,0 +1,28 @@
+{
+  "series_id": "774",
+  "series_title": "أطرق بابي",
+  "episode_number": 5,
+  "title": "الحلقة 5",
+  "date_added": "الثلاثاء 04 اغسطس 2020 - 03:46 مساءاً",
+  "last_updated": "2026-01-13T00:51:19.894256Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/12639/أطرق-بابي/الحلقة-5",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/12639/أطرق-بابي/الحلقة-5",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

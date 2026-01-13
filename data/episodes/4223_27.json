@@ -1,0 +1,28 @@
+{
+  "series_id": "4223",
+  "series_title": "اسمي فرح الموسم الاول",
+  "episode_number": 27,
+  "title": "الحلقة 27",
+  "date_added": "الخميس 08 يونيو 2023 - 09:51 مساءاً",
+  "last_updated": "2026-01-13T00:49:28.376065Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/78396/اسمي-فرح-الموسم-الاول/الحلقة-27",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/78396/اسمي-فرح-الموسم-الاول/الحلقة-27",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

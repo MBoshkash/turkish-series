@@ -1,0 +1,28 @@
+{
+  "series_id": "1488",
+  "series_title": "Kardeslerim",
+  "episode_number": 7,
+  "title": "الحلقة 7",
+  "date_added": "الإثنين 05 ابريل 2021 - 12:28 صباحا",
+  "last_updated": "2026-01-13T00:51:09.894728Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/27147/kardeslerim/الحلقة-7",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/27147/kardeslerim/الحلقة-7",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

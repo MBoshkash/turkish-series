@@ -1,0 +1,28 @@
+{
+  "series_id": "4455",
+  "series_title": "فريد الموسم الثاني",
+  "episode_number": 37,
+  "title": "الحلقة 37",
+  "date_added": "الثلاثاء 07 نوفمبر 2023 - 07:12 مساءاً",
+  "last_updated": "2026-01-13T00:49:05.777214Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/81839/فريد-الموسم-الثاني/الحلقة-37",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/81839/فريد-الموسم-الثاني/الحلقة-37",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

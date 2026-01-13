@@ -1,0 +1,28 @@
+{
+  "series_id": "2759",
+  "series_title": "Bonkis الموسم الاول",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الأحد 13 فبراير 2022 - 06:08 صباحا",
+  "last_updated": "2026-01-13T00:50:33.889580Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/50197/bonkis-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/50197/bonkis-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

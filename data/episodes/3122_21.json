@@ -1,0 +1,28 @@
+{
+  "series_id": "3122",
+  "series_title": "ابي الموسم الاول",
+  "episode_number": 21,
+  "title": "الحلقة 21",
+  "date_added": "الأربعاء 11 مايو 2022 - 03:35 صباحا",
+  "last_updated": "2026-01-13T00:50:08.367062Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/59736/ابي-الموسم-الاول/الحلقة-21",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/59736/ابي-الموسم-الاول/الحلقة-21",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 73,
+  "title": "الحلقة 73",
+  "date_added": "الثلاثاء 27 سبتمبر 2022 - 04:28 مساءاً",
+  "last_updated": "2026-01-13T00:49:56.508477Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/66514/اخوتي-الموسم-الثاني/الحلقة-73",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/66514/اخوتي-الموسم-الثاني/الحلقة-73",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "3136",
+  "series_title": "لعبة قدري الموسم الاول",
+  "episode_number": 44,
+  "title": "الحلقة 44",
+  "date_added": "الإثنين 04 يوليو 2022 - 02:40 صباحا",
+  "last_updated": "2026-01-13T00:49:56.893274Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/62593/لعبة-قدري-الموسم-الاول/الحلقة-44",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/62593/لعبة-قدري-الموسم-الاول/الحلقة-44",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

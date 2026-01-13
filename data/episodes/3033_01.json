@@ -1,0 +1,28 @@
+{
+  "series_id": "3033",
+  "series_title": "Kara Tahta الموسم الاول",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الجمعة 01 ابريل 2022 - 03:40 صباحا",
+  "last_updated": "2026-01-13T00:50:04.605036Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/56048/kara-tahta-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/56048/kara-tahta-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

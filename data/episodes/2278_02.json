@@ -1,0 +1,28 @@
+{
+  "series_id": "2278",
+  "series_title": "Misafir الموسم الاول",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الجمعة 19 نوفمبر 2021 - 01:00 صباحا",
+  "last_updated": "2026-01-13T00:50:44.981568Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/40471/misafir-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/40471/misafir-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

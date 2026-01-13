@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 65,
+  "title": "الحلقة 65",
+  "date_added": "الخميس 15 سبتمبر 2022 - 01:29 مساءاً",
+  "last_updated": "2026-01-13T00:49:56.508447Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/65969/اخوتي-الموسم-الثاني/الحلقة-65",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/65969/اخوتي-الموسم-الثاني/الحلقة-65",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

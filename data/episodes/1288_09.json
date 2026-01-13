@@ -1,0 +1,28 @@
+{
+  "series_id": "1288",
+  "series_title": "Akrep الموسم الاول",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الأحد 07 فبراير 2021 - 05:03 صباحا",
+  "last_updated": "2026-01-13T00:51:10.273271Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/23773/akrep-الموسم-الاول/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/23773/akrep-الموسم-الاول/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

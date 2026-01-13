@@ -1,0 +1,28 @@
+{
+  "series_id": "3666",
+  "series_title": "لعبة الحياة الموسم الاول",
+  "episode_number": 11,
+  "title": "الحلقة 11",
+  "date_added": "الخميس 10 نوفمبر 2022 - 03:28 مساءاً",
+  "last_updated": "2026-01-13T00:49:57.204400Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/68867/لعبة-الحياة-الموسم-الاول/الحلقة-11",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/68867/لعبة-الحياة-الموسم-الاول/الحلقة-11",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

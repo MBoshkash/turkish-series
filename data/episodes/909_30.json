@@ -1,0 +1,28 @@
+{
+  "series_id": "909",
+  "series_title": "Kırmızı Oda",
+  "episode_number": 30,
+  "title": "الحلقة 30",
+  "date_added": "الثلاثاء 13 ابريل 2021 - 06:49 صباحا",
+  "last_updated": "2026-01-13T00:51:21.341915Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/28028/kırmızı-oda/الحلقة-30",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/28028/kırmızı-oda/الحلقة-30",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "4352",
+  "series_title": "أنا في ورطة",
+  "episode_number": 16,
+  "title": "الحلقة 16",
+  "date_added": "الخميس 28 سبتمبر 2023 - 04:33 صباحا",
+  "last_updated": "2026-01-13T00:49:22.517266Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/80888/أنا-في-ورطة/الحلقة-16",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/80888/أنا-في-ورطة/الحلقة-16",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

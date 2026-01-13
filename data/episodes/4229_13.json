@@ -1,0 +1,28 @@
+{
+  "series_id": "4229",
+  "series_title": "Akif الموسم الاول",
+  "episode_number": 13,
+  "title": "الحلقة 13",
+  "date_added": "الإثنين 31 يوليو 2023 - 02:19 صباحا",
+  "last_updated": "2026-01-13T00:49:30.149488Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/79523/akif-الموسم-الاول/الحلقة-13",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/79523/akif-الموسم-الاول/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

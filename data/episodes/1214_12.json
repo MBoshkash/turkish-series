@@ -1,0 +1,28 @@
+{
+  "series_id": "1214",
+  "series_title": "Kefaret الموسم الاول",
+  "episode_number": 12,
+  "title": "الحلقة 12",
+  "date_added": "الثلاثاء 09 فبراير 2021 - 04:31 صباحا",
+  "last_updated": "2026-01-13T00:51:03.672399Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/23995/kefaret-الموسم-الاول/الحلقة-12",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/23995/kefaret-الموسم-الاول/الحلقة-12",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

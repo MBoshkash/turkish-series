@@ -1,0 +1,28 @@
+{
+  "series_id": "4566",
+  "series_title": "المتوحش الموسم الاول",
+  "episode_number": 123,
+  "title": "الحلقة 123",
+  "date_added": "الجمعة 08 مارس 2024 - 03:45 مساءاً",
+  "last_updated": "2026-01-13T00:49:06.691777Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/85079/المتوحش-الموسم-الاول/الحلقة-123",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/85079/المتوحش-الموسم-الاول/الحلقة-123",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

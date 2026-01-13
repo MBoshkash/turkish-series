@@ -1,0 +1,28 @@
+{
+  "series_id": "1336",
+  "series_title": "Akinci الموسم الاول",
+  "episode_number": 18,
+  "title": "الحلقة 18",
+  "date_added": "الثلاثاء 15 يونيو 2021 - 01:38 صباحا",
+  "last_updated": "2026-01-13T00:51:11.784997Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/32228/akinci-الموسم-الاول/الحلقة-18",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/32228/akinci-الموسم-الاول/الحلقة-18",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -5,19 +5,29 @@
   "description": "مشاهدة و تحميل مسلسل  The Town حيث يدور العمل حول تمرّ مجموعة من الأصدقاء بضائقة ماليةٍ تختبر أخلاقهم وتهدد علاقاتهم عندما يعثرون مصادفة على ثروة من الأموال المسروقة في بلدتهم.",
   "poster": "https://img.downet.net/thumb/260x380/uploads/BYSU2.webp",
   "backdrop": "",
-  "year": "2026",
+  "year": "2025",
   "country": "تركيا",
-  "rating": 0.0,
+  "language": "التركية",
+  "rating": 7.0,
   "genres": [
-    "جريمة",
-    "NETFLIX",
+    "كوميدي",
+    "رومانسي",
     "دراما"
   ],
-  "quality": "",
+  "tags": [
+    "#البلدة الصغيرة",
+    "رمضان",
+    "مدبلج",
+    "#The Town",
+    "#kasaba"
+  ],
+  "quality": "WEB-DL",
+  "duration": "38 دقيقة",
+  "age_rating": "PG13",
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-01-12T20:44:07.383053Z",
+  "last_updated": "2026-01-13T00:48:57.103216Z",
   "episodes": [
     {
       "number": 1,

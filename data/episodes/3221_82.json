@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 82,
+  "title": "الحلقة 82",
+  "date_added": "الإثنين 10 أكتوبر 2022 - 02:50 مساءاً",
+  "last_updated": "2026-01-13T00:49:56.508511Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/67137/اخوتي-الموسم-الثاني/الحلقة-82",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/67137/اخوتي-الموسم-الثاني/الحلقة-82",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

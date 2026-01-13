@@ -1,0 +1,28 @@
+{
+  "series_id": "1243",
+  "series_title": "Sol Yanım الموسم الاول",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الإثنين 30 نوفمبر 2020 - 01:17 صباحا",
+  "last_updated": "2026-01-13T00:51:26.657639Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/19798/sol-yanım-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/19798/sol-yanım-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

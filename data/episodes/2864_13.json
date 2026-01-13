@@ -1,0 +1,28 @@
+{
+  "series_id": "2864",
+  "series_title": "Sesli Guldum الموسم الاول",
+  "episode_number": 13,
+  "title": "الحلقة 13",
+  "date_added": "الإثنين 07 مارس 2022 - 09:14 مساءاً",
+  "last_updated": "2026-01-13T00:50:26.641494Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/53080/sesli-guldum-الموسم-الاول/الحلقة-13",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/53080/sesli-guldum-الموسم-الاول/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

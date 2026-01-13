@@ -1,0 +1,28 @@
+{
+  "series_id": "4503",
+  "series_title": "Creature الموسم الاول",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "السبت 21 أكتوبر 2023 - 08:10 مساءاً",
+  "last_updated": "2026-01-13T00:49:19.975532Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/81268/creature-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/81268/creature-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

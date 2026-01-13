@@ -1,0 +1,28 @@
+{
+  "series_id": "1928",
+  "series_title": "رامو الموسم الاول",
+  "episode_number": 13,
+  "title": "الحلقة 13",
+  "date_added": "الإثنين 16 اغسطس 2021 - 01:02 صباحا",
+  "last_updated": "2026-01-13T00:50:39.942259Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/34085/رامو-الموسم-الاول/الحلقة-13",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/34085/رامو-الموسم-الاول/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

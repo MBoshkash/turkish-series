@@ -1,0 +1,28 @@
+{
+  "series_id": "2256",
+  "series_title": "عزيز الموسم الأول",
+  "episode_number": 35,
+  "title": "الحلقة 35",
+  "date_added": "الأحد 06 فبراير 2022 - 03:11 صباحا",
+  "last_updated": "2026-01-13T00:50:15.746054Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/48871/عزيز-الموسم-الأول/الحلقة-35",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/48871/عزيز-الموسم-الأول/الحلقة-35",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

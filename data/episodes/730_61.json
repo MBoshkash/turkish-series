@@ -1,0 +1,28 @@
+{
+  "series_id": "730",
+  "series_title": "Kara Ekmek",
+  "episode_number": 61,
+  "title": "الحلقة 61",
+  "date_added": "الأربعاء 25 نوفمبر 2020 - 11:47 مساءاً",
+  "last_updated": "2026-01-13T00:51:24.633709Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/19336/kara-ekmek/الحلقة-61",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/19336/kara-ekmek/الحلقة-61",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

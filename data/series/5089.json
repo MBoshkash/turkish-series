@@ -5,19 +5,28 @@
   "description": "مشاهدة و تحميل مسلسل اطفال الجنة مترجم حيث يدور العمل حول قصة إسكندر الذي لم يستطع تجاوز الجدار بعد أن عاش لسنوات طويلة \"في هذا الجانب من الجدار\" كعضو خطير في المافيا،",
   "poster": "https://img.downet.net/thumb/260x380/uploads/6qNs3.webp",
   "backdrop": "",
-  "year": "2026",
+  "year": "2025",
   "country": "تركيا",
-  "rating": 1.0,
+  "language": "التركية",
+  "rating": 8.0,
   "genres": [
-    "عائلي",
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي",
+    "دراما"
   ],
-  "quality": "",
+  "tags": [
+    "#اطفال الجنة مترجم",
+    "مدبلج",
+    "#Cennetin Çocukları",
+    "رمضان"
+  ],
+  "quality": "WEB-DL",
+  "duration": "147 دقيقة",
+  "age_rating": "PG13",
   "cast": [],
-  "total_episodes": 16,
+  "total_episodes": 17,
   "status": "ongoing",
-  "last_updated": "2026-01-12T20:43:56.708330Z",
+  "last_updated": "2026-01-13T00:48:46.958757Z",
   "episodes": [
     {
       "number": 1,
@@ -113,6 +122,12 @@
       "number": 16,
       "title": "الحلقة 16",
       "date_added": "الثلاثاء 30 ديسمبر 2025 - 09:13 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 17,
+      "title": "الحلقة 17",
+      "date_added": "الثلاثاء 13 يناير 2026 - 12:16 صباحا",
       "servers_count": 2
     }
   ]

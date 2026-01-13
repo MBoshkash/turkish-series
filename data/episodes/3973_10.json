@@ -1,0 +1,28 @@
+{
+  "series_id": "3973",
+  "series_title": "العريس الرائع",
+  "episode_number": 10,
+  "title": "الحلقة 10",
+  "date_added": "السبت 11 فبراير 2023 - 01:08 صباحا",
+  "last_updated": "2026-01-13T00:49:44.823987Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/72923/العريس-الرائع/الحلقة-10",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/72923/العريس-الرائع/الحلقة-10",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

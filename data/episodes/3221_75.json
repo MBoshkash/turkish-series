@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 75,
+  "title": "الحلقة 75",
+  "date_added": "الخميس 29 سبتمبر 2022 - 09:08 صباحا",
+  "last_updated": "2026-01-13T00:49:56.508484Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/66591/اخوتي-الموسم-الثاني/الحلقة-75",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/66591/اخوتي-الموسم-الثاني/الحلقة-75",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

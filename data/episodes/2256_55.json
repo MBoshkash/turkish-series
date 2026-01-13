@@ -1,0 +1,28 @@
+{
+  "series_id": "2256",
+  "series_title": "عزيز الموسم الأول",
+  "episode_number": 55,
+  "title": "الحلقة 55",
+  "date_added": "الإثنين 28 مارس 2022 - 06:11 صباحا",
+  "last_updated": "2026-01-13T00:50:15.746128Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/55801/عزيز-الموسم-الأول/الحلقة-55",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/55801/عزيز-الموسم-الأول/الحلقة-55",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

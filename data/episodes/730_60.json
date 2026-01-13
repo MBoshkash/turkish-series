@@ -1,0 +1,28 @@
+{
+  "series_id": "730",
+  "series_title": "Kara Ekmek",
+  "episode_number": 60,
+  "title": "الحلقة 60",
+  "date_added": "السبت 21 نوفمبر 2020 - 04:59 مساءاً",
+  "last_updated": "2026-01-13T00:51:24.633705Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/19086/kara-ekmek/الحلقة-60",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/19086/kara-ekmek/الحلقة-60",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

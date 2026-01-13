@@ -1,0 +1,28 @@
+{
+  "series_id": "1840",
+  "series_title": "Kazara Ask الموسم الاول",
+  "episode_number": 5,
+  "title": "الحلقة 5",
+  "date_added": "الجمعة 30 يوليو 2021 - 03:33 صباحا",
+  "last_updated": "2026-01-13T00:50:55.236486Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/33487/kazara-ask-الموسم-الاول/الحلقة-5",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/33487/kazara-ask-الموسم-الاول/الحلقة-5",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

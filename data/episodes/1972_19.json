@@ -1,0 +1,28 @@
+{
+  "series_id": "1972",
+  "series_title": "Kirik Hayatlar",
+  "episode_number": 19,
+  "title": "الحلقة 19",
+  "date_added": "الجمعة 17 سبتمبر 2021 - 04:32 مساءاً",
+  "last_updated": "2026-01-13T00:50:54.919968Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/35604/kirik-hayatlar/الحلقة-19",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/35604/kirik-hayatlar/الحلقة-19",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

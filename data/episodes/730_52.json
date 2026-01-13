@@ -1,0 +1,28 @@
+{
+  "series_id": "730",
+  "series_title": "Kara Ekmek",
+  "episode_number": 52,
+  "title": "الحلقة 52",
+  "date_added": "الخميس 29 أكتوبر 2020 - 12:48 صباحا",
+  "last_updated": "2026-01-13T00:51:24.633674Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/17646/kara-ekmek/الحلقة-52",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/17646/kara-ekmek/الحلقة-52",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

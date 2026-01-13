@@ -1,0 +1,28 @@
+{
+  "series_id": "930",
+  "series_title": "Babil الموسم الثاني",
+  "episode_number": 7,
+  "title": "الحلقة 7",
+  "date_added": "الأحد 25 أكتوبر 2020 - 01:03 صباحا",
+  "last_updated": "2026-01-13T00:51:30.178614Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/17341/babil-الموسم-الثاني/الحلقة-7",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/17341/babil-الموسم-الثاني/الحلقة-7",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

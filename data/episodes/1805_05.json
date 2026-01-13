@@ -1,0 +1,28 @@
+{
+  "series_id": "1805",
+  "series_title": "Cam Tavanlar",
+  "episode_number": 5,
+  "title": "الحلقة 5",
+  "date_added": "الخميس 08 يوليو 2021 - 04:07 صباحا",
+  "last_updated": "2026-01-13T00:51:02.902278Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/32837/cam-tavanlar/الحلقة-5",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/32837/cam-tavanlar/الحلقة-5",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

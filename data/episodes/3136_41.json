@@ -1,0 +1,28 @@
+{
+  "series_id": "3136",
+  "series_title": "لعبة قدري الموسم الاول",
+  "episode_number": 41,
+  "title": "الحلقة 41",
+  "date_added": "الإثنين 27 يونيو 2022 - 02:15 صباحا",
+  "last_updated": "2026-01-13T00:49:56.893255Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/62241/لعبة-قدري-الموسم-الاول/الحلقة-41",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/62241/لعبة-قدري-الموسم-الاول/الحلقة-41",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

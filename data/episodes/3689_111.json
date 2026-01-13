@@ -1,0 +1,28 @@
+{
+  "series_id": "3689",
+  "series_title": "فريد الموسم الاول",
+  "episode_number": 111,
+  "title": "الحلقة 111",
+  "date_added": "الإثنين 13 مارس 2023 - 01:54 صباحا",
+  "last_updated": "2026-01-13T00:49:40.036664Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/73920/فريد-الموسم-الاول/الحلقة-111",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/73920/فريد-الموسم-الاول/الحلقة-111",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

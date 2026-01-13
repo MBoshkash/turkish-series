@@ -1,0 +1,28 @@
+{
+  "series_id": "265",
+  "series_title": "Baraj الموسم الاول",
+  "episode_number": 25,
+  "title": "الحلقة 25",
+  "date_added": "الأربعاء 03 فبراير 2021 - 07:43 صباحا",
+  "last_updated": "2026-01-13T00:51:18.425483Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/23449/baraj-الموسم-الاول/الحلقة-25",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/23449/baraj-الموسم-الاول/الحلقة-25",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

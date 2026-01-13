@@ -1,0 +1,28 @@
+{
+  "series_id": "1928",
+  "series_title": "رامو الموسم الاول",
+  "episode_number": 110,
+  "title": "الحلقة 110",
+  "date_added": "الأربعاء 08 ديسمبر 2021 - 04:30 مساءاً",
+  "last_updated": "2026-01-13T00:50:39.948806Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/42766/رامو-الموسم-الاول/الحلقة-110",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/42766/رامو-الموسم-الاول/الحلقة-110",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

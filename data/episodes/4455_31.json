@@ -1,0 +1,28 @@
+{
+  "series_id": "4455",
+  "series_title": "فريد الموسم الثاني",
+  "episode_number": 31,
+  "title": "الحلقة 31",
+  "date_added": "الأحد 05 نوفمبر 2023 - 07:51 مساءاً",
+  "last_updated": "2026-01-13T00:49:05.777188Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/81802/فريد-الموسم-الثاني/الحلقة-31",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/81802/فريد-الموسم-الثاني/الحلقة-31",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

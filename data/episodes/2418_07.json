@@ -1,0 +1,28 @@
+{
+  "series_id": "2418",
+  "series_title": "القضاء الموسم الاول",
+  "episode_number": 7,
+  "title": "الحلقة 7",
+  "date_added": "الإثنين 13 ديسمبر 2021 - 03:00 مساءاً",
+  "last_updated": "2026-01-13T00:50:11.837195Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/43402/القضاء-الموسم-الاول/الحلقة-7",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/43402/القضاء-الموسم-الاول/الحلقة-7",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

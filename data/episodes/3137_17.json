@@ -1,0 +1,28 @@
+{
+  "series_id": "3137",
+  "series_title": "اللهيب الموسم الاول",
+  "episode_number": 17,
+  "title": "الحلقة 17",
+  "date_added": "الإثنين 06 يونيو 2022 - 04:10 صباحا",
+  "last_updated": "2026-01-13T00:50:03.974701Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/61111/اللهيب-الموسم-الاول/الحلقة-17",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/61111/اللهيب-الموسم-الاول/الحلقة-17",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

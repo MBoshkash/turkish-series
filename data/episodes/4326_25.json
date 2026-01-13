@@ -1,0 +1,28 @@
+{
+  "series_id": "4326",
+  "series_title": "ماذا لو الموسم الاول",
+  "episode_number": 25,
+  "title": "الحلقة 25",
+  "date_added": "الأحد 06 اغسطس 2023 - 01:33 صباحا",
+  "last_updated": "2026-01-13T00:49:21.978393Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/79630/ماذا-لو-الموسم-الاول/الحلقة-25",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/79630/ماذا-لو-الموسم-الاول/الحلقة-25",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "2256",
+  "series_title": "عزيز الموسم الأول",
+  "episode_number": 14,
+  "title": "الحلقة 14",
+  "date_added": "السبت 04 ديسمبر 2021 - 01:10 صباحا",
+  "last_updated": "2026-01-13T00:50:15.745971Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/42104/عزيز-الموسم-الأول/الحلقة-14",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/42104/عزيز-الموسم-الأول/الحلقة-14",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "3958",
+  "series_title": "Al Sancak الموسم الاول",
+  "episode_number": 19,
+  "title": "الحلقة 19",
+  "date_added": "السبت 17 يونيو 2023 - 03:31 صباحا",
+  "last_updated": "2026-01-13T00:49:37.348228Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/78578/al-sancak-الموسم-الاول/الحلقة-19",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/78578/al-sancak-الموسم-الاول/الحلقة-19",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

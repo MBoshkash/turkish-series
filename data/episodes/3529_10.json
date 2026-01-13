@@ -1,0 +1,28 @@
+{
+  "series_id": "3529",
+  "series_title": "Baba الموسم الثاني",
+  "episode_number": 10,
+  "title": "الحلقة 10",
+  "date_added": "الأربعاء 23 نوفمبر 2022 - 02:32 صباحا",
+  "last_updated": "2026-01-13T00:49:54.913631Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/69505/baba-الموسم-الثاني/الحلقة-10",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/69505/baba-الموسم-الثاني/الحلقة-10",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

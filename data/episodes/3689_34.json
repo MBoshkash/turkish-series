@@ -1,0 +1,28 @@
+{
+  "series_id": "3689",
+  "series_title": "فريد الموسم الاول",
+  "episode_number": 34,
+  "title": "الحلقة 34",
+  "date_added": "الأحد 06 نوفمبر 2022 - 05:30 مساءاً",
+  "last_updated": "2026-01-13T00:49:40.036353Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/68707/فريد-الموسم-الاول/الحلقة-34",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/68707/فريد-الموسم-الاول/الحلقة-34",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

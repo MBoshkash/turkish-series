@@ -1,0 +1,28 @@
+{
+  "series_id": "4223",
+  "series_title": "اسمي فرح الموسم الاول",
+  "episode_number": 63,
+  "title": "الحلقة 63",
+  "date_added": "الإثنين 31 يوليو 2023 - 01:53 صباحا",
+  "last_updated": "2026-01-13T00:49:28.376192Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/79521/اسمي-فرح-الموسم-الاول/الحلقة-63",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/79521/اسمي-فرح-الموسم-الاول/الحلقة-63",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

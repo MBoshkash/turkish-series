@@ -1,0 +1,28 @@
+{
+  "series_id": "885",
+  "series_title": "اتصل بوكيلي",
+  "episode_number": 64,
+  "title": "الحلقة 64",
+  "date_added": "الإثنين 25 يناير 2021 - 01:30 صباحا",
+  "last_updated": "2026-01-13T00:51:05.468575Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/23004/اتصل-بوكيلي/الحلقة-64",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/23004/اتصل-بوكيلي/الحلقة-64",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "265",
+  "series_title": "Baraj الموسم الاول",
+  "episode_number": 35,
+  "title": "الحلقة 35",
+  "date_added": "الأربعاء 14 ابريل 2021 - 06:51 مساءاً",
+  "last_updated": "2026-01-13T00:51:18.425520Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/28171/baraj-الموسم-الاول/الحلقة-35",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/28171/baraj-الموسم-الاول/الحلقة-35",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

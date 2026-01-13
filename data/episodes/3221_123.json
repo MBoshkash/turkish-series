@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 123,
+  "title": "الحلقة 123",
+  "date_added": "الثلاثاء 06 ديسمبر 2022 - 09:28 صباحا",
+  "last_updated": "2026-01-13T00:49:56.508671Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/70095/اخوتي-الموسم-الثاني/الحلقة-123",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/70095/اخوتي-الموسم-الثاني/الحلقة-123",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

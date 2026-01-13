@@ -1,0 +1,28 @@
+{
+  "series_id": "573",
+  "series_title": "Bay Yanlis",
+  "episode_number": 13,
+  "title": "الحلقة 13",
+  "date_added": "السبت 26 سبتمبر 2020 - 02:17 صباحا",
+  "last_updated": "2026-01-13T00:51:35.278026Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/15542/bay-yanlis/الحلقة-13",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/15542/bay-yanlis/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

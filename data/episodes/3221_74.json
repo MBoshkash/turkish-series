@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 74,
+  "title": "الحلقة 74",
+  "date_added": "الخميس 29 سبتمبر 2022 - 01:05 صباحا",
+  "last_updated": "2026-01-13T00:49:56.508480Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/66583/اخوتي-الموسم-الثاني/الحلقة-74",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/66583/اخوتي-الموسم-الثاني/الحلقة-74",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

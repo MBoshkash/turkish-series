@@ -1,0 +1,28 @@
+{
+  "series_id": "2354",
+  "series_title": "Destan الموسم الاول",
+  "episode_number": 28,
+  "title": "الحلقة 28",
+  "date_added": "الجمعة 16 سبتمبر 2022 - 01:10 صباحا",
+  "last_updated": "2026-01-13T00:50:03.607161Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/65991/destan-الموسم-الاول/الحلقة-28",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/65991/destan-الموسم-الاول/الحلقة-28",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

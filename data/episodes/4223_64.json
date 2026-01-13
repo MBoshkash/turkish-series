@@ -1,0 +1,28 @@
+{
+  "series_id": "4223",
+  "series_title": "اسمي فرح الموسم الاول",
+  "episode_number": 64,
+  "title": "الحلقة 64",
+  "date_added": "الثلاثاء 01 اغسطس 2023 - 06:55 مساءاً",
+  "last_updated": "2026-01-13T00:49:28.376195Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/79553/اسمي-فرح-الموسم-الاول/الحلقة-64",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/79553/اسمي-فرح-الموسم-الاول/الحلقة-64",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

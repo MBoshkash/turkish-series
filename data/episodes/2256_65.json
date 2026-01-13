@@ -1,0 +1,28 @@
+{
+  "series_id": "2256",
+  "series_title": "عزيز الموسم الأول",
+  "episode_number": 65,
+  "title": "الحلقة 65",
+  "date_added": "الأربعاء 04 مايو 2022 - 03:28 صباحا",
+  "last_updated": "2026-01-13T00:50:15.746164Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/59358/عزيز-الموسم-الأول/الحلقة-65",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/59358/عزيز-الموسم-الأول/الحلقة-65",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

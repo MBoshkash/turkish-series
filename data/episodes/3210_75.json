@@ -1,0 +1,28 @@
+{
+  "series_id": "3210",
+  "series_title": "بريق الأمل الموسم الاول",
+  "episode_number": 75,
+  "title": "الحلقة 75",
+  "date_added": "الإثنين 05 سبتمبر 2022 - 02:16 صباحا",
+  "last_updated": "2026-01-13T00:49:53.374479Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/65485/بريق-الأمل-الموسم-الاول/الحلقة-75",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/65485/بريق-الأمل-الموسم-الاول/الحلقة-75",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

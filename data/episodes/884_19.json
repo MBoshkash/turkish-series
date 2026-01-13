@@ -1,0 +1,28 @@
+{
+  "series_id": "884",
+  "series_title": "Menajerimi Ara",
+  "episode_number": 19,
+  "title": "الحلقة 19",
+  "date_added": "الإثنين 04 يناير 2021 - 08:51 صباحا",
+  "last_updated": "2026-01-13T00:51:06.277541Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/21909/menajerimi-ara/الحلقة-19",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/21909/menajerimi-ara/الحلقة-19",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "730",
+  "series_title": "Kara Ekmek",
+  "episode_number": 56,
+  "title": "الحلقة 56",
+  "date_added": "الخميس 12 نوفمبر 2020 - 12:34 صباحا",
+  "last_updated": "2026-01-13T00:51:24.633689Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/18287/kara-ekmek/الحلقة-56",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/18287/kara-ekmek/الحلقة-56",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

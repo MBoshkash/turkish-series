@@ -1,0 +1,28 @@
+{
+  "series_id": "4405",
+  "series_title": "Safir الموسم الاول",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "الثلاثاء 19 سبتمبر 2023 - 05:55 صباحا",
+  "last_updated": "2026-01-13T00:49:10.706342Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/80675/safir-الموسم-الاول/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/80675/safir-الموسم-الاول/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

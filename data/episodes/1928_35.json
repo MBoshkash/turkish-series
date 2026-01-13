@@ -1,0 +1,28 @@
+{
+  "series_id": "1928",
+  "series_title": "رامو الموسم الاول",
+  "episode_number": 35,
+  "title": "الحلقة 35",
+  "date_added": "الخميس 09 سبتمبر 2021 - 06:23 مساءاً",
+  "last_updated": "2026-01-13T00:50:39.942344Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/35312/رامو-الموسم-الاول/الحلقة-35",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/35312/رامو-الموسم-الاول/الحلقة-35",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

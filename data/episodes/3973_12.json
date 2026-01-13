@@ -1,0 +1,28 @@
+{
+  "series_id": "3973",
+  "series_title": "العريس الرائع",
+  "episode_number": 12,
+  "title": "الحلقة 12",
+  "date_added": "الجمعة 17 فبراير 2023 - 02:19 صباحا",
+  "last_updated": "2026-01-13T00:49:44.823995Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/73123/العريس-الرائع/الحلقة-12",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/73123/العريس-الرائع/الحلقة-12",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

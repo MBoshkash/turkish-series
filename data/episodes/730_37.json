@@ -1,0 +1,28 @@
+{
+  "series_id": "730",
+  "series_title": "Kara Ekmek",
+  "episode_number": 37,
+  "title": "الحلقة 37",
+  "date_added": "السبت 05 سبتمبر 2020 - 12:51 صباحا",
+  "last_updated": "2026-01-13T00:51:24.633594Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/14702/kara-ekmek/الحلقة-37",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/14702/kara-ekmek/الحلقة-37",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

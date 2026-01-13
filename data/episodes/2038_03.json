@@ -1,0 +1,28 @@
+{
+  "series_id": "2038",
+  "series_title": "Yargi الموسم الأول",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "الإثنين 04 أكتوبر 2021 - 03:40 صباحا",
+  "last_updated": "2026-01-13T00:50:18.700977Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/36359/yargi-الموسم-الأول/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/36359/yargi-الموسم-الأول/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

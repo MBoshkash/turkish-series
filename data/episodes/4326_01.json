@@ -1,0 +1,28 @@
+{
+  "series_id": "4326",
+  "series_title": "ماذا لو الموسم الاول",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الإثنين 10 يوليو 2023 - 02:13 صباحا",
+  "last_updated": "2026-01-13T00:49:21.978253Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/79010/ماذا-لو-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/79010/ماذا-لو-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

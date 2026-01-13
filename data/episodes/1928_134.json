@@ -1,0 +1,28 @@
+{
+  "series_id": "1928",
+  "series_title": "رامو الموسم الاول",
+  "episode_number": 134,
+  "title": "الحلقة 134",
+  "date_added": "الثلاثاء 04 يناير 2022 - 02:45 صباحا",
+  "last_updated": "2026-01-13T00:50:39.948893Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/45151/رامو-الموسم-الاول/الحلقة-134",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/45151/رامو-الموسم-الاول/الحلقة-134",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

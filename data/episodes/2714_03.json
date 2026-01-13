@@ -1,0 +1,28 @@
+{
+  "series_id": "2714",
+  "series_title": "Dogu الموسم الاول",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "الجمعة 04 فبراير 2022 - 03:14 مساءاً",
+  "last_updated": "2026-01-13T00:50:35.550864Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/48777/dogu-الموسم-الاول/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/48777/dogu-الموسم-الاول/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

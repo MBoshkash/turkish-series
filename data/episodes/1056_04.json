@@ -1,0 +1,28 @@
+{
+  "series_id": "1056",
+  "series_title": "Ögretmen الموسم الثاني",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "الإثنين 09 نوفمبر 2020 - 01:55 صباحا",
+  "last_updated": "2026-01-13T00:51:31.382453Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/18159/ögretmen-الموسم-الثاني/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/18159/ögretmen-الموسم-الثاني/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

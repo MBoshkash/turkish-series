@@ -1,0 +1,28 @@
+{
+  "series_id": "573",
+  "series_title": "Bay Yanlis",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "السبت 04 يوليو 2020 - 10:09 صباحا",
+  "last_updated": "2026-01-13T00:51:35.277980Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/9406/bay-yanlis/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/9406/bay-yanlis/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

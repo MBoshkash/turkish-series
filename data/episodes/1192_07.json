@@ -1,0 +1,28 @@
+{
+  "series_id": "1192",
+  "series_title": "Kocaman Ailem",
+  "episode_number": 7,
+  "title": "الحلقة 7",
+  "date_added": "الثلاثاء 01 ديسمبر 2020 - 08:25 مساءاً",
+  "last_updated": "2026-01-13T00:51:23.882051Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/19984/kocaman-ailem/الحلقة-7",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/19984/kocaman-ailem/الحلقة-7",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

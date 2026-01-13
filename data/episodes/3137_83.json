@@ -1,0 +1,28 @@
+{
+  "series_id": "3137",
+  "series_title": "اللهيب الموسم الاول",
+  "episode_number": 83,
+  "title": "الحلقة 83",
+  "date_added": "الثلاثاء 06 سبتمبر 2022 - 11:59 مساءاً",
+  "last_updated": "2026-01-13T00:50:03.974949Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/65530/اللهيب-الموسم-الاول/الحلقة-83",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/65530/اللهيب-الموسم-الاول/الحلقة-83",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

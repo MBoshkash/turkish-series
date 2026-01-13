@@ -1,0 +1,28 @@
+{
+  "series_id": "4271",
+  "series_title": "الطفل الموسم الاول",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الثلاثاء 06 يونيو 2023 - 05:08 مساءاً",
+  "last_updated": "2026-01-13T00:49:22.817112Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/78321/مسلسل-الطفل-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/78321/مسلسل-الطفل-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

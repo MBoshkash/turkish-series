@@ -1,0 +1,28 @@
+{
+  "series_id": "4455",
+  "series_title": "فريد الموسم الثاني",
+  "episode_number": 42,
+  "title": "الحلقة 42",
+  "date_added": "الأحد 12 نوفمبر 2023 - 10:07 مساءاً",
+  "last_updated": "2026-01-13T00:49:05.777367Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/81950/فريد-الموسم-الثاني/الحلقة-42",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/81950/فريد-الموسم-الثاني/الحلقة-42",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

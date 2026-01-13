@@ -1,0 +1,28 @@
+{
+  "series_id": "3210",
+  "series_title": "بريق الأمل الموسم الاول",
+  "episode_number": 105,
+  "title": "الحلقة 105",
+  "date_added": "الأحد 16 أكتوبر 2022 - 01:32 صباحا",
+  "last_updated": "2026-01-13T00:49:53.374595Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/67463/بريق-الأمل-الموسم-الاول/الحلقة-105",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/67463/بريق-الأمل-الموسم-الاول/الحلقة-105",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

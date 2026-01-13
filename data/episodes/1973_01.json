@@ -1,0 +1,28 @@
+{
+  "series_id": "1973",
+  "series_title": "Olum Zamani",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الخميس 26 اغسطس 2021 - 03:08 مساءاً",
+  "last_updated": "2026-01-13T00:51:00.036915Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/34703/olum-zamani/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/34703/olum-zamani/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

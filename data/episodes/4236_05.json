@@ -1,0 +1,28 @@
+{
+  "series_id": "4236",
+  "series_title": "Dayton الموسم الاول",
+  "episode_number": 5,
+  "title": "الحلقة 5",
+  "date_added": "الأحد 04 يونيو 2023 - 03:50 مساءاً",
+  "last_updated": "2026-01-13T00:49:41.085604Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/78276/dayton-الموسم-الاول/الحلقة-5",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/78276/dayton-الموسم-الاول/الحلقة-5",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

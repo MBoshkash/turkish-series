@@ -1,0 +1,28 @@
+{
+  "series_id": "1013",
+  "series_title": "أزاد",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الجمعة 02 أكتوبر 2020 - 04:35 مساءاً",
+  "last_updated": "2026-01-13T00:51:36.072405Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/15952/أزاد/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/15952/أزاد/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

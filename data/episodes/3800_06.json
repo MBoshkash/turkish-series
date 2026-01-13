@@ -1,0 +1,28 @@
+{
+  "series_id": "3800",
+  "series_title": "Sipahi الموسم الاول",
+  "episode_number": 6,
+  "title": "الحلقة 6",
+  "date_added": "الأربعاء 18 يناير 2023 - 02:08 صباحا",
+  "last_updated": "2026-01-13T00:49:49.755414Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/71895/sipahi-الموسم-الاول/الحلقة-6",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/71895/sipahi-الموسم-الاول/الحلقة-6",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

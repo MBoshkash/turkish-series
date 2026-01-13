@@ -1,0 +1,28 @@
+{
+  "series_id": "730",
+  "series_title": "Kara Ekmek",
+  "episode_number": 20,
+  "title": "الحلقة 20",
+  "date_added": "الإثنين 10 اغسطس 2020 - 08:28 مساءاً",
+  "last_updated": "2026-01-13T00:51:24.633508Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/13093/kara-ekmek/الحلقة-20",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/13093/kara-ekmek/الحلقة-20",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "4456",
+  "series_title": "Yargi الموسم الثالث",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الخميس 07 ديسمبر 2023 - 12:54 صباحا",
+  "last_updated": "2026-01-13T00:49:05.330897Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/82801/yargi-الموسم-الثالث/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/82801/yargi-الموسم-الثالث/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "3107",
+  "series_title": "Iyilik الموسم الاول",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "الأحد 15 مايو 2022 - 02:48 صباحا",
+  "last_updated": "2026-01-13T00:50:10.885798Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/59898/iyilik-الموسم-الاول/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/59898/iyilik-الموسم-الاول/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

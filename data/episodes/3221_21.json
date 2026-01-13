@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 21,
+  "title": "الحلقة 21",
+  "date_added": "الإثنين 18 يوليو 2022 - 12:08 صباحا",
+  "last_updated": "2026-01-13T00:49:56.508276Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/63190/اخوتي-الموسم-الثاني/الحلقة-21",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/63190/اخوتي-الموسم-الثاني/الحلقة-21",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

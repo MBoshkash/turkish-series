@@ -1,0 +1,28 @@
+{
+  "series_id": "3480",
+  "series_title": "Iyilik الموسم الثاني",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "السبت 17 سبتمبر 2022 - 11:15 صباحا",
+  "last_updated": "2026-01-13T00:49:50.321069Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/66068/iyilik-الموسم-الثاني/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/66068/iyilik-الموسم-الثاني/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

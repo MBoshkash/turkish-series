@@ -1,0 +1,28 @@
+{
+  "series_id": "1928",
+  "series_title": "رامو الموسم الاول",
+  "episode_number": 131,
+  "title": "الحلقة 131",
+  "date_added": "السبت 01 يناير 2022 - 06:05 مساءاً",
+  "last_updated": "2026-01-13T00:50:39.948882Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/44999/رامو-الموسم-الاول/الحلقة-131",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/44999/رامو-الموسم-الاول/الحلقة-131",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

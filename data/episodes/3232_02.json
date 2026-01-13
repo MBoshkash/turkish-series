@@ -1,0 +1,28 @@
+{
+  "series_id": "3232",
+  "series_title": "أولاد الحي الموسم الثاني",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الأربعاء 22 يونيو 2022 - 08:19 مساءاً",
+  "last_updated": "2026-01-13T00:50:10.640171Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/61871/أولاد-الحي-الموسم-الثاني/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/61871/أولاد-الحي-الموسم-الثاني/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

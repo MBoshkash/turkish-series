@@ -1,0 +1,28 @@
+{
+  "series_id": "4223",
+  "series_title": "اسمي فرح الموسم الاول",
+  "episode_number": 10,
+  "title": "الحلقة 10",
+  "date_added": "الأربعاء 17 مايو 2023 - 03:30 صباحا",
+  "last_updated": "2026-01-13T00:49:28.375999Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/77725/اسمي-فرح-الموسم-الاول/الحلقة-10",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/77725/اسمي-فرح-الموسم-الاول/الحلقة-10",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

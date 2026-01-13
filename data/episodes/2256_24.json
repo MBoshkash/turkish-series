@@ -1,0 +1,28 @@
+{
+  "series_id": "2256",
+  "series_title": "عزيز الموسم الأول",
+  "episode_number": 24,
+  "title": "الحلقة 24",
+  "date_added": "السبت 25 ديسمبر 2021 - 02:33 صباحا",
+  "last_updated": "2026-01-13T00:50:15.746011Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/44520/عزيز-الموسم-الأول/الحلقة-24",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/44520/عزيز-الموسم-الأول/الحلقة-24",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

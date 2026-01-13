@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 48,
+  "title": "الحلقة 48",
+  "date_added": "الثلاثاء 23 اغسطس 2022 - 06:18 صباحا",
+  "last_updated": "2026-01-13T00:49:56.508378Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/64937/اخوتي-الموسم-الثاني/الحلقة-48",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/64937/اخوتي-الموسم-الثاني/الحلقة-48",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

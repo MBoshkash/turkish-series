@@ -1,0 +1,28 @@
+{
+  "series_id": "4430",
+  "series_title": "Yabani الموسم الاول",
+  "episode_number": 20,
+  "title": "الحلقة 20",
+  "date_added": "الأربعاء 14 فبراير 2024 - 10:51 مساءاً",
+  "last_updated": "2026-01-13T00:49:07.139302Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/84788/yabani-الموسم-الاول/الحلقة-20",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/84788/yabani-الموسم-الاول/الحلقة-20",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

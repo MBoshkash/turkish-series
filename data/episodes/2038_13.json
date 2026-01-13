@@ -1,0 +1,28 @@
+{
+  "series_id": "2038",
+  "series_title": "Yargi الموسم الأول",
+  "episode_number": 13,
+  "title": "الحلقة 13",
+  "date_added": "الإثنين 13 ديسمبر 2021 - 02:36 صباحا",
+  "last_updated": "2026-01-13T00:50:18.701017Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/43322/yargi-الموسم-الأول/الحلقة-13",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/43322/yargi-الموسم-الأول/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

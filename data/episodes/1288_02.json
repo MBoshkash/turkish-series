@@ -1,0 +1,28 @@
+{
+  "series_id": "1288",
+  "series_title": "Akrep الموسم الاول",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الأحد 20 ديسمبر 2020 - 02:47 صباحا",
+  "last_updated": "2026-01-13T00:51:10.273224Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/21109/akrep-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/21109/akrep-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "3122",
+  "series_title": "ابي الموسم الاول",
+  "episode_number": 35,
+  "title": "الحلقة 35",
+  "date_added": "الإثنين 13 يونيو 2022 - 02:20 صباحا",
+  "last_updated": "2026-01-13T00:50:08.367128Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/61404/ابي-الموسم-الاول/الحلقة-35",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/61404/ابي-الموسم-الاول/الحلقة-35",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

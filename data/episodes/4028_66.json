@@ -1,0 +1,28 @@
+{
+  "series_id": "4028",
+  "series_title": "هذا العالم لا يسعني",
+  "episode_number": 66,
+  "title": "الحلقة 66",
+  "date_added": "الثلاثاء 06 يونيو 2023 - 05:19 مساءاً",
+  "last_updated": "2026-01-13T00:49:28.854639Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/78323/هذا-العالم-لا-يسعني/الحلقة-66",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/78323/هذا-العالم-لا-يسعني/الحلقة-66",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

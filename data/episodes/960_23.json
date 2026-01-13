@@ -1,0 +1,28 @@
+{
+  "series_id": "960",
+  "series_title": "Ramo الموسم الثاني",
+  "episode_number": 23,
+  "title": "الحلقة 23",
+  "date_added": "السبت 27 فبراير 2021 - 03:54 صباحا",
+  "last_updated": "2026-01-13T00:51:20.802743Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/25413/ramo-الموسم-الثاني/الحلقة-23",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/25413/ramo-الموسم-الثاني/الحلقة-23",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "1605",
+  "series_title": "Kahraman Babam",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "الأربعاء 23 يونيو 2021 - 02:20 صباحا",
+  "last_updated": "2026-01-13T00:51:04.556326Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/32459/kahraman-babam/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/32459/kahraman-babam/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "2340",
+  "series_title": "Dirilis: Ertugrul الموسم الاول",
+  "episode_number": 42,
+  "title": "الحلقة 42",
+  "date_added": "الأحد 21 نوفمبر 2021 - 11:50 صباحا",
+  "last_updated": "2026-01-13T00:50:46.631033Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/40967/dirilis-ertugrul-الموسم-الاول/الحلقة-42",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/40967/dirilis-ertugrul-الموسم-الاول/الحلقة-42",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

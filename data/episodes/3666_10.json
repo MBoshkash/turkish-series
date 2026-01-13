@@ -1,0 +1,28 @@
+{
+  "series_id": "3666",
+  "series_title": "لعبة الحياة الموسم الاول",
+  "episode_number": 10,
+  "title": "الحلقة 10",
+  "date_added": "الأربعاء 02 نوفمبر 2022 - 01:44 صباحا",
+  "last_updated": "2026-01-13T00:49:57.204396Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/68481/لعبة-الحياة-الموسم-الاول/الحلقة-10",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/68481/لعبة-الحياة-الموسم-الاول/الحلقة-10",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

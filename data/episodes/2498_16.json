@@ -1,0 +1,28 @@
+{
+  "series_id": "2498",
+  "series_title": "نور الموسم الاول",
+  "episode_number": 16,
+  "title": "الحلقة 16",
+  "date_added": "الأربعاء 22 ديسمبر 2021 - 01:46 مساءاً",
+  "last_updated": "2026-01-13T00:50:42.024460Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/44135/نور-الموسم-الاول/الحلقة-16",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/44135/نور-الموسم-الاول/الحلقة-16",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "3136",
+  "series_title": "لعبة قدري الموسم الاول",
+  "episode_number": 46,
+  "title": "الحلقة 46",
+  "date_added": "الأربعاء 06 يوليو 2022 - 03:09 صباحا",
+  "last_updated": "2026-01-13T00:49:56.893287Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/62685/لعبة-قدري-الموسم-الاول/الحلقة-46",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/62685/لعبة-قدري-الموسم-الاول/الحلقة-46",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

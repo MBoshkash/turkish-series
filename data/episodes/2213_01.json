@@ -1,0 +1,28 @@
+{
+  "series_id": "2213",
+  "series_title": "Seddülbahir 32 Saat",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "السبت 30 أكتوبر 2021 - 03:02 صباحا",
+  "last_updated": "2026-01-13T00:50:49.943272Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/38768/seddülbahir-32-saat/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/38768/seddülbahir-32-saat/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "1005",
+  "series_title": "Evim الموسم الثاني",
+  "episode_number": 24,
+  "title": "الحلقة 24",
+  "date_added": "الخميس 18 مارس 2021 - 07:23 صباحا",
+  "last_updated": "2026-01-13T00:51:17.422099Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/26417/evim-الموسم-الثاني/الحلقة-24",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/26417/evim-الموسم-الثاني/الحلقة-24",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

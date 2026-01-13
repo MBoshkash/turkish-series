@@ -1,0 +1,28 @@
+{
+  "series_id": "4028",
+  "series_title": "هذا العالم لا يسعني",
+  "episode_number": 93,
+  "title": "الحلقة 93",
+  "date_added": "الجمعة 07 يوليو 2023 - 06:40 مساءاً",
+  "last_updated": "2026-01-13T00:49:28.854740Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/78981/هذا-العالم-لا-يسعني/الحلقة-93",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/78981/هذا-العالم-لا-يسعني/الحلقة-93",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

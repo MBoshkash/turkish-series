@@ -1,0 +1,28 @@
+{
+  "series_id": "4441",
+  "series_title": "الملهى الموسم الثاني",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الجمعة 15 سبتمبر 2023 - 09:35 مساءاً",
+  "last_updated": "2026-01-13T00:49:24.232439Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/80615/الملهى-الموسم-الثاني/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/80615/الملهى-الموسم-الثاني/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

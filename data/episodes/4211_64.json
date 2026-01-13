@@ -1,0 +1,28 @@
+{
+  "series_id": "4211",
+  "series_title": "العائلة الموسم الاول",
+  "episode_number": 64,
+  "title": "الحلقة 64",
+  "date_added": "الجمعة 28 يوليو 2023 - 01:53 صباحا",
+  "last_updated": "2026-01-13T00:49:30.454689Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/79437/العائلة-الموسم-الاول/الحلقة-64",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/79437/العائلة-الموسم-الاول/الحلقة-64",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

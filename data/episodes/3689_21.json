@@ -1,0 +1,28 @@
+{
+  "series_id": "3689",
+  "series_title": "فريد الموسم الاول",
+  "episode_number": 21,
+  "title": "الحلقة 21",
+  "date_added": "الثلاثاء 01 نوفمبر 2022 - 12:36 صباحا",
+  "last_updated": "2026-01-13T00:49:40.036303Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/68407/فريد-الموسم-الاول/الحلقة-21",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/68407/فريد-الموسم-الاول/الحلقة-21",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

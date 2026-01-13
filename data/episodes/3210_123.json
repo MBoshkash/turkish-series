@@ -1,0 +1,28 @@
+{
+  "series_id": "3210",
+  "series_title": "بريق الأمل الموسم الاول",
+  "episode_number": 123,
+  "title": "الحلقة 123",
+  "date_added": "الخميس 03 نوفمبر 2022 - 02:29 صباحا",
+  "last_updated": "2026-01-13T00:49:53.374657Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/68555/بريق-الأمل-الموسم-الاول/الحلقة-123",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/68555/بريق-الأمل-الموسم-الاول/الحلقة-123",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

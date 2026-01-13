@@ -1,0 +1,28 @@
+{
+  "series_id": "1918",
+  "series_title": "Adım Başı Kafe",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الثلاثاء 10 اغسطس 2021 - 03:16 صباحا",
+  "last_updated": "2026-01-13T00:51:02.369791Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/33776/adım-başı-kafe/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/33776/adım-başı-kafe/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

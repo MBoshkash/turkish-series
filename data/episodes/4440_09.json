@@ -1,0 +1,28 @@
+{
+  "series_id": "4440",
+  "series_title": "The Club الموسم الثاني",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الجمعة 15 سبتمبر 2023 - 08:25 مساءاً",
+  "last_updated": "2026-01-13T00:49:24.502958Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/80605/the-club-الموسم-الثاني/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/80605/the-club-الموسم-الثاني/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

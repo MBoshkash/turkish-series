@@ -1,0 +1,28 @@
+{
+  "series_id": "2239",
+  "series_title": "The Club الموسم الاول",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "الجمعة 05 نوفمبر 2021 - 01:15 مساءاً",
+  "last_updated": "2026-01-13T00:50:40.833940Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/39079/the-club-الموسم-الاول/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/39079/the-club-الموسم-الاول/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

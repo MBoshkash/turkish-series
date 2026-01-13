@@ -1,0 +1,28 @@
+{
+  "series_id": "265",
+  "series_title": "Baraj الموسم الاول",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "الأربعاء 02 سبتمبر 2020 - 02:43 صباحا",
+  "last_updated": "2026-01-13T00:51:18.425394Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/14552/baraj-الموسم-الاول/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/14552/baraj-الموسم-الاول/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

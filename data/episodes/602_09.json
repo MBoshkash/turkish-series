@@ -1,0 +1,28 @@
+{
+  "series_id": "602",
+  "series_title": "زمهرير الموسم الاول",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الخميس 02 يوليو 2020 - 02:16 مساءاً",
+  "last_updated": "2026-01-13T00:51:39.652424Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/9283/زمهرير-الموسم-الاول/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/9283/زمهرير-الموسم-الاول/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

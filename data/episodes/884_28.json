@@ -1,0 +1,28 @@
+{
+  "series_id": "884",
+  "series_title": "Menajerimi Ara",
+  "episode_number": 28,
+  "title": "الحلقة 28",
+  "date_added": "الإثنين 08 مارس 2021 - 08:48 صباحا",
+  "last_updated": "2026-01-13T00:51:06.277604Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/26025/menajerimi-ara/الحلقة-28",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/26025/menajerimi-ara/الحلقة-28",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

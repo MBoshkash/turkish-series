@@ -1,0 +1,28 @@
+{
+  "series_id": "1820",
+  "series_title": "عطايا الموسم الثالث",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الخميس 17 يونيو 2021 - 03:10 مساءاً",
+  "last_updated": "2026-01-13T00:51:10.855842Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/32300/عطايا-الموسم-الثالث-مدبلج/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/32300/عطايا-الموسم-الثالث-مدبلج/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

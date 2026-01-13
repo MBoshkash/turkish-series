@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 43,
+  "title": "الحلقة 43",
+  "date_added": "الثلاثاء 16 اغسطس 2022 - 08:07 مساءاً",
+  "last_updated": "2026-01-13T00:49:56.508359Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/64615/اخوتي-الموسم-الثاني/الحلقة-43",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/64615/اخوتي-الموسم-الثاني/الحلقة-43",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

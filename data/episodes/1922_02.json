@@ -1,0 +1,28 @@
+{
+  "series_id": "1922",
+  "series_title": "السيد شريف",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الأربعاء 11 اغسطس 2021 - 02:55 صباحا",
+  "last_updated": "2026-01-13T00:51:01.823000Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/33829/السيد-شريف/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/33829/السيد-شريف/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

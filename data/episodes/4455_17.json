@@ -1,0 +1,28 @@
+{
+  "series_id": "4455",
+  "series_title": "فريد الموسم الثاني",
+  "episode_number": 17,
+  "title": "الحلقة 17",
+  "date_added": "الثلاثاء 17 أكتوبر 2023 - 08:07 مساءاً",
+  "last_updated": "2026-01-13T00:49:05.777095Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/81148/فريد-الموسم-الثاني/الحلقة-17",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/81148/فريد-الموسم-الثاني/الحلقة-17",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

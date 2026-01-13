@@ -1,0 +1,28 @@
+{
+  "series_id": "1675",
+  "series_title": "Camdaki Kiz",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الجمعة 16 ابريل 2021 - 03:42 مساءاً",
+  "last_updated": "2026-01-13T00:51:12.300384Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/28327/camdaki-kiz/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/28327/camdaki-kiz/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

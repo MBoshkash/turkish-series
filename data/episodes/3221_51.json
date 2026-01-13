@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 51,
+  "title": "الحلقة 51",
+  "date_added": "الأحد 28 اغسطس 2022 - 02:10 مساءاً",
+  "last_updated": "2026-01-13T00:49:56.508391Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/65189/اخوتي-الموسم-الثاني/الحلقة-51",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/65189/اخوتي-الموسم-الثاني/الحلقة-51",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

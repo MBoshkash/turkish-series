@@ -1,0 +1,28 @@
+{
+  "series_id": "964",
+  "series_title": "Emanet الموسم الاول",
+  "episode_number": 7,
+  "title": "الحلقة 7",
+  "date_added": "الأحد 20 سبتمبر 2020 - 06:57 مساءاً",
+  "last_updated": "2026-01-13T00:51:09.420290Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/15300/emanet-الموسم-الاول/الحلقة-7",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/15300/emanet-الموسم-الاول/الحلقة-7",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

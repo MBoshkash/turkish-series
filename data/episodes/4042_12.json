@@ -1,0 +1,28 @@
+{
+  "series_id": "4042",
+  "series_title": "Aile الموسم الاول",
+  "episode_number": 12,
+  "title": "الحلقة 12",
+  "date_added": "الأربعاء 24 مايو 2023 - 03:17 صباحا",
+  "last_updated": "2026-01-13T00:49:43.748718Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/77950/aile-الموسم-الاول/الحلقة-12",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/77950/aile-الموسم-الاول/الحلقة-12",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

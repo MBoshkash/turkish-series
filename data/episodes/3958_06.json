@@ -1,0 +1,28 @@
+{
+  "series_id": "3958",
+  "series_title": "Al Sancak الموسم الاول",
+  "episode_number": 6,
+  "title": "الحلقة 6",
+  "date_added": "السبت 11 مارس 2023 - 12:32 صباحا",
+  "last_updated": "2026-01-13T00:49:37.348178Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/73885/al-sancak-الموسم-الاول/الحلقة-6",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/73885/al-sancak-الموسم-الاول/الحلقة-6",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

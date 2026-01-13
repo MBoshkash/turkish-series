@@ -1,0 +1,28 @@
+{
+  "series_id": "4028",
+  "series_title": "هذا العالم لا يسعني",
+  "episode_number": 105,
+  "title": "الحلقة 105",
+  "date_added": "الإثنين 24 يوليو 2023 - 03:04 صباحا",
+  "last_updated": "2026-01-13T00:49:28.854787Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/79331/هذا-العالم-لا-يسعني/الحلقة-105",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/79331/هذا-العالم-لا-يسعني/الحلقة-105",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

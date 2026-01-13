@@ -1,0 +1,28 @@
+{
+  "series_id": "3122",
+  "series_title": "ابي الموسم الاول",
+  "episode_number": 31,
+  "title": "الحلقة 31",
+  "date_added": "الخميس 02 يونيو 2022 - 03:43 صباحا",
+  "last_updated": "2026-01-13T00:50:08.367100Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/60869/ابي-الموسم-الاول/الحلقة-31",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/60869/ابي-الموسم-الاول/الحلقة-31",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

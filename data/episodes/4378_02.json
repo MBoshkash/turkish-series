@@ -1,0 +1,28 @@
+{
+  "series_id": "4378",
+  "series_title": "Serhat الموسم الاول",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الثلاثاء 15 اغسطس 2023 - 11:55 مساءاً",
+  "last_updated": "2026-01-13T00:49:21.657633Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/79763/serhat-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/79763/serhat-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

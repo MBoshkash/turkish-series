@@ -1,0 +1,28 @@
+{
+  "series_id": "2256",
+  "series_title": "عزيز الموسم الأول",
+  "episode_number": 23,
+  "title": "الحلقة 23",
+  "date_added": "السبت 25 ديسمبر 2021 - 02:32 صباحا",
+  "last_updated": "2026-01-13T00:50:15.746007Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/44519/عزيز-الموسم-الأول/الحلقة-23",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/44519/عزيز-الموسم-الأول/الحلقة-23",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

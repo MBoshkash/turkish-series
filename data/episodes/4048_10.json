@@ -1,0 +1,28 @@
+{
+  "series_id": "4048",
+  "series_title": "أنا بارتو الموسم الاول",
+  "episode_number": 10,
+  "title": "الحلقة 10",
+  "date_added": "الثلاثاء 14 مارس 2023 - 05:43 مساءاً",
+  "last_updated": "2026-01-13T00:49:47.246874Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/73970/أنا-بارتو-الموسم-الاول/الحلقة-10",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/73970/أنا-بارتو-الموسم-الاول/الحلقة-10",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

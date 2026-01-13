@@ -1,0 +1,28 @@
+{
+  "series_id": "2221",
+  "series_title": "Benim Hayatim الموسم الاول",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الإثنين 08 نوفمبر 2021 - 02:59 صباحا",
+  "last_updated": "2026-01-13T00:50:44.739893Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/39231/benim-hayatim-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/39231/benim-hayatim-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

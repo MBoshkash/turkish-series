@@ -1,0 +1,28 @@
+{
+  "series_id": "3529",
+  "series_title": "Baba الموسم الثاني",
+  "episode_number": 5,
+  "title": "الحلقة 5",
+  "date_added": "الأربعاء 19 أكتوبر 2022 - 02:31 صباحا",
+  "last_updated": "2026-01-13T00:49:54.913578Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/67626/baba-الموسم-الثاني/الحلقة-5",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/67626/baba-الموسم-الثاني/الحلقة-5",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

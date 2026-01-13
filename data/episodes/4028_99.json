@@ -1,0 +1,28 @@
+{
+  "series_id": "4028",
+  "series_title": "هذا العالم لا يسعني",
+  "episode_number": 99,
+  "title": "الحلقة 99",
+  "date_added": "الخميس 13 يوليو 2023 - 02:06 صباحا",
+  "last_updated": "2026-01-13T00:49:28.854762Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/79081/هذا-العالم-لا-يسعني/الحلقة-99",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/79081/هذا-العالم-لا-يسعني/الحلقة-99",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

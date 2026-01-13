@@ -1,0 +1,28 @@
+{
+  "series_id": "1736",
+  "series_title": "Kagit Ev",
+  "episode_number": 5,
+  "title": "الحلقة 5",
+  "date_added": "الأربعاء 19 مايو 2021 - 01:25 صباحا",
+  "last_updated": "2026-01-13T00:51:13.208768Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/31316/kagit-ev/الحلقة-5",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/31316/kagit-ev/الحلقة-5",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

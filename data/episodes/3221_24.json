@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 24,
+  "title": "الحلقة 24",
+  "date_added": "الأربعاء 20 يوليو 2022 - 04:13 صباحا",
+  "last_updated": "2026-01-13T00:49:56.508288Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/63353/اخوتي-الموسم-الثاني/الحلقة-24",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/63353/اخوتي-الموسم-الثاني/الحلقة-24",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

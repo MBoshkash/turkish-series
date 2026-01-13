@@ -1,0 +1,28 @@
+{
+  "series_id": "3668",
+  "series_title": "Tuzak الموسم الاول",
+  "episode_number": 20,
+  "title": "الحلقة 20",
+  "date_added": "الأحد 19 مارس 2023 - 03:32 صباحا",
+  "last_updated": "2026-01-13T00:49:45.956101Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/74145/tuzak-الموسم-الاول/الحلقة-20",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/74145/tuzak-الموسم-الاول/الحلقة-20",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

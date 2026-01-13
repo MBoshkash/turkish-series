@@ -1,0 +1,28 @@
+{
+  "series_id": "3973",
+  "series_title": "العريس الرائع",
+  "episode_number": 6,
+  "title": "الحلقة 6",
+  "date_added": "الأحد 05 فبراير 2023 - 06:20 مساءاً",
+  "last_updated": "2026-01-13T00:49:44.823972Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/72662/العريس-الرائع/الحلقة-6",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/72662/العريس-الرائع/الحلقة-6",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

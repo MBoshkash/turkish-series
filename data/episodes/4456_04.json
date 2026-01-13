@@ -1,0 +1,28 @@
+{
+  "series_id": "4456",
+  "series_title": "Yargi الموسم الثالث",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "الأربعاء 15 نوفمبر 2023 - 10:01 مساءاً",
+  "last_updated": "2026-01-13T00:49:05.330868Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/82076/yargi-الموسم-الثالث/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/82076/yargi-الموسم-الثالث/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

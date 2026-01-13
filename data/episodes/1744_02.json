@@ -1,0 +1,28 @@
+{
+  "series_id": "1744",
+  "series_title": "Fatma",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الأربعاء 28 ابريل 2021 - 05:31 صباحا",
+  "last_updated": "2026-01-13T00:51:19.242918Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/29587/fatma/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/29587/fatma/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

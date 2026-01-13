@@ -1,0 +1,28 @@
+{
+  "series_id": "4282",
+  "series_title": "Yardimci Oyuncu الموسم الاول",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الأربعاء 14 يونيو 2023 - 04:40 مساءاً",
+  "last_updated": "2026-01-13T00:49:28.033884Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/78515/yardimci-oyuncu-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/78515/yardimci-oyuncu-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

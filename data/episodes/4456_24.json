@@ -1,0 +1,28 @@
+{
+  "series_id": "4456",
+  "series_title": "Yargi الموسم الثالث",
+  "episode_number": 24,
+  "title": "الحلقة 24",
+  "date_added": "الإثنين 18 مارس 2024 - 04:34 مساءاً",
+  "last_updated": "2026-01-13T00:49:05.330986Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/85484/yargi-الموسم-الثالث/الحلقة-24",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/85484/yargi-الموسم-الثالث/الحلقة-24",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "1335",
+  "series_title": "Son Yaz الموسم الاول",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "السبت 02 يناير 2021 - 02:20 صباحا",
+  "last_updated": "2026-01-13T00:51:14.264909Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/21822/son-yaz-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/21822/son-yaz-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "1488",
+  "series_title": "Kardeslerim",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الإثنين 22 فبراير 2021 - 12:06 صباحا",
+  "last_updated": "2026-01-13T00:51:09.894670Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/25044/kardeslerim/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/25044/kardeslerim/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

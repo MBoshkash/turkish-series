@@ -1,0 +1,28 @@
+{
+  "series_id": "2038",
+  "series_title": "Yargi الموسم الأول",
+  "episode_number": 17,
+  "title": "الحلقة 17",
+  "date_added": "الإثنين 24 يناير 2022 - 03:13 صباحا",
+  "last_updated": "2026-01-13T00:50:18.701032Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/47907/yargi-الموسم-الأول/الحلقة-17",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/47907/yargi-الموسم-الأول/الحلقة-17",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

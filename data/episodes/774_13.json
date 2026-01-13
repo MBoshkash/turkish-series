@@ -1,0 +1,28 @@
+{
+  "series_id": "774",
+  "series_title": "أطرق بابي",
+  "episode_number": 13,
+  "title": "الحلقة 13",
+  "date_added": "الخميس 13 اغسطس 2020 - 01:51 مساءاً",
+  "last_updated": "2026-01-13T00:51:19.894291Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/13269/أطرق-بابي/الحلقة-13",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/13269/أطرق-بابي/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

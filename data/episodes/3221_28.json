@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 28,
+  "title": "الحلقة 28",
+  "date_added": "الثلاثاء 26 يوليو 2022 - 05:12 صباحا",
+  "last_updated": "2026-01-13T00:49:56.508302Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/63642/اخوتي-الموسم-الثاني/الحلقة-28",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/63642/اخوتي-الموسم-الثاني/الحلقة-28",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

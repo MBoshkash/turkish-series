@@ -1,0 +1,28 @@
+{
+  "series_id": "4223",
+  "series_title": "اسمي فرح الموسم الاول",
+  "episode_number": 30,
+  "title": "الحلقة 30",
+  "date_added": "الأربعاء 14 يونيو 2023 - 04:37 صباحا",
+  "last_updated": "2026-01-13T00:49:28.376076Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/78509/اسمي-فرح-الموسم-الاول/الحلقة-30",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/78509/اسمي-فرح-الموسم-الاول/الحلقة-30",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

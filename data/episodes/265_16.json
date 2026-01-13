@@ -1,0 +1,28 @@
+{
+  "series_id": "265",
+  "series_title": "Baraj الموسم الاول",
+  "episode_number": 16,
+  "title": "الحلقة 16",
+  "date_added": "الأربعاء 02 ديسمبر 2020 - 01:17 صباحا",
+  "last_updated": "2026-01-13T00:51:18.425447Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/19999/baraj-الموسم-الاول/الحلقة-16",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/19999/baraj-الموسم-الاول/الحلقة-16",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

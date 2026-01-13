@@ -1,0 +1,28 @@
+{
+  "series_id": "2418",
+  "series_title": "القضاء الموسم الاول",
+  "episode_number": 64,
+  "title": "الحلقة 64",
+  "date_added": "الأربعاء 02 مارس 2022 - 04:34 مساءاً",
+  "last_updated": "2026-01-13T00:50:11.837415Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/52202/القضاء-الموسم-الاول/الحلقة-64",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/52202/القضاء-الموسم-الاول/الحلقة-64",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

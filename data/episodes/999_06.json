@@ -1,0 +1,28 @@
+{
+  "series_id": "999",
+  "series_title": "7YUZ",
+  "episode_number": 6,
+  "title": "الحلقة 6",
+  "date_added": "الأربعاء 30 سبتمبر 2020 - 07:14 مساءاً",
+  "last_updated": "2026-01-13T00:51:36.509611Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/15779/7yuz/الحلقة-6",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/15779/7yuz/الحلقة-6",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

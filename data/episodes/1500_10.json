@@ -1,0 +1,28 @@
+{
+  "series_id": "1500",
+  "series_title": "Masumiyet",
+  "episode_number": 10,
+  "title": "الحلقة 10",
+  "date_added": "الخميس 29 ابريل 2021 - 01:21 مساءاً",
+  "last_updated": "2026-01-13T00:51:16.853548Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/29687/masumiyet/الحلقة-10",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/29687/masumiyet/الحلقة-10",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

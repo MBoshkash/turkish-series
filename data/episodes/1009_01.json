@@ -1,0 +1,28 @@
+{
+  "series_id": "1009",
+  "series_title": "التفاح الحرام الموسم الاول",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الخميس 01 أكتوبر 2020 - 05:53 مساءاً",
+  "last_updated": "2026-01-13T00:51:30.506860Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/15929/التفاح-الحرام-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/15929/التفاح-الحرام-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

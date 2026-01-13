@@ -1,0 +1,28 @@
+{
+  "series_id": "4378",
+  "series_title": "Serhat الموسم الاول",
+  "episode_number": 8,
+  "title": "الحلقة 8",
+  "date_added": "الإثنين 25 سبتمبر 2023 - 07:36 مساءاً",
+  "last_updated": "2026-01-13T00:49:21.657675Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/80835/serhat-الموسم-الاول/الحلقة-8",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/80835/serhat-الموسم-الاول/الحلقة-8",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

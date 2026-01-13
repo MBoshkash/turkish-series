@@ -1,0 +1,28 @@
+{
+  "series_id": "4032",
+  "series_title": "ابي الموسم الثاني",
+  "episode_number": 5,
+  "title": "الحلقة 5",
+  "date_added": "الأربعاء 01 مارس 2023 - 05:45 مساءاً",
+  "last_updated": "2026-01-13T00:49:47.504365Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/73573/ابي-الموسم-الثاني/الحلقة-5",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/73573/ابي-الموسم-الثاني/الحلقة-5",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

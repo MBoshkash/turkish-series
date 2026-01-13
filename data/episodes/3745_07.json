@@ -1,0 +1,28 @@
+{
+  "series_id": "3745",
+  "series_title": "Ben Gri الموسم الاول",
+  "episode_number": 7,
+  "title": "الحلقة 7",
+  "date_added": "الأربعاء 21 ديسمبر 2022 - 01:49 مساءاً",
+  "last_updated": "2026-01-13T00:49:54.332881Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/70766/ben-gri-الموسم-الاول/الحلقة-7",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/70766/ben-gri-الموسم-الاول/الحلقة-7",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

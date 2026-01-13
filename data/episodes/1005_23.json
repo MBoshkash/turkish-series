@@ -1,0 +1,28 @@
+{
+  "series_id": "1005",
+  "series_title": "Evim الموسم الثاني",
+  "episode_number": 23,
+  "title": "الحلقة 23",
+  "date_added": "الخميس 11 مارس 2021 - 06:30 صباحا",
+  "last_updated": "2026-01-13T00:51:17.422092Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/26231/evim-الموسم-الثاني/الحلقة-23",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/26231/evim-الموسم-الثاني/الحلقة-23",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

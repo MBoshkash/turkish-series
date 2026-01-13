@@ -1,0 +1,28 @@
+{
+  "series_id": "1214",
+  "series_title": "Kefaret الموسم الاول",
+  "episode_number": 23,
+  "title": "الحلقة 23",
+  "date_added": "الأربعاء 28 ابريل 2021 - 01:10 صباحا",
+  "last_updated": "2026-01-13T00:51:03.672475Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/29573/kefaret-الموسم-الاول/الحلقة-23",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/29573/kefaret-الموسم-الاول/الحلقة-23",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

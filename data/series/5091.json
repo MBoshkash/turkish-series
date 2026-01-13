@@ -5,18 +5,29 @@
   "description": "مشاهدة و تحميل مسلسل Platonik حيث يدور العمل حول عندما يحلّ غريب جذاب، يخفي نواياه الحقيقية، ضيفًا في فندق \"القمر الأزرق\"، ينشأ بينه وبين الشقيقتين اللتين تعملان هناك مثلث حب غريب ومعقد.",
   "poster": "https://img.downet.net/thumb/260x380/uploads/ajR2i.webp",
   "backdrop": "",
-  "year": "2026",
+  "year": "2025",
   "country": "تركيا",
-  "rating": 0.0,
+  "language": "التركية",
+  "rating": 6.0,
   "genres": [
-    "NETFLIX",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي",
+    "دراما"
   ],
-  "quality": "",
+  "tags": [
+    "#مشاهدة و تحميل مسلسل Platonik",
+    "رمضان",
+    "مدبلج",
+    "#Platonik",
+    "#الحب الأفلاطوني"
+  ],
+  "quality": "WEB-DL",
+  "duration": "41 دقيقة",
+  "age_rating": "PG13",
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-01-12T20:44:46.056329Z",
+  "last_updated": "2026-01-13T00:49:01.499994Z",
   "episodes": [
     {
       "number": 1,

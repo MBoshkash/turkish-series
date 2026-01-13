@@ -1,0 +1,28 @@
+{
+  "series_id": "4326",
+  "series_title": "ماذا لو الموسم الاول",
+  "episode_number": 58,
+  "title": "الحلقة 58",
+  "date_added": "الأحد 24 سبتمبر 2023 - 04:48 مساءاً",
+  "last_updated": "2026-01-13T00:49:21.978522Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/80800/ماذا-لو-الموسم-الاول/الحلقة-58",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/80800/ماذا-لو-الموسم-الاول/الحلقة-58",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

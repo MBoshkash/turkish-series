@@ -5,17 +5,28 @@
   "description": "مشاهدة و تحميل مسلسل اسمي ليمان  حيث يدور العمل حول مقدمة برامج إذاعية. يبدأ كل شيء بعودة ليمان إلى المدينة بعد سنوات من الغياب، وقلب موازين القوى رأسًا على عقب. يروي \"بن ليمان\" قصص أربع نساء، لكل منهن قصة غامضة ومثيرة، تتناول أيضًا طفولتهن.",
   "poster": "https://img.downet.net/thumb/260x380/uploads/AvpOF.webp",
   "backdrop": "",
-  "year": "2026",
+  "year": "2025",
   "country": "تركيا",
-  "rating": 0.0,
+  "language": "التركية",
+  "rating": 7.9,
   "genres": [
+    "كوميدي",
+    "رومانسي",
     "دراما"
   ],
-  "quality": "",
+  "tags": [
+    "#Ben Leman",
+    "#اسمي ليمان",
+    "مدبلج",
+    "رمضان"
+  ],
+  "quality": "WEB-DL",
+  "duration": "133 دقيقة",
+  "age_rating": "PG13",
   "cast": [],
   "total_episodes": 12,
   "status": "ongoing",
-  "last_updated": "2026-01-12T20:43:58.243431Z",
+  "last_updated": "2026-01-13T00:48:54.061604Z",
   "episodes": [
     {
       "number": 1,

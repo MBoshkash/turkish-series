@@ -1,0 +1,28 @@
+{
+  "series_id": "4042",
+  "series_title": "Aile الموسم الاول",
+  "episode_number": 6,
+  "title": "الحلقة 6",
+  "date_added": "الأربعاء 12 ابريل 2023 - 04:51 مساءاً",
+  "last_updated": "2026-01-13T00:49:43.748695Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/76162/aile-الموسم-الاول/الحلقة-6",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/76162/aile-الموسم-الاول/الحلقة-6",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "1799",
+  "series_title": "Askin Tarifi",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الثلاثاء 08 يونيو 2021 - 05:11 صباحا",
+  "last_updated": "2026-01-13T00:50:59.401583Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/32046/askin-tarifi/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/32046/askin-tarifi/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

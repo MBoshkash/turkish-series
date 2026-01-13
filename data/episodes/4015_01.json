@@ -1,0 +1,28 @@
+{
+  "series_id": "4015",
+  "series_title": "بونكيس الموسم الثاني",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الإثنين 20 فبراير 2023 - 04:15 مساءاً",
+  "last_updated": "2026-01-13T00:49:47.759988Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/73236/بونكيس-الموسم-الثاني/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/73236/بونكيس-الموسم-الثاني/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

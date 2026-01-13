@@ -1,0 +1,28 @@
+{
+  "series_id": "4211",
+  "series_title": "العائلة الموسم الاول",
+  "episode_number": 11,
+  "title": "الحلقة 11",
+  "date_added": "الخميس 11 مايو 2023 - 05:18 مساءاً",
+  "last_updated": "2026-01-13T00:49:30.454490Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/77542/العائلة-الموسم-الاول/الحلقة-11",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/77542/العائلة-الموسم-الاول/الحلقة-11",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "2759",
+  "series_title": "Bonkis الموسم الاول",
+  "episode_number": 7,
+  "title": "الحلقة 7",
+  "date_added": "الأحد 13 فبراير 2022 - 06:09 صباحا",
+  "last_updated": "2026-01-13T00:50:33.889601Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/50202/bonkis-الموسم-الاول/الحلقة-7",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/50202/bonkis-الموسم-الاول/الحلقة-7",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "1192",
+  "series_title": "Kocaman Ailem",
+  "episode_number": 21,
+  "title": "الحلقة 21",
+  "date_added": "الخميس 04 فبراير 2021 - 01:38 صباحا",
+  "last_updated": "2026-01-13T00:51:23.882146Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/23533/kocaman-ailem/الحلقة-21",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/23533/kocaman-ailem/الحلقة-21",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

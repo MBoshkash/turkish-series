@@ -1,0 +1,28 @@
+{
+  "series_id": "905",
+  "series_title": "Yeni Hayat",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "الجمعة 25 سبتمبر 2020 - 03:58 صباحا",
+  "last_updated": "2026-01-13T00:51:33.204457Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/15504/yeni-hayat/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/15504/yeni-hayat/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

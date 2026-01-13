@@ -1,0 +1,28 @@
+{
+  "series_id": "1172",
+  "series_title": "طيف إسطنبول الموسم الاول",
+  "episode_number": 5,
+  "title": "الحلقة 5",
+  "date_added": "السبت 14 نوفمبر 2020 - 06:13 مساءاً",
+  "last_updated": "2026-01-13T00:51:31.934012Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/18593/طيف-إسطنبول-الموسم-الاول/الحلقة-5",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/18593/طيف-إسطنبول-الموسم-الاول/الحلقة-5",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

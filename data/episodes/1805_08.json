@@ -1,0 +1,28 @@
+{
+  "series_id": "1805",
+  "series_title": "Cam Tavanlar",
+  "episode_number": 8,
+  "title": "الحلقة 8",
+  "date_added": "الخميس 05 اغسطس 2021 - 04:05 صباحا",
+  "last_updated": "2026-01-13T00:51:02.902290Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/33616/cam-tavanlar/الحلقة-8",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/33616/cam-tavanlar/الحلقة-8",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

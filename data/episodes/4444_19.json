@@ -1,0 +1,28 @@
+{
+  "series_id": "4444",
+  "series_title": "الفخ الموسم الثاني",
+  "episode_number": 19,
+  "title": "الحلقة 19",
+  "date_added": "الأربعاء 25 أكتوبر 2023 - 10:35 مساءاً",
+  "last_updated": "2026-01-13T00:49:18.776355Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/81439/الفخ-الموسم-الثاني/الحلقة-19",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/81439/الفخ-الموسم-الثاني/الحلقة-19",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

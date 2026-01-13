@@ -1,0 +1,28 @@
+{
+  "series_id": "1928",
+  "series_title": "رامو الموسم الاول",
+  "episode_number": 100,
+  "title": "الحلقة 100",
+  "date_added": "الخميس 25 نوفمبر 2021 - 07:43 مساءاً",
+  "last_updated": "2026-01-13T00:50:39.948745Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/41388/رامو-الموسم-الاول/الحلقة-100",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/41388/رامو-الموسم-الاول/الحلقة-100",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

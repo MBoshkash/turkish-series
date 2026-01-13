@@ -1,0 +1,28 @@
+{
+  "series_id": "1192",
+  "series_title": "Kocaman Ailem",
+  "episode_number": 15,
+  "title": "الحلقة 15",
+  "date_added": "الثلاثاء 29 ديسمبر 2020 - 11:09 مساءاً",
+  "last_updated": "2026-01-13T00:51:23.882105Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/21617/kocaman-ailem/الحلقة-15",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/21617/kocaman-ailem/الحلقة-15",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

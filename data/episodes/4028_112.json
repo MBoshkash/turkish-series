@@ -1,0 +1,28 @@
+{
+  "series_id": "4028",
+  "series_title": "هذا العالم لا يسعني",
+  "episode_number": 112,
+  "title": "الحلقة 112",
+  "date_added": "الخميس 03 اغسطس 2023 - 02:28 صباحا",
+  "last_updated": "2026-01-13T00:49:28.854813Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/79570/هذا-العالم-لا-يسعني/الحلقة-112",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/79570/هذا-العالم-لا-يسعني/الحلقة-112",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

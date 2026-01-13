@@ -1,0 +1,28 @@
+{
+  "series_id": "4223",
+  "series_title": "اسمي فرح الموسم الاول",
+  "episode_number": 17,
+  "title": "الحلقة 17",
+  "date_added": "الجمعة 26 مايو 2023 - 02:56 صباحا",
+  "last_updated": "2026-01-13T00:49:28.376027Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/78027/اسمي-فرح-الموسم-الاول/الحلقة-17",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/78027/اسمي-فرح-الموسم-الاول/الحلقة-17",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "4223",
+  "series_title": "اسمي فرح الموسم الاول",
+  "episode_number": 25,
+  "title": "الحلقة 25",
+  "date_added": "الأربعاء 07 يونيو 2023 - 03:03 صباحا",
+  "last_updated": "2026-01-13T00:49:28.376058Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/78341/اسمي-فرح-الموسم-الاول/الحلقة-25",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/78341/اسمي-فرح-الموسم-الاول/الحلقة-25",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

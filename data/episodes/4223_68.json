@@ -1,0 +1,28 @@
+{
+  "series_id": "4223",
+  "series_title": "اسمي فرح الموسم الاول",
+  "episode_number": 68,
+  "title": "الحلقة 68",
+  "date_added": "الإثنين 07 اغسطس 2023 - 12:58 صباحا",
+  "last_updated": "2026-01-13T00:49:28.376209Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/79645/اسمي-فرح-الموسم-الاول/الحلقة-68",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/79645/اسمي-فرح-الموسم-الاول/الحلقة-68",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "3122",
+  "series_title": "ابي الموسم الاول",
+  "episode_number": 13,
+  "title": "الحلقة 13",
+  "date_added": "الأربعاء 11 مايو 2022 - 03:23 صباحا",
+  "last_updated": "2026-01-13T00:50:08.366962Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/59728/ابي-الموسم-الاول/الحلقة-13",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/59728/ابي-الموسم-الاول/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

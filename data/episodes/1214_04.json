@@ -1,0 +1,28 @@
+{
+  "series_id": "1214",
+  "series_title": "Kefaret الموسم الاول",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "الإثنين 14 ديسمبر 2020 - 11:42 مساءاً",
+  "last_updated": "2026-01-13T00:51:03.672343Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/20775/kefaret-الموسم-الاول/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/20775/kefaret-الموسم-الاول/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

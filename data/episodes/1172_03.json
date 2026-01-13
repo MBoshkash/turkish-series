@@ -1,0 +1,28 @@
+{
+  "series_id": "1172",
+  "series_title": "طيف إسطنبول الموسم الاول",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "السبت 14 نوفمبر 2020 - 06:12 مساءاً",
+  "last_updated": "2026-01-13T00:51:31.934004Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/18591/طيف-إسطنبول-الموسم-الاول/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/18591/طيف-إسطنبول-الموسم-الاول/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

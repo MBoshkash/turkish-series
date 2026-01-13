@@ -1,0 +1,28 @@
+{
+  "series_id": "2256",
+  "series_title": "عزيز الموسم الأول",
+  "episode_number": 44,
+  "title": "الحلقة 44",
+  "date_added": "الإثنين 28 فبراير 2022 - 01:33 صباحا",
+  "last_updated": "2026-01-13T00:50:15.746090Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/52074/عزيز-الموسم-الأول/الحلقة-44",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/52074/عزيز-الموسم-الأول/الحلقة-44",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

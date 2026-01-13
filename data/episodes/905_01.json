@@ -1,0 +1,28 @@
+{
+  "series_id": "905",
+  "series_title": "Yeni Hayat",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الجمعة 04 سبتمبر 2020 - 05:04 صباحا",
+  "last_updated": "2026-01-13T00:51:33.204436Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/14683/yeni-hayat/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/14683/yeni-hayat/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

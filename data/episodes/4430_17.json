@@ -1,0 +1,28 @@
+{
+  "series_id": "4430",
+  "series_title": "Yabani الموسم الاول",
+  "episode_number": 17,
+  "title": "الحلقة 17",
+  "date_added": "الأحد 14 يناير 2024 - 12:11 صباحا",
+  "last_updated": "2026-01-13T00:49:07.139291Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/84144/yabani-الموسم-الاول/الحلقة-17",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/84144/yabani-الموسم-الاول/الحلقة-17",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

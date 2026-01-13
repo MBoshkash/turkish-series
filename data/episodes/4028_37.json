@@ -1,0 +1,28 @@
+{
+  "series_id": "4028",
+  "series_title": "هذا العالم لا يسعني",
+  "episode_number": 37,
+  "title": "الحلقة 37",
+  "date_added": "الأربعاء 03 مايو 2023 - 05:32 مساءاً",
+  "last_updated": "2026-01-13T00:49:28.854526Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/77305/هذا-العالم-لا-يسعني/الحلقة-37",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/77305/هذا-العالم-لا-يسعني/الحلقة-37",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

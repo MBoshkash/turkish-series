@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 64,
+  "title": "الحلقة 64",
+  "date_added": "الأربعاء 14 سبتمبر 2022 - 02:26 مساءاً",
+  "last_updated": "2026-01-13T00:49:56.508443Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/65925/اخوتي-الموسم-الثاني/الحلقة-64",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/65925/اخوتي-الموسم-الثاني/الحلقة-64",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "1949",
+  "series_title": "اخوتي الموسم الاول",
+  "episode_number": 15,
+  "title": "الحلقة 15",
+  "date_added": "الخميس 02 سبتمبر 2021 - 04:33 صباحا",
+  "last_updated": "2026-01-13T00:50:47.528347Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/35008/اخوتي-الموسم-الاول/الحلقة-15",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/35008/اخوتي-الموسم-الاول/الحلقة-15",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

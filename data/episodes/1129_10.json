@@ -1,0 +1,28 @@
+{
+  "series_id": "1129",
+  "series_title": "علي رضا الموسم الاول",
+  "episode_number": 10,
+  "title": "الحلقة 10",
+  "date_added": "الثلاثاء 17 نوفمبر 2020 - 02:22 صباحا",
+  "last_updated": "2026-01-13T00:51:21.702150Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/18858/علي-رضا-الموسم-الاول/الحلقة-10",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/18858/علي-رضا-الموسم-الاول/الحلقة-10",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

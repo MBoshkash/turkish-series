@@ -1,0 +1,28 @@
+{
+  "series_id": "2498",
+  "series_title": "نور الموسم الاول",
+  "episode_number": 105,
+  "title": "الحلقة 105",
+  "date_added": "الأربعاء 22 ديسمبر 2021 - 03:47 مساءاً",
+  "last_updated": "2026-01-13T00:50:42.024894Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/44226/نور-الموسم-الاول/الحلقة-105",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/44226/نور-الموسم-الاول/الحلقة-105",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

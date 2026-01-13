@@ -1,0 +1,28 @@
+{
+  "series_id": "959",
+  "series_title": "Hercai الموسم الثالث",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "السبت 26 سبتمبر 2020 - 03:22 صباحا",
+  "last_updated": "2026-01-13T00:51:19.549175Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/15543/hercai-الموسم-الثالث/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/15543/hercai-الموسم-الثالث/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

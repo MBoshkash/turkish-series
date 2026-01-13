@@ -1,0 +1,28 @@
+{
+  "series_id": "4444",
+  "series_title": "الفخ الموسم الثاني",
+  "episode_number": 30,
+  "title": "الحلقة 30",
+  "date_added": "الخميس 26 أكتوبر 2023 - 09:20 مساءاً",
+  "last_updated": "2026-01-13T00:49:18.776397Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/81468/الفخ-الموسم-الثاني/الحلقة-30",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/81468/الفخ-الموسم-الثاني/الحلقة-30",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

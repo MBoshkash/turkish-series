@@ -1,0 +1,28 @@
+{
+  "series_id": "730",
+  "series_title": "Kara Ekmek",
+  "episode_number": 49,
+  "title": "الحلقة 49",
+  "date_added": "الجمعة 16 أكتوبر 2020 - 08:28 مساءاً",
+  "last_updated": "2026-01-13T00:51:24.633657Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/16910/kara-ekmek/الحلقة-49",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/16910/kara-ekmek/الحلقة-49",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "1415",
+  "series_title": "50M2",
+  "episode_number": 5,
+  "title": "الحلقة 5",
+  "date_added": "الجمعة 29 يناير 2021 - 06:34 صباحا",
+  "last_updated": "2026-01-13T00:51:27.978197Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/23171/50m2/الحلقة-5",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/23171/50m2/الحلقة-5",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

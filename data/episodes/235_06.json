@@ -1,0 +1,28 @@
+{
+  "series_id": "235",
+  "series_title": "عودة مهند",
+  "episode_number": 6,
+  "title": "الحلقة 6",
+  "date_added": "الثلاثاء 10 مارس 2020 - 02:44 مساءاً",
+  "last_updated": "2026-01-13T00:51:49.636623Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/3383/عودة-مهند/الحلقة-6",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/3383/عودة-مهند/الحلقة-6",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

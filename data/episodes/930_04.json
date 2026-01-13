@@ -1,0 +1,28 @@
+{
+  "series_id": "930",
+  "series_title": "Babil الموسم الثاني",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "السبت 03 أكتوبر 2020 - 06:58 مساءاً",
+  "last_updated": "2026-01-13T00:51:30.178601Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/15994/babil-الموسم-الثاني/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/15994/babil-الموسم-الثاني/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

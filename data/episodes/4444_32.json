@@ -1,0 +1,28 @@
+{
+  "series_id": "4444",
+  "series_title": "الفخ الموسم الثاني",
+  "episode_number": 32,
+  "title": "الحلقة 32",
+  "date_added": "الخميس 26 أكتوبر 2023 - 09:20 مساءاً",
+  "last_updated": "2026-01-13T00:49:18.776404Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/81470/الفخ-الموسم-الثاني/الحلقة-32",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/81470/الفخ-الموسم-الثاني/الحلقة-32",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

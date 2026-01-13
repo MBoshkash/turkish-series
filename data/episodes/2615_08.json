@@ -1,0 +1,28 @@
+{
+  "series_id": "2615",
+  "series_title": "ألف الموسم الأول",
+  "episode_number": 8,
+  "title": "الحلقة 8",
+  "date_added": "الجمعة 14 يناير 2022 - 04:05 مساءاً",
+  "last_updated": "2026-01-13T00:50:38.055745Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/46450/ألف-الموسم-الأول/الحلقة-8",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/46450/ألف-الموسم-الأول/الحلقة-8",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

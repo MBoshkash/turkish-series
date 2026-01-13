@@ -1,0 +1,28 @@
+{
+  "series_id": "2256",
+  "series_title": "عزيز الموسم الأول",
+  "episode_number": 80,
+  "title": "الحلقة 80",
+  "date_added": "الإثنين 30 مايو 2022 - 03:25 مساءاً",
+  "last_updated": "2026-01-13T00:50:15.746221Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/60698/عزيز-الموسم-الأول/الحلقة-80",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/60698/عزيز-الموسم-الأول/الحلقة-80",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

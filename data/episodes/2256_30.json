@@ -1,0 +1,28 @@
+{
+  "series_id": "2256",
+  "series_title": "عزيز الموسم الأول",
+  "episode_number": 30,
+  "title": "الحلقة 30",
+  "date_added": "السبت 22 يناير 2022 - 04:55 صباحا",
+  "last_updated": "2026-01-13T00:50:15.746035Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/47602/عزيز-الموسم-الأول/الحلقة-30",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/47602/عزيز-الموسم-الأول/الحلقة-30",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

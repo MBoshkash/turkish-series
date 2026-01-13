@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 45,
+  "title": "الحلقة 45",
+  "date_added": "الخميس 18 اغسطس 2022 - 04:08 صباحا",
+  "last_updated": "2026-01-13T00:49:56.508367Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/64676/اخوتي-الموسم-الثاني/الحلقة-45",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/64676/اخوتي-الموسم-الثاني/الحلقة-45",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

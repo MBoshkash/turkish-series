@@ -1,0 +1,28 @@
+{
+  "series_id": "1817",
+  "series_title": "Baht Oyunu الموسم الاول",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الأربعاء 16 يونيو 2021 - 05:08 صباحا",
+  "last_updated": "2026-01-13T00:50:52.030902Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/32253/baht-oyunu-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/32253/baht-oyunu-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

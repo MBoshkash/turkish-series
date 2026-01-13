@@ -1,0 +1,28 @@
+{
+  "series_id": "936",
+  "series_title": "Ariza الموسم الاول",
+  "episode_number": 5,
+  "title": "الحلقة 5",
+  "date_added": "الإثنين 12 أكتوبر 2020 - 03:16 صباحا",
+  "last_updated": "2026-01-13T00:51:22.009770Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/16499/ariza-الموسم-الاول/الحلقة-5",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/16499/ariza-الموسم-الاول/الحلقة-5",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

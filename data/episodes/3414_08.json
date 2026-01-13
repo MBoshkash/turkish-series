@@ -1,0 +1,28 @@
+{
+  "series_id": "3414",
+  "series_title": "المعجبة الموسم الثاني",
+  "episode_number": 8,
+  "title": "الحلقة 8",
+  "date_added": "الخميس 08 سبتمبر 2022 - 01:49 صباحا",
+  "last_updated": "2026-01-13T00:50:02.639926Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/65561/المعجبة-الموسم-الثاني/الحلقة-8",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/65561/المعجبة-الموسم-الثاني/الحلقة-8",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

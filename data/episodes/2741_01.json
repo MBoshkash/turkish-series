@@ -1,0 +1,28 @@
+{
+  "series_id": "2741",
+  "series_title": "Oglum الموسم الأول",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الخميس 10 فبراير 2022 - 03:12 صباحا",
+  "last_updated": "2026-01-13T00:50:19.871799Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/49596/oglum-الموسم-الأول/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/49596/oglum-الموسم-الأول/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

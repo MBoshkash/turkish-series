@@ -1,0 +1,28 @@
+{
+  "series_id": "3666",
+  "series_title": "لعبة الحياة الموسم الاول",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "الخميس 20 أكتوبر 2022 - 08:11 مساءاً",
+  "last_updated": "2026-01-13T00:49:57.204368Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/67730/لعبة-الحياة-الموسم-الاول/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/67730/لعبة-الحياة-الموسم-الاول/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

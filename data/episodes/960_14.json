@@ -1,0 +1,28 @@
+{
+  "series_id": "960",
+  "series_title": "Ramo الموسم الثاني",
+  "episode_number": 14,
+  "title": "الحلقة 14",
+  "date_added": "السبت 19 ديسمبر 2020 - 01:28 صباحا",
+  "last_updated": "2026-01-13T00:51:20.802706Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/21069/ramo-الموسم-الثاني/الحلقة-14",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/21069/ramo-الموسم-الثاني/الحلقة-14",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

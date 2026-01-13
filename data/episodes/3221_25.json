@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 25,
+  "title": "الحلقة 25",
+  "date_added": "الخميس 21 يوليو 2022 - 04:36 صباحا",
+  "last_updated": "2026-01-13T00:49:56.508291Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/63404/اخوتي-الموسم-الثاني/الحلقة-25",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/63404/اخوتي-الموسم-الثاني/الحلقة-25",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

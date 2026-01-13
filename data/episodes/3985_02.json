@@ -1,0 +1,28 @@
+{
+  "series_id": "3985",
+  "series_title": "بهزات جي الموسم الاول",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الجمعة 10 فبراير 2023 - 04:29 مساءاً",
+  "last_updated": "2026-01-13T00:49:48.959226Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/72868/بهزات-جي-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/72868/بهزات-جي-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

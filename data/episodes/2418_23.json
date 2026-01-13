@@ -1,0 +1,28 @@
+{
+  "series_id": "2418",
+  "series_title": "القضاء الموسم الاول",
+  "episode_number": 23,
+  "title": "الحلقة 23",
+  "date_added": "الثلاثاء 04 يناير 2022 - 03:18 صباحا",
+  "last_updated": "2026-01-13T00:50:11.837258Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/45153/القضاء-الموسم-الاول/الحلقة-23",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/45153/القضاء-الموسم-الاول/الحلقة-23",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

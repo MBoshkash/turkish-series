@@ -1,0 +1,28 @@
+{
+  "series_id": "1805",
+  "series_title": "Cam Tavanlar",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الخميس 17 يونيو 2021 - 03:48 صباحا",
+  "last_updated": "2026-01-13T00:51:02.902265Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/32288/cam-tavanlar/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/32288/cam-tavanlar/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

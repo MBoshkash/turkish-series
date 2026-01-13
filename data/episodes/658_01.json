@@ -1,0 +1,28 @@
+{
+  "series_id": "658",
+  "series_title": "Çati Kati Ask",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الجمعة 10 يوليو 2020 - 07:52 مساءاً",
+  "last_updated": "2026-01-13T00:51:33.967704Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/10029/çati-kati-ask/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/10029/çati-kati-ask/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

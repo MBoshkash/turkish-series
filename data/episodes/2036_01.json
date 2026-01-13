@@ -1,0 +1,28 @@
+{
+  "series_id": "2036",
+  "series_title": "Son Yaz الموسم الثاني",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الأحد 19 سبتمبر 2021 - 02:30 مساءاً",
+  "last_updated": "2026-01-13T00:50:50.918327Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/35667/son-yaz-الموسم-الثاني/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/35667/son-yaz-الموسم-الثاني/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

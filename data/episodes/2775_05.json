@@ -1,0 +1,28 @@
+{
+  "series_id": "2775",
+  "series_title": "Baba الموسم الأول",
+  "episode_number": 5,
+  "title": "الحلقة 5",
+  "date_added": "الأربعاء 16 مارس 2022 - 03:24 صباحا",
+  "last_updated": "2026-01-13T00:50:17.692219Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/54197/baba-الموسم-الأول/الحلقة-5",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/54197/baba-الموسم-الأول/الحلقة-5",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

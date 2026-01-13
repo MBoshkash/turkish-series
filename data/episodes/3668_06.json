@@ -1,0 +1,28 @@
+{
+  "series_id": "3668",
+  "series_title": "Tuzak الموسم الاول",
+  "episode_number": 6,
+  "title": "الحلقة 6",
+  "date_added": "الجمعة 25 نوفمبر 2022 - 12:46 صباحا",
+  "last_updated": "2026-01-13T00:49:45.956024Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/69610/tuzak-الموسم-الاول/الحلقة-6",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/69610/tuzak-الموسم-الاول/الحلقة-6",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

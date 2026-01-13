@@ -1,0 +1,28 @@
+{
+  "series_id": "1192",
+  "series_title": "Kocaman Ailem",
+  "episode_number": 26,
+  "title": "الحلقة 26",
+  "date_added": "الخميس 11 مارس 2021 - 12:54 صباحا",
+  "last_updated": "2026-01-13T00:51:23.882181Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/26181/kocaman-ailem/الحلقة-26",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/26181/kocaman-ailem/الحلقة-26",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "4352",
+  "series_title": "أنا في ورطة",
+  "episode_number": 7,
+  "title": "الحلقة 7",
+  "date_added": "الأحد 20 اغسطس 2023 - 07:47 مساءاً",
+  "last_updated": "2026-01-13T00:49:22.517231Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/79855/أنا-في-ورطة/الحلقة-7",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/79855/أنا-في-ورطة/الحلقة-7",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

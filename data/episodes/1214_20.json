@@ -1,0 +1,28 @@
+{
+  "series_id": "1214",
+  "series_title": "Kefaret الموسم الاول",
+  "episode_number": 20,
+  "title": "الحلقة 20",
+  "date_added": "الإثنين 05 ابريل 2021 - 10:06 صباحا",
+  "last_updated": "2026-01-13T00:51:03.672453Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/27196/kefaret-الموسم-الاول/الحلقة-20",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/27196/kefaret-الموسم-الاول/الحلقة-20",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

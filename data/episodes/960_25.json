@@ -1,0 +1,28 @@
+{
+  "series_id": "960",
+  "series_title": "Ramo الموسم الثاني",
+  "episode_number": 25,
+  "title": "الحلقة 25",
+  "date_added": "السبت 20 مارس 2021 - 01:08 صباحا",
+  "last_updated": "2026-01-13T00:51:20.802750Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/26475/ramo-الموسم-الثاني/الحلقة-25",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/26475/ramo-الموسم-الثاني/الحلقة-25",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

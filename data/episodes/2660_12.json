@@ -1,0 +1,28 @@
+{
+  "series_id": "2660",
+  "series_title": "المعجبة الموسم الأول",
+  "episode_number": 12,
+  "title": "الحلقة 12",
+  "date_added": "السبت 26 مارس 2022 - 01:26 صباحا",
+  "last_updated": "2026-01-13T00:50:24.635961Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/55568/المعجبة-الموسم-الأول/الحلقة-12",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/55568/المعجبة-الموسم-الأول/الحلقة-12",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

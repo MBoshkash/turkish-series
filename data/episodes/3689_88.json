@@ -1,0 +1,28 @@
+{
+  "series_id": "3689",
+  "series_title": "فريد الموسم الاول",
+  "episode_number": 88,
+  "title": "الحلقة 88",
+  "date_added": "الأحد 22 يناير 2023 - 11:18 مساءاً",
+  "last_updated": "2026-01-13T00:49:40.036569Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/72135/فريد-الموسم-الاول/الحلقة-88",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/72135/فريد-الموسم-الاول/الحلقة-88",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

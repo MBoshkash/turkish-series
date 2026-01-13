@@ -1,0 +1,28 @@
+{
+  "series_id": "2198",
+  "series_title": "Elkizi الموسم الاول",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "الأحد 14 نوفمبر 2021 - 02:15 صباحا",
+  "last_updated": "2026-01-13T00:50:36.192521Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/39781/elkizi-الموسم-الاول/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/39781/elkizi-الموسم-الاول/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

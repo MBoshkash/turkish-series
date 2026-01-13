@@ -1,0 +1,28 @@
+{
+  "series_id": "2418",
+  "series_title": "القضاء الموسم الاول",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "الأربعاء 08 ديسمبر 2021 - 02:55 صباحا",
+  "last_updated": "2026-01-13T00:50:11.837183Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/42589/القضاء-الموسم-الاول/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/42589/القضاء-الموسم-الاول/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

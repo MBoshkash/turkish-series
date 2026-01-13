@@ -1,0 +1,28 @@
+{
+  "series_id": "1500",
+  "series_title": "Masumiyet",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الخميس 25 فبراير 2021 - 09:10 صباحا",
+  "last_updated": "2026-01-13T00:51:16.853501Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/25235/masumiyet/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/25235/masumiyet/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

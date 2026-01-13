@@ -1,0 +1,28 @@
+{
+  "series_id": "4352",
+  "series_title": "أنا في ورطة",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الأحد 10 سبتمبر 2023 - 02:46 صباحا",
+  "last_updated": "2026-01-13T00:49:22.517239Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/80362/أنا-في-ورطة/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/80362/أنا-في-ورطة/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

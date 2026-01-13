@@ -1,0 +1,28 @@
+{
+  "series_id": "885",
+  "series_title": "اتصل بوكيلي",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الخميس 27 اغسطس 2020 - 03:31 مساءاً",
+  "last_updated": "2026-01-13T00:51:05.468319Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/14354/اتصل-بوكيلي/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/14354/اتصل-بوكيلي/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

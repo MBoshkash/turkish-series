@@ -1,0 +1,28 @@
+{
+  "series_id": "1227",
+  "series_title": "Sifir Bir الموسم الاول",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الخميس 26 نوفمبر 2020 - 06:56 مساءاً",
+  "last_updated": "2026-01-13T00:51:29.375708Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/19398/sifir-bir-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/19398/sifir-bir-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

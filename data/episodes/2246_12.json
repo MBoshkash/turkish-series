@@ -1,0 +1,28 @@
+{
+  "series_id": "2246",
+  "series_title": "Aziz الموسم الأول",
+  "episode_number": 12,
+  "title": "الحلقة 12",
+  "date_added": "السبت 05 فبراير 2022 - 02:43 صباحا",
+  "last_updated": "2026-01-13T00:50:16.409835Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/48839/aziz-الموسم-الأول/الحلقة-12",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/48839/aziz-الموسم-الأول/الحلقة-12",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

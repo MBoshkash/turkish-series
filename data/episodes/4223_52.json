@@ -1,0 +1,28 @@
+{
+  "series_id": "4223",
+  "series_title": "اسمي فرح الموسم الاول",
+  "episode_number": 52,
+  "title": "الحلقة 52",
+  "date_added": "الجمعة 14 يوليو 2023 - 01:43 صباحا",
+  "last_updated": "2026-01-13T00:49:28.376154Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/79135/اسمي-فرح-الموسم-الاول/الحلقة-52",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/79135/اسمي-فرح-الموسم-الاول/الحلقة-52",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

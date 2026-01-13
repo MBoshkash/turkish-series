@@ -1,0 +1,28 @@
+{
+  "series_id": "1129",
+  "series_title": "علي رضا الموسم الاول",
+  "episode_number": 7,
+  "title": "الحلقة 7",
+  "date_added": "السبت 07 نوفمبر 2020 - 03:20 صباحا",
+  "last_updated": "2026-01-13T00:51:21.702138Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/18002/علي-رضا-الموسم-الاول/الحلقة-7",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/18002/علي-رضا-الموسم-الاول/الحلقة-7",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

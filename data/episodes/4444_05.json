@@ -1,0 +1,28 @@
+{
+  "series_id": "4444",
+  "series_title": "الفخ الموسم الثاني",
+  "episode_number": 5,
+  "title": "الحلقة 5",
+  "date_added": "الخميس 21 سبتمبر 2023 - 06:11 مساءاً",
+  "last_updated": "2026-01-13T00:49:18.776306Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/80737/الفخ-الموسم-الثاني/الحلقة-5",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/80737/الفخ-الموسم-الثاني/الحلقة-5",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

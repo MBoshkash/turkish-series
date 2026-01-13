@@ -1,0 +1,28 @@
+{
+  "series_id": "4223",
+  "series_title": "اسمي فرح الموسم الاول",
+  "episode_number": 21,
+  "title": "الحلقة 21",
+  "date_added": "الخميس 01 يونيو 2023 - 03:46 صباحا",
+  "last_updated": "2026-01-13T00:49:28.376042Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/78178/اسمي-فرح-الموسم-الاول/الحلقة-21",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/78178/اسمي-فرح-الموسم-الاول/الحلقة-21",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

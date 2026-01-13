@@ -1,0 +1,28 @@
+{
+  "series_id": "909",
+  "series_title": "Kırmızı Oda",
+  "episode_number": 20,
+  "title": "الحلقة 20",
+  "date_added": "السبت 16 يناير 2021 - 02:57 صباحا",
+  "last_updated": "2026-01-13T00:51:21.341875Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/22483/kırmızı-oda/الحلقة-20",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/22483/kırmızı-oda/الحلقة-20",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

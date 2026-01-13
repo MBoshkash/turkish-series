@@ -1,0 +1,28 @@
+{
+  "series_id": "730",
+  "series_title": "Kara Ekmek",
+  "episode_number": 40,
+  "title": "الحلقة 40",
+  "date_added": "الخميس 17 سبتمبر 2020 - 01:03 صباحا",
+  "last_updated": "2026-01-13T00:51:24.633611Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/15088/kara-ekmek/الحلقة-40",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/15088/kara-ekmek/الحلقة-40",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

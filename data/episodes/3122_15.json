@@ -1,0 +1,28 @@
+{
+  "series_id": "3122",
+  "series_title": "ابي الموسم الاول",
+  "episode_number": 15,
+  "title": "الحلقة 15",
+  "date_added": "الأربعاء 11 مايو 2022 - 03:24 صباحا",
+  "last_updated": "2026-01-13T00:50:08.366970Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/59730/ابي-الموسم-الاول/الحلقة-15",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/59730/ابي-الموسم-الاول/الحلقة-15",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

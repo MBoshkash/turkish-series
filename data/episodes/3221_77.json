@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 77,
+  "title": "الحلقة 77",
+  "date_added": "الإثنين 03 أكتوبر 2022 - 10:49 صباحا",
+  "last_updated": "2026-01-13T00:49:56.508491Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/66774/اخوتي-الموسم-الثاني/الحلقة-77",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/66774/اخوتي-الموسم-الثاني/الحلقة-77",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

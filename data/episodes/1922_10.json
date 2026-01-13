@@ -1,0 +1,28 @@
+{
+  "series_id": "1922",
+  "series_title": "السيد شريف",
+  "episode_number": 10,
+  "title": "الحلقة 10",
+  "date_added": "الأربعاء 11 اغسطس 2021 - 03:02 صباحا",
+  "last_updated": "2026-01-13T00:51:01.823062Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/33837/السيد-شريف/الحلقة-10",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/33837/السيد-شريف/الحلقة-10",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

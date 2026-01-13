@@ -1,0 +1,28 @@
+{
+  "series_id": "1972",
+  "series_title": "Kirik Hayatlar",
+  "episode_number": 10,
+  "title": "الحلقة 10",
+  "date_added": "الأحد 05 سبتمبر 2021 - 12:36 صباحا",
+  "last_updated": "2026-01-13T00:50:54.919910Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/35102/kirik-hayatlar/الحلقة-10",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/35102/kirik-hayatlar/الحلقة-10",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

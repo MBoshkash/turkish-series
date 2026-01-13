@@ -1,0 +1,28 @@
+{
+  "series_id": "905",
+  "series_title": "Yeni Hayat",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الجمعة 30 أكتوبر 2020 - 02:29 صباحا",
+  "last_updated": "2026-01-13T00:51:33.204476Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/17678/yeni-hayat/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/17678/yeni-hayat/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

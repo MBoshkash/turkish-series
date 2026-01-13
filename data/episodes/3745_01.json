@@ -1,0 +1,28 @@
+{
+  "series_id": "3745",
+  "series_title": "Ben Gri الموسم الاول",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الخميس 17 نوفمبر 2022 - 01:39 مساءاً",
+  "last_updated": "2026-01-13T00:49:54.332848Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/69229/ben-gri-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/69229/ben-gri-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "4326",
+  "series_title": "ماذا لو الموسم الاول",
+  "episode_number": 61,
+  "title": "الحلقة 61",
+  "date_added": "الأحد 01 أكتوبر 2023 - 06:49 مساءاً",
+  "last_updated": "2026-01-13T00:49:21.978533Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/80938/ماذا-لو-الموسم-الاول/الحلقة-61",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/80938/ماذا-لو-الموسم-الاول/الحلقة-61",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

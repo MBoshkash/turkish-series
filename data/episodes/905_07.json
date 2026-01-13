@@ -1,0 +1,28 @@
+{
+  "series_id": "905",
+  "series_title": "Yeni Hayat",
+  "episode_number": 7,
+  "title": "الحلقة 7",
+  "date_added": "الجمعة 16 أكتوبر 2020 - 03:18 صباحا",
+  "last_updated": "2026-01-13T00:51:33.204469Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/16835/yeni-hayat/الحلقة-7",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/16835/yeni-hayat/الحلقة-7",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

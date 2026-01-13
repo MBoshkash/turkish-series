@@ -1,0 +1,28 @@
+{
+  "series_id": "1949",
+  "series_title": "اخوتي الموسم الاول",
+  "episode_number": 16,
+  "title": "الحلقة 16",
+  "date_added": "الأحد 05 سبتمبر 2021 - 03:43 صباحا",
+  "last_updated": "2026-01-13T00:50:47.528351Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/35115/اخوتي-الموسم-الاول/الحلقة-16",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/35115/اخوتي-الموسم-الاول/الحلقة-16",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

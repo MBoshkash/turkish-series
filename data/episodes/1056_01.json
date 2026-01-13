@@ -1,0 +1,28 @@
+{
+  "series_id": "1056",
+  "series_title": "Ögretmen الموسم الثاني",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الإثنين 12 أكتوبر 2020 - 01:19 صباحا",
+  "last_updated": "2026-01-13T00:51:31.382431Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/16497/ögretmen-الموسم-الثاني/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/16497/ögretmen-الموسم-الثاني/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "730",
+  "series_title": "Kara Ekmek",
+  "episode_number": 54,
+  "title": "الحلقة 54",
+  "date_added": "الخميس 05 نوفمبر 2020 - 01:04 صباحا",
+  "last_updated": "2026-01-13T00:51:24.633682Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/17890/kara-ekmek/الحلقة-54",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/17890/kara-ekmek/الحلقة-54",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "3907",
+  "series_title": "Ates Kuslari الموسم الاول",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "السبت 14 يناير 2023 - 05:07 مساءاً",
+  "last_updated": "2026-01-13T00:49:36.553339Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/71810/ates-kuslari-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/71810/ates-kuslari-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

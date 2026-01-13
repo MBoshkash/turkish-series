@@ -1,0 +1,28 @@
+{
+  "series_id": "1488",
+  "series_title": "Kardeslerim",
+  "episode_number": 13,
+  "title": "الحلقة 13",
+  "date_added": "الأحد 16 مايو 2021 - 03:56 صباحا",
+  "last_updated": "2026-01-13T00:51:09.894754Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/31174/kardeslerim/الحلقة-13",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/31174/kardeslerim/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

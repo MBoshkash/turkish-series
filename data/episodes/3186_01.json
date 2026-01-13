@@ -1,0 +1,28 @@
+{
+  "series_id": "3186",
+  "series_title": "Senden Daha Güzel الموسم الاول",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الأربعاء 08 يونيو 2022 - 04:42 صباحا",
+  "last_updated": "2026-01-13T00:50:03.316332Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/61189/senden-daha-güzel-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/61189/senden-daha-güzel-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

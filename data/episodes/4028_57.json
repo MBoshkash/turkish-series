@@ -1,0 +1,28 @@
+{
+  "series_id": "4028",
+  "series_title": "هذا العالم لا يسعني",
+  "episode_number": 57,
+  "title": "الحلقة 57",
+  "date_added": "الثلاثاء 16 مايو 2023 - 07:05 مساءاً",
+  "last_updated": "2026-01-13T00:49:28.854604Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/77712/هذا-العالم-لا-يسعني/الحلقة-57",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/77712/هذا-العالم-لا-يسعني/الحلقة-57",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

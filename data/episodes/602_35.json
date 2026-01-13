@@ -1,0 +1,28 @@
+{
+  "series_id": "602",
+  "series_title": "زمهرير الموسم الاول",
+  "episode_number": 35,
+  "title": "الحلقة 35",
+  "date_added": "الجمعة 07 اغسطس 2020 - 04:36 مساءاً",
+  "last_updated": "2026-01-13T00:51:39.652529Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/12827/زمهرير-الموسم-الاول/الحلقة-35",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/12827/زمهرير-الموسم-الاول/الحلقة-35",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

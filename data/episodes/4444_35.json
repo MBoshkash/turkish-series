@@ -1,0 +1,28 @@
+{
+  "series_id": "4444",
+  "series_title": "الفخ الموسم الثاني",
+  "episode_number": 35,
+  "title": "الحلقة 35",
+  "date_added": "الثلاثاء 31 أكتوبر 2023 - 09:13 مساءاً",
+  "last_updated": "2026-01-13T00:49:18.776412Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/81640/الفخ-الموسم-الثاني/الحلقة-35",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/81640/الفخ-الموسم-الثاني/الحلقة-35",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

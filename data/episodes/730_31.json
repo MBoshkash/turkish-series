@@ -1,0 +1,28 @@
+{
+  "series_id": "730",
+  "series_title": "Kara Ekmek",
+  "episode_number": 31,
+  "title": "الحلقة 31",
+  "date_added": "الجمعة 21 اغسطس 2020 - 07:59 مساءاً",
+  "last_updated": "2026-01-13T00:51:24.633565Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/13790/kara-ekmek/الحلقة-31",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/13790/kara-ekmek/الحلقة-31",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

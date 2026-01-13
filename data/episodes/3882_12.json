@@ -1,0 +1,28 @@
+{
+  "series_id": "3882",
+  "series_title": "Omer الموسم الاول",
+  "episode_number": 12,
+  "title": "الحلقة 12",
+  "date_added": "الأربعاء 12 ابريل 2023 - 03:47 صباحا",
+  "last_updated": "2026-01-13T00:49:39.328028Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/76128/omer-الموسم-الاول/الحلقة-12",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/76128/omer-الموسم-الاول/الحلقة-12",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

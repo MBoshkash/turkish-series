@@ -1,0 +1,28 @@
+{
+  "series_id": "2894",
+  "series_title": "Adi Sevgi الموسم الاول",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الإثنين 14 مارس 2022 - 04:21 صباحا",
+  "last_updated": "2026-01-13T00:50:20.751956Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/53980/adi-sevgi-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/53980/adi-sevgi-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "3210",
+  "series_title": "بريق الأمل الموسم الاول",
+  "episode_number": 65,
+  "title": "الحلقة 65",
+  "date_added": "الثلاثاء 23 اغسطس 2022 - 03:01 مساءاً",
+  "last_updated": "2026-01-13T00:49:53.374444Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/64948/بريق-الأمل-الموسم-الاول/الحلقة-65",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/64948/بريق-الأمل-الموسم-الاول/الحلقة-65",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

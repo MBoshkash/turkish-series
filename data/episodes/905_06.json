@@ -1,0 +1,28 @@
+{
+  "series_id": "905",
+  "series_title": "Yeni Hayat",
+  "episode_number": 6,
+  "title": "الحلقة 6",
+  "date_added": "الجمعة 09 أكتوبر 2020 - 02:49 صباحا",
+  "last_updated": "2026-01-13T00:51:33.204465Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/16350/yeni-hayat/الحلقة-6",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/16350/yeni-hayat/الحلقة-6",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

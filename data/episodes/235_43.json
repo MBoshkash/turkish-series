@@ -1,0 +1,28 @@
+{
+  "series_id": "235",
+  "series_title": "عودة مهند",
+  "episode_number": 43,
+  "title": "الحلقة 43",
+  "date_added": "الجمعة 13 مارس 2020 - 01:48 صباحا",
+  "last_updated": "2026-01-13T00:51:49.636832Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/3450/عودة-مهند/الحلقة-43",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/3450/عودة-مهند/الحلقة-43",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

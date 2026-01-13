@@ -1,0 +1,28 @@
+{
+  "series_id": "573",
+  "series_title": "Bay Yanlis",
+  "episode_number": 14,
+  "title": "الحلقة 14",
+  "date_added": "السبت 03 أكتوبر 2020 - 01:39 صباحا",
+  "last_updated": "2026-01-13T00:51:35.278030Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/15971/bay-yanlis/الحلقة-14",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/15971/bay-yanlis/الحلقة-14",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

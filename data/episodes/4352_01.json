@@ -1,0 +1,28 @@
+{
+  "series_id": "4352",
+  "series_title": "أنا في ورطة",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الأحد 23 يوليو 2023 - 06:48 مساءاً",
+  "last_updated": "2026-01-13T00:49:22.517199Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/79310/أنا-في-ورطة/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/79310/أنا-في-ورطة/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

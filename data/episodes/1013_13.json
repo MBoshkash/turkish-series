@@ -1,0 +1,28 @@
+{
+  "series_id": "1013",
+  "series_title": "أزاد",
+  "episode_number": 13,
+  "title": "الحلقة 13",
+  "date_added": "الجمعة 02 أكتوبر 2020 - 04:38 مساءاً",
+  "last_updated": "2026-01-13T00:51:36.072422Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/15956/أزاد/الحلقة-13",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/15956/أزاد/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

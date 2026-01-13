@@ -1,0 +1,28 @@
+{
+  "series_id": "3136",
+  "series_title": "لعبة قدري الموسم الاول",
+  "episode_number": 50,
+  "title": "الحلقة 50",
+  "date_added": "الثلاثاء 19 يوليو 2022 - 03:37 صباحا",
+  "last_updated": "2026-01-13T00:49:56.893314Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/63248/لعبة-قدري-الموسم-الاول/الحلقة-50",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/63248/لعبة-قدري-الموسم-الاول/الحلقة-50",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

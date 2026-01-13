@@ -1,0 +1,28 @@
+{
+  "series_id": "930",
+  "series_title": "Babil الموسم الثاني",
+  "episode_number": 8,
+  "title": "الحلقة 8",
+  "date_added": "الأحد 08 نوفمبر 2020 - 01:23 صباحا",
+  "last_updated": "2026-01-13T00:51:30.178618Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/18024/babil-الموسم-الثاني/الحلقة-8",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/18024/babil-الموسم-الثاني/الحلقة-8",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "1336",
+  "series_title": "Akinci الموسم الاول",
+  "episode_number": 10,
+  "title": "الحلقة 10",
+  "date_added": "الأحد 14 مارس 2021 - 04:22 مساءاً",
+  "last_updated": "2026-01-13T00:51:11.784964Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/26298/akinci-الموسم-الاول/الحلقة-10",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/26298/akinci-الموسم-الاول/الحلقة-10",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

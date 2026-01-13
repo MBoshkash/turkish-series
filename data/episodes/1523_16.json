@@ -1,0 +1,28 @@
+{
+  "series_id": "1523",
+  "series_title": "Guvercin",
+  "episode_number": 16,
+  "title": "الحلقة 16",
+  "date_added": "الجمعة 05 مارس 2021 - 05:05 مساءاً",
+  "last_updated": "2026-01-13T00:51:24.197667Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/25871/guvercin/الحلقة-16",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/25871/guvercin/الحلقة-16",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

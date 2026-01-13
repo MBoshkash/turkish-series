@@ -1,0 +1,28 @@
+{
+  "series_id": "3210",
+  "series_title": "بريق الأمل الموسم الاول",
+  "episode_number": 173,
+  "title": "الحلقة 173",
+  "date_added": "الإثنين 02 يناير 2023 - 04:17 مساءاً",
+  "last_updated": "2026-01-13T00:49:53.374833Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/71264/بريق-الأمل-الموسم-الاول/الحلقة-173",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/71264/بريق-الأمل-الموسم-الاول/الحلقة-173",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

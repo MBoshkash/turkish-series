@@ -1,0 +1,28 @@
+{
+  "series_id": "1192",
+  "series_title": "Kocaman Ailem",
+  "episode_number": 10,
+  "title": "الحلقة 10",
+  "date_added": "السبت 12 ديسمبر 2020 - 01:12 صباحا",
+  "last_updated": "2026-01-13T00:51:23.882071Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/20614/kocaman-ailem/الحلقة-10",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/20614/kocaman-ailem/الحلقة-10",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

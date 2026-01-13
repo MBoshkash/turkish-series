@@ -1,0 +1,28 @@
+{
+  "series_id": "964",
+  "series_title": "Emanet الموسم الاول",
+  "episode_number": 101,
+  "title": "الحلقة 101",
+  "date_added": "الأربعاء 27 يناير 2021 - 06:05 مساءاً",
+  "last_updated": "2026-01-13T00:51:09.420819Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/23112/emanet-الموسم-الاول/الحلقة-101",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/23112/emanet-الموسم-الاول/الحلقة-101",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

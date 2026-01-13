@@ -1,0 +1,28 @@
+{
+  "series_id": "3461",
+  "series_title": "Bir Küçük Gün Isigi الموسم الاول",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الثلاثاء 06 سبتمبر 2022 - 02:37 مساءاً",
+  "last_updated": "2026-01-13T00:49:42.193906Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/65511/bir-küçük-gün-isigi-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/65511/bir-küçük-gün-isigi-الموسم-الاول/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

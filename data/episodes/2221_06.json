@@ -1,0 +1,28 @@
+{
+  "series_id": "2221",
+  "series_title": "Benim Hayatim الموسم الاول",
+  "episode_number": 6,
+  "title": "الحلقة 6",
+  "date_added": "الجمعة 10 ديسمبر 2021 - 04:37 صباحا",
+  "last_updated": "2026-01-13T00:50:44.739911Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/42940/benim-hayatim-الموسم-الاول/الحلقة-6",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/42940/benim-hayatim-الموسم-الاول/الحلقة-6",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

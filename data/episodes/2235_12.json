@@ -1,0 +1,28 @@
+{
+  "series_id": "2235",
+  "series_title": "ثلاثة قروش الموسم الاول",
+  "episode_number": 12,
+  "title": "الحلقة 12",
+  "date_added": "الخميس 25 نوفمبر 2021 - 01:31 صباحا",
+  "last_updated": "2026-01-13T00:50:17.356319Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/41356/ثلاثة-قروش-الموسم-الاول/الحلقة-12",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/41356/ثلاثة-قروش-الموسم-الاول/الحلقة-12",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

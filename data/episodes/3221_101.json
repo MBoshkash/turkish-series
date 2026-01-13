@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 101,
+  "title": "الحلقة 101",
+  "date_added": "الأحد 06 نوفمبر 2022 - 02:56 صباحا",
+  "last_updated": "2026-01-13T00:49:56.508587Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/68690/اخوتي-الموسم-الثاني/الحلقة-101",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/68690/اخوتي-الموسم-الثاني/الحلقة-101",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

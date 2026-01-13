@@ -1,0 +1,28 @@
+{
+  "series_id": "909",
+  "series_title": "Kırmızı Oda",
+  "episode_number": 21,
+  "title": "الحلقة 21",
+  "date_added": "السبت 23 يناير 2021 - 02:41 صباحا",
+  "last_updated": "2026-01-13T00:51:21.341879Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/22952/kırmızı-oda/الحلقة-21",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/22952/kırmızı-oda/الحلقة-21",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

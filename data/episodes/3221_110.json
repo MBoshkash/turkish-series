@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 110,
+  "title": "الحلقة 110",
+  "date_added": "الخميس 17 نوفمبر 2022 - 02:25 صباحا",
+  "last_updated": "2026-01-13T00:49:56.508621Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/69213/اخوتي-الموسم-الثاني/الحلقة-110",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/69213/اخوتي-الموسم-الثاني/الحلقة-110",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

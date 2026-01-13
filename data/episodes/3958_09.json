@@ -1,0 +1,28 @@
+{
+  "series_id": "3958",
+  "series_title": "Al Sancak الموسم الاول",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الإثنين 03 ابريل 2023 - 09:45 صباحا",
+  "last_updated": "2026-01-13T00:49:37.348189Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/75321/al-sancak-الموسم-الاول/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/75321/al-sancak-الموسم-الاول/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

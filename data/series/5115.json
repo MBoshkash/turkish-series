@@ -3,19 +3,30 @@
   "title": "جراح الروح",
   "original_title": "",
   "description": "مشاهدة و تحميل مسلسل  جراح الروح حيث يدور العمل حول تنقلب حياة فتاة صغيرة رأسًا على عقب عندما تُسرق كليتها أثناء عملية اختطاف عنيفة، ينظمها والدها البيولوجي الغني الذي يحتاج إلى متبرع.تنقلب حياة فتاة صغيرة رأسًا على عقب عندما تُسرق كليتها أثناء عملية اختطاف عنيفة، ينظمها والدها البيولوجي الغني الذي يحتاج إلى متبرع.",
-  "poster": "https://img.downet.net/thumb/32x32/default.jpg",
+  "poster": "https://img.downet.net/thumb/260x380/uploads/po48Q.jpg",
   "backdrop": "",
-  "year": "2026",
+  "year": "2025",
   "country": "تركيا",
-  "rating": 1.0,
+  "language": "التركية",
+  "rating": 8.0,
   "genres": [
+    "كوميدي",
+    "رومانسي",
     "دراما"
   ],
-  "quality": "",
+  "tags": [
+    "مدبلج",
+    "#Alaca",
+    "#جراح الروح",
+    "رمضان"
+  ],
+  "quality": "WEB-DL",
+  "duration": "43 دقيقة",
+  "age_rating": "r",
   "cast": [],
-  "total_episodes": 115,
+  "total_episodes": 116,
   "status": "ongoing",
-  "last_updated": "2026-01-12T20:43:28.758683Z",
+  "last_updated": "2026-01-13T00:48:47.250731Z",
   "episodes": [
     {
       "number": 1,
@@ -705,6 +716,12 @@
       "number": 115,
       "title": "الحلقة 115",
       "date_added": "الإثنين 12 يناير 2026 - 10:42 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 116,
+      "title": "الحلقة 116",
+      "date_added": "الإثنين 12 يناير 2026 - 10:44 مساءاً",
       "servers_count": 2
     }
   ]

@@ -1,0 +1,28 @@
+{
+  "series_id": "909",
+  "series_title": "Kırmızı Oda",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "السبت 31 أكتوبر 2020 - 04:12 صباحا",
+  "last_updated": "2026-01-13T00:51:21.341830Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/17712/kırmızı-oda/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/17712/kırmızı-oda/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

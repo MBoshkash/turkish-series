@@ -1,0 +1,28 @@
+{
+  "series_id": "3221",
+  "series_title": "اخوتي الموسم الثاني",
+  "episode_number": 125,
+  "title": "الحلقة 125",
+  "date_added": "الخميس 08 ديسمبر 2022 - 03:15 مساءاً",
+  "last_updated": "2026-01-13T00:49:56.508679Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/70228/اخوتي-الموسم-الثاني/الحلقة-125",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/70228/اخوتي-الموسم-الثاني/الحلقة-125",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

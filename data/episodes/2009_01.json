@@ -1,0 +1,28 @@
+{
+  "series_id": "2009",
+  "series_title": "Camdaki Kiz الموسم الثاني",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "الجمعة 10 سبتمبر 2021 - 04:56 صباحا",
+  "last_updated": "2026-01-13T00:50:12.864394Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/35333/camdaki-kiz-الموسم-الثاني/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/35333/camdaki-kiz-الموسم-الثاني/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

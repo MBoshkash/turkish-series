@@ -1,0 +1,28 @@
+{
+  "series_id": "1111",
+  "series_title": "جوليزار الموسم الاول",
+  "episode_number": 4,
+  "title": "الحلقة 4",
+  "date_added": "الأربعاء 28 أكتوبر 2020 - 05:11 مساءاً",
+  "last_updated": "2026-01-13T00:51:33.701399Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/17610/جوليزار-الموسم-الاول/الحلقة-4",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/17610/جوليزار-الموسم-الاول/الحلقة-4",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

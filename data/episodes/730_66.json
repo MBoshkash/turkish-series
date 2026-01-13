@@ -1,0 +1,28 @@
+{
+  "series_id": "730",
+  "series_title": "Kara Ekmek",
+  "episode_number": 66,
+  "title": "الحلقة 66",
+  "date_added": "السبت 12 ديسمبر 2020 - 01:09 صباحا",
+  "last_updated": "2026-01-13T00:51:24.633729Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/20613/kara-ekmek/الحلقة-66",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/20613/kara-ekmek/الحلقة-66",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

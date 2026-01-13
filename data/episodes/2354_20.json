@@ -1,0 +1,28 @@
+{
+  "series_id": "2354",
+  "series_title": "Destan الموسم الاول",
+  "episode_number": 20,
+  "title": "الحلقة 20",
+  "date_added": "الأربعاء 20 ابريل 2022 - 01:44 صباحا",
+  "last_updated": "2026-01-13T00:50:03.607129Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/58146/destan-الموسم-الاول/الحلقة-20",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/58146/destan-الموسم-الاول/الحلقة-20",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

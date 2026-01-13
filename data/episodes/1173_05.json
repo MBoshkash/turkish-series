@@ -1,0 +1,28 @@
+{
+  "series_id": "1173",
+  "series_title": "Bir Baskadir الموسم الاول",
+  "episode_number": 5,
+  "title": "الحلقة 5",
+  "date_added": "السبت 14 نوفمبر 2020 - 06:57 مساءاً",
+  "last_updated": "2026-01-13T00:51:31.676611Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/18601/bir-baskadir-الموسم-الاول/الحلقة-5",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/18601/bir-baskadir-الموسم-الاول/الحلقة-5",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

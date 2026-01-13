@@ -1,0 +1,28 @@
+{
+  "series_id": "2498",
+  "series_title": "نور الموسم الاول",
+  "episode_number": 29,
+  "title": "الحلقة 29",
+  "date_added": "الأربعاء 22 ديسمبر 2021 - 02:09 مساءاً",
+  "last_updated": "2026-01-13T00:50:42.024534Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/44147/نور-الموسم-الاول/الحلقة-29",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/44147/نور-الموسم-الاول/الحلقة-29",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

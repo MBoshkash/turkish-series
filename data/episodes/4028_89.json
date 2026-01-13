@@ -1,0 +1,28 @@
+{
+  "series_id": "4028",
+  "series_title": "هذا العالم لا يسعني",
+  "episode_number": 89,
+  "title": "الحلقة 89",
+  "date_added": "الجمعة 30 يونيو 2023 - 03:50 صباحا",
+  "last_updated": "2026-01-13T00:49:28.854726Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/78834/هذا-العالم-لا-يسعني/الحلقة-89",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/78834/هذا-العالم-لا-يسعني/الحلقة-89",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

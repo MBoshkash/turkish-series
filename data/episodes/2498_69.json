@@ -1,0 +1,28 @@
+{
+  "series_id": "2498",
+  "series_title": "نور الموسم الاول",
+  "episode_number": 69,
+  "title": "الحلقة 69",
+  "date_added": "الأربعاء 22 ديسمبر 2021 - 03:11 مساءاً",
+  "last_updated": "2026-01-13T00:50:42.024746Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/44189/نور-الموسم-الاول/الحلقة-69",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/44189/نور-الموسم-الاول/الحلقة-69",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

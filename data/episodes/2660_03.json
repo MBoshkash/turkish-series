@@ -1,0 +1,28 @@
+{
+  "series_id": "2660",
+  "series_title": "المعجبة الموسم الأول",
+  "episode_number": 3,
+  "title": "الحلقة 3",
+  "date_added": "السبت 22 يناير 2022 - 12:22 صباحا",
+  "last_updated": "2026-01-13T00:50:24.635926Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/47565/المعجبة-الموسم-الأول/الحلقة-3",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/47565/المعجبة-الموسم-الأول/الحلقة-3",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

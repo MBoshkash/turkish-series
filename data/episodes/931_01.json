@@ -1,0 +1,28 @@
+{
+  "series_id": "931",
+  "series_title": "عطايا الموسم الثاني",
+  "episode_number": 1,
+  "title": "الحلقة 1",
+  "date_added": "السبت 12 سبتمبر 2020 - 05:11 مساءاً",
+  "last_updated": "2026-01-13T00:51:38.573998Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/14940/عطايا-الموسم-الثاني-مدبلج/الحلقة-1",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/14940/عطايا-الموسم-الثاني-مدبلج/الحلقة-1",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

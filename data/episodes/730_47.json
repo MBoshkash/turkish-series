@@ -1,0 +1,28 @@
+{
+  "series_id": "730",
+  "series_title": "Kara Ekmek",
+  "episode_number": 47,
+  "title": "الحلقة 47",
+  "date_added": "الإثنين 12 أكتوبر 2020 - 11:02 مساءاً",
+  "last_updated": "2026-01-13T00:51:24.633649Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/16625/kara-ekmek/الحلقة-47",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/16625/kara-ekmek/الحلقة-47",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

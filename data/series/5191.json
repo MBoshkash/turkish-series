@@ -5,20 +5,27 @@
   "description": "مشاهدة و تحميل مسلسل البلدة الصغيرة مدبلج حيث يدور العمل حول تمرّ مجموعة من الأصدقاء بضائقة ماليةٍ تختبر أخلاقهم وتهدد علاقاتهم عندما يعثرون مصادفة على ثروة من الأموال المسروقة في بلدتهم.",
   "poster": "https://img.downet.net/thumb/260x380/uploads/nn14U.webp",
   "backdrop": "",
-  "year": "2026",
+  "year": "2025",
   "country": "تركيا",
-  "rating": 0.0,
+  "language": "العربية",
+  "rating": 7.0,
   "genres": [
-    "جريمة",
-    "مدبلج",
-    "NETFLIX",
+    "كوميدي",
+    "رومانسي",
     "دراما"
   ],
-  "quality": "",
+  "tags": [
+    "#The Town",
+    "مدبلج",
+    "#kasaba"
+  ],
+  "quality": "WEB-DL",
+  "duration": "38 دقيقة",
+  "age_rating": "PG13",
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-01-12T20:44:07.008820Z",
+  "last_updated": "2026-01-13T00:48:56.860795Z",
   "episodes": [
     {
       "number": 1,

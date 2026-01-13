@@ -1,0 +1,28 @@
+{
+  "series_id": "3529",
+  "series_title": "Baba الموسم الثاني",
+  "episode_number": 11,
+  "title": "الحلقة 11",
+  "date_added": "الخميس 01 ديسمبر 2022 - 03:07 صباحا",
+  "last_updated": "2026-01-13T00:49:54.913643Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/69836/baba-الموسم-الثاني/الحلقة-11",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/69836/baba-الموسم-الثاني/الحلقة-11",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

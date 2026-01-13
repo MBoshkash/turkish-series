@@ -1,0 +1,28 @@
+{
+  "series_id": "4223",
+  "series_title": "اسمي فرح الموسم الاول",
+  "episode_number": 49,
+  "title": "الحلقة 49",
+  "date_added": "الثلاثاء 11 يوليو 2023 - 01:03 صباحا",
+  "last_updated": "2026-01-13T00:49:28.376144Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/79035/اسمي-فرح-الموسم-الاول/الحلقة-49",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/79035/اسمي-فرح-الموسم-الاول/الحلقة-49",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

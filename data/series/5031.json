@@ -5,19 +5,27 @@
   "description": "مشاهدة و تحميل مسلسل السعادة العائلية  حيث يدور العمل حول ثلاث عائلات مرتبطة ببعضها البعض ولا يعرفون بعضهم البعض ويضطرون للعيش معًا.",
   "poster": "https://img.downet.net/thumb/260x380/uploads/Mhbtd.webp",
   "backdrop": "",
-  "year": "2026",
+  "year": "2025",
   "country": "تركيا",
-  "rating": 1.0,
+  "language": "التركية",
+  "rating": 7.5,
   "genres": [
-    "عائلي",
-    "دراما",
-    "كوميدي"
+    "#السعادة العائلية",
+    "كوميدي",
+    "رومانسي",
+    "دراما"
   ],
-  "quality": "",
+  "tags": [
+    "#Aile Saadeti",
+    "مدبلج"
+  ],
+  "quality": "WEB-DL",
+  "duration": "131 دقيقة",
+  "age_rating": "PG13",
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-01-12T20:44:50.696101Z",
+  "last_updated": "2026-01-13T00:49:01.812823Z",
   "episodes": [
     {
       "number": 1,

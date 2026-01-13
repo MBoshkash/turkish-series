@@ -1,0 +1,28 @@
+{
+  "series_id": "109",
+  "series_title": "العشق الممنوع",
+  "episode_number": 8,
+  "title": "الحلقة 8",
+  "date_added": "الإثنين 10 فبراير 2020 - 12:00 صباحا",
+  "last_updated": "2026-01-13T00:51:51.188825Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/1293/العشق-الممنوع/الحلقة-8",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/1293/العشق-الممنوع/الحلقة-8",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

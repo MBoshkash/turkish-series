@@ -1,0 +1,28 @@
+{
+  "series_id": "730",
+  "series_title": "Kara Ekmek",
+  "episode_number": 75,
+  "title": "الحلقة 75",
+  "date_added": "الجمعة 15 يناير 2021 - 10:17 مساءاً",
+  "last_updated": "2026-01-13T00:51:24.633763Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/22477/kara-ekmek/الحلقة-75",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/22477/kara-ekmek/الحلقة-75",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

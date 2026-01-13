@@ -1,0 +1,28 @@
+{
+  "series_id": "1129",
+  "series_title": "علي رضا الموسم الاول",
+  "episode_number": 2,
+  "title": "الحلقة 2",
+  "date_added": "الإثنين 02 نوفمبر 2020 - 12:45 صباحا",
+  "last_updated": "2026-01-13T00:51:21.702116Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/17766/علي-رضا-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/17766/علي-رضا-الموسم-الاول/الحلقة-2",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

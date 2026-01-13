@@ -1,0 +1,28 @@
+{
+  "series_id": "4441",
+  "series_title": "الملهى الموسم الثاني",
+  "episode_number": 10,
+  "title": "الحلقة 10",
+  "date_added": "الجمعة 15 سبتمبر 2023 - 09:37 مساءاً",
+  "last_updated": "2026-01-13T00:49:24.232443Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/80616/الملهى-الموسم-الثاني/الحلقة-10",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/80616/الملهى-الموسم-الثاني/الحلقة-10",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

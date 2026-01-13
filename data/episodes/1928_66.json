@@ -1,0 +1,28 @@
+{
+  "series_id": "1928",
+  "series_title": "رامو الموسم الاول",
+  "episode_number": 66,
+  "title": "الحلقة 66",
+  "date_added": "الثلاثاء 19 أكتوبر 2021 - 01:25 صباحا",
+  "last_updated": "2026-01-13T00:50:39.942461Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/37961/رامو-الموسم-الاول/الحلقة-66",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/37961/رامو-الموسم-الاول/الحلقة-66",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

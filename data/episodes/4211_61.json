@@ -1,0 +1,28 @@
+{
+  "series_id": "4211",
+  "series_title": "العائلة الموسم الاول",
+  "episode_number": 61,
+  "title": "الحلقة 61",
+  "date_added": "الإثنين 24 يوليو 2023 - 08:00 مساءاً",
+  "last_updated": "2026-01-13T00:49:30.454678Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/79345/العائلة-الموسم-الاول/الحلقة-61",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/79345/العائلة-الموسم-الاول/الحلقة-61",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "series_id": "2354",
+  "series_title": "Destan الموسم الاول",
+  "episode_number": 22,
+  "title": "الحلقة 22",
+  "date_added": "الأربعاء 11 مايو 2022 - 01:40 صباحا",
+  "last_updated": "2026-01-13T00:50:03.607137Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/59715/destan-الموسم-الاول/الحلقة-22",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/59715/destan-الموسم-الاول/الحلقة-22",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

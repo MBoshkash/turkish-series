@@ -1,0 +1,28 @@
+{
+  "series_id": "4223",
+  "series_title": "اسمي فرح الموسم الاول",
+  "episode_number": 38,
+  "title": "الحلقة 38",
+  "date_added": "الإثنين 26 يونيو 2023 - 08:06 مساءاً",
+  "last_updated": "2026-01-13T00:49:28.376104Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/78757/اسمي-فرح-الموسم-الاول/الحلقة-38",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/78757/اسمي-فرح-الموسم-الاول/الحلقة-38",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

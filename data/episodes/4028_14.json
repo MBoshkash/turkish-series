@@ -1,0 +1,28 @@
+{
+  "series_id": "4028",
+  "series_title": "هذا العالم لا يسعني",
+  "episode_number": 14,
+  "title": "الحلقة 14",
+  "date_added": "الأربعاء 15 مارس 2023 - 05:31 مساءاً",
+  "last_updated": "2026-01-13T00:49:28.854417Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/74008/هذا-العالم-لا-يسعني/الحلقة-14",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/74008/هذا-العالم-لا-يسعني/الحلقة-14",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

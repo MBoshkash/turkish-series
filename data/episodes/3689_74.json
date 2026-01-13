@@ -1,0 +1,28 @@
+{
+  "series_id": "3689",
+  "series_title": "فريد الموسم الاول",
+  "episode_number": 74,
+  "title": "الحلقة 74",
+  "date_added": "الإثنين 02 يناير 2023 - 04:55 مساءاً",
+  "last_updated": "2026-01-13T00:49:40.036506Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/71270/فريد-الموسم-الاول/الحلقة-74",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/71270/فريد-الموسم-الاول/الحلقة-74",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}
