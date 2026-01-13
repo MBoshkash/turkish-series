@@ -1,7 +1,6 @@
 {
   "config_version": 1,
-  "last_updated": "2025-01-13T00:00:00Z",
-
+  "last_updated": "2026-01-13T04:36:33.471Z",
   "sources": {
     "akwam": {
       "id": "akwam",
@@ -10,7 +9,12 @@
       "enabled": true,
       "priority": 1,
       "icon": "https://ak.sv/favicon.ico",
-      "domains": ["ak.sv", "akwam.to", "akwam.cx", "akwam.net"],
+      "domains": [
+        "ak.sv",
+        "akwam.to",
+        "akwam.cx",
+        "akwam.net"
+      ],
       "current_domain": "ak.sv",
       "patterns": {
         "base": "https://{domain}",
@@ -29,7 +33,12 @@
         "needs_webview": false,
         "bypass_cloudflare": true
       },
-      "qualities": ["1080p", "720p", "480p", "360p"],
+      "qualities": [
+        "1080p",
+        "720p",
+        "480p",
+        "360p"
+      ],
       "default_quality": "720p",
       "supports_download": true,
       "supports_watch": true
@@ -41,7 +50,11 @@
       "enabled": false,
       "priority": 2,
       "icon": "",
-      "domains": ["arabseed.ink", "arabseed.sbs", "arabseed.net"],
+      "domains": [
+        "arabseed.ink",
+        "arabseed.sbs",
+        "arabseed.net"
+      ],
       "current_domain": "arabseed.ink",
       "patterns": {
         "base": "https://{domain}",
@@ -57,7 +70,11 @@
         "needs_webview": true,
         "bypass_cloudflare": false
       },
-      "qualities": ["1080p", "720p", "480p"],
+      "qualities": [
+        "1080p",
+        "720p",
+        "480p"
+      ],
       "default_quality": "720p",
       "supports_download": true,
       "supports_watch": true
@@ -69,7 +86,11 @@
       "enabled": false,
       "priority": 3,
       "icon": "",
-      "domains": ["3isk.tv", "3isk.com", "3esk.tv"],
+      "domains": [
+        "3isk.tv",
+        "3isk.com",
+        "3esk.tv"
+      ],
       "current_domain": "3isk.tv",
       "patterns": {
         "base": "https://{domain}",
@@ -83,7 +104,10 @@
         "needs_webview": true,
         "bypass_cloudflare": false
       },
-      "qualities": ["1080p", "720p"],
+      "qualities": [
+        "1080p",
+        "720p"
+      ],
       "default_quality": "1080p",
       "supports_download": false,
       "supports_watch": true
@@ -95,7 +119,9 @@
       "enabled": false,
       "priority": 4,
       "icon": "",
-      "domains": ["cimaclub.cam"],
+      "domains": [
+        "cimaclub.cam"
+      ],
       "current_domain": "cimaclub.cam",
       "patterns": {
         "base": "https://{domain}",
@@ -108,35 +134,38 @@
         "type": "iframe",
         "needs_webview": true
       },
-      "qualities": ["1080p", "720p", "480p"],
+      "qualities": [
+        "1080p",
+        "720p",
+        "480p"
+      ],
       "default_quality": "720p",
       "supports_download": true,
       "supports_watch": true
     }
   },
-
   "app": {
     "min_version_code": 1,
-    "latest_version_code": 1,
+    "latest_version_code": 2,
     "latest_version_name": "1.0.0",
     "update_url": "https://github.com/MBoshkash/turkish-series/releases",
     "force_update": false
   },
-
   "messages": {
     "maintenance": null,
     "announcement": null,
     "news": []
   },
-
   "settings": {
     "default_source": "akwam",
-    "fallback_sources": ["arabseed", "qissah"],
+    "fallback_sources": [
+      "arabseed",
+      "qissah"
+    ],
     "cache_duration_hours": 6,
     "retry_attempts": 3,
     "timeout_seconds": 30
   },
-
   "api": {
     "base_url": "https://mboshkash.github.io/turkish-series",
     "endpoints": {
