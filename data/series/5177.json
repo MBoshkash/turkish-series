@@ -10,9 +10,9 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "دراما",
+    "كوميدي",
     "رومانسي",
-    "كوميدي"
+    "دراما"
   ],
   "tags": [
     "#المنظمة مدبلج",
@@ -23,9 +23,9 @@
   "duration": "41 دقيقة",
   "age_rating": "PG13",
   "cast": [],
-  "total_episodes": 56,
+  "total_episodes": 57,
   "status": "ongoing",
-  "last_updated": "2026-01-13T12:19:40.654164Z",
+  "last_updated": "2026-01-14T08:23:20.392834Z",
   "episodes": [
     {
       "number": 1,
@@ -361,6 +361,12 @@
       "number": 56,
       "title": "الحلقة 56",
       "date_added": "الإثنين 12 يناير 2026 - 09:33 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 57,
+      "title": "الحلقة 57",
+      "date_added": "الثلاثاء 13 يناير 2026 - 09:35 مساءاً",
       "servers_count": 2
     }
   ]

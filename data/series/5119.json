@@ -10,23 +10,23 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "دراما",
+    "كوميدي",
     "رومانسي",
-    "كوميدي"
+    "دراما"
   ],
   "tags": [
-    "رمضان",
-    "مدبلج",
+    "#Esaret",
     "#الأسيرة مدبلج",
-    "#Esaret"
+    "رمضان",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "41 دقيقة",
   "age_rating": "PG13",
   "cast": [],
-  "total_episodes": 165,
+  "total_episodes": 166,
   "status": "ongoing",
-  "last_updated": "2026-01-13T12:19:51.966239Z",
+  "last_updated": "2026-01-14T08:23:36.904949Z",
   "episodes": [
     {
       "number": 1,
@@ -1016,6 +1016,12 @@
       "number": 166,
       "title": "الحلقة 166",
       "date_added": "السبت 03 يناير 2026 - 10:51 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 167,
+      "title": "الحلقة 167",
+      "date_added": "الثلاثاء 13 يناير 2026 - 09:07 مساءاً",
       "servers_count": 2
     }
   ]

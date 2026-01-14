@@ -10,9 +10,9 @@
   "language": "العربية",
   "rating": 0.0,
   "genres": [
-    "دراما",
+    "كوميدي",
     "رومانسي",
-    "كوميدي"
+    "دراما"
   ],
   "tags": [
     "#Sahtekarlar",
@@ -24,9 +24,9 @@
   "duration": "23 دقيقة",
   "age_rating": "r",
   "cast": [],
-  "total_episodes": 60,
+  "total_episodes": 65,
   "status": "ongoing",
-  "last_updated": "2026-01-13T12:19:52.280208Z",
+  "last_updated": "2026-01-14T08:23:38.192970Z",
   "episodes": [
     {
       "number": 1,
@@ -386,6 +386,36 @@
       "number": 60,
       "title": "الحلقة 60",
       "date_added": "الأربعاء 31 ديسمبر 2025 - 11:46 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 61,
+      "title": "الحلقة 61",
+      "date_added": "الثلاثاء 13 يناير 2026 - 07:53 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 62,
+      "title": "الحلقة 62",
+      "date_added": "الثلاثاء 13 يناير 2026 - 07:56 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 63,
+      "title": "الحلقة 63",
+      "date_added": "الثلاثاء 13 يناير 2026 - 07:58 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 64,
+      "title": "الحلقة 64",
+      "date_added": "الأربعاء 14 يناير 2026 - 12:44 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 65,
+      "title": "الحلقة 65",
+      "date_added": "الأربعاء 14 يناير 2026 - 12:46 صباحا",
       "servers_count": 2
     }
   ]
