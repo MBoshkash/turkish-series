@@ -10,22 +10,22 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "رمضان",
+    "#ورود وذنوب",
     "مدبلج",
-    "#ورود وذنوب"
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "50 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 13,
+  "total_episodes": 15,
   "status": "ongoing",
-  "last_updated": "2026-01-14T18:16:48.798186Z",
+  "last_updated": "2026-01-14T21:32:41.497210Z",
   "episodes": [
     {
       "number": 1,
@@ -103,6 +103,18 @@
       "number": 13,
       "title": "الحلقة 13",
       "date_added": "الثلاثاء 13 يناير 2026 - 07:59 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 14,
+      "title": "الحلقة 14",
+      "date_added": "الأربعاء 14 يناير 2026 - 10:21 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 15,
+      "title": "الحلقة 15",
+      "date_added": "الأربعاء 14 يناير 2026 - 10:22 مساءاً",
       "servers_count": 2
     }
   ]

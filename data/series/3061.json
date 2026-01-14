@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 6.5,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
     "#طبيب البلدة",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-01-14T18:30:36.043198Z",
+  "last_updated": "2026-01-14T21:35:03.016330Z",
   "episodes": [
     {
       "number": 1,

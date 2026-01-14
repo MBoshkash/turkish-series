@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 8.5,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "#EGO",
+    "مدبلج",
     "#مسلسل الغرور",
-    "مدبلج"
+    "#EGO"
   ],
   "quality": "WEB-DL",
   "duration": "130 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-01-14T18:26:02.312704Z",
+  "last_updated": "2026-01-14T21:34:17.240961Z",
   "episodes": [
     {
       "number": 1,

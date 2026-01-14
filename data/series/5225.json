@@ -10,23 +10,22 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "#Esaretim Sensin",
     "مدبلج",
     "#انت اسيري",
-    "رمضان"
+    "#Esaretim Sensin"
   ],
   "quality": "WEB-DL",
   "duration": "30 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 5,
+  "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-01-14T18:16:45.758237Z",
+  "last_updated": "2026-01-14T21:32:40.633865Z",
   "episodes": [
     {
       "number": 1,
@@ -56,6 +55,12 @@
       "number": 5,
       "title": "الحلقة 5",
       "date_added": "الثلاثاء 13 يناير 2026 - 09:07 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 6,
+      "title": "الحلقة 6",
+      "date_added": "الأربعاء 14 يناير 2026 - 08:49 مساءاً",
       "servers_count": 2
     }
   ]
