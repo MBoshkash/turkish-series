@@ -10,25 +10,21 @@
   "language": "التركية",
   "rating": 8.8,
   "genres": [
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "#مسلسل بهزات جي",
-    "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "66 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:26:12.568071Z",
-=======
-  "last_updated": "2026-01-14T06:27:36.497921Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:41:00.348864Z",
   "episodes": [
     {
       "number": 1,

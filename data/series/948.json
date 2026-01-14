@@ -10,28 +10,24 @@
   "language": "التركية",
   "rating": 7.3,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#الطبيب المعجزة الموسم الثاني",
-    "رمضان",
-    "#Mucize Doktor",
     "مدبلج",
-    "#Mucize Doktor الموسم الثاني"
+    "رمضان",
+    "#Mucize Doktor الموسم الثاني",
+    "#الطبيب المعجزة الموسم الثاني",
+    "#Mucize Doktor"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 36,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:30:35.405188Z",
-=======
-  "last_updated": "2026-01-14T06:40:47.408060Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:43:36.515882Z",
   "episodes": [
     {
       "number": 1,

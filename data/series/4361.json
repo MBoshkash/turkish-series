@@ -10,27 +10,23 @@
   "language": "التركية",
   "rating": 6.0,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#The Tailor الموسم الثاني",
     "#Terzi",
+    "#The Tailor الموسم الثاني",
     "مدبلج",
     "#الخياط"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:25:20.139619Z",
-=======
-  "last_updated": "2026-01-14T06:24:27.949707Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:40:26.833311Z",
   "episodes": [
     {
       "number": 1,

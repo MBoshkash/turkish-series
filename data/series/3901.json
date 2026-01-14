@@ -10,26 +10,22 @@
   "language": "العربية",
   "rating": 6.9,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#Çalinmis Hayatlar",
     "#أرواح مسروقة",
+    "#Çalinmis Hayatlar",
     "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "56 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 3,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:26:23.684377Z",
-=======
-  "last_updated": "2026-01-14T06:28:19.079462Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:41:07.598035Z",
   "episodes": [
     {
       "number": 1,

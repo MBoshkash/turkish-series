@@ -10,26 +10,22 @@
   "language": "التركية",
   "rating": 6.8,
   "genres": [
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "#Duy Beni الموسم الاول",
     "#اسمعني الموسم الاول",
-    "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "130 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 20,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:26:43.586314Z",
-=======
-  "last_updated": "2026-01-14T06:29:19.931701Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:41:20.952302Z",
   "episodes": [
     {
       "number": 1,

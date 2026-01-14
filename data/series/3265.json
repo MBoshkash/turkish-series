@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 6.8,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
     "#Ah Nerede الموسم الاول",
@@ -21,15 +21,11 @@
   ],
   "quality": "WEB-DL",
   "duration": "110 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 7,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:27:03.646839Z",
-=======
-  "last_updated": "2026-01-14T06:30:29.881306Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:41:33.742422Z",
   "episodes": [
     {
       "number": 1,

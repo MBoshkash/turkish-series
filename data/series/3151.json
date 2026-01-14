@@ -10,27 +10,23 @@
   "language": "العربية",
   "rating": 7.5,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#Kirmizi Oda",
-    "رمضان",
     "مدبلج",
-    "#الغرفة الحمراء الموسم الثاني"
+    "#الغرفة الحمراء الموسم الثاني",
+    "#Kirmizi Oda",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 65,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:27:07.905989Z",
-=======
-  "last_updated": "2026-01-14T06:30:48.127091Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:41:37.044608Z",
   "episodes": [
     {
       "number": 1,

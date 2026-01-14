@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 6.5,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
     "#طبيب البلدة",
@@ -20,15 +20,11 @@
   ],
   "quality": "720p",
   "duration": "110 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:27:20.548071Z",
-=======
-  "last_updated": "2026-01-14T06:31:21.591149Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:41:43.468244Z",
   "episodes": [
     {
       "number": 1,

@@ -10,27 +10,23 @@
   "language": "التركية",
   "rating": 7.9,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#Yeşil Deniz الموسم الاول",
     "#مسلسل البحر الأخضر",
-    "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "#Yeşil Deniz الموسم الاول",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "85 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 11,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:25:27.428026Z",
-=======
-  "last_updated": "2026-01-14T06:24:55.321311Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:40:31.566461Z",
   "episodes": [
     {
       "number": 1,

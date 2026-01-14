@@ -10,26 +10,22 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#kiskanmak",
     "مدبلج",
+    "#kiskanmak",
     "#نيران الحسد"
   ],
   "quality": "WEB-DL",
   "duration": "28 دقيقة",
-  "age_rating": "PG13",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 85,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:23:27.364407Z",
-=======
-  "last_updated": "2026-01-14T06:17:58.632404Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:39:13.247200Z",
   "episodes": [
     {
       "number": 1,

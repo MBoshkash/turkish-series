@@ -10,26 +10,22 @@
   "language": "التركية",
   "rating": 8.0,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
+    "#Kirli Sepeti الموسم الاول",
     "مدبلج",
-    "#مسلسل السلة المتسخة",
-    "#Kirli Sepeti الموسم الاول"
+    "#مسلسل السلة المتسخة"
   ],
   "quality": "WEB-DL",
   "duration": "120 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 20,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:24:21.535776Z",
-=======
-  "last_updated": "2026-01-14T06:21:01.136822Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:39:47.565649Z",
   "episodes": [
     {
       "number": 1,

@@ -10,28 +10,24 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
-    "#Sihirli Annem الموسم الاول",
     "مدبلج",
+    "#Sihirli Annem الموسم الاول",
+    "رمضان",
     "#Sihirli Annem",
     "#أمي الساحرة"
   ],
   "quality": "WEB-DL",
   "duration": "50 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 15,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:29:46.575108Z",
-=======
-  "last_updated": "2026-01-14T06:38:24.450325Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:43:08.071839Z",
   "episodes": [
     {
       "number": 1,

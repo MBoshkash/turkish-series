@@ -10,28 +10,24 @@
   "language": "التركية",
   "rating": 6.3,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#Sefirin Kizi",
-    "رمضان",
     "مدبلج",
+    "#Sefirin Kizi الموسم الثاني",
+    "رمضان",
     "#ابنة سفير",
-    "#Sefirin Kizi الموسم الثاني"
+    "#Sefirin Kizi"
   ],
   "quality": "720p",
   "duration": "160 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 34,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:30:40.930978Z",
-=======
-  "last_updated": "2026-01-14T06:41:02.620098Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:43:39.178228Z",
   "episodes": [
     {
       "number": 1,

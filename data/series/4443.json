@@ -10,26 +10,22 @@
   "language": "التركية",
   "rating": 6.5,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
+    "مدبلج",
     "#مسلسل شراب التوب",
-    "رمضان",
-    "مدبلج"
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "150 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 18,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:24:32.606006Z",
-=======
-  "last_updated": "2026-01-14T06:21:40.678856Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:39:54.198227Z",
   "episodes": [
     {
       "number": 1,

@@ -10,26 +10,22 @@
   "language": "التركية",
   "rating": 6.2,
   "genres": [
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "مدبلج",
-    "رمضان",
     "#Üvey anne الموسم الاول",
-    "#مسلسل زوجة الاب"
+    "#مسلسل زوجة الاب",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "145 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:25:09.897748Z",
-=======
-  "last_updated": "2026-01-14T06:23:57.526994Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:40:20.131645Z",
   "episodes": [
     {
       "number": 1,

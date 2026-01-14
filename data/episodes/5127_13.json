@@ -4,40 +4,40 @@
   "episode_number": 13,
   "title": "الحلقة 13",
   "date_added": "الإثنين 12 يناير 2026 - 12:49 صباحا",
-  "last_updated": "2026-01-13T06:15:53.252526Z",
+  "last_updated": "2026-01-14T08:38:16.289847Z",
   "servers": {
     "watch": [
-      {
-        "name": "سيرفر عرب سيد",
-        "type": "iframe",
-        "url": "https://m.reviewrate.net/embed-kglx3tee2mu8.html",
-        "direct_url": "https://fhd30a1.dls4all.online/d/4aqmk75tfsrnuwfu356i33piw6uagdqyikyi66sq6vjuoergnpad3m2vmtr3v2x5wkjzn4ze/video.mp4",
-        "quality": "480p",
-        "source": "arabseed"
-      },
-      {
-        "name": "سيرفر 1",
-        "type": "iframe",
-        "url": "https://a.asd.homes/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%a7%d9%84%d9%88%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d8%a7/watch/",
-        "direct_url": "",
-        "quality": "480p",
-        "source": "arabseed"
-      },
       {
         "name": "أكوام",
         "type": "akwam",
         "url": "https://ak.sv/episode/92381/المحتالون-مترجم/الحلقة-13",
         "quality": "720p",
         "source": "akwam"
+      },
+      {
+        "name": "Savefiles",
+        "type": "iframe",
+        "url": "https://savefiles.com/e/06zf0q6mcc2h",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Up4fun",
+        "type": "iframe",
+        "url": "https://up4fun.top/embed-as983gb4ex58.html",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
       }
     ],
     "download": [
       {
-        "name": "سيرفر عرب سيد المباشر",
-        "url": "tdm://open?url=https://m.reviewrate.net/gnx2u69kkhta",
-        "quality": "1080p",
-        "is_direct": false,
-        "source": "arabseed"
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92381/المحتالون-مترجم/الحلقة-13",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
       },
       {
         "name": "Frdl",
@@ -47,10 +47,10 @@
         "source": "arabseed"
       },
       {
-        "name": "سيرفر عرب سيد المباشر",
-        "url": "tdm://open?url=https://m.reviewrate.net/avne1b4nzfpk",
-        "quality": "720p",
-        "is_direct": false,
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/w6o584m85u5p/%5Barabseed%5D.Sahtekarlar.S01E13.1080p.mp4",
+        "quality": "1080p",
+        "is_direct": true,
         "source": "arabseed"
       },
       {
@@ -61,10 +61,10 @@
         "source": "arabseed"
       },
       {
-        "name": "سيرفر عرب سيد المباشر",
-        "url": "tdm://open?url=https://m.reviewrate.net/kglx3tee2mu8",
-        "quality": "480p",
-        "is_direct": false,
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/2kt0h4v6gxx4/%5Barabseed%5D.Sahtekarlar.S01E13.720p.mp4",
+        "quality": "720p",
+        "is_direct": true,
         "source": "arabseed"
       },
       {
@@ -75,11 +75,11 @@
         "source": "arabseed"
       },
       {
-        "name": "أكوام",
-        "url": "https://ak.sv/episode/92381/المحتالون-مترجم/الحلقة-13",
-        "quality": "720p",
-        "size": "",
-        "source": "akwam"
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/ws06g5zxjq7l/%5Barabseed%5D.Sahtekarlar.S01E13.480p.mp4",
+        "quality": "480p",
+        "is_direct": true,
+        "source": "arabseed"
       }
     ]
   }

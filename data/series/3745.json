@@ -10,26 +10,22 @@
   "language": "التركية",
   "rating": 9.0,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#Ben Gri الموسم الاول",
     "#مسلسل الاختيار الصعب",
-    "مدبلج"
+    "مدبلج",
+    "#Ben Gri الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "40 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:26:31.345125Z",
-=======
-  "last_updated": "2026-01-14T06:28:37.344380Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:41:12.136114Z",
   "episodes": [
     {
       "number": 1,

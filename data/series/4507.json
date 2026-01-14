@@ -10,26 +10,22 @@
   "language": "الإنجليزية",
   "rating": 6.2,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
     "#المخلوق الموسم الاول مدبلج",
-    "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:24:48.166787Z",
-=======
-  "last_updated": "2026-01-14T06:22:35.422037Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:40:04.672740Z",
   "episodes": [
     {
       "number": 1,

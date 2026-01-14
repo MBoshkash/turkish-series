@@ -10,27 +10,23 @@
   "language": "التركية",
   "rating": 6.9,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#Adi Sevgi الموسم الاول",
-    "رمضان",
     "#مسلسل اسمه حب",
-    "مدبلج"
+    "مدبلج",
+    "#Adi Sevgi الموسم الاول",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "140 دقيقة",
-  "age_rating": "g",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 11,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:27:56.098533Z",
-=======
-  "last_updated": "2026-01-14T06:33:05.018765Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:42:03.474698Z",
   "episodes": [
     {
       "number": 1,

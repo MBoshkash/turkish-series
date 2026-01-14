@@ -10,26 +10,22 @@
   "language": "التركية",
   "rating": 6.1,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#Ates Kuslari الموسم الثاني",
     "#مسلسل طيور النار",
-    "مدبلج"
+    "مدبلج",
+    "#Ates Kuslari الموسم الثاني"
   ],
   "quality": "WEB-DL",
   "duration": "120 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 32,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:24:15.867022Z",
-=======
-  "last_updated": "2026-01-14T06:20:39.848494Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:39:44.180040Z",
   "episodes": [
     {
       "number": 1,

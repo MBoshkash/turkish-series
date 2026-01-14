@@ -10,9 +10,9 @@
   "language": "العربية",
   "rating": 7.2,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
     "#Bay Yanlis",
@@ -21,15 +21,11 @@
   ],
   "quality": "WEB-DL",
   "duration": "120 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 39,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:31:26.739400Z",
-=======
-  "last_updated": "2026-01-14T06:43:28.673724Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:44:06.014335Z",
   "episodes": [
     {
       "number": 2,

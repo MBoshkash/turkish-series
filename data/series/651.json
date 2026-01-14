@@ -10,28 +10,24 @@
   "language": "العربية",
   "rating": 6.8,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
+    "مدبلج",
+    "#The Protector",
     "#الحامي الموسم الرابع",
     "رمضان",
-    "#المحافظ الموسم الرابع",
-    "#The Protector",
-    "مدبلج"
+    "#المحافظ الموسم الرابع"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
-  "age_rating": "PG13",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 7,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:31:38.835622Z",
-=======
-  "last_updated": "2026-01-14T06:44:14.284059Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:44:14.663287Z",
   "episodes": [
     {
       "number": 1,

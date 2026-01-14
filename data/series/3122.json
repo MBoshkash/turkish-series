@@ -10,26 +10,22 @@
   "language": "العربية",
   "rating": 6.9,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
+    "#baba الموسم الاول",
     "#ابي الموسم الاول",
-    "مدبلج",
-    "#baba الموسم الاول"
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "44 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 49,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:27:13.021238Z",
-=======
-  "last_updated": "2026-01-14T06:31:06.368834Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:41:39.891507Z",
   "episodes": [
     {
       "number": 1,

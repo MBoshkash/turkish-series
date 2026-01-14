@@ -10,26 +10,22 @@
   "language": "التركية",
   "rating": 8.0,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#Tuzak الموسم الاول",
     "مدبلج",
+    "#Tuzak الموسم الاول",
     "#مسلسل الفخ"
   ],
   "quality": "WEB-DL",
   "duration": "",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 26,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:26:04.267103Z",
-=======
-  "last_updated": "2026-01-14T06:27:06.093614Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:40:54.619366Z",
   "episodes": [
     {
       "number": 1,

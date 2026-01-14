@@ -10,26 +10,22 @@
   "language": "التركية",
   "rating": 7.9,
   "genres": [
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#قيامة أرطغرل ج4",
     "#Diriliş Ertuğrul S4",
-    "رمضان",
-    "مدبلج"
+    "#قيامة أرطغرل ج4",
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 90,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:29:08.394128Z",
-=======
-  "last_updated": "2026-01-14T06:36:19.745899Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:42:43.816424Z",
   "episodes": [
     {
       "number": 1,

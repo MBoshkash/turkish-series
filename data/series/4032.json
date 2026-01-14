@@ -10,26 +10,22 @@
   "language": "العربية",
   "rating": 6.9,
   "genres": [
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#Baba الموسم الثاني",
-    "رمضان",
+    "مدبلج",
     "#ابي الموسم الثاني",
-    "مدبلج"
+    "#Baba الموسم الثاني",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "42 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 15,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:26:09.852678Z",
-=======
-  "last_updated": "2026-01-14T06:27:24.332870Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:40:57.910259Z",
   "episodes": [
     {
       "number": 1,

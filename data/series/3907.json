@@ -10,27 +10,23 @@
   "language": "التركية",
   "rating": 6.4,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
     "رمضان",
     "#مسلسل طيور النار",
+    "مدبلج",
     "#Ates Kuslari الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "140 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 21,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:25:35.675742Z",
-=======
-  "last_updated": "2026-01-14T06:25:25.736865Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:40:36.921474Z",
   "episodes": [
     {
       "number": 1,

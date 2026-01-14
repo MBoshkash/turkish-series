@@ -10,27 +10,23 @@
   "language": "التركية",
   "rating": 8.1,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
     "#Seddülbahir 32 Saat",
     "#مسلسل سد البحر 32 ساعة كاملا",
-    "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:29:29.107228Z",
-=======
-  "last_updated": "2026-01-14T06:37:26.663327Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:42:56.242170Z",
   "episodes": [
     {
       "number": 1,

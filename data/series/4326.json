@@ -10,27 +10,23 @@
   "language": "العربية",
   "rating": 7.1,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#ماذا لو الموسم الاول",
     "رمضان",
-    "#Ya Çok Seversen الموسم الاول",
-    "مدبلج"
+    "#ماذا لو الموسم الاول",
+    "مدبلج",
+    "#Ya Çok Seversen الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "27 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 65,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:24:54.324674Z",
-=======
-  "last_updated": "2026-01-14T06:22:56.712489Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:40:08.724942Z",
   "episodes": [
     {
       "number": 1,

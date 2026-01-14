@@ -10,26 +10,22 @@
   "language": "التركية",
   "rating": 7.5,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
+    "مدبلج",
     "#مسلسل أيام جميلة",
-    "#Güzel Günler الموسم الاول",
-    "مدبلج"
+    "#Güzel Günler الموسم الاول"
   ],
   "quality": "720p",
   "duration": "140 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 12,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:26:16.697294Z",
-=======
-  "last_updated": "2026-01-14T06:27:54.740755Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:41:03.722555Z",
   "episodes": [
     {
       "number": 1,

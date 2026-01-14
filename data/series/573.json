@@ -10,26 +10,22 @@
   "language": "التركية",
   "rating": 7.2,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
+    "مدبلج",
     "#الرجل الخطأ",
-    "مدبلج"
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "118 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 14,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:31:25.397418Z",
-=======
-  "last_updated": "2026-01-14T06:43:25.632134Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:44:05.471113Z",
   "episodes": [
     {
       "number": 1,

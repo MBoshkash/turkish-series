@@ -10,27 +10,23 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
     "مدبلج",
-    "رمضان",
+    "#اجمل منك مدبلج",
     "#Senden Daha Güzel",
-    "#اجمل منك مدبلج"
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "44 دقيقة",
-  "age_rating": "PG13",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 42,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:23:53.270501Z",
-=======
-  "last_updated": "2026-01-14T06:19:23.817121Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:39:29.640188Z",
   "episodes": [
     {
       "number": 1,

@@ -10,27 +10,23 @@
   "language": "التركية",
   "rating": 6.0,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#مسلسل  فوضى عارمة",
-    "رمضان",
+    "#Darmaduman الموسم الاول",
     "مدبلج",
-    "#Darmaduman الموسم الاول"
+    "#مسلسل  فوضى عارمة",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "120 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 9,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:26:36.697420Z",
-=======
-  "last_updated": "2026-01-14T06:28:55.594721Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:41:15.711410Z",
   "episodes": [
     {
       "number": 1,

@@ -4,40 +4,40 @@
   "episode_number": 12,
   "title": "الحلقة 12",
   "date_added": "الإثنين 29 ديسمبر 2025 - 01:57 مساءاً",
-  "last_updated": "2026-01-13T06:15:53.252523Z",
+  "last_updated": "2026-01-14T08:38:16.289842Z",
   "servers": {
     "watch": [
-      {
-        "name": "سيرفر عرب سيد",
-        "type": "iframe",
-        "url": "https://m.reviewrate.net/embed-b79cjxczkalg.html",
-        "direct_url": "https://fhd30a1.dls4all.online/d/4aqko7ftfsrnuwfu356ijpn5vqbtvr6a3ddnahqn5qkmxqulxliyfuu7ividxa3ibx6xg5kg/video.mp4",
-        "quality": "480p",
-        "source": "arabseed"
-      },
-      {
-        "name": "سيرفر 1",
-        "type": "iframe",
-        "url": "https://a.asd.homes/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%a7%d9%84%d9%88%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d8%a7/watch/",
-        "direct_url": "",
-        "quality": "480p",
-        "source": "arabseed"
-      },
       {
         "name": "أكوام",
         "type": "akwam",
         "url": "https://ak.sv/episode/92008/المحتالون-مترجم/الحلقة-12",
         "quality": "720p",
         "source": "akwam"
+      },
+      {
+        "name": "Savefiles",
+        "type": "iframe",
+        "url": "https://savefiles.com/e/a02y0lj3u0uj",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Up4fun",
+        "type": "iframe",
+        "url": "https://up4fun.top/embed-b338mze0vkd1.html",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
       }
     ],
     "download": [
       {
-        "name": "سيرفر عرب سيد المباشر",
-        "url": "tdm://open?url=https://m.reviewrate.net/0z0d7qua62do",
-        "quality": "1080p",
-        "is_direct": false,
-        "source": "arabseed"
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/92008/المحتالون-مترجم/الحلقة-12",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
       },
       {
         "name": "Frdl",
@@ -47,9 +47,9 @@
         "source": "arabseed"
       },
       {
-        "name": "سيرفر عرب سيد المباشر",
-        "url": "tdm://open?url=https://m.reviewrate.net/efdm6cbglzi6",
-        "quality": "720p",
+        "name": "Turbobit",
+        "url": "tdm://open?url=https://turbobit.net/lgo1hwmdl8xa.html",
+        "quality": "1080p",
         "is_direct": false,
         "source": "arabseed"
       },
@@ -61,9 +61,9 @@
         "source": "arabseed"
       },
       {
-        "name": "سيرفر عرب سيد المباشر",
-        "url": "tdm://open?url=https://m.reviewrate.net/b79cjxczkalg",
-        "quality": "480p",
+        "name": "Turbobit",
+        "url": "tdm://open?url=https://turbobit.net/44kua0tz15o4.html",
+        "quality": "720p",
         "is_direct": false,
         "source": "arabseed"
       },
@@ -75,11 +75,11 @@
         "source": "arabseed"
       },
       {
-        "name": "أكوام",
-        "url": "https://ak.sv/episode/92008/المحتالون-مترجم/الحلقة-12",
-        "quality": "720p",
-        "size": "",
-        "source": "akwam"
+        "name": "Turbobit",
+        "url": "tdm://open?url=https://turbobit.net/gi146lrq3xb6.html",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
       }
     ]
   }

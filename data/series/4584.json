@@ -10,25 +10,21 @@
   "language": "التركية",
   "rating": 4.3,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
-    "#SaklaBeni الموسم الاول"
+    "#SaklaBeni الموسم الاول",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:24:29.027749Z",
-=======
-  "last_updated": "2026-01-14T06:21:25.473931Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:39:51.663479Z",
   "episodes": [
     {
       "number": 1,

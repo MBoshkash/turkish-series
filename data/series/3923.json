@@ -10,27 +10,23 @@
   "language": "التركية",
   "rating": 8.0,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
     "#Sahmaran الموسم الاول",
-    "رمضان",
     "#شاهماران الموسم الاول",
-    "مدبلج"
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:26:18.181132Z",
-=======
-  "last_updated": "2026-01-14T06:28:00.829608Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:41:04.616224Z",
   "episodes": [
     {
       "number": 1,

@@ -10,26 +10,22 @@
   "language": "التركية",
   "rating": 8.1,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
     "#القوقاز: المنفى الكبير",
-    "رمضان",
-    "#Büyük Sürgün Kafkasya"
+    "#Büyük Sürgün Kafkasya",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "70 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 4,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:29:27.498812Z",
-=======
-  "last_updated": "2026-01-14T06:37:20.580318Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:42:54.912469Z",
   "episodes": [
     {
       "number": 1,

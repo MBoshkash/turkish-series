@@ -10,27 +10,23 @@
   "language": "العربية",
   "rating": 7.9,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
     "#Dirilis: Ertugrul",
     "#قيامة أرطغرل الموسم الرابع",
-    "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
-  "age_rating": "g",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 104,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:30:59.934034Z",
-=======
-  "last_updated": "2026-01-14T06:41:57.442305Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:43:49.172584Z",
   "episodes": [
     {
       "number": 1,

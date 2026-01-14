@@ -10,26 +10,22 @@
   "language": "العربية",
   "rating": 5.5,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#Babam ve Ailesi",
     "مدبلج",
-    "#أبي وعائلته الموسم الاول"
+    "#أبي وعائلته الموسم الاول",
+    "#Babam ve Ailesi"
   ],
   "quality": "WEB-DL",
   "duration": "140 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 12,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:29:00.061859Z",
-=======
-  "last_updated": "2026-01-14T06:36:01.482975Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:42:39.634707Z",
   "episodes": [
     {
       "number": 1,

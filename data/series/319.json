@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 7.1,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
     "#Sevdam Alabora",
@@ -20,14 +20,10 @@
   ],
   "quality": "720p",
   "duration": "",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:31:42.991820Z",
-=======
-  "last_updated": "2026-01-14T06:44:32.528709Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:44:17.261219Z",
   "episodes": []
 }

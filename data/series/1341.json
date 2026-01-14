@@ -10,26 +10,22 @@
   "language": "التركية",
   "rating": 4.9,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
+    "#هذه هي قصتي",
     "مدبلج",
-    "#هذه هي قصتي"
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "40 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:29:45.708505Z",
-=======
-  "last_updated": "2026-01-14T06:38:21.410042Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:43:07.563201Z",
   "episodes": [
     {
       "number": 1,

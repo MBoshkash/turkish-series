@@ -10,25 +10,21 @@
   "language": "العربية",
   "rating": 4.4,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#ثلاث اخوات الموسم الاول",
-    "مدبلج"
+    "مدبلج",
+    "#ثلاث اخوات الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 48,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:24:34.395065Z",
-=======
-  "last_updated": "2026-01-14T06:21:46.761302Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:39:55.228302Z",
   "episodes": [
     {
       "number": 1,

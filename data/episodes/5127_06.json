@@ -4,40 +4,40 @@
   "episode_number": 6,
   "title": "الحلقة 6",
   "date_added": "الإثنين 17 نوفمبر 2025 - 06:14 مساءاً",
-  "last_updated": "2026-01-13T06:15:53.252503Z",
+  "last_updated": "2026-01-14T08:38:16.289816Z",
   "servers": {
     "watch": [
-      {
-        "name": "سيرفر عرب سيد",
-        "type": "iframe",
-        "url": "https://m.reviewrate.net/embed-vipbv6vjxlea.html",
-        "direct_url": "https://cdn7.cdn.singles/d/7aqond5tfsrnuwfu3r6jby7uvvi3onnqmp3bf4lqkipkdzizobtftugdje6sfw6hezzptkfd/video.mp4",
-        "quality": "480p",
-        "source": "arabseed"
-      },
-      {
-        "name": "سيرفر 1",
-        "type": "iframe",
-        "url": "https://a.asd.homes/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%a7%d9%84%d9%88%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d8%a7/watch/",
-        "direct_url": "",
-        "quality": "480p",
-        "source": "arabseed"
-      },
       {
         "name": "أكوام",
         "type": "akwam",
         "url": "https://ak.sv/episode/90848/المحتالون-مترجم/الحلقة-6",
         "quality": "720p",
         "source": "akwam"
+      },
+      {
+        "name": "Savefiles",
+        "type": "iframe",
+        "url": "https://savefiles.com/e/ev4hyzaagthx",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Ups2up",
+        "type": "iframe",
+        "url": "https://ups2up.fun/embed-ew342ymh57pt.html",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
       }
     ],
     "download": [
       {
-        "name": "سيرفر عرب سيد المباشر",
-        "url": "tdm://open?url=https://m.reviewrate.net/krwjkq8ca2an",
-        "quality": "1080p",
-        "is_direct": false,
-        "source": "arabseed"
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/90848/المحتالون-مترجم/الحلقة-6",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
       },
       {
         "name": "Frdl",
@@ -47,9 +47,9 @@
         "source": "arabseed"
       },
       {
-        "name": "سيرفر عرب سيد المباشر",
-        "url": "tdm://open?url=https://m.reviewrate.net/z36s6ituhq5o",
-        "quality": "720p",
+        "name": "Up4stream",
+        "url": "tdm://open?url=https://up4fun.top/vei5hhs9p80u.html",
+        "quality": "1080p",
         "is_direct": false,
         "source": "arabseed"
       },
@@ -61,9 +61,9 @@
         "source": "arabseed"
       },
       {
-        "name": "سيرفر عرب سيد المباشر",
-        "url": "tdm://open?url=https://m.reviewrate.net/vipbv6vjxlea",
-        "quality": "480p",
+        "name": "Up4stream",
+        "url": "tdm://open?url=https://up4fun.top/wfvnpbmysthl.html",
+        "quality": "720p",
         "is_direct": false,
         "source": "arabseed"
       },
@@ -75,11 +75,11 @@
         "source": "arabseed"
       },
       {
-        "name": "أكوام",
-        "url": "https://ak.sv/episode/90848/المحتالون-مترجم/الحلقة-6",
-        "quality": "720p",
-        "size": "",
-        "source": "akwam"
+        "name": "Up4stream",
+        "url": "tdm://open?url=https://up4fun.top/ew342ymh57pt.html",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
       }
     ]
   }

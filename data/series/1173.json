@@ -10,27 +10,23 @@
   "language": "التركية",
   "rating": 9.2,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
+    "مدبلج",
     "#Bir Baskadir الموسم الاول",
     "#Bir Baskadir",
-    "#طيف إسطنبول الموسم الاول",
-    "مدبلج"
+    "#طيف إسطنبول الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "60 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:31:16.503250Z",
-=======
-  "last_updated": "2026-01-14T06:42:52.185502Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:43:58.704402Z",
   "episodes": [
     {
       "number": 1,

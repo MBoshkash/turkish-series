@@ -10,27 +10,23 @@
   "language": "العربية",
   "rating": 5.6,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
     "#Camdaki Kiz الموسم الثاني",
     "#فتاة النافذة الموسم الثاني",
-    "مدبلج"
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 120,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:26:46.479221Z",
-=======
-  "last_updated": "2026-01-14T06:29:26.017776Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:41:21.996438Z",
   "episodes": [
     {
       "number": 1,

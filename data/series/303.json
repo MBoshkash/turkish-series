@@ -10,26 +10,22 @@
   "language": "التركية",
   "rating": 8.9,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
     "#مسلسل الف",
+    "مدبلج",
     "رمضان",
-    "#Alef 2020",
-    "مدبلج"
+    "#Alef 2020"
   ],
   "quality": "WEB-DL",
   "duration": "",
-  "age_rating": "R",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:31:43.615412Z",
-=======
-  "last_updated": "2026-01-14T06:44:35.569465Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:44:17.935460Z",
   "episodes": []
 }

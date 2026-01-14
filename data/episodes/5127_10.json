@@ -4,40 +4,40 @@
   "episode_number": 10,
   "title": "الحلقة 10",
   "date_added": "الإثنين 15 ديسمبر 2025 - 02:06 صباحا",
-  "last_updated": "2026-01-13T06:15:53.252516Z",
+  "last_updated": "2026-01-14T08:38:16.289833Z",
   "servers": {
     "watch": [
-      {
-        "name": "سيرفر عرب سيد",
-        "type": "iframe",
-        "url": "https://m.reviewrate.net/embed-bho795gdbgtd.html",
-        "direct_url": "https://cdn7.cdn.singles/d/7aqgi4ftfsrnuwfu356ijyxl7cwsewwlxqle2af63waju74cb527bk6e722fushgzdndjo65/video.mp4",
-        "quality": "480p",
-        "source": "arabseed"
-      },
-      {
-        "name": "سيرفر 1",
-        "type": "iframe",
-        "url": "https://a.asd.homes/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%a7%d9%84%d9%88%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d8%a7/watch/",
-        "direct_url": "",
-        "quality": "480p",
-        "source": "arabseed"
-      },
       {
         "name": "أكوام",
         "type": "akwam",
         "url": "https://ak.sv/episode/91594/المحتالون-مترجم/الحلقة-10",
         "quality": "720p",
         "source": "akwam"
+      },
+      {
+        "name": "Savefiles",
+        "type": "iframe",
+        "url": "https://savefiles.com/e/y71lnsg6nyft",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Ups2up",
+        "type": "iframe",
+        "url": "https://ups2up.fun/embed-diq4di6b0cem.html",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
       }
     ],
     "download": [
       {
-        "name": "سيرفر عرب سيد المباشر",
-        "url": "tdm://open?url=https://m.reviewrate.net/hvniazns2t4k",
-        "quality": "1080p",
-        "is_direct": false,
-        "source": "arabseed"
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91594/المحتالون-مترجم/الحلقة-10",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
       },
       {
         "name": "Frdl",
@@ -47,9 +47,9 @@
         "source": "arabseed"
       },
       {
-        "name": "سيرفر عرب سيد المباشر",
-        "url": "tdm://open?url=https://m.reviewrate.net/m5tyz4e44ptp",
-        "quality": "720p",
+        "name": "Turbobit",
+        "url": "tdm://open?url=https://turbobit.net/siyzffqmoan0.html",
+        "quality": "1080p",
         "is_direct": false,
         "source": "arabseed"
       },
@@ -61,9 +61,9 @@
         "source": "arabseed"
       },
       {
-        "name": "سيرفر عرب سيد المباشر",
-        "url": "tdm://open?url=https://m.reviewrate.net/bho795gdbgtd",
-        "quality": "480p",
+        "name": "Turbobit",
+        "url": "tdm://open?url=https://turbobit.net/g9yagkjxiod0.html",
+        "quality": "720p",
         "is_direct": false,
         "source": "arabseed"
       },
@@ -75,11 +75,11 @@
         "source": "arabseed"
       },
       {
-        "name": "أكوام",
-        "url": "https://ak.sv/episode/91594/المحتالون-مترجم/الحلقة-10",
-        "quality": "720p",
-        "size": "",
-        "source": "akwam"
+        "name": "Turbobit",
+        "url": "tdm://open?url=https://turbobit.net/935f6b7gxgiv.html",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
       }
     ]
   }

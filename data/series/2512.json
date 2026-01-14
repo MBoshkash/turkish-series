@@ -10,28 +10,24 @@
   "language": "العربية",
   "rating": 7.6,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#Kuzey Güney s01",
     "#عودة مهند ج1",
+    "#Kuzey Güney s01",
+    "مدبلج",
     "رمضان",
-    "#عودة مهند الموسم الاول",
-    "مدبلج"
+    "#عودة مهند الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
-  "age_rating": "PG13",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 114,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:29:02.706710Z",
-=======
-  "last_updated": "2026-01-14T06:36:07.568821Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:42:41.375021Z",
   "episodes": [
     {
       "number": 1,

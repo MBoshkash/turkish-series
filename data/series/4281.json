@@ -10,27 +10,23 @@
   "language": "التركية",
   "rating": 6.2,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
     "#مسلسل المنفى الازرق",
-    "رمضان",
+    "#Maviye Sürgün الموسم الاول",
     "مدبلج",
-    "#Maviye Sürgün الموسم الاول"
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "110 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:25:05.854894Z",
-=======
-  "last_updated": "2026-01-14T06:23:42.328685Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:40:17.217139Z",
   "episodes": [
     {
       "number": 1,

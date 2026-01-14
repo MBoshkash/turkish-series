@@ -10,26 +10,22 @@
   "language": "التركية",
   "rating": 5.8,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#Tozlu Yaka الموسم الاول",
+    "مدبلج",
     "#الياقة المغبرة",
-    "مدبلج"
+    "#Tozlu Yaka الموسم الاول"
   ],
   "quality": "720p",
   "duration": "110 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 26,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:26:36.283606Z",
-=======
-  "last_updated": "2026-01-14T06:28:52.553079Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:41:15.175584Z",
   "episodes": [
     {
       "number": 1,

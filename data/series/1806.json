@@ -10,9 +10,9 @@
   "language": "العربية",
   "rating": 5.0,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
     "رمضان",
@@ -22,15 +22,11 @@
   ],
   "quality": "WEB-DL",
   "duration": "44 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 24,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:30:01.993335Z",
-=======
-  "last_updated": "2026-01-14T06:39:07.028263Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:43:16.632858Z",
   "episodes": [
     {
       "number": 1,

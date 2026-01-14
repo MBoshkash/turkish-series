@@ -4,40 +4,40 @@
   "episode_number": 9,
   "title": "الحلقة 9",
   "date_added": "الإثنين 08 ديسمبر 2025 - 01:34 صباحا",
-  "last_updated": "2026-01-13T06:15:53.252513Z",
+  "last_updated": "2026-01-14T08:38:16.289828Z",
   "servers": {
     "watch": [
-      {
-        "name": "سيرفر عرب سيد",
-        "type": "iframe",
-        "url": "https://m.reviewrate.net/embed-7jd0rheerb9h.html",
-        "direct_url": "https://cdn7.cdn.singles/d/7aqje5ntfsrnuwfu3r6ndyha74fm4a72vzpj2h7peljbwcthfzfbtq2xkzxenrb6ohih363i/video.mp4",
-        "quality": "480p",
-        "source": "arabseed"
-      },
-      {
-        "name": "سيرفر 1",
-        "type": "iframe",
-        "url": "https://a.asd.homes/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%a7%d9%84%d9%88%d9%86-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d8%a7/watch/",
-        "direct_url": "",
-        "quality": "480p",
-        "source": "arabseed"
-      },
       {
         "name": "أكوام",
         "type": "akwam",
         "url": "https://ak.sv/episode/91378/المحتالون-مترجم/الحلقة-9",
         "quality": "720p",
         "source": "akwam"
+      },
+      {
+        "name": "Savefiles",
+        "type": "iframe",
+        "url": "https://savefiles.com/e/x6zalz6fwvea",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Ups2up",
+        "type": "iframe",
+        "url": "https://ups2up.fun/embed-33l998m8uuc7.html",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
       }
     ],
     "download": [
       {
-        "name": "سيرفر عرب سيد المباشر",
-        "url": "tdm://open?url=https://m.reviewrate.net/obr1s6ggk7e0",
-        "quality": "1080p",
-        "is_direct": false,
-        "source": "arabseed"
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/91378/المحتالون-مترجم/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
       },
       {
         "name": "Frdl",
@@ -47,9 +47,9 @@
         "source": "arabseed"
       },
       {
-        "name": "سيرفر عرب سيد المباشر",
-        "url": "tdm://open?url=https://m.reviewrate.net/nf2fvjg9dq4l",
-        "quality": "720p",
+        "name": "Turbobit",
+        "url": "tdm://open?url=https://turbobit.net/o7927g870kg0.html",
+        "quality": "1080p",
         "is_direct": false,
         "source": "arabseed"
       },
@@ -61,10 +61,10 @@
         "source": "arabseed"
       },
       {
-        "name": "سيرفر عرب سيد المباشر",
-        "url": "tdm://open?url=https://m.reviewrate.net/7jd0rheerb9h",
-        "quality": "480p",
-        "is_direct": false,
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/wl4o3o8g8lyd/%5Barabseed%5D.Sahtekarlar.S01E09.720p.mp4",
+        "quality": "720p",
+        "is_direct": true,
         "source": "arabseed"
       },
       {
@@ -75,11 +75,11 @@
         "source": "arabseed"
       },
       {
-        "name": "أكوام",
-        "url": "https://ak.sv/episode/91378/المحتالون-مترجم/الحلقة-9",
-        "quality": "720p",
-        "size": "",
-        "source": "akwam"
+        "name": "Turbobit",
+        "url": "tdm://open?url=https://turbobit.net/4oybgckww6ak.html",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
       }
     ]
   }

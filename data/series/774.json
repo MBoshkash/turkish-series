@@ -10,28 +10,24 @@
   "language": "العربية",
   "rating": 7.4,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
     "#أنت أطرق بابي",
-    "#أطرق بابي",
+    "مدبلج",
     "رمضان",
     "#Sen Çal Kapimi",
-    "مدبلج"
+    "#أطرق بابي"
   ],
   "quality": "WEB-DL",
   "duration": "44 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 115,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:30:47.335072Z",
-=======
-  "last_updated": "2026-01-14T06:41:20.937196Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:43:42.113948Z",
   "episodes": [
     {
       "number": 1,

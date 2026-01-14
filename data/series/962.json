@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 5.8,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
     "#كان يا ما كان في شوكوروفا",
@@ -20,15 +20,11 @@
   ],
   "quality": "720p",
   "duration": "150 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 39,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:30:13.081031Z",
-=======
-  "last_updated": "2026-01-14T06:39:40.487022Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:43:23.310227Z",
   "episodes": [
     {
       "number": 1,

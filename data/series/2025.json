@@ -10,28 +10,24 @@
   "language": "التركية",
   "rating": 8.0,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#Masumlar Apartmani",
     "#شقة الأبرياء الموسم الثاني",
-    "رمضان",
+    "#Masumlar Apartmani",
     "مدبلج",
-    "#شقة الأبرياء"
+    "#شقة الأبرياء",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 34,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:27:55.415030Z",
-=======
-  "last_updated": "2026-01-14T06:33:01.977830Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:42:02.988645Z",
   "episodes": [
     {
       "number": 1,

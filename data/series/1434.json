@@ -10,28 +10,24 @@
   "language": "العربية",
   "rating": 7.4,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
-    "#50M2",
     "#50 متر مربع",
     "مدبلج",
+    "رمضان",
+    "#50M2",
     "#50 م²"
   ],
   "quality": "WEB-DL",
   "duration": "50 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:31:07.143491Z",
-=======
-  "last_updated": "2026-01-14T06:42:15.701865Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:43:52.525703Z",
   "episodes": [
     {
       "number": 1,

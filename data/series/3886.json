@@ -10,26 +10,22 @@
   "language": "التركية",
   "rating": 8.0,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#مسلسل أميرة بلا تاج",
     "مدبلج",
-    "#Taçsiz Prenses الموسم الاول"
+    "#Taçsiz Prenses الموسم الاول",
+    "#مسلسل أميرة بلا تاج"
   ],
   "quality": "WEB-DL",
   "duration": "130 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:25:34.101515Z",
-=======
-  "last_updated": "2026-01-14T06:25:19.652991Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:40:36.000465Z",
   "episodes": [
     {
       "number": 1,

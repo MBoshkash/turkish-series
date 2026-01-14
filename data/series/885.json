@@ -10,27 +10,23 @@
   "language": "العربية",
   "rating": 8.6,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#اتصل بمدير اعمالي",
+    "#اتصل بوكيلي",
     "مدبلج",
-    "#Menajerimi Ara",
-    "#اتصل بوكيلي"
+    "#اتصل بمدير اعمالي",
+    "#Menajerimi Ara"
   ],
   "quality": "WEB-DL",
   "duration": "140 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 132,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:30:07.049829Z",
-=======
-  "last_updated": "2026-01-14T06:39:19.199899Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:43:19.333733Z",
   "episodes": [
     {
       "number": 1,

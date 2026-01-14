@@ -10,28 +10,24 @@
   "language": "العربية",
   "rating": 7.5,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
-    "#المؤسس عثمان الموسم الثاني",
-    "#Kuruluş Osman 2021",
     "مدبلج",
-    "#Kuruluş Osman الموسم الثاني"
+    "#Kuruluş Osman 2021",
+    "رمضان",
+    "#Kuruluş Osman الموسم الثاني",
+    "#المؤسس عثمان الموسم الثاني"
   ],
   "quality": "WEB-DL",
   "duration": "120 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 37,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:27:22.963763Z",
-=======
-  "last_updated": "2026-01-14T06:31:30.713752Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:41:45.104577Z",
   "episodes": [
     {
       "number": 1,

@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 6.1,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
     "#اخوتي الموسم الثالث",
@@ -21,15 +21,11 @@
   ],
   "quality": "WEB-DL",
   "duration": "120 دقيقة",
-  "age_rating": "r",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 38,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:25:48.419290Z",
-=======
-  "last_updated": "2026-01-14T06:26:08.319624Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:40:44.766815Z",
   "episodes": [
     {
       "number": 1,

@@ -10,26 +10,22 @@
   "language": "التركية",
   "rating": 8.6,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
     "#Gizli Sakli الموسم الاول",
-    "#في السر والخفاء"
+    "#في السر والخفاء",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "110 دقيقة",
-  "age_rating": "G",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:27:05.560031Z",
-=======
-  "last_updated": "2026-01-14T06:30:39.000778Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:41:35.468585Z",
   "episodes": [
     {
       "number": 1,

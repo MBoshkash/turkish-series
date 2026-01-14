@@ -10,28 +10,24 @@
   "language": "العربية",
   "rating": 7.3,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
+    "مدبلج",
     "#العشق الأسود الموسم الاول",
     "رمضان",
     "#Kara Para Ask",
-    "مدبلج",
     "#العشق الأسود"
   ],
   "quality": "WEB-DL",
   "duration": "44 دقيقة",
-  "age_rating": "PG13",
+  "age_rating": "",
   "cast": [],
   "total_episodes": 80,
   "status": "ongoing",
-<<<<<<< HEAD
-  "last_updated": "2026-01-14T08:29:57.075392Z",
-=======
-  "last_updated": "2026-01-14T06:38:51.823990Z",
->>>>>>> 441544bd60f35876bd171de5d3e77642c9431706
+  "last_updated": "2026-01-14T08:43:12.984390Z",
   "episodes": [
     {
       "number": 1,
