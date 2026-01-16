@@ -10,23 +10,22 @@
   "language": "التركية",
   "rating": 8.0,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
     "#جراح الروح",
-    "#Alaca",
-    "رمضان"
+    "مدبلج",
+    "#Alaca"
   ],
   "quality": "WEB-DL",
   "duration": "43 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 118,
+  "total_episodes": 119,
   "status": "ongoing",
-  "last_updated": "2026-01-16T00:47:08.666222Z",
+  "last_updated": "2026-01-16T06:21:59.383246Z",
   "episodes": [
     {
       "number": 1,
@@ -734,6 +733,12 @@
       "number": 118,
       "title": "الحلقة 118",
       "date_added": "الأربعاء 14 يناير 2026 - 11:29 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 119,
+      "title": "الحلقة 119",
+      "date_added": "الجمعة 16 يناير 2026 - 01:10 صباحا",
       "servers_count": 2
     }
   ]
