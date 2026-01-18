@@ -10,23 +10,22 @@
   "language": "الإنجليزية",
   "rating": 8.2,
   "genres": [
-    "رومانسي",
+    "دراما",
     "كوميدي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
+    "رمضان",
     "#veliaht",
-    "مدبلج",
-    "#ولي العهد",
-    "رمضان"
+    "#ولي العهد"
   ],
   "quality": "WEB-DL",
   "duration": "123 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 16,
+  "total_episodes": 17,
   "status": "ongoing",
-  "last_updated": "2026-01-18T00:52:15.368928Z",
+  "last_updated": "2026-01-18T06:27:12.109970Z",
   "episodes": [
     {
       "number": 1,
@@ -122,6 +121,12 @@
       "number": 16,
       "title": "الحلقة 16",
       "date_added": "الجمعة 09 يناير 2026 - 10:37 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 17,
+      "title": "الحلقة 17",
+      "date_added": "الجمعة 16 يناير 2026 - 10:59 صباحا",
       "servers_count": 2
     }
   ]

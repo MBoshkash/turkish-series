@@ -10,22 +10,23 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
     "#kiskanmak",
-    "#نيران الحسد"
+    "رمضان",
+    "#نيران الحسد",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "28 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 85,
+  "total_episodes": 90,
   "status": "ongoing",
-  "last_updated": "2026-01-18T00:52:06.318109Z",
+  "last_updated": "2026-01-18T06:27:09.451729Z",
   "episodes": [
     {
       "number": 1,
@@ -535,6 +536,36 @@
       "number": 85,
       "title": "الحلقة 85",
       "date_added": "السبت 10 يناير 2026 - 12:06 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 86,
+      "title": "الحلقة 86",
+      "date_added": "الخميس 15 يناير 2026 - 11:45 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 87,
+      "title": "الحلقة 87",
+      "date_added": "الخميس 15 يناير 2026 - 11:46 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 88,
+      "title": "الحلقة 88",
+      "date_added": "الخميس 15 يناير 2026 - 11:47 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 89,
+      "title": "الحلقة 89",
+      "date_added": "الخميس 15 يناير 2026 - 11:48 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 90,
+      "title": "الحلقة 90",
+      "date_added": "الخميس 15 يناير 2026 - 11:50 مساءاً",
       "servers_count": 2
     }
   ]

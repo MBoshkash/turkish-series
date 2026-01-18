@@ -10,22 +10,22 @@
   "language": "العربية",
   "rating": 7.2,
   "genres": [
-    "رومانسي",
+    "دراما",
     "كوميدي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
     "#Uzak Şehir",
-    "رمضان"
+    "رمضان",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "32 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 80,
+  "total_episodes": 85,
   "status": "ongoing",
-  "last_updated": "2026-01-18T00:52:21.411763Z",
+  "last_updated": "2026-01-18T06:27:13.938656Z",
   "episodes": [
     {
       "number": 1,
@@ -505,6 +505,36 @@
       "number": 80,
       "title": "الحلقة 80",
       "date_added": "الأربعاء 07 يناير 2026 - 10:40 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 81,
+      "title": "الحلقة 81",
+      "date_added": "الأربعاء 14 يناير 2026 - 11:55 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 82,
+      "title": "الحلقة 82",
+      "date_added": "الأربعاء 14 يناير 2026 - 11:56 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 83,
+      "title": "الحلقة 83",
+      "date_added": "الأربعاء 14 يناير 2026 - 11:56 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 84,
+      "title": "الحلقة 84",
+      "date_added": "الأربعاء 14 يناير 2026 - 11:57 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 85,
+      "title": "الحلقة 85",
+      "date_added": "الأربعاء 14 يناير 2026 - 11:59 مساءاً",
       "servers_count": 2
     }
   ]

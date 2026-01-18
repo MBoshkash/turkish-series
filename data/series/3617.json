@@ -11,14 +11,13 @@
   "rating": 7.0,
   "genres": [
     "دراما",
-    "رومانسي",
     "كوميدي"
   ],
   "tags": [
-    "رمضان",
-    "مدبلج",
+    "#Man on Pause الموسم الاول",
     "#رجل مع وقف التنفيذ",
-    "#Man on Pause الموسم الاول"
+    "رمضان",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +25,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-01-18T01:04:01.316111Z",
+  "last_updated": "2026-01-18T06:31:35.782354Z",
   "episodes": [
     {
       "number": 1,
