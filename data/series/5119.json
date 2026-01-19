@@ -15,18 +15,18 @@
     "رومانسي"
   ],
   "tags": [
-    "#الأسيرة مدبلج",
-    "#Esaret",
     "رمضان",
+    "#Esaret",
+    "#الأسيرة مدبلج",
     "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "41 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 169,
+  "total_episodes": 170,
   "status": "ongoing",
-  "last_updated": "2026-01-19T12:22:23.921783Z",
+  "last_updated": "2026-01-19T18:15:36.704843Z",
   "episodes": [
     {
       "number": 1,
@@ -1040,6 +1040,12 @@
       "number": 170,
       "title": "الحلقة 170",
       "date_added": "الأحد 18 يناير 2026 - 12:02 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 171,
+      "title": "الحلقة 171",
+      "date_added": "الأحد 18 يناير 2026 - 10:57 مساءاً",
       "servers_count": 2
     }
   ]

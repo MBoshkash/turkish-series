@@ -11,22 +11,23 @@
   "rating": 4.0,
   "genres": [
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "رمضان",
     "#Jasmine",
+    "#ياسمين مترجم",
     "مدبلج",
-    "#مشاهدة و تحميل مسلسل ياسمين",
-    "#ياسمين مترجم"
+    "#مشاهدة و تحميل مسلسل ياسمين"
   ],
   "quality": "WEB-DL",
   "duration": "36 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 5,
+  "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-01-19T12:21:44.705251Z",
+  "last_updated": "2026-01-19T18:15:26.779678Z",
   "episodes": [
     {
       "number": 1,
@@ -56,6 +57,12 @@
       "number": 5,
       "title": "الحلقة 5",
       "date_added": "السبت 10 يناير 2026 - 06:41 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 6,
+      "title": "الحلقة 6",
+      "date_added": "الأحد 18 يناير 2026 - 11:55 مساءاً",
       "servers_count": 2
     }
   ]

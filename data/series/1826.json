@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "#Ask mantik intikam",
     "رمضان",
-    "#حب منطق انتقام"
+    "#Ask mantik intikam",
+    "#حب منطق انتقام",
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "110 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 42,
   "status": "ongoing",
-  "last_updated": "2026-01-19T12:37:13.600479Z",
+  "last_updated": "2026-01-19T18:19:03.740555Z",
   "episodes": [
     {
       "number": 1,

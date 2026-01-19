@@ -16,18 +16,18 @@
   ],
   "tags": [
     "رمضان",
-    "#Teşkilat",
     "#The Shadow Team",
     "مدبلج",
+    "#Teşkilat",
     "#المنظمة الموسم السادس"
   ],
   "quality": "WEB-DL",
   "duration": "163 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 16,
+  "total_episodes": 17,
   "status": "ongoing",
-  "last_updated": "2026-01-19T12:21:38.675489Z",
+  "last_updated": "2026-01-19T18:15:24.930680Z",
   "episodes": [
     {
       "number": 1,
@@ -124,6 +124,12 @@
       "title": "الحلقة 16",
       "date_added": "الإثنين 12 يناير 2026 - 12:07 صباحا",
       "servers_count": 10
+    },
+    {
+      "number": 17,
+      "title": "الحلقة 17",
+      "date_added": "الإثنين 19 يناير 2026 - 01:10 صباحا",
+      "servers_count": 2
     }
   ]
 }
