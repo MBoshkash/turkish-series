@@ -10,8 +10,8 @@
   "language": "التركية",
   "rating": 8.0,
   "genres": [
-    "دراما",
     "كوميدي",
+    "دراما",
     "رومانسي"
   ],
   "tags": [
@@ -24,9 +24,9 @@
   "duration": "43 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 119,
+  "total_episodes": 120,
   "status": "ongoing",
-  "last_updated": "2026-01-20T00:46:28.044519Z",
+  "last_updated": "2026-01-20T06:19:03.765792Z",
   "episodes": [
     {
       "number": 1,
@@ -740,6 +740,12 @@
       "number": 119,
       "title": "الحلقة 119",
       "date_added": "الجمعة 16 يناير 2026 - 01:10 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 120,
+      "title": "الحلقة 120",
+      "date_added": "الإثنين 19 يناير 2026 - 01:11 صباحا",
       "servers_count": 2
     }
   ]
