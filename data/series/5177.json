@@ -10,22 +10,22 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "كوميدي",
+    "دراما",
     "رومانسي",
-    "دراما"
+    "كوميدي"
   ],
   "tags": [
-    "#المنظمة مدبلج",
+    "مدبلج",
     "رمضان",
-    "مدبلج"
+    "#المنظمة مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "41 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 63,
+  "total_episodes": 64,
   "status": "ongoing",
-  "last_updated": "2026-01-23T18:16:42.021881Z",
+  "last_updated": "2026-01-24T06:15:06.892738Z",
   "episodes": [
     {
       "number": 1,
@@ -403,6 +403,12 @@
       "number": 63,
       "title": "الحلقة 63",
       "date_added": "الأربعاء 21 يناير 2026 - 11:21 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 64,
+      "title": "الحلقة 64",
+      "date_added": "الخميس 22 يناير 2026 - 09:33 مساءاً",
       "servers_count": 2
     }
   ]
