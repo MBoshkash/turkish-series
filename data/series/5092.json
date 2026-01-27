@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 6.0,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "#Platonik",
-    "مدبلج",
     "#الحب الأفلاطوني مدبلج",
-    "رمضان"
+    "مدبلج",
+    "رمضان",
+    "#Platonik"
   ],
   "quality": "WEB-DL",
   "duration": "41 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-01-27T12:21:50.666665Z",
+  "last_updated": "2026-01-27T18:36:13.638489Z",
   "episodes": [
     {
       "number": 1,

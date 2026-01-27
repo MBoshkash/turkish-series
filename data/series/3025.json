@@ -10,13 +10,13 @@
   "language": "العربية",
   "rating": 7.5,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "#Kayip Sehir",
     "#المدينة المفقودة الموسم الاول",
+    "#Kayip Sehir",
     "مدبلج",
     "رمضان"
   ],
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 26,
   "status": "ongoing",
-  "last_updated": "2026-01-27T12:26:07.480376Z",
+  "last_updated": "2026-01-27T18:40:31.467067Z",
   "episodes": [
     {
       "number": 1,

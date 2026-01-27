@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 9.0,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
+    "#Tasacak Bu Deniz",
     "رمضان",
-    "#هذا البحر سوف يفيض مترجم",
-    "#Tasacak Bu Deniz"
+    "مدبلج",
+    "#هذا البحر سوف يفيض مترجم"
   ],
   "quality": "WEB-DL",
   "duration": "142 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 15,
   "status": "ongoing",
-  "last_updated": "2026-01-27T12:21:22.067208Z",
+  "last_updated": "2026-01-27T18:35:35.694941Z",
   "episodes": [
     {
       "number": 1,

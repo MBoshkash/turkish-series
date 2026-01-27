@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 6.8,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "#Teşkilat الموسم الرابع",
-    "رمضان"
+    "رمضان",
+    "#Teşkilat الموسم الرابع"
   ],
   "quality": "WEB-DL",
   "duration": "160 دقيقة",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 25,
   "status": "ongoing",
-  "last_updated": "2026-01-27T12:22:01.186410Z",
+  "last_updated": "2026-01-27T18:36:26.740310Z",
   "episodes": [
     {
       "number": 1,

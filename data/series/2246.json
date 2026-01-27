@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 6.5,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
     "#عزيز",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 28,
   "status": "ongoing",
-  "last_updated": "2026-01-27T12:25:41.601566Z",
+  "last_updated": "2026-01-27T18:40:07.369229Z",
   "episodes": [
     {
       "number": 1,
