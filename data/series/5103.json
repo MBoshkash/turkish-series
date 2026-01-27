@@ -10,8 +10,8 @@
   "language": "العربية",
   "rating": 6.6,
   "genres": [
-    "دراما",
     "كوميدي",
+    "دراما",
     "رومانسي"
   ],
   "tags": [
@@ -24,9 +24,9 @@
   "duration": "52 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 43,
+  "total_episodes": 46,
   "status": "ongoing",
-  "last_updated": "2026-01-27T06:20:45.914139Z",
+  "last_updated": "2026-01-27T12:21:29.041594Z",
   "episodes": [
     {
       "number": 1,
@@ -278,6 +278,24 @@
       "number": 43,
       "title": "الحلقة 43",
       "date_added": "الأربعاء 07 يناير 2026 - 09:08 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 44,
+      "title": "الحلقة 44",
+      "date_added": "الخميس 22 يناير 2026 - 01:44 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 45,
+      "title": "الحلقة 45",
+      "date_added": "الخميس 22 يناير 2026 - 01:45 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 46,
+      "title": "الحلقة 46",
+      "date_added": "الخميس 22 يناير 2026 - 01:46 صباحا",
       "servers_count": 2
     },
     {

@@ -15,17 +15,17 @@
     "رومانسي"
   ],
   "tags": [
-    "#المؤسس اورهان مترجم",
     "#Kurulus: Orhan",
-    "مدبلج"
+    "مدبلج",
+    "#المؤسس اورهان مترجم"
   ],
   "quality": "WEB-DL",
   "duration": "152 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 10,
+  "total_episodes": 11,
   "status": "ongoing",
-  "last_updated": "2026-01-27T06:21:25.187060Z",
+  "last_updated": "2026-01-27T12:21:38.878563Z",
   "episodes": [
     {
       "number": 1,
@@ -85,6 +85,12 @@
       "number": 10,
       "title": "الحلقة 10",
       "date_added": "الأربعاء 14 يناير 2026 - 11:29 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 11,
+      "title": "الحلقة 11",
+      "date_added": "الأربعاء 21 يناير 2026 - 11:39 مساءاً",
       "servers_count": 2
     }
   ]

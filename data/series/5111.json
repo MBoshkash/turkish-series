@@ -10,22 +10,22 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "دراما",
     "كوميدي",
+    "دراما",
     "رومانسي"
   ],
   "tags": [
     "#نيران الحسد",
-    "#kiskanmak",
-    "مدبلج"
+    "مدبلج",
+    "#kiskanmak"
   ],
   "quality": "WEB-DL",
   "duration": "28 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 90,
+  "total_episodes": 95,
   "status": "ongoing",
-  "last_updated": "2026-01-27T06:20:27.791393Z",
+  "last_updated": "2026-01-27T12:21:23.229669Z",
   "episodes": [
     {
       "number": 1,
@@ -565,6 +565,36 @@
       "number": 90,
       "title": "الحلقة 90",
       "date_added": "الخميس 15 يناير 2026 - 11:50 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 91,
+      "title": "الحلقة 91",
+      "date_added": "الخميس 22 يناير 2026 - 09:33 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 92,
+      "title": "الحلقة 92",
+      "date_added": "الجمعة 23 يناير 2026 - 11:17 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 93,
+      "title": "الحلقة 93",
+      "date_added": "الجمعة 23 يناير 2026 - 11:18 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 94,
+      "title": "الحلقة 94",
+      "date_added": "الجمعة 23 يناير 2026 - 11:19 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 95,
+      "title": "الحلقة 95",
+      "date_added": "الجمعة 23 يناير 2026 - 11:21 مساءاً",
       "servers_count": 2
     }
   ]
