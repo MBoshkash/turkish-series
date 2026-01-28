@@ -15,18 +15,18 @@
     "كوميدي"
   ],
   "tags": [
-    "رمضان",
-    "#انت اسيري",
     "مدبلج",
-    "#Esaretim Sensin"
+    "رمضان",
+    "#Esaretim Sensin",
+    "#انت اسيري"
   ],
   "quality": "WEB-DL",
   "duration": "30 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 18,
+  "total_episodes": 19,
   "status": "ongoing",
-  "last_updated": "2026-01-28T06:29:08.302347Z",
+  "last_updated": "2026-01-28T12:32:56.947038Z",
   "episodes": [
     {
       "number": 1,
@@ -134,6 +134,12 @@
       "number": 18,
       "title": "الحلقة 18",
       "date_added": "الثلاثاء 27 يناير 2026 - 12:36 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 19,
+      "title": "الحلقة 19",
+      "date_added": "الثلاثاء 27 يناير 2026 - 09:40 مساءاً",
       "servers_count": 2
     }
   ]
