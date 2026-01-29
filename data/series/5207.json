@@ -16,16 +16,15 @@
   ],
   "tags": [
     "مدبلج",
-    "#ورود وذنوب",
-    "رمضان"
+    "#ورود وذنوب"
   ],
   "quality": "WEB-DL",
   "duration": "50 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 25,
+  "total_episodes": 27,
   "status": "ongoing",
-  "last_updated": "2026-01-28T18:37:29.697581Z",
+  "last_updated": "2026-01-29T01:01:15.404639Z",
   "episodes": [
     {
       "number": 1,
@@ -175,6 +174,18 @@
       "number": 25,
       "title": "الحلقة 25",
       "date_added": "الثلاثاء 27 يناير 2026 - 09:40 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 26,
+      "title": "الحلقة 26",
+      "date_added": "الأربعاء 28 يناير 2026 - 07:07 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 27,
+      "title": "الحلقة 27",
+      "date_added": "الأربعاء 28 يناير 2026 - 07:24 مساءاً",
       "servers_count": 2
     }
   ]
