@@ -10,23 +10,23 @@
   "language": "التركية",
   "rating": 7.2,
   "genres": [
-    "رومانسي",
+    "كوميدي",
     "دراما",
-    "كوميدي"
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
     "#الحسد مترجم",
-    "رمضان",
-    "#Kıskanmak"
+    "مدبلج",
+    "#Kıskanmak",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "129 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 19,
+  "total_episodes": 20,
   "status": "ongoing",
-  "last_updated": "2026-01-29T01:06:54.593982Z",
+  "last_updated": "2026-01-29T18:41:46.004509Z",
   "episodes": [
     {
       "number": 1,
@@ -140,6 +140,12 @@
       "number": 19,
       "title": "الحلقة 19",
       "date_added": "الأربعاء 21 يناير 2026 - 01:41 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 20,
+      "title": "الحلقة 20",
+      "date_added": "الأربعاء 28 يناير 2026 - 05:34 مساءاً",
       "servers_count": 2
     }
   ]

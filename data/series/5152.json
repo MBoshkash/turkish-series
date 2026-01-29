@@ -10,23 +10,23 @@
   "language": "العربية",
   "rating": 0.0,
   "genres": [
-    "رومانسي",
+    "كوميدي",
     "دراما",
-    "كوميدي"
+    "رومانسي"
   ],
   "tags": [
+    "#Sahtekarlar",
     "مدبلج",
     "#المحتالون مدبلج",
-    "رمضان",
-    "#Sahtekarlar"
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "23 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 73,
+  "total_episodes": 75,
   "status": "ongoing",
-  "last_updated": "2026-01-29T01:07:09.813428Z",
+  "last_updated": "2026-01-29T18:41:49.457223Z",
   "episodes": [
     {
       "number": 1,
@@ -464,6 +464,18 @@
       "number": 73,
       "title": "الحلقة 73",
       "date_added": "الثلاثاء 27 يناير 2026 - 11:37 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 74,
+      "title": "الحلقة 74",
+      "date_added": "الأربعاء 28 يناير 2026 - 07:00 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 75,
+      "title": "الحلقة 75",
+      "date_added": "الأربعاء 28 يناير 2026 - 07:05 مساءاً",
       "servers_count": 2
     }
   ]

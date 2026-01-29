@@ -15,6 +15,7 @@
     "رومانسي"
   ],
   "tags": [
+    "مدبلج",
     "#Mehmed: Sultan of Conquests",
     "رمضان"
   ],
@@ -22,9 +23,9 @@
   "duration": "132 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 17,
+  "total_episodes": 18,
   "status": "ongoing",
-  "last_updated": "2026-01-29T01:07:03.717762Z",
+  "last_updated": "2026-01-29T18:41:47.960354Z",
   "episodes": [
     {
       "number": 1,
@@ -126,6 +127,12 @@
       "number": 17,
       "title": "الحلقة 17",
       "date_added": "الأربعاء 21 يناير 2026 - 01:24 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 18,
+      "title": "الحلقة 18",
+      "date_added": "الأربعاء 28 يناير 2026 - 05:34 مساءاً",
       "servers_count": 2
     }
   ]
