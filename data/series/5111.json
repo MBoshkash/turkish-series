@@ -10,23 +10,22 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "كوميدي"
   ],
   "tags": [
-    "رمضان",
     "#نيران الحسد",
+    "#kiskanmak",
     "مدبلج",
-    "#kiskanmak"
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "28 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 95,
+  "total_episodes": 100,
   "status": "ongoing",
-  "last_updated": "2026-01-29T18:41:41.235615Z",
+  "last_updated": "2026-01-30T01:19:38.498149Z",
   "episodes": [
     {
       "number": 1,
@@ -596,6 +595,36 @@
       "number": 95,
       "title": "الحلقة 95",
       "date_added": "الجمعة 23 يناير 2026 - 11:21 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 96,
+      "title": "الحلقة 96",
+      "date_added": "الجمعة 30 يناير 2026 - 02:21 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 97,
+      "title": "الحلقة 97",
+      "date_added": "الجمعة 30 يناير 2026 - 02:22 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 98,
+      "title": "الحلقة 98",
+      "date_added": "الجمعة 30 يناير 2026 - 02:23 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 99,
+      "title": "الحلقة 99",
+      "date_added": "الجمعة 30 يناير 2026 - 02:25 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 100,
+      "title": "الحلقة 100",
+      "date_added": "الجمعة 30 يناير 2026 - 02:25 صباحا",
       "servers_count": 2
     }
   ]
