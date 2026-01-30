@@ -11,11 +11,10 @@
   "rating": 5.0,
   "genres": [
     "رومانسي",
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
     "#Baht Oyunu",
     "#لعبة الحظ"
   ],
@@ -25,7 +24,7 @@
   "cast": [],
   "total_episodes": 17,
   "status": "ongoing",
-  "last_updated": "2026-01-30T07:04:33.936959Z",
+  "last_updated": "2026-01-30T12:46:18.215587Z",
   "episodes": [
     {
       "number": 1,
