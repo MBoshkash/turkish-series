@@ -11,15 +11,16 @@
   "rating": 9.2,
   "genres": [
     "كوميدي",
+    "رومانسي",
     "دراما"
   ],
   "tags": [
-    "#Bir Baskadir",
     "#طيف إسطنبول",
-    "مدبلج",
     "رمضان",
-    "#طيف إسطنبول الموسم الاول",
-    "#Ethos"
+    "#Ethos",
+    "#Bir Baskadir",
+    "مدبلج",
+    "#طيف إسطنبول الموسم الاول"
   ],
   "quality": "720p",
   "duration": "60 دقيقة",
@@ -27,7 +28,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-01-31T01:19:42.542964Z",
+  "last_updated": "2026-01-31T06:43:03.060466Z",
   "episodes": [
     {
       "number": 1,
