@@ -10,22 +10,22 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "رومانسي",
     "كوميدي",
+    "رومانسي",
     "دراما"
   ],
   "tags": [
-    "#المؤسس اورهان مدبلج",
     "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "#المؤسس اورهان مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "152 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 9,
+  "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-01-30T18:39:29.071955Z",
+  "last_updated": "2026-01-31T01:12:25.930060Z",
   "episodes": [
     {
       "number": 1,
@@ -79,6 +79,12 @@
       "number": 9,
       "title": "الحلقة 9",
       "date_added": "الجمعة 16 يناير 2026 - 06:31 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 10,
+      "title": "الحلقة 10",
+      "date_added": "السبت 31 يناير 2026 - 12:25 صباحا",
       "servers_count": 2
     }
   ]

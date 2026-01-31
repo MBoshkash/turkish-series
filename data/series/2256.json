@@ -10,14 +10,14 @@
   "language": "العربية",
   "rating": 6.5,
   "genres": [
-    "رومانسي",
     "كوميدي",
+    "رومانسي",
     "دراما"
   ],
   "tags": [
-    "#Aziz الموسم الأول",
     "#عزيز الموسم الأول",
-    "مدبلج"
+    "مدبلج",
+    "#Aziz الموسم الأول"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 84,
   "status": "ongoing",
-  "last_updated": "2026-01-30T18:44:45.178020Z",
+  "last_updated": "2026-01-31T01:16:35.722696Z",
   "episodes": [
     {
       "number": 1,
