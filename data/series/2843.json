@@ -10,14 +10,13 @@
   "language": "العربية",
   "rating": 7.2,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "رمضان",
-    "مدبلج",
-    "#Pera Palas'ta Gece Yarisi"
+    "#Pera Palas'ta Gece Yarisi",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -25,7 +24,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-01-31T12:31:36.853709Z",
+  "last_updated": "2026-02-01T12:51:26.810932Z",
   "episodes": [
     {
       "number": 1,

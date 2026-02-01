@@ -10,11 +10,12 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
+    "رمضان",
     "#الأسيرة مدبلج",
     "#Esaret",
     "مدبلج"
@@ -23,9 +24,9 @@
   "duration": "41 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 173,
+  "total_episodes": 174,
   "status": "ongoing",
-  "last_updated": "2026-01-31T12:26:25.927630Z",
+  "last_updated": "2026-02-01T12:39:46.053474Z",
   "episodes": [
     {
       "number": 1,
@@ -1063,6 +1064,12 @@
       "number": 174,
       "title": "الحلقة 174",
       "date_added": "الجمعة 30 يناير 2026 - 01:48 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 175,
+      "title": "الحلقة 175",
+      "date_added": "الأحد 01 فبراير 2026 - 12:57 صباحا",
       "servers_count": 2
     }
   ]
