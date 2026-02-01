@@ -11,13 +11,13 @@
   "rating": 8.4,
   "genres": [
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "#Sadakatsiz",
     "#الخائن",
     "#عديم الإخلاص",
+    "#Sadakatsiz",
     "رمضان",
     "مدبلج"
   ],
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 31,
   "status": "ongoing",
-  "last_updated": "2026-02-01T12:56:04.334141Z",
+  "last_updated": "2026-02-01T18:44:09.362173Z",
   "episodes": [
     {
       "number": 1,
