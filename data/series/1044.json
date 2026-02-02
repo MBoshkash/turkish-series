@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 5.1,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
     "مدبلج",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 35,
   "status": "ongoing",
-  "last_updated": "2026-02-02T07:22:00.035678Z",
+  "last_updated": "2026-02-02T18:54:45.195792Z",
   "episodes": [
     {
       "number": 1,

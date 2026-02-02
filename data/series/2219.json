@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 8.1,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
     "#Büyük Sürgün Kafkasya",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 4,
   "status": "ongoing",
-  "last_updated": "2026-02-02T07:21:27.171864Z",
+  "last_updated": "2026-02-02T18:53:57.803281Z",
   "episodes": [
     {
       "number": 1,

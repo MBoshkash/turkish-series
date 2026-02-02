@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.8,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
-    "#The Club مدبلج",
     "#الملهى الموسم الثاني",
-    "#Kulüp مدبلج"
+    "#Kulüp مدبلج",
+    "مدبلج",
+    "#The Club مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "55 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-02-02T07:18:23.762014Z",
+  "last_updated": "2026-02-02T18:46:34.916661Z",
   "episodes": [
     {
       "number": 1,

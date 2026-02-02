@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 6.7,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "#Benim Adım Melek",
     "مدبلج",
+    "#Benim Adım Melek",
     "رمضان"
   ],
   "quality": "720p",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 38,
   "status": "ongoing",
-  "last_updated": "2026-02-02T07:22:04.466526Z",
+  "last_updated": "2026-02-02T18:54:59.429098Z",
   "episodes": [
     {
       "number": 1,
