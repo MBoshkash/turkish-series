@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.4,
   "genres": [
-    "كوميدي",
-    "دراما",
     "#كوميديا تحت الأرض",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#Bir Yeralti Sitcom'u",
     "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "#Bir Yeralti Sitcom'u"
   ],
   "quality": "WEB-DL",
   "duration": "20 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 9,
   "status": "ongoing",
-  "last_updated": "2026-02-02T01:44:11.606280Z",
+  "last_updated": "2026-02-02T07:21:51.143172Z",
   "episodes": [
     {
       "number": 1,
