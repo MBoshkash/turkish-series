@@ -1,0 +1,28 @@
+{
+  "series_id": "5179",
+  "series_title": "مثل الحلم",
+  "episode_number": 9,
+  "title": "الحلقة 9",
+  "date_added": "الثلاثاء 03 فبراير 2026 - 01:22 صباحا",
+  "last_updated": "2026-02-03T06:40:32.582322Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/93225/مثل-الحلم/الحلقة-9",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/93225/مثل-الحلم/الحلقة-9",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 6.9,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
+    "رمضان",
     "مدبلج",
-    "#Elbet Bir Gün",
     "#حتماً يوماً ما",
-    "رمضان"
+    "#Elbet Bir Gün"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-02-03T01:33:51.622157Z",
+  "last_updated": "2026-02-03T06:46:51.855403Z",
   "episodes": [
     {
       "number": 1,
