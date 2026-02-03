@@ -10,21 +10,21 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "دراما",
+    "كوميدي",
     "رومانسي",
-    "كوميدي"
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "#ورود وذنوب"
+    "#ورود وذنوب",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "50 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 27,
+  "total_episodes": 29,
   "status": "ongoing",
-  "last_updated": "2026-02-02T18:33:14.847960Z",
+  "last_updated": "2026-02-03T01:04:59.434871Z",
   "episodes": [
     {
       "number": 1,
@@ -186,6 +186,18 @@
       "number": 27,
       "title": "الحلقة 27",
       "date_added": "الأربعاء 28 يناير 2026 - 07:24 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 28,
+      "title": "الحلقة 28",
+      "date_added": "الثلاثاء 03 فبراير 2026 - 12:50 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 29,
+      "title": "الحلقة 29",
+      "date_added": "الثلاثاء 03 فبراير 2026 - 12:52 صباحا",
       "servers_count": 2
     }
   ]
