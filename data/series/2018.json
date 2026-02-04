@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 4.0,
   "genres": [
-    "كوميدي",
+    "دراما",
     "رومانسي",
-    "دراما"
+    "كوميدي"
   ],
   "tags": [
-    "#واحد منا",
     "#İçimizden Birisi الموسم الاول",
-    "رمضان"
+    "رمضان",
+    "#واحد منا"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-02-03T19:14:06.063150Z",
+  "last_updated": "2026-02-04T01:18:19.739964Z",
   "episodes": [
     {
       "number": 1,
