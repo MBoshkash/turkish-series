@@ -11,22 +11,22 @@
   "rating": 0.0,
   "genres": [
     "دراما",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "#Sahtekarlar",
+    "#المحتالون مدبلج",
     "مدبلج",
-    "رمضان",
-    "#المحتالون مدبلج"
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "23 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 75,
+  "total_episodes": 80,
   "status": "ongoing",
-  "last_updated": "2026-02-04T18:46:58.455640Z",
+  "last_updated": "2026-02-05T01:09:14.115991Z",
   "episodes": [
     {
       "number": 1,
@@ -476,6 +476,36 @@
       "number": 75,
       "title": "الحلقة 75",
       "date_added": "الأربعاء 28 يناير 2026 - 07:05 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 76,
+      "title": "الحلقة 76",
+      "date_added": "الأربعاء 04 فبراير 2026 - 08:34 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 77,
+      "title": "الحلقة 77",
+      "date_added": "الأربعاء 04 فبراير 2026 - 08:35 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 78,
+      "title": "الحلقة 78",
+      "date_added": "الأربعاء 04 فبراير 2026 - 08:37 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 79,
+      "title": "الحلقة 79",
+      "date_added": "الأربعاء 04 فبراير 2026 - 08:38 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 80,
+      "title": "الحلقة 80",
+      "date_added": "الأربعاء 04 فبراير 2026 - 08:43 مساءاً",
       "servers_count": 2
     }
   ]

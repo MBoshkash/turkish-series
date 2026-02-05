@@ -11,21 +11,21 @@
   "rating": 7.2,
   "genres": [
     "دراما",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#Uzak Şehir",
+    "رمضان",
     "مدبلج",
-    "رمضان"
+    "#Uzak Şehir"
   ],
   "quality": "WEB-DL",
   "duration": "32 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 95,
+  "total_episodes": 100,
   "status": "ongoing",
-  "last_updated": "2026-02-04T18:46:34.016297Z",
+  "last_updated": "2026-02-05T01:09:12.091526Z",
   "episodes": [
     {
       "number": 1,
@@ -595,6 +595,36 @@
       "number": 95,
       "title": "الحلقة 95",
       "date_added": "الخميس 29 يناير 2026 - 12:07 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 96,
+      "title": "الحلقة 96",
+      "date_added": "الأربعاء 04 فبراير 2026 - 08:27 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 97,
+      "title": "الحلقة 97",
+      "date_added": "الأربعاء 04 فبراير 2026 - 08:35 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 98,
+      "title": "الحلقة 98",
+      "date_added": "الأربعاء 04 فبراير 2026 - 10:27 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 99,
+      "title": "الحلقة 99",
+      "date_added": "الأربعاء 04 فبراير 2026 - 10:29 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 100,
+      "title": "الحلقة 100",
+      "date_added": "الأربعاء 04 فبراير 2026 - 10:31 مساءاً",
       "servers_count": 2
     }
   ]

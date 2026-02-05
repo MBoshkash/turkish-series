@@ -11,21 +11,21 @@
   "rating": 7.0,
   "genres": [
     "دراما",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#المؤسس اورهان مترجم",
-    "مدبلج",
-    "#Kurulus: Orhan"
+    "#Kurulus: Orhan",
+    "رمضان",
+    "#المؤسس اورهان مترجم"
   ],
   "quality": "WEB-DL",
   "duration": "152 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 12,
+  "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-02-04T18:47:22.878070Z",
+  "last_updated": "2026-02-05T01:09:15.971206Z",
   "episodes": [
     {
       "number": 1,
@@ -97,6 +97,12 @@
       "number": 12,
       "title": "الحلقة 12",
       "date_added": "الخميس 29 يناير 2026 - 01:24 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 13,
+      "title": "الحلقة 13",
+      "date_added": "الأربعاء 04 فبراير 2026 - 11:32 مساءاً",
       "servers_count": 2
     }
   ]

@@ -11,22 +11,22 @@
   "rating": 6.6,
   "genres": [
     "دراما",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
-    "رمضان",
     "#حلم أشرف الموسم الثاني مدبلج",
-    "#Eşref Rüya"
+    "مدبلج",
+    "#Eşref Rüya",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "52 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 49,
+  "total_episodes": 50,
   "status": "ongoing",
-  "last_updated": "2026-02-04T18:46:37.512715Z",
+  "last_updated": "2026-02-05T01:09:12.355900Z",
   "episodes": [
     {
       "number": 1,
@@ -314,6 +314,12 @@
       "number": 49,
       "title": "الحلقة 49",
       "date_added": "الجمعة 30 يناير 2026 - 01:43 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 50,
+      "title": "الحلقة 50",
+      "date_added": "الأربعاء 04 فبراير 2026 - 08:38 مساءاً",
       "servers_count": 2
     },
     {
