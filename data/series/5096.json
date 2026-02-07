@@ -10,11 +10,12 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
+    "رمضان",
     "#حب و دموع",
     "مدبلج",
     "#AŞK VE GÖZYAŞI"
@@ -25,7 +26,7 @@
   "cast": [],
   "total_episodes": 7,
   "status": "ongoing",
-  "last_updated": "2026-02-07T01:07:51.729258Z",
+  "last_updated": "2026-02-07T12:35:30.173419Z",
   "episodes": [
     {
       "number": 1,
