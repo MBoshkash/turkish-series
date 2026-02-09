@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
+    "كوميدي",
     "دراما",
-    "رومانسي",
-    "كوميدي"
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
     "مدبلج",
+    "#Ev yapimi",
     "#صناعة منزلية",
-    "#Ev yapimi"
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "60 دقيقة",
@@ -26,6 +26,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-02-08T14:05:15.441033Z",
+  "last_updated": "2026-02-09T01:23:32.090393Z",
   "episodes": []
 }

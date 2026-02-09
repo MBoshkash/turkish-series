@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 6.9,
   "genres": [
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
     "#اسكندر العاصف",
-    "#Tozkoparan Iskender"
+    "#Tozkoparan Iskender",
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "70 دقيقة",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 3,
   "status": "ongoing",
-  "last_updated": "2026-02-08T13:57:34.448405Z",
+  "last_updated": "2026-02-09T01:23:02.828785Z",
   "episodes": [
     {
       "number": 1,
