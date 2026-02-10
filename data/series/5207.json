@@ -11,8 +11,8 @@
   "rating": 8.0,
   "genres": [
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
     "#ورود وذنوب",
@@ -23,9 +23,9 @@
   "duration": "50 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 33,
+  "total_episodes": 35,
   "status": "ongoing",
-  "last_updated": "2026-02-09T18:54:40.312945Z",
+  "last_updated": "2026-02-10T06:53:37.416156Z",
   "episodes": [
     {
       "number": 1,
@@ -223,6 +223,18 @@
       "number": 33,
       "title": "الحلقة 33",
       "date_added": "الأربعاء 04 فبراير 2026 - 08:51 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 34,
+      "title": "الحلقة 34",
+      "date_added": "الثلاثاء 10 فبراير 2026 - 01:44 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 35,
+      "title": "الحلقة 35",
+      "date_added": "الثلاثاء 10 فبراير 2026 - 01:45 صباحا",
       "servers_count": 2
     }
   ]

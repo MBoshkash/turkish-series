@@ -1,0 +1,72 @@
+{
+  "series_id": "5079",
+  "series_title": "المدينة البعيدة الموسم الثاني",
+  "episode_number": 21,
+  "title": "الحلقة 21",
+  "date_added": "",
+  "last_updated": "2026-02-10T06:53:25.364448Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "Savefiles",
+        "type": "iframe",
+        "url": "https://savefiles.com/e/rspsyoh2hjbk",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Vidmoly",
+        "type": "iframe",
+        "url": "https://vidmoly.net/embed-xzksatds5y40.html",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      }
+    ],
+    "download": [
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/f961w5r732zn",
+        "quality": "1080p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/kopubyl0w80o/%5Barabseed%5D.Uzak.Sehir.S02E21.1080p.mp4",
+        "quality": "1080p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/2cg108upto39",
+        "quality": "720p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/xteeinccg6fk/%5Barabseed%5D.Uzak.Sehir.S02E21.720p.mp4",
+        "quality": "720p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/xxjastoqwtah",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/ohnjp25uzsl8/%5Barabseed%5D.Uzak.Sehir.S02E21.480p.mp4",
+        "quality": "480p",
+        "is_direct": true,
+        "source": "arabseed"
+      }
+    ]
+  }
+}
