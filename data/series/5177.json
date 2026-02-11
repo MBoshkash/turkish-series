@@ -16,16 +16,16 @@
   ],
   "tags": [
     "#المنظمة مدبلج",
-    "مدبلج",
-    "رمضان"
+    "رمضان",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "41 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 67,
+  "total_episodes": 69,
   "status": "ongoing",
-  "last_updated": "2026-02-10T19:00:17.660782Z",
+  "last_updated": "2026-02-11T01:15:51.455432Z",
   "episodes": [
     {
       "number": 1,
@@ -427,6 +427,18 @@
       "number": 68,
       "title": "الحلقة 68",
       "date_added": "الأربعاء 04 فبراير 2026 - 09:26 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 69,
+      "title": "الحلقة 69",
+      "date_added": "الثلاثاء 10 فبراير 2026 - 11:42 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 70,
+      "title": "الحلقة 70",
+      "date_added": "الثلاثاء 10 فبراير 2026 - 11:46 مساءاً",
       "servers_count": 2
     }
   ]
