@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 6.8,
   "genres": [
-    "كوميدي",
     "رومانسي",
+    "كوميدي",
     "دراما"
   ],
   "tags": [
-    "رمضان",
     "#Kalp Yarasi",
     "مدبلج",
-    "#جرح القلب"
+    "#جرح القلب",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 32,
   "status": "ongoing",
-  "last_updated": "2026-02-12T07:13:51.797582Z",
+  "last_updated": "2026-02-12T12:55:31.243136Z",
   "episodes": [
     {
       "number": 1,
