@@ -10,23 +10,23 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
     "#الوريث مدبلج",
     "مدبلج",
-    "رمضان",
-    "#ولي العهد"
+    "#ولي العهد",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "122 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 16,
+  "total_episodes": 17,
   "status": "ongoing",
-  "last_updated": "2026-02-12T12:50:09.503628Z",
+  "last_updated": "2026-02-12T19:07:59.321168Z",
   "episodes": [
     {
       "number": 1,
@@ -122,6 +122,12 @@
       "number": 16,
       "title": "الحلقة 16",
       "date_added": "الأحد 08 فبراير 2026 - 01:23 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 17,
+      "title": "الحلقة 17",
+      "date_added": "الخميس 12 فبراير 2026 - 04:11 مساءاً",
       "servers_count": 2
     }
   ]

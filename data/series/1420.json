@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 6.7,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
     "#Seni Çok Bekledim",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-02-12T12:57:27.616406Z",
+  "last_updated": "2026-02-12T19:15:50.735118Z",
   "episodes": [
     {
       "number": 1,

@@ -10,16 +10,16 @@
   "language": "العربية",
   "rating": 8.6,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
+    "رمضان",
     "مدبلج",
-    "#اتصل بوكيلي",
-    "#Menajerimi Ara",
     "#اتصل بمدير اعمالي",
-    "رمضان"
+    "#Menajerimi Ara",
+    "#اتصل بوكيلي"
   ],
   "quality": "WEB-DL",
   "duration": "140 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 132,
   "status": "ongoing",
-  "last_updated": "2026-02-12T12:56:57.091526Z",
+  "last_updated": "2026-02-12T19:15:11.964842Z",
   "episodes": [
     {
       "number": 1,

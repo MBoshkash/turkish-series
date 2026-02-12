@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "#Zümrüdüanka",
-    "#العنقاء",
     "#آلب نوروز",
-    "مدبلج"
+    "مدبلج",
+    "#Zümrüdüanka",
+    "#العنقاء"
   ],
   "quality": "WEB-DL",
   "duration": "",
@@ -26,6 +26,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-02-12T12:59:03.611270Z",
+  "last_updated": "2026-02-12T19:19:31.607190Z",
   "episodes": []
 }

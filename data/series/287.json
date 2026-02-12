@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.1,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "#Dayan Yuregim",
     "مدبلج",
-    "رمضان",
-    "#تحمل ياقلبي"
+    "#Dayan Yuregim",
+    "#تحمل ياقلبي",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "",
@@ -26,6 +26,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-02-12T12:58:58.645220Z",
+  "last_updated": "2026-02-12T19:19:23.828123Z",
   "episodes": []
 }

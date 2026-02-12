@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 4.0,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
+    "مدبلج",
     "#اضحكوا عاليا",
-    "#Sesli Guldum الموسم الاول",
-    "مدبلج"
+    "#Sesli Guldum الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "22 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 20,
   "status": "ongoing",
-  "last_updated": "2026-02-12T12:55:24.134115Z",
+  "last_updated": "2026-02-12T19:13:21.561603Z",
   "episodes": [
     {
       "number": 1,

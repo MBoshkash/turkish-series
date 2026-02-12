@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 4.9,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
     "#هذه هي قصتي",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-02-12T12:56:35.058379Z",
+  "last_updated": "2026-02-12T19:14:52.226164Z",
   "episodes": [
     {
       "number": 1,
