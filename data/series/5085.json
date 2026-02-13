@@ -10,22 +10,22 @@
   "language": "العربية",
   "rating": 7.2,
   "genres": [
-    "كوميدي",
+    "رومانسي",
     "دراما",
-    "رومانسي"
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
+    "رمضان",
     "#Uzak Şehir",
-    "رمضان"
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "32 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 103,
+  "total_episodes": 105,
   "status": "ongoing",
-  "last_updated": "2026-02-12T19:07:55.165465Z",
+  "last_updated": "2026-02-13T01:19:49.658846Z",
   "episodes": [
     {
       "number": 1,
@@ -643,6 +643,18 @@
       "number": 103,
       "title": "الحلقة 103",
       "date_added": "الخميس 12 فبراير 2026 - 12:53 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 104,
+      "title": "الحلقة 104",
+      "date_added": "الخميس 12 فبراير 2026 - 10:28 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 105,
+      "title": "الحلقة 105",
+      "date_added": "الخميس 12 فبراير 2026 - 10:29 مساءاً",
       "servers_count": 2
     }
   ]

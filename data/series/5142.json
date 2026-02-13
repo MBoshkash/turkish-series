@@ -10,23 +10,23 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "كوميدي",
+    "رومانسي",
     "دراما",
-    "رومانسي"
+    "كوميدي"
   ],
   "tags": [
     "#Can Bagi",
-    "#خيوط الحياة مدبلج",
     "رمضان",
+    "#خيوط الحياة مدبلج",
     "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "57 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 75,
+  "total_episodes": 80,
   "status": "ongoing",
-  "last_updated": "2026-02-12T19:07:54.065188Z",
+  "last_updated": "2026-02-13T01:19:48.840330Z",
   "episodes": [
     {
       "number": 1,
@@ -476,6 +476,36 @@
       "number": 75,
       "title": "الحلقة 75",
       "date_added": "السبت 07 فبراير 2026 - 01:06 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 76,
+      "title": "الحلقة 76",
+      "date_added": "الخميس 12 فبراير 2026 - 10:36 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 77,
+      "title": "الحلقة 77",
+      "date_added": "الخميس 12 فبراير 2026 - 10:37 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 78,
+      "title": "الحلقة 78",
+      "date_added": "الخميس 12 فبراير 2026 - 10:44 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 79,
+      "title": "الحلقة 79",
+      "date_added": "الخميس 12 فبراير 2026 - 10:51 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 80,
+      "title": "الحلقة 80",
+      "date_added": "الخميس 12 فبراير 2026 - 11:05 مساءاً",
       "servers_count": 2
     }
   ]
