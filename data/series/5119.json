@@ -10,23 +10,23 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "#الأسيرة مدبلج",
-    "مدبلج",
     "#Esaret",
-    "رمضان"
+    "مدبلج",
+    "رمضان",
+    "#الأسيرة مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "41 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 179,
+  "total_episodes": 180,
   "status": "ongoing",
-  "last_updated": "2026-02-14T12:32:13.431258Z",
+  "last_updated": "2026-02-15T12:38:57.711270Z",
   "episodes": [
     {
       "number": 1,
@@ -1100,6 +1100,12 @@
       "number": 180,
       "title": "الحلقة 180",
       "date_added": "الخميس 12 فبراير 2026 - 11:22 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 181,
+      "title": "الحلقة 181",
+      "date_added": "السبت 14 فبراير 2026 - 10:08 مساءاً",
       "servers_count": 2
     }
   ]

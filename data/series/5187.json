@@ -10,21 +10,22 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "كوميدي",
-    "دراما"
+    "رومانسي",
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
+    "#kizil goncala",
     "رمضان",
-    "مدبلج",
-    "#kizil goncala"
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "48 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 47,
+  "total_episodes": 50,
   "status": "ongoing",
-  "last_updated": "2026-02-14T12:32:01.912991Z",
+  "last_updated": "2026-02-15T12:38:29.336202Z",
   "episodes": [
     {
       "number": 1,
@@ -306,6 +307,24 @@
       "number": 47,
       "title": "الحلقة 47",
       "date_added": "السبت 07 فبراير 2026 - 10:54 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 48,
+      "title": "الحلقة 48",
+      "date_added": "السبت 14 فبراير 2026 - 10:54 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 49,
+      "title": "الحلقة 49",
+      "date_added": "السبت 14 فبراير 2026 - 10:56 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 50,
+      "title": "الحلقة 50",
+      "date_added": "السبت 14 فبراير 2026 - 10:58 مساءاً",
       "servers_count": 2
     }
   ]
