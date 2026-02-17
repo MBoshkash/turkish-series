@@ -11,13 +11,13 @@
   "rating": 5.0,
   "genres": [
     "كوميدي",
-    "دراما",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
     "#صناعة منزلية",
-    "#Ev yapimi",
-    "مدبلج"
+    "مدبلج",
+    "#Ev yapimi"
   ],
   "quality": "720p",
   "duration": "60 دقيقة",
@@ -25,6 +25,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-02-17T07:33:53.425233Z",
+  "last_updated": "2026-02-17T19:03:28.791081Z",
   "episodes": []
 }

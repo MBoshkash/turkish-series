@@ -15,18 +15,18 @@
     "رومانسي"
   ],
   "tags": [
-    "#Uzak.Sehir.",
+    "رمضان",
     "#المدينة البعيدة الموسم الثاني",
-    "مدبلج",
-    "رمضان"
+    "#Uzak.Sehir.",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "141 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 21,
+  "total_episodes": 22,
   "status": "ongoing",
-  "last_updated": "2026-02-17T06:45:47.289245Z",
+  "last_updated": "2026-02-17T18:42:32.288139Z",
   "episodes": [
     {
       "number": 1,
@@ -153,6 +153,12 @@
       "title": "الحلقة 21",
       "date_added": "",
       "servers_count": 8
+    },
+    {
+      "number": 22,
+      "title": "الحلقة 22",
+      "date_added": "الثلاثاء 17 فبراير 2026 - 09:10 صباحا",
+      "servers_count": 2
     }
   ]
 }
