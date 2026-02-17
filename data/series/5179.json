@@ -15,17 +15,18 @@
     "رومانسي"
   ],
   "tags": [
-    "#مثل الحلم",
     "#Rüya Gibi",
-    "مدبلج"
+    "#مثل الحلم",
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "131 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 9,
+  "total_episodes": 11,
   "status": "ongoing",
-  "last_updated": "2026-02-16T18:42:09.838357Z",
+  "last_updated": "2026-02-17T06:53:30.492277Z",
   "episodes": [
     {
       "number": 1,
@@ -79,6 +80,18 @@
       "number": 9,
       "title": "الحلقة 9",
       "date_added": "الثلاثاء 03 فبراير 2026 - 01:22 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 10,
+      "title": "الحلقة 10",
+      "date_added": "الإثنين 16 فبراير 2026 - 10:08 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 11,
+      "title": "الحلقة 11",
+      "date_added": "الإثنين 16 فبراير 2026 - 10:10 مساءاً",
       "servers_count": 2
     }
   ]

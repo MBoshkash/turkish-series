@@ -16,16 +16,16 @@
   ],
   "tags": [
     "#المؤسس اورهان مدبلج",
-    "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "152 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 10,
+  "total_episodes": 12,
   "status": "ongoing",
-  "last_updated": "2026-02-16T18:42:39.437469Z",
+  "last_updated": "2026-02-17T06:53:45.732930Z",
   "episodes": [
     {
       "number": 1,
@@ -85,6 +85,18 @@
       "number": 10,
       "title": "الحلقة 10",
       "date_added": "السبت 31 يناير 2026 - 12:25 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 11,
+      "title": "الحلقة 11",
+      "date_added": "الثلاثاء 17 فبراير 2026 - 01:58 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 12,
+      "title": "الحلقة 12",
+      "date_added": "الثلاثاء 17 فبراير 2026 - 02:26 صباحا",
       "servers_count": 2
     }
   ]

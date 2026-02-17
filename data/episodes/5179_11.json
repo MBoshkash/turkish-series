@@ -1,0 +1,28 @@
+{
+  "series_id": "5179",
+  "series_title": "مثل الحلم",
+  "episode_number": 11,
+  "title": "الحلقة 11",
+  "date_added": "الإثنين 16 فبراير 2026 - 10:10 مساءاً",
+  "last_updated": "2026-02-17T06:53:30.492250Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/93755/مثل-الحلم/الحلقة-11",
+        "quality": "720p",
+        "source": "akwam"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/93755/مثل-الحلم/الحلقة-11",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}
