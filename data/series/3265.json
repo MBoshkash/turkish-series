@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 6.8,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "رمضان",
-    "#Ah Nerede الموسم الاول",
     "#اه اين الموسم الاول",
-    "مدبلج"
+    "مدبلج",
+    "#Ah Nerede الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "110 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 7,
   "status": "ongoing",
-  "last_updated": "2026-02-17T18:57:48.345735Z",
+  "last_updated": "2026-02-18T01:15:58.841901Z",
   "episodes": [
     {
       "number": 1,
