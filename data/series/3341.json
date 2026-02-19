@@ -10,13 +10,14 @@
   "language": "التركية",
   "rating": 6.3,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#Another Self الموسم الاول",
     "#ذات اخرى",
+    "#Another Self الموسم الاول",
+    "رمضان",
     "#Another Self",
     "مدبلج"
   ],
@@ -26,7 +27,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-02-18T01:16:02.503262Z",
+  "last_updated": "2026-02-19T12:35:38.220670Z",
   "episodes": [
     {
       "number": 1,

@@ -10,13 +10,14 @@
   "language": "التركية",
   "rating": 7.1,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#Kagit Ev",
-    "مدبلج"
+    "رمضان",
+    "مدبلج",
+    "#Kagit Ev"
   ],
   "quality": "720p",
   "duration": "122 دقيقة",
@@ -24,7 +25,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-02-18T01:18:56.211830Z",
+  "last_updated": "2026-02-19T12:39:45.986135Z",
   "episodes": [
     {
       "number": 1,

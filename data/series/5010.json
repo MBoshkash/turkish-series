@@ -10,12 +10,11 @@
   "language": "العربية",
   "rating": 6.7,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
     "مدبلج",
     "#Çift Kişilik Oda",
     "#فندق الاحلام مدبلج"
@@ -26,7 +25,7 @@
   "cast": [],
   "total_episodes": 40,
   "status": "ongoing",
-  "last_updated": "2026-02-18T01:12:56.749924Z",
+  "last_updated": "2026-02-19T12:33:14.683537Z",
   "episodes": [
     {
       "number": 1,

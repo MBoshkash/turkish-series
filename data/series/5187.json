@@ -10,14 +10,14 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "رمضان",
-    "#kizil goncala",
-    "مدبلج"
+    "مدبلج",
+    "#kizil goncala"
   ],
   "quality": "WEB-DL",
   "duration": "48 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 50,
   "status": "ongoing",
-  "last_updated": "2026-02-18T01:12:17.967879Z",
+  "last_updated": "2026-02-19T12:32:48.779873Z",
   "episodes": [
     {
       "number": 1,

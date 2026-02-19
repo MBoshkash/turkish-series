@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 6.6,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "رمضان",
-    "#مسلسل مسألة شرف",
     "#Seref Meselesi ​",
-    "مدبلج"
+    "مدبلج",
+    "#مسلسل مسألة شرف"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 76,
   "status": "ongoing",
-  "last_updated": "2026-02-18T01:18:22.653773Z",
+  "last_updated": "2026-02-19T12:39:11.168418Z",
   "episodes": [
     {
       "number": 1,

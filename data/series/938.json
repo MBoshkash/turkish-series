@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 8.5,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "رمضان",
-    "#Masum الموسم الأول",
     "مدبلج",
+    "#Masum الموسم الأول",
     "#مصعوم"
   ],
   "quality": "WEB-DL",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-02-18T01:19:59.275038Z",
+  "last_updated": "2026-02-19T12:45:19.634112Z",
   "episodes": [
     {
       "number": 1,
