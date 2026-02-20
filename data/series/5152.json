@@ -11,22 +11,22 @@
   "rating": 0.0,
   "genres": [
     "دراما",
-    "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
+    "#Sahtekarlar",
     "رمضان",
     "#المحتالون مدبلج",
-    "#Sahtekarlar",
     "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "23 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 87,
+  "total_episodes": 90,
   "status": "ongoing",
-  "last_updated": "2026-02-19T12:32:57.802972Z",
+  "last_updated": "2026-02-20T01:11:15.848602Z",
   "episodes": [
     {
       "number": 1,
@@ -548,6 +548,24 @@
       "number": 87,
       "title": "الحلقة 87",
       "date_added": "الأربعاء 18 فبراير 2026 - 02:00 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 88,
+      "title": "الحلقة 88",
+      "date_added": "الخميس 19 فبراير 2026 - 03:08 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 89,
+      "title": "الحلقة 89",
+      "date_added": "الخميس 19 فبراير 2026 - 03:09 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 90,
+      "title": "الحلقة 90",
+      "date_added": "الخميس 19 فبراير 2026 - 03:14 مساءاً",
       "servers_count": 2
     }
   ]

@@ -11,14 +11,14 @@
   "rating": 5.0,
   "genres": [
     "دراما",
-    "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "رمضان",
+    "#العاجزون عن التشبث",
     "مدبلج",
-    "#Tutunamayanlar",
-    "#العاجزون عن التشبث"
+    "رمضان",
+    "#Tutunamayanlar"
   ],
   "quality": "720p",
   "duration": "70 دقيقة",
@@ -26,6 +26,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-02-19T12:45:44.326799Z",
+  "last_updated": "2026-02-20T01:22:29.505630Z",
   "episodes": []
 }
