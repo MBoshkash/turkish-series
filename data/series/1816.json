@@ -10,9 +10,9 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
     "#حكاية جزيرة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 74,
   "status": "ongoing",
-  "last_updated": "2026-02-22T07:02:53.097099Z",
+  "last_updated": "2026-02-22T12:35:08.433734Z",
   "episodes": [
     {
       "number": 1,
