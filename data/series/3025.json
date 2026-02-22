@@ -10,9 +10,9 @@
   "language": "العربية",
   "rating": 7.5,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
     "#Kayip Sehir",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 26,
   "status": "ongoing",
-  "last_updated": "2026-02-22T12:34:36.303873Z",
+  "last_updated": "2026-02-22T18:36:17.964479Z",
   "episodes": [
     {
       "number": 1,

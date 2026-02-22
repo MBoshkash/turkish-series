@@ -10,18 +10,18 @@
   "language": "التركية",
   "rating": 8.4,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
     "مدبلج",
-    "#الشاحنة الحمراء",
-    "#Kirmizi Kamyon",
     "#رجال الاطفاء",
-    "#Kahraman Babam",
+    "#سيارة الاطفاء",
     "#والدي البطل",
-    "#سيارة الاطفاء"
+    "#الشاحنة الحمراء",
+    "#Kahraman Babam",
+    "#Kirmizi Kamyon"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -29,7 +29,7 @@
   "cast": [],
   "total_episodes": 7,
   "status": "ongoing",
-  "last_updated": "2026-02-22T12:35:38.937620Z",
+  "last_updated": "2026-02-22T18:38:47.444858Z",
   "episodes": [
     {
       "number": 1,

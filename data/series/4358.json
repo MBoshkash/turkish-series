@@ -10,16 +10,16 @@
   "language": "التركية",
   "rating": 7.5,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "#أساطير التاريخ",
-    "رمضان",
     "مدبلج",
     "#Tarihin Efsaneleri",
-    "#The Legends of History"
+    "رمضان",
+    "#The Legends of History",
+    "#أساطير التاريخ"
   ],
   "quality": "WEB-DL",
   "duration": "46 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 16,
   "status": "ongoing",
-  "last_updated": "2026-02-22T12:32:51.584877Z",
+  "last_updated": "2026-02-22T18:32:39.529345Z",
   "episodes": [
     {
       "number": 1,
