@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 8.3,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "رمضان",
-    "#Bambaşka Biri الموسم الاول",
     "مدبلج",
-    "#مسلسل شخص آخر"
+    "#مسلسل شخص آخر",
+    "#Bambaşka Biri الموسم الاول",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "130 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 15,
   "status": "ongoing",
-  "last_updated": "2026-02-23T13:03:07.291917Z",
+  "last_updated": "2026-02-23T19:05:13.424841Z",
   "episodes": [
     {
       "number": 1,

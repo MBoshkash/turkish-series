@@ -10,16 +10,16 @@
   "language": "التركية",
   "rating": 7.1,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "#Annemizi Saklarken",
-    "مدبلج",
-    "#عندما تختبئ امنا",
     "#مسلسل عندما أخفتنا أمنا",
-    "رمضان"
+    "رمضان",
+    "مدبلج",
+    "#Annemizi Saklarken",
+    "#عندما تختبئ امنا"
   ],
   "quality": "720p",
   "duration": "130 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-02-23T13:54:08.928585Z",
+  "last_updated": "2026-02-23T19:20:43.434374Z",
   "episodes": [
     {
       "number": 1,

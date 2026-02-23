@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 7.5,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "#Rüzgarli Tepe الموسم الاول",
-    "مدبلج"
+    "مدبلج",
+    "#Rüzgarli Tepe الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 3,
   "status": "ongoing",
-  "last_updated": "2026-02-23T13:02:48.720011Z",
+  "last_updated": "2026-02-23T19:05:06.266163Z",
   "episodes": [
     {
       "number": 1,

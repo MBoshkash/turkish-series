@@ -10,16 +10,16 @@
   "language": "التركية",
   "rating": 9.2,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
     "#Bir Baskadir الموسم الاول",
     "#طيف إسطنبول الموسم الاول",
     "#Bir Baskadir",
-    "رمضان"
+    "رمضان",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "60 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-02-23T14:25:22.698842Z",
+  "last_updated": "2026-02-23T19:34:05.194597Z",
   "episodes": [
     {
       "number": 1,

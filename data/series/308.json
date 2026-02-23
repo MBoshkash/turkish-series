@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 4.1,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
     "#الحياة جميلة أحيانا",
-    "رمضان",
     "مدبلج",
-    "#Hayat Bazen Tatlidir"
+    "#Hayat Bazen Tatlidir",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "",
@@ -26,6 +26,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-02-23T14:36:10.798114Z",
+  "last_updated": "2026-02-23T19:36:23.155324Z",
   "episodes": []
 }
