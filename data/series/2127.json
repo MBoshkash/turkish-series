@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 2.1,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
     "#الحقي يا زينب",
-    "رمضان",
-    "#Yetis Zeynep"
+    "#Yetis Zeynep",
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "30 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 20,
   "status": "ongoing",
-  "last_updated": "2026-02-23T19:24:59.735837Z",
+  "last_updated": "2026-02-24T01:25:20.659406Z",
   "episodes": [
     {
       "number": 1,

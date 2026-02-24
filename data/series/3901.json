@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 6.9,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "#Çalinmis Hayatlar",
     "#أرواح مسروقة",
-    "رمضان"
+    "#Çalinmis Hayatlar",
+    "رمضان",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "56 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 3,
   "status": "ongoing",
-  "last_updated": "2026-02-23T19:10:55.121768Z",
+  "last_updated": "2026-02-24T01:20:11.599573Z",
   "episodes": [
     {
       "number": 1,

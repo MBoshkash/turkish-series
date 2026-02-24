@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 8.7,
   "genres": [
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "رمضان",
+    "# مصطفى كمال أتاتورك",
+    "#Ya Istiklal Ya Ölüm",
     "#إما الاستقلال وإما الموت",
     "مدبلج",
-    "# مصطفى كمال أتاتورك",
-    "#Ya Istiklal Ya Ölüm"
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "140 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-02-23T19:24:22.960302Z",
+  "last_updated": "2026-02-24T01:24:56.410174Z",
   "episodes": [
     {
       "number": 1,

@@ -10,14 +10,14 @@
   "language": "العربية",
   "rating": 5.0,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
     "مدبلج",
-    "#Ask ve Günah",
-    "#الحب والخطيئة"
+    "#الحب والخطيئة",
+    "#Ask ve Günah"
   ],
   "quality": "WEB-DL",
   "duration": "50 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 120,
   "status": "ongoing",
-  "last_updated": "2026-02-23T19:36:02.204495Z",
+  "last_updated": "2026-02-24T01:28:39.164048Z",
   "episodes": [
     {
       "number": 1,

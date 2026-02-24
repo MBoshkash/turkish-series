@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 6.5,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
     "#Şahane Hayatım الموسم الاول",
+    "مدبلج",
     "رمضان"
   ],
   "quality": "WEB-DL",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 11,
   "status": "ongoing",
-  "last_updated": "2026-02-23T19:05:07.989547Z",
+  "last_updated": "2026-02-24T01:16:32.624796Z",
   "episodes": [
     {
       "number": 1,

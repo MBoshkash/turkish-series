@@ -10,13 +10,13 @@
   "language": "العربية",
   "rating": 7.2,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
     "#Uzak Şehir",
+    "مدبلج",
     "رمضان"
   ],
   "quality": "WEB-DL",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 105,
   "status": "ongoing",
-  "last_updated": "2026-02-23T19:01:55.131454Z",
+  "last_updated": "2026-02-24T01:13:49.756105Z",
   "episodes": [
     {
       "number": 1,

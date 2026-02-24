@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 6.0,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#مثل الحلم",
     "رمضان",
     "مدبلج",
+    "#مثل الحلم",
     "#Rüya Gibi"
   ],
   "quality": "WEB-DL",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 11,
   "status": "ongoing",
-  "last_updated": "2026-02-23T19:01:59.773718Z",
+  "last_updated": "2026-02-24T01:13:53.950658Z",
   "episodes": [
     {
       "number": 1,
