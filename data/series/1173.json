@@ -11,12 +11,13 @@
   "rating": 9.2,
   "genres": [
     "دراما",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#Bir Baskadir الموسم الاول",
     "#Bir Baskadir",
+    "#Bir Baskadir الموسم الاول",
+    "مدبلج",
     "رمضان",
     "#طيف إسطنبول الموسم الاول"
   ],
@@ -26,7 +27,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-02-26T09:23:55.854689Z",
+  "last_updated": "2026-02-26T14:04:26.545559Z",
   "episodes": [
     {
       "number": 1,
