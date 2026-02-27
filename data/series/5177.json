@@ -10,22 +10,21 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "دراما",
+    "رومانسي",
     "كوميدي",
-    "رومانسي"
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "رمضان",
-    "#المنظمة مدبلج"
+    "#المنظمة مدبلج",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "41 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 70,
+  "total_episodes": 82,
   "status": "ongoing",
-  "last_updated": "2026-02-26T12:43:56.965185Z",
+  "last_updated": "2026-02-27T12:32:38.456254Z",
   "episodes": [
     {
       "number": 1,
@@ -445,6 +444,78 @@
       "number": 70,
       "title": "الحلقة 70",
       "date_added": "الثلاثاء 10 فبراير 2026 - 11:46 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 71,
+      "title": "الحلقة 71",
+      "date_added": "الخميس 26 فبراير 2026 - 07:19 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 72,
+      "title": "الحلقة 72",
+      "date_added": "الخميس 26 فبراير 2026 - 07:19 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 73,
+      "title": "الحلقة 73",
+      "date_added": "الخميس 26 فبراير 2026 - 07:19 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 74,
+      "title": "الحلقة 74",
+      "date_added": "الخميس 26 فبراير 2026 - 07:20 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 75,
+      "title": "الحلقة 75",
+      "date_added": "الخميس 26 فبراير 2026 - 07:20 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 76,
+      "title": "الحلقة 76",
+      "date_added": "الخميس 26 فبراير 2026 - 07:20 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 77,
+      "title": "الحلقة 77",
+      "date_added": "الخميس 26 فبراير 2026 - 07:20 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 78,
+      "title": "الحلقة 78",
+      "date_added": "الخميس 26 فبراير 2026 - 07:20 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 79,
+      "title": "الحلقة 79",
+      "date_added": "الخميس 26 فبراير 2026 - 07:20 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 80,
+      "title": "الحلقة 80",
+      "date_added": "الخميس 26 فبراير 2026 - 07:20 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 81,
+      "title": "الحلقة 81",
+      "date_added": "الخميس 26 فبراير 2026 - 07:20 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 82,
+      "title": "الحلقة 82",
+      "date_added": "الخميس 26 فبراير 2026 - 07:29 مساءاً",
       "servers_count": 2
     }
   ]
