@@ -10,14 +10,14 @@
   "language": "الإنجليزية",
   "rating": 6.2,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
+    "#Creature الموسم الاول",
     "مدبلج",
-    "#Creature الموسم الاول"
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-02-28T01:08:55.062955Z",
+  "last_updated": "2026-02-28T06:35:52.590094Z",
   "episodes": [
     {
       "number": 1,
