@@ -11,21 +11,21 @@
   "rating": 7.0,
   "genres": [
     "رومانسي",
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#المنظمة مدبلج",
     "مدبلج",
+    "#المنظمة مدبلج",
     "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "41 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 83,
+  "total_episodes": 84,
   "status": "ongoing",
-  "last_updated": "2026-02-28T12:24:59.532047Z",
+  "last_updated": "2026-02-28T18:23:19.366074Z",
   "episodes": [
     {
       "number": 1,
@@ -523,6 +523,12 @@
       "number": 83,
       "title": "الحلقة 83",
       "date_added": "الجمعة 27 فبراير 2026 - 07:37 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 84,
+      "title": "الحلقة 84",
+      "date_added": "السبت 28 فبراير 2026 - 07:09 مساءاً",
       "servers_count": 2
     }
   ]

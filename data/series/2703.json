@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 8.9,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
+    "#Yalniz Kurt الموسم الأول",
     "مدبلج",
-    "رمضان",
     "#الذئب الوحيد",
-    "#Yalniz Kurt الموسم الأول"
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "130 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 20,
   "status": "ongoing",
-  "last_updated": "2026-02-28T12:40:32.368483Z",
+  "last_updated": "2026-02-28T18:25:01.896107Z",
   "episodes": [
     {
       "number": 1,

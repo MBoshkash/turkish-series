@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 5.5,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#Bir Zamanlar Cukurova",
     "مدبلج",
+    "#Bir Zamanlar Cukurova",
     "#كان يا ما كان في شوكوروفا"
   ],
   "quality": "720p",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 39,
   "status": "ongoing",
-  "last_updated": "2026-02-28T12:40:21.937697Z",
+  "last_updated": "2026-02-28T18:24:59.734302Z",
   "episodes": [
     {
       "number": 1,

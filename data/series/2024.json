@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 8.0,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "#Emanet الموسم الثاني",
     "#الامانة الموسم الثاني",
-    "رمضان",
-    "#Emanet"
+    "#Emanet",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "60 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 210,
   "status": "ongoing",
-  "last_updated": "2026-02-28T12:40:13.186908Z",
+  "last_updated": "2026-02-28T18:24:57.290625Z",
   "episodes": [
     {
       "number": 1,

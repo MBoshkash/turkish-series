@@ -11,22 +11,22 @@
   "rating": 8.0,
   "genres": [
     "رومانسي",
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "مدبلج",
+    "#Sahtekarlar",
     "#المحتالون مترجم",
-    "رمضان",
-    "#Sahtekarlar"
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "119 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 18,
+  "total_episodes": 19,
   "status": "ongoing",
-  "last_updated": "2026-02-28T12:27:17.527943Z",
+  "last_updated": "2026-02-28T18:23:38.181193Z",
   "episodes": [
     {
       "number": 1,
@@ -135,6 +135,12 @@
       "title": "الحلقة 18",
       "date_added": "الإثنين 16 فبراير 2026 - 10:10 مساءاً",
       "servers_count": 2
+    },
+    {
+      "number": 19,
+      "title": "الحلقة 19",
+      "date_added": "",
+      "servers_count": 6
     }
   ]
 }

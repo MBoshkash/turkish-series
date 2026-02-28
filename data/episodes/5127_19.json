@@ -1,0 +1,58 @@
+{
+  "series_id": "5127",
+  "series_title": "المحتالون مترجم",
+  "episode_number": 19,
+  "title": "الحلقة 19",
+  "date_added": "",
+  "last_updated": "2026-02-28T18:23:36.775320Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "Savefiles",
+        "type": "iframe",
+        "url": "https://savefiles.com/e/vjyu3hohi5zl",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Vidara",
+        "type": "iframe",
+        "url": "https://vidara.to/e/CvYpi35SmdV4f",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      }
+    ],
+    "download": [
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/ci398eicmptd",
+        "quality": "720p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/2fc6e9gxojmw/%5Barabseed%5D.Sahtekarlar.S01E19.720p.mp4",
+        "quality": "720p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/5zdrfmgjqq8d",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/mze0f6ohypyu/%5Barabseed%5D.Sahtekarlar.S01E19.480p.mp4",
+        "quality": "480p",
+        "is_direct": true,
+        "source": "arabseed"
+      }
+    ]
+  }
+}

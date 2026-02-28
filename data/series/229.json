@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "مدبلج",
+    "#Hizmetçiler",
     "رمضان",
     "#العمل في المنازل",
-    "#Hizmetçiler",
     "#الخادمات"
   ],
   "quality": "720p",
@@ -27,6 +27,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-02-28T12:46:25.802129Z",
+  "last_updated": "2026-02-28T18:26:27.164519Z",
   "episodes": []
 }

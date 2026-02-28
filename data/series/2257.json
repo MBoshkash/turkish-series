@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 6.9,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#حتماً يوماً ما",
     "مدبلج",
+    "#حتماً يوماً ما",
     "#Elbet Bir Gün"
   ],
   "quality": "720p",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-02-28T12:42:23.202325Z",
+  "last_updated": "2026-02-28T18:25:39.572083Z",
   "episodes": [
     {
       "number": 1,
