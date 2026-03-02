@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "رمضان",
-    "#حكاية جزيرة",
     "مدبلج",
-    "#Ada Masali"
+    "#Ada Masali",
+    "رمضان",
+    "#حكاية جزيرة"
   ],
   "quality": "WEB-DL",
   "duration": "44 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 74,
   "status": "ongoing",
-  "last_updated": "2026-03-02T03:48:56.658198Z",
+  "last_updated": "2026-03-02T06:59:17.506587Z",
   "episodes": [
     {
       "number": 1,

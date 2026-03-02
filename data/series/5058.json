@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 8.2,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#Gözleri Karadeniz",
-    "#عيناك كالبحر الأسود مترجم",
+    "مدبلج",
     "رمضان",
-    "مدبلج"
+    "#Gözleri Karadeniz",
+    "#عيناك كالبحر الأسود مترجم"
   ],
   "quality": "WEB-DL",
   "duration": "125 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 16,
   "status": "ongoing",
-  "last_updated": "2026-03-02T01:22:08.938298Z",
+  "last_updated": "2026-03-02T06:55:41.714819Z",
   "episodes": [
     {
       "number": 1,

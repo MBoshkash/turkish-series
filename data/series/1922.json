@@ -10,11 +10,12 @@
   "language": "التركية",
   "rating": 5.2,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
+    "مدبلج",
     "#Seref Bey",
     "رمضان",
     "#السيد شريف"
@@ -25,7 +26,7 @@
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-03-02T04:09:47.683808Z",
+  "last_updated": "2026-03-02T06:59:46.445128Z",
   "episodes": [
     {
       "number": 1,

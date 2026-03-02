@@ -10,9 +10,9 @@
   "language": "",
   "rating": 6.6,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "#المشتبة بهم المعتادون",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 7,
   "status": "ongoing",
-  "last_updated": "2026-03-02T04:09:20.032547Z",
+  "last_updated": "2026-03-02T06:59:45.813002Z",
   "episodes": [
     {
       "number": 1,
