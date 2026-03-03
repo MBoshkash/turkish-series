@@ -15,17 +15,17 @@
     "رومانسي"
   ],
   "tags": [
-    "رمضان",
+    "#المنظمة مدبلج",
     "مدبلج",
-    "#المنظمة مدبلج"
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "41 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 85,
+  "total_episodes": 86,
   "status": "ongoing",
-  "last_updated": "2026-03-02T12:37:42.035325Z",
+  "last_updated": "2026-03-03T01:07:28.501592Z",
   "episodes": [
     {
       "number": 1,
@@ -535,6 +535,12 @@
       "number": 85,
       "title": "الحلقة 85",
       "date_added": "الأحد 01 مارس 2026 - 05:38 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 86,
+      "title": "الحلقة 86",
+      "date_added": "الإثنين 02 مارس 2026 - 05:32 مساءاً",
       "servers_count": 2
     }
   ]
