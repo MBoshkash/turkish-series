@@ -10,8 +10,8 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "دراما",
     "كوميدي",
+    "دراما",
     "رومانسي"
   ],
   "tags": [
@@ -23,9 +23,9 @@
   "duration": "41 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 87,
+  "total_episodes": 88,
   "status": "ongoing",
-  "last_updated": "2026-03-04T06:42:06.317856Z",
+  "last_updated": "2026-03-05T01:03:48.333199Z",
   "episodes": [
     {
       "number": 1,
@@ -547,6 +547,12 @@
       "number": 87,
       "title": "الحلقة 87",
       "date_added": "الثلاثاء 03 مارس 2026 - 09:18 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 88,
+      "title": "الحلقة 88",
+      "date_added": "الخميس 05 مارس 2026 - 12:10 صباحا",
       "servers_count": 2
     }
   ]
