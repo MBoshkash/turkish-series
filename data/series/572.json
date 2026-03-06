@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.2,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#Bay Yanlis",
-    "#الرجل الخطأ",
     "مدبلج",
-    "رمضان"
+    "#الرجل الخطأ",
+    "رمضان",
+    "#Bay Yanlis"
   ],
   "quality": "WEB-DL",
   "duration": "120 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 39,
   "status": "ongoing",
-  "last_updated": "2026-03-06T01:40:01.869069Z",
+  "last_updated": "2026-03-06T07:24:02.385708Z",
   "episodes": [
     {
       "number": 2,

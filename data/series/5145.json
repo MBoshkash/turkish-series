@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 8.0,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#Bereketli Topraklar",
-    "#الأراضي المباركة مترجم",
     "مدبلج",
-    "رمضان"
+    "رمضان",
+    "#الأراضي المباركة مترجم",
+    "#Bereketli Topraklar"
   ],
   "quality": "WEB-DL",
   "duration": "130 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 5,
   "status": "ongoing",
-  "last_updated": "2026-03-06T01:15:27.313563Z",
+  "last_updated": "2026-03-06T06:46:08.320492Z",
   "episodes": [
     {
       "number": 1,
