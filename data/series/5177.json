@@ -15,17 +15,17 @@
     "رومانسي"
   ],
   "tags": [
-    "مدبلج",
     "#المنظمة مدبلج",
-    "رمضان"
+    "رمضان",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "41 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 88,
+  "total_episodes": 89,
   "status": "ongoing",
-  "last_updated": "2026-03-06T06:37:47.414150Z",
+  "last_updated": "2026-03-06T18:38:25.649211Z",
   "episodes": [
     {
       "number": 1,
@@ -553,6 +553,12 @@
       "number": 88,
       "title": "الحلقة 88",
       "date_added": "الخميس 05 مارس 2026 - 12:10 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 89,
+      "title": "الحلقة 89",
+      "date_added": "الجمعة 06 مارس 2026 - 07:25 مساءاً",
       "servers_count": 2
     }
   ]
