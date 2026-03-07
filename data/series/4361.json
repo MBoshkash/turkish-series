@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 6.0,
   "genres": [
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
     "#الخياط",
     "#The Tailor الموسم الثاني",
-    "مدبلج",
     "#Terzi",
     "رمضان"
   ],
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-03-06T18:52:41.360639Z",
+  "last_updated": "2026-03-07T01:24:06.182439Z",
   "episodes": [
     {
       "number": 1,
