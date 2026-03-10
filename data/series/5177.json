@@ -10,8 +10,8 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "دراما",
     "رومانسي",
+    "دراما",
     "كوميدي"
   ],
   "tags": [
@@ -23,9 +23,9 @@
   "duration": "41 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 93,
+  "total_episodes": 94,
   "status": "ongoing",
-  "last_updated": "2026-03-10T12:45:16.716783Z",
+  "last_updated": "2026-03-10T18:39:18.137476Z",
   "episodes": [
     {
       "number": 1,
@@ -583,6 +583,12 @@
       "number": 93,
       "title": "الحلقة 93",
       "date_added": "الإثنين 09 مارس 2026 - 06:43 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 94,
+      "title": "الحلقة 94",
+      "date_added": "الثلاثاء 10 مارس 2026 - 07:27 مساءاً",
       "servers_count": 2
     }
   ]
