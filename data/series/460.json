@@ -11,13 +11,14 @@
   "rating": 7.4,
   "genres": [
     "دراما",
+    "رومانسي",
     "كوميدي"
   ],
   "tags": [
-    "مدبلج",
-    "رمضان",
+    "#Kayip Sehir",
     "#المدينة المفقودة",
-    "#Kayip Sehir"
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "",
@@ -25,6 +26,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-03-10T01:18:06.684495Z",
+  "last_updated": "2026-03-10T07:11:52.306561Z",
   "episodes": []
 }
