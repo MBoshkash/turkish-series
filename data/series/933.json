@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 8.1,
   "genres": [
-    "دراما",
     "رومانسي",
+    "دراما",
     "كوميدي"
   ],
   "tags": [
-    "مدبلج",
-    "#Bozkır",
     "#بوزكير الموسم الاول",
-    "#بوزكير"
+    "#Bozkır",
+    "#بوزكير",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "60 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-03-10T07:11:39.676299Z",
+  "last_updated": "2026-03-10T12:56:44.251509Z",
   "episodes": [
     {
       "number": 1,
