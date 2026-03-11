@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 6.3,
   "genres": [
-    "دراما",
     "رومانسي",
+    "دراما",
     "كوميدي"
   ],
   "tags": [
-    "مدبلج",
-    "#Guvercin",
     "رمضان",
-    "#الحمامة"
+    "#الحمامة",
+    "#Guvercin",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "120 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 16,
   "status": "ongoing",
-  "last_updated": "2026-03-11T01:14:12.216394Z",
+  "last_updated": "2026-03-11T07:07:41.490656Z",
   "episodes": [
     {
       "number": 1,

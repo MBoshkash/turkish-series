@@ -10,14 +10,15 @@
   "language": "التركية",
   "rating": 7.5,
   "genres": [
-    "دراما",
     "رومانسي",
+    "دراما",
     "كوميدي"
   ],
   "tags": [
+    "رمضان",
+    "مدبلج",
     "#مسلسل أيام جميلة",
-    "#Güzel Günler الموسم الاول",
-    "رمضان"
+    "#Güzel Günler الموسم الاول"
   ],
   "quality": "720p",
   "duration": "140 دقيقة",
@@ -25,7 +26,7 @@
   "cast": [],
   "total_episodes": 12,
   "status": "ongoing",
-  "last_updated": "2026-03-11T01:09:00.003054Z",
+  "last_updated": "2026-03-11T07:02:01.813111Z",
   "episodes": [
     {
       "number": 1,
