@@ -10,18 +10,17 @@
   "language": "التركية",
   "rating": 6.5,
   "genres": [
-    "رومانسي",
     "دراما",
+    "رومانسي",
     "كوميدي"
   ],
   "tags": [
-    "#Evim",
     "#Dogdugun Ev Kaderindir",
-    "رمضان",
     "#منزلي الموسم الثاني",
-    "مدبلج",
     "#منزلي",
-    "#Evim الموسم الثاني"
+    "#Evim الموسم الثاني",
+    "مدبلج",
+    "#Evim"
   ],
   "quality": "720p",
   "duration": "140 دقيقة",
@@ -29,7 +28,7 @@
   "cast": [],
   "total_episodes": 31,
   "status": "ongoing",
-  "last_updated": "2026-03-10T19:12:39.209385Z",
+  "last_updated": "2026-03-11T01:13:52.507875Z",
   "episodes": [
     {
       "number": 1,
