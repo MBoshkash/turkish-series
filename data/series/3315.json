@@ -11,13 +11,13 @@
   "rating": 7.1,
   "genres": [
     "رومانسي",
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "رمضان",
+    "#Var Bunlar",
     "مدبلج",
-    "#Var Bunlar"
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "22 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-03-11T19:10:19.303793Z",
+  "last_updated": "2026-03-12T01:13:32.320648Z",
   "episodes": [
     {
       "number": 1,

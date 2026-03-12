@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#The Town",
-    "رمضان",
-    "مدبلج",
     "#البلدة الصغيرة",
-    "#kasaba"
+    "#The Town",
+    "مدبلج",
+    "#kasaba",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "38 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-03-11T18:57:03.548413Z",
+  "last_updated": "2026-03-12T01:08:47.471217Z",
   "episodes": [
     {
       "number": 1,
