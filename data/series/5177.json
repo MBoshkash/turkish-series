@@ -10,22 +10,22 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "دراما",
+    "كوميدي",
     "رومانسي",
-    "كوميدي"
+    "دراما"
   ],
   "tags": [
-    "#المنظمة مدبلج",
     "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "#المنظمة مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "41 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 95,
+  "total_episodes": 96,
   "status": "ongoing",
-  "last_updated": "2026-03-12T18:46:15.257943Z",
+  "last_updated": "2026-03-13T12:39:40.242412Z",
   "episodes": [
     {
       "number": 1,
@@ -595,6 +595,12 @@
       "number": 95,
       "title": "الحلقة 95",
       "date_added": "الأربعاء 11 مارس 2026 - 08:10 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 96,
+      "title": "الحلقة 96",
+      "date_added": "الخميس 12 مارس 2026 - 09:24 مساءاً",
       "servers_count": 2
     }
   ]
