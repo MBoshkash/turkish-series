@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 7.1,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "رمضان",
     "#Sevdam Alabora",
+    "رمضان",
     "مدبلج"
   ],
   "quality": "720p",
@@ -25,6 +25,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-03-13T13:37:45.797454Z",
+  "last_updated": "2026-03-13T18:52:51.619726Z",
   "episodes": []
 }

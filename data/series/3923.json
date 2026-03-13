@@ -11,13 +11,13 @@
   "rating": 8.0,
   "genres": [
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "#Sahmaran الموسم الاول",
     "#شاهماران الموسم الاول",
-    "رمضان"
+    "رمضان",
+    "#Sahmaran الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-03-13T13:15:37.742464Z",
+  "last_updated": "2026-03-13T18:47:05.486047Z",
   "episodes": [
     {
       "number": 1,

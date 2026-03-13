@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 6.8,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "رمضان",
-    "مدبلج",
     "#بعض الاشياء الغريبة",
-    "#İlginç Bazı Olaylar"
+    "#İlginç Bazı Olaylar",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "40 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-03-13T13:19:16.586824Z",
+  "last_updated": "2026-03-13T18:49:19.049427Z",
   "episodes": [
     {
       "number": 1,
