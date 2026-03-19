@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 7.8,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
     "رمضان",
+    "مدبلج",
     "#Bir Zamanlar Kibris"
   ],
   "quality": "720p",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 9,
   "status": "ongoing",
-  "last_updated": "2026-03-18T20:22:44.168349Z",
+  "last_updated": "2026-03-19T07:41:38.592404Z",
   "episodes": [
     {
       "number": 1,
