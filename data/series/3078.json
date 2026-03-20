@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 8.4,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
     "#الغواصة ياكاموز S-245",
-    "#Yakamoz S-245 الموسم الاول"
+    "#Yakamoz S-245 الموسم الاول",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 7,
   "status": "ongoing",
-  "last_updated": "2026-03-19T18:55:06.528972Z",
+  "last_updated": "2026-03-20T01:34:04.539983Z",
   "episodes": [
     {
       "number": 1,

@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 5.2,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "رمضان",
-    "#من الذي أخذك",
-    "#Seni Kimler Aldı"
+    "#Seni Kimler Aldı",
+    "#من الذي أخذك"
   ],
   "quality": "720p",
   "duration": "",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 31,
   "status": "ongoing",
-  "last_updated": "2026-03-19T18:56:37.134682Z",
+  "last_updated": "2026-03-20T01:35:21.749938Z",
   "episodes": [
     {
       "number": 1,

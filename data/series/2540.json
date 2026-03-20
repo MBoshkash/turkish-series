@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 5.5,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
+    "رمضان",
     "#أبي وعائلته الموسم الاول",
     "مدبلج",
-    "#Babam ve Ailesi",
-    "رمضان"
+    "#Babam ve Ailesi"
   ],
   "quality": "WEB-DL",
   "duration": "140 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 12,
   "status": "ongoing",
-  "last_updated": "2026-03-19T18:56:14.920471Z",
+  "last_updated": "2026-03-20T01:35:00.396420Z",
   "episodes": [
     {
       "number": 1,
