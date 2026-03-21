@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 6.1,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#الثنائي العظيم",
-    "#Muhteşem İkili",
     "مدبلج",
-    "رمضان"
+    "رمضان",
+    "#Muhteşem İkili",
+    "#الثنائي العظيم"
   ],
   "quality": "WEB-DL",
   "duration": "",
@@ -26,6 +26,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-03-20T19:04:50.168401Z",
+  "last_updated": "2026-03-21T02:11:25.096446Z",
   "episodes": []
 }
