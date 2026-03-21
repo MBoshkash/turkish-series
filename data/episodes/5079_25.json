@@ -1,0 +1,72 @@
+{
+  "series_id": "5079",
+  "series_title": "المدينة البعيدة الموسم الثاني",
+  "episode_number": 25,
+  "title": "الحلقة 25",
+  "date_added": "",
+  "last_updated": "2026-03-21T12:26:20.052349Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "Vidara",
+        "type": "iframe",
+        "url": "https://vidara.to/e/jWWpVNRRJMoCd",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Vidmoly",
+        "type": "iframe",
+        "url": "https://vidmoly.net/embed-fvowymr1qyae.html",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      }
+    ],
+    "download": [
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/natcjtcyi51f",
+        "quality": "1080p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/du6og62nz4h5/%5Barabseed%5D.Uzak.Sehir.S02E25.1080p.mp4",
+        "quality": "1080p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/uq5b3u5o702o",
+        "quality": "720p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/uub56j5313rr/%5Barabseed%5D.Uzak.Sehir.S02E25.720p.mp4",
+        "quality": "720p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/t8tmdg6dt8ui",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/6lt0dasim5cc/%5Barabseed%5D.Uzak.Sehir.S02E25.480p.mp4",
+        "quality": "480p",
+        "is_direct": true,
+        "source": "arabseed"
+      }
+    ]
+  }
+}
