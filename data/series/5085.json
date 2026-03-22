@@ -10,22 +10,22 @@
   "language": "العربية",
   "rating": 7.2,
   "genres": [
-    "كوميدي",
+    "دراما",
     "رومانسي",
-    "دراما"
+    "كوميدي"
   ],
   "tags": [
-    "رمضان",
     "مدبلج",
-    "#Uzak Şehir"
+    "#Uzak Şehir",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "32 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 105,
+  "total_episodes": 125,
   "status": "ongoing",
-  "last_updated": "2026-03-22T12:40:09.462428Z",
+  "last_updated": "2026-03-22T18:40:24.215648Z",
   "episodes": [
     {
       "number": 1,
@@ -655,6 +655,126 @@
       "number": 105,
       "title": "الحلقة 105",
       "date_added": "الخميس 12 فبراير 2026 - 10:29 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 106,
+      "title": "الحلقة 106",
+      "date_added": "الأحد 22 مارس 2026 - 01:22 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 107,
+      "title": "الحلقة 107",
+      "date_added": "الأحد 22 مارس 2026 - 01:22 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 108,
+      "title": "الحلقة 108",
+      "date_added": "الأحد 22 مارس 2026 - 01:22 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 109,
+      "title": "الحلقة 109",
+      "date_added": "الأحد 22 مارس 2026 - 01:22 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 110,
+      "title": "الحلقة 110",
+      "date_added": "الأحد 22 مارس 2026 - 01:22 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 111,
+      "title": "الحلقة 111",
+      "date_added": "الأحد 22 مارس 2026 - 01:22 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 112,
+      "title": "الحلقة 112",
+      "date_added": "الأحد 22 مارس 2026 - 01:22 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 113,
+      "title": "الحلقة 113",
+      "date_added": "الأحد 22 مارس 2026 - 01:23 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 114,
+      "title": "الحلقة 114",
+      "date_added": "الأحد 22 مارس 2026 - 01:23 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 115,
+      "title": "الحلقة 115",
+      "date_added": "الأحد 22 مارس 2026 - 01:23 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 116,
+      "title": "الحلقة 116",
+      "date_added": "الأحد 22 مارس 2026 - 01:23 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 117,
+      "title": "الحلقة 117",
+      "date_added": "الأحد 22 مارس 2026 - 01:23 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 118,
+      "title": "الحلقة 118",
+      "date_added": "الأحد 22 مارس 2026 - 01:23 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 119,
+      "title": "الحلقة 119",
+      "date_added": "الأحد 22 مارس 2026 - 01:23 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 120,
+      "title": "الحلقة 120",
+      "date_added": "الأحد 22 مارس 2026 - 01:23 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 121,
+      "title": "الحلقة 121",
+      "date_added": "الأحد 22 مارس 2026 - 01:23 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 122,
+      "title": "الحلقة 122",
+      "date_added": "الأحد 22 مارس 2026 - 01:23 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 123,
+      "title": "الحلقة 123",
+      "date_added": "الأحد 22 مارس 2026 - 01:23 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 124,
+      "title": "الحلقة 124",
+      "date_added": "الأحد 22 مارس 2026 - 01:23 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 125,
+      "title": "الحلقة 125",
+      "date_added": "الأحد 22 مارس 2026 - 01:23 مساءاً",
       "servers_count": 2
     }
   ]
