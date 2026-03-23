@@ -10,23 +10,22 @@
   "language": "العربية",
   "rating": 0.0,
   "genres": [
-    "كوميدي",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
+    "#Sahtekarlar",
     "رمضان",
-    "مدبلج",
     "#المحتالون مدبلج",
-    "#Sahtekarlar"
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "23 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 90,
+  "total_episodes": 110,
   "status": "ongoing",
-  "last_updated": "2026-03-22T18:42:46.864179Z",
+  "last_updated": "2026-03-23T01:17:40.338038Z",
   "episodes": [
     {
       "number": 1,
@@ -566,6 +565,126 @@
       "number": 90,
       "title": "الحلقة 90",
       "date_added": "الخميس 19 فبراير 2026 - 03:14 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 91,
+      "title": "الحلقة 91",
+      "date_added": "الأحد 22 مارس 2026 - 11:46 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 92,
+      "title": "الحلقة 92",
+      "date_added": "الأحد 22 مارس 2026 - 11:46 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 93,
+      "title": "الحلقة 93",
+      "date_added": "الأحد 22 مارس 2026 - 11:46 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 94,
+      "title": "الحلقة 94",
+      "date_added": "الأحد 22 مارس 2026 - 11:46 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 95,
+      "title": "الحلقة 95",
+      "date_added": "الأحد 22 مارس 2026 - 11:46 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 96,
+      "title": "الحلقة 96",
+      "date_added": "الأحد 22 مارس 2026 - 11:46 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 97,
+      "title": "الحلقة 97",
+      "date_added": "الأحد 22 مارس 2026 - 11:46 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 98,
+      "title": "الحلقة 98",
+      "date_added": "الأحد 22 مارس 2026 - 11:46 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 99,
+      "title": "الحلقة 99",
+      "date_added": "الأحد 22 مارس 2026 - 11:46 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 100,
+      "title": "الحلقة 100",
+      "date_added": "الأحد 22 مارس 2026 - 11:46 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 101,
+      "title": "الحلقة 101",
+      "date_added": "الأحد 22 مارس 2026 - 11:47 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 102,
+      "title": "الحلقة 102",
+      "date_added": "الأحد 22 مارس 2026 - 11:47 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 103,
+      "title": "الحلقة 103",
+      "date_added": "الأحد 22 مارس 2026 - 11:47 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 104,
+      "title": "الحلقة 104",
+      "date_added": "الأحد 22 مارس 2026 - 11:47 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 105,
+      "title": "الحلقة 105",
+      "date_added": "الأحد 22 مارس 2026 - 11:47 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 106,
+      "title": "الحلقة 106",
+      "date_added": "الأحد 22 مارس 2026 - 11:47 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 107,
+      "title": "الحلقة 107",
+      "date_added": "الأحد 22 مارس 2026 - 11:47 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 108,
+      "title": "الحلقة 108",
+      "date_added": "الأحد 22 مارس 2026 - 11:47 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 109,
+      "title": "الحلقة 109",
+      "date_added": "الأحد 22 مارس 2026 - 11:48 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 110,
+      "title": "الحلقة 110",
+      "date_added": "الأحد 22 مارس 2026 - 11:48 صباحا",
       "servers_count": 2
     }
   ]
