@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 6.7,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#Vahyin İzinde الموسم الاول",
-    "مدبلج",
     "#مسلسل على خطى الوحي",
-    "رمضان"
+    "مدبلج",
+    "رمضان",
+    "#Vahyin İzinde الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "30 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-03-23T07:15:30.756157Z",
+  "last_updated": "2026-03-23T18:54:55.402569Z",
   "episodes": [
     {
       "number": 1,

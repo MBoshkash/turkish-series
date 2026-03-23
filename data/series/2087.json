@@ -10,17 +10,17 @@
   "language": "التركية",
   "rating": 6.6,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "رمضان",
-    "مدبلج",
-    "#الخائن",
-    "#Sadakatsiz",
     "#الخائن الموسم الثاني",
-    "#Sadakatsiz الموسم الثاني"
+    "#Sadakatsiz الموسم الثاني",
+    "#Sadakatsiz",
+    "مدبلج",
+    "رمضان",
+    "#الخائن"
   ],
   "quality": "720p",
   "duration": "100 دقيقة",
@@ -28,7 +28,7 @@
   "cast": [],
   "total_episodes": 29,
   "status": "ongoing",
-  "last_updated": "2026-03-23T07:20:18.109512Z",
+  "last_updated": "2026-03-23T18:56:37.609482Z",
   "episodes": [
     {
       "number": 1,

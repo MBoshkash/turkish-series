@@ -10,21 +10,21 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "#المنظمة مدبلج"
+    "#المنظمة مدبلج",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "41 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 102,
+  "total_episodes": 106,
   "status": "ongoing",
-  "last_updated": "2026-03-23T07:04:28.967368Z",
+  "last_updated": "2026-03-23T18:49:59.580265Z",
   "episodes": [
     {
       "number": 1,
@@ -636,6 +636,30 @@
       "number": 102,
       "title": "الحلقة 102",
       "date_added": "الخميس 19 مارس 2026 - 04:00 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 103,
+      "title": "الحلقة 103",
+      "date_added": "الإثنين 23 مارس 2026 - 05:02 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 104,
+      "title": "الحلقة 104",
+      "date_added": "الإثنين 23 مارس 2026 - 05:02 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 105,
+      "title": "الحلقة 105",
+      "date_added": "الإثنين 23 مارس 2026 - 05:02 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 106,
+      "title": "الحلقة 106",
+      "date_added": "الإثنين 23 مارس 2026 - 05:02 مساءاً",
       "servers_count": 2
     }
   ]

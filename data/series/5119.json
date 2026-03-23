@@ -10,23 +10,23 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "دراما",
+    "رومانسي",
     "كوميدي",
-    "رومانسي"
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "#Esaret",
     "#الأسيرة مدبلج",
+    "#Esaret",
+    "مدبلج",
     "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "41 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 180,
+  "total_episodes": 189,
   "status": "ongoing",
-  "last_updated": "2026-03-23T07:12:59.923436Z",
+  "last_updated": "2026-03-23T18:54:02.724864Z",
   "episodes": [
     {
       "number": 1,
@@ -1106,6 +1106,60 @@
       "number": 181,
       "title": "الحلقة 181",
       "date_added": "السبت 14 فبراير 2026 - 10:08 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 182,
+      "title": "الحلقة 182",
+      "date_added": "الإثنين 23 مارس 2026 - 05:02 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 183,
+      "title": "الحلقة 183",
+      "date_added": "الإثنين 23 مارس 2026 - 05:02 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 184,
+      "title": "الحلقة 184",
+      "date_added": "الإثنين 23 مارس 2026 - 05:02 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 185,
+      "title": "الحلقة 185",
+      "date_added": "الإثنين 23 مارس 2026 - 05:02 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 186,
+      "title": "الحلقة 186",
+      "date_added": "الإثنين 23 مارس 2026 - 05:02 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 187,
+      "title": "الحلقة 187",
+      "date_added": "الإثنين 23 مارس 2026 - 05:02 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 188,
+      "title": "الحلقة 188",
+      "date_added": "الإثنين 23 مارس 2026 - 05:02 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 189,
+      "title": "الحلقة 189",
+      "date_added": "الإثنين 23 مارس 2026 - 05:02 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 190,
+      "title": "الحلقة 190",
+      "date_added": "الإثنين 23 مارس 2026 - 05:02 مساءاً",
       "servers_count": 2
     }
   ]

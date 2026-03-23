@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.6,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#Gülümse Kaderine الموسم الاول",
     "مدبلج",
-    "#ابتسم لقدرك",
-    "رمضان"
+    "رمضان",
+    "#Gülümse Kaderine الموسم الاول",
+    "#ابتسم لقدرك"
   ],
   "quality": "720p",
   "duration": "125 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 5,
   "status": "ongoing",
-  "last_updated": "2026-03-23T07:20:15.001939Z",
+  "last_updated": "2026-03-23T18:56:36.499853Z",
   "episodes": [
     {
       "number": 1,

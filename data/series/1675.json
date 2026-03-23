@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 7.2,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
+    "رمضان",
     "#فتاة النافذة",
     "مدبلج",
-    "رمضان",
     "#Camdaki Kiz"
   ],
   "quality": "720p",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 9,
   "status": "ongoing",
-  "last_updated": "2026-03-23T07:23:57.254113Z",
+  "last_updated": "2026-03-23T18:57:56.606641Z",
   "episodes": [
     {
       "number": 1,
