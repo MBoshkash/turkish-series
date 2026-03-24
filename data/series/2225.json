@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 7.3,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
     "#ثلاثة قروش",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 28,
   "status": "ongoing",
-  "last_updated": "2026-03-23T18:56:33.673012Z",
+  "last_updated": "2026-03-24T02:24:48.903547Z",
   "episodes": [
     {
       "number": 1,

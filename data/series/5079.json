@@ -24,9 +24,9 @@
   "duration": "141 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 25,
+  "total_episodes": 26,
   "status": "ongoing",
-  "last_updated": "2026-03-23T18:41:13.093017Z",
+  "last_updated": "2026-03-24T00:59:00.449257Z",
   "episodes": [
     {
       "number": 1,
@@ -175,6 +175,12 @@
     {
       "number": 25,
       "title": "الحلقة 25",
+      "date_added": "",
+      "servers_count": 8
+    },
+    {
+      "number": 26,
+      "title": "الحلقة 26",
       "date_added": "",
       "servers_count": 8
     }

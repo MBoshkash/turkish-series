@@ -1,0 +1,44 @@
+{
+  "series_id": "5101",
+  "series_title": "المنظمة الموسم السادس",
+  "episode_number": 26,
+  "title": "الحلقة 26",
+  "date_added": "الإثنين 23 مارس 2026 - 10:49 مساءاً",
+  "last_updated": "2026-03-24T01:06:31.748788Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/98350/المنظمة-الموسم-السادس/الحلقة-26",
+        "quality": "720p",
+        "source": "akwam"
+      },
+      {
+        "name": "Vidara",
+        "type": "iframe",
+        "url": "https://vidara.to/e/U1vW3OXkJ7HG0",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Vidmoly",
+        "type": "iframe",
+        "url": "https://vidmoly.net/embed-c717kzmlhnmy.html",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/98350/المنظمة-الموسم-السادس/الحلقة-26",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      }
+    ]
+  }
+}

@@ -10,17 +10,17 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "#Dokuz Oğuz الموسم الاول",
-    "مدبلج",
-    "رمضان",
-    "#Dokuz Oğuz",
     "#مسلسل الأوغوز التسعة",
-    "#9 Oguz"
+    "مدبلج",
+    "#9 Oguz",
+    "#Dokuz Oğuz",
+    "#Dokuz Oğuz الموسم الاول",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "140 دقيقة",
@@ -28,7 +28,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-03-23T18:55:34.505739Z",
+  "last_updated": "2026-03-24T02:02:22.565381Z",
   "episodes": [
     {
       "number": 1,
