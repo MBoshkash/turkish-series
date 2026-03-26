@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 7.8,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
     "#Ramo",
@@ -25,6 +25,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-03-26T07:18:46.006523Z",
+  "last_updated": "2026-03-26T19:03:59.763846Z",
   "episodes": []
 }

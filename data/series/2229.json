@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 6.9,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#Sana Söz",
-    "#أعدك",
     "رمضان",
-    "#وعد لك"
+    "#وعد لك",
+    "#Sana Söz",
+    "#أعدك"
   ],
   "quality": "720p",
   "duration": "150 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 7,
   "status": "ongoing",
-  "last_updated": "2026-03-26T07:15:59.978869Z",
+  "last_updated": "2026-03-26T19:02:21.879281Z",
   "episodes": [
     {
       "number": 1,

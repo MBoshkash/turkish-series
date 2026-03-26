@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
     "#العمل في المنازل",
-    "#الخادمات",
     "مدبلج",
-    "#Hizmetçiler"
+    "#Hizmetçiler",
+    "#الخادمات"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -26,6 +26,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-03-26T07:18:47.847279Z",
+  "last_updated": "2026-03-26T19:04:01.041881Z",
   "episodes": []
 }

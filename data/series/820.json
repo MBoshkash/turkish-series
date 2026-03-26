@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
     "#Tövbeler Olsun",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 32,
   "status": "ongoing",
-  "last_updated": "2026-03-26T07:18:03.982074Z",
+  "last_updated": "2026-03-26T19:03:35.136216Z",
   "episodes": [
     {
       "number": 1,

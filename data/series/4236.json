@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 6.0,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
+    "رمضان",
     "#Dayton الموسم الاول",
-    "مدبلج",
-    "رمضان"
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "55 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-03-26T07:13:38.702871Z",
+  "last_updated": "2026-03-26T19:00:24.222550Z",
   "episodes": [
     {
       "number": 1,

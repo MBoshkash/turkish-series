@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.7,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "رمضان",
-    "#Kraliçe",
     "#مسلسل الملكة تركي",
-    "#Kraliçe الموسم الاول"
+    "#Kraliçe",
+    "#Kraliçe الموسم الاول",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "105 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 11,
   "status": "ongoing",
-  "last_updated": "2026-03-26T07:13:41.495926Z",
+  "last_updated": "2026-03-26T19:00:26.018007Z",
   "episodes": [
     {
       "number": 1,

@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
     "#Güller ve Günahlar",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 17,
   "status": "ongoing",
-  "last_updated": "2026-03-26T07:11:23.180023Z",
+  "last_updated": "2026-03-26T18:59:07.548098Z",
   "episodes": [
     {
       "number": 1,
