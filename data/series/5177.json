@@ -11,8 +11,8 @@
   "rating": 7.0,
   "genres": [
     "رومانسي",
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "رمضان",
@@ -23,9 +23,9 @@
   "duration": "41 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 108,
+  "total_episodes": 110,
   "status": "ongoing",
-  "last_updated": "2026-03-26T18:51:31.026113Z",
+  "last_updated": "2026-03-27T06:56:39.311569Z",
   "episodes": [
     {
       "number": 1,
@@ -673,6 +673,18 @@
       "number": 108,
       "title": "الحلقة 108",
       "date_added": "الثلاثاء 24 مارس 2026 - 11:39 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 109,
+      "title": "الحلقة 109",
+      "date_added": "الخميس 26 مارس 2026 - 11:08 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 110,
+      "title": "الحلقة 110",
+      "date_added": "الخميس 26 مارس 2026 - 11:09 مساءاً",
       "servers_count": 2
     }
   ]
