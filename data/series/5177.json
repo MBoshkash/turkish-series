@@ -10,22 +10,22 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "رومانسي",
+    "كوميدي",
     "دراما",
-    "كوميدي"
+    "رومانسي"
   ],
   "tags": [
     "رمضان",
-    "مدبلج",
-    "#المنظمة مدبلج"
+    "#المنظمة مدبلج",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "41 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 110,
+  "total_episodes": 111,
   "status": "ongoing",
-  "last_updated": "2026-03-27T06:56:39.311569Z",
+  "last_updated": "2026-03-27T18:47:07.931259Z",
   "episodes": [
     {
       "number": 1,
@@ -685,6 +685,12 @@
       "number": 110,
       "title": "الحلقة 110",
       "date_added": "الخميس 26 مارس 2026 - 11:09 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 111,
+      "title": "الحلقة 111",
+      "date_added": "الجمعة 27 مارس 2026 - 08:43 مساءاً",
       "servers_count": 2
     }
   ]
