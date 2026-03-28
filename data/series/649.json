@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "رومانسي",
     "كوميدي",
+    "رومانسي",
     "دراما"
   ],
   "tags": [
-    "رمضان",
-    "مدبلج",
     "#أنت أطرق بابي",
-    "#Sen Çal Kapimi"
+    "#Sen Çal Kapimi",
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 39,
   "status": "ongoing",
-  "last_updated": "2026-03-28T06:58:20.097987Z",
+  "last_updated": "2026-03-28T13:13:08.494702Z",
   "episodes": [
     {
       "number": 1,
