@@ -10,13 +10,14 @@
   "language": "التركية",
   "rating": 6.0,
   "genres": [
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "#The Tailor الموسم الثالث",
     "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "#The Tailor الموسم الثالث"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -24,7 +25,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-03-28T01:06:37.705487Z",
+  "last_updated": "2026-03-28T06:50:41.151747Z",
   "episodes": [
     {
       "number": 1,
