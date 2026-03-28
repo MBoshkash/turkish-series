@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.5,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "#كان يا ما كان في شوكوروفا",
-    "مدبلج",
+    "#Bir Zamanlar Cukurova",
     "رمضان",
-    "#Bir Zamanlar Cukurova"
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 39,
   "status": "ongoing",
-  "last_updated": "2026-03-27T19:05:15.274407Z",
+  "last_updated": "2026-03-28T01:17:12.020823Z",
   "episodes": [
     {
       "number": 1,
