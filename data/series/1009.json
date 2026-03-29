@@ -10,13 +10,13 @@
   "language": "العربية",
   "rating": 5.7,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#Yasak Elma",
     "رمضان",
+    "#Yasak Elma",
     "#التفاح الحرام الموسم الاول",
     "مدبلج"
   ],
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 36,
   "status": "ongoing",
-  "last_updated": "2026-03-29T12:47:17.436087Z",
+  "last_updated": "2026-03-29T19:02:45.097994Z",
   "episodes": [
     {
       "number": 1,

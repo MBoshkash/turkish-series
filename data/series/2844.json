@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 7.2,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
     "رمضان",
+    "مدبلج",
     "#منتصف الليل في بيرا بالاس",
     "#Midnight at Pera Palace"
   ],
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-03-29T12:42:48.664591Z",
+  "last_updated": "2026-03-29T19:01:45.892161Z",
   "episodes": [
     {
       "number": 1,
