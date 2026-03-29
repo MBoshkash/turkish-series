@@ -11,16 +11,15 @@
   "rating": 5.0,
   "genres": [
     "كوميدي",
-    "رومانسي",
     "دراما"
   ],
   "tags": [
-    "#Baraj",
     "مدبلج",
     "#مسلسل السد",
     "#Baraj الموسم الاول",
     "رمضان",
-    "#السد"
+    "#السد",
+    "#Baraj"
   ],
   "quality": "720p",
   "duration": "",
@@ -28,7 +27,7 @@
   "cast": [],
   "total_episodes": 39,
   "status": "ongoing",
-  "last_updated": "2026-03-29T01:38:20.423649Z",
+  "last_updated": "2026-03-29T12:46:25.785242Z",
   "episodes": [
     {
       "number": 1,
