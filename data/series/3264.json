@@ -10,16 +10,16 @@
   "language": "التركية",
   "rating": 5.5,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "#Seni Kalbime Sakladım",
-    "رمضان",
     "#أخفيتك في قلبي",
-    "#Civan Mert"
+    "رمضان",
+    "مدبلج",
+    "#Civan Mert",
+    "#Seni Kalbime Sakladım"
   ],
   "quality": "WEB-DL",
   "duration": "120 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 7,
   "status": "ongoing",
-  "last_updated": "2026-03-31T01:22:46.841864Z",
+  "last_updated": "2026-03-31T07:20:39.284844Z",
   "episodes": [
     {
       "number": 1,
