@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 7.2,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
     "#المدينة البعيدة الموسم الثاني",
@@ -24,9 +24,9 @@
   "duration": "141 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 26,
+  "total_episodes": 27,
   "status": "ongoing",
-  "last_updated": "2026-03-30T18:44:46.256177Z",
+  "last_updated": "2026-03-31T01:06:53.350476Z",
   "episodes": [
     {
       "number": 1,
@@ -181,6 +181,12 @@
     {
       "number": 26,
       "title": "الحلقة 26",
+      "date_added": "",
+      "servers_count": 8
+    },
+    {
+      "number": 27,
+      "title": "الحلقة 27",
       "date_added": "",
       "servers_count": 8
     }
