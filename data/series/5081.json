@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 7.9,
   "genres": [
-    "كوميدي",
+    "رومانسي",
     "دراما",
-    "رومانسي"
+    "كوميدي"
   ],
   "tags": [
     "#Mehmed: Sultan of Conquests",
@@ -23,9 +23,9 @@
   "duration": "132 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 20,
+  "total_episodes": 25,
   "status": "ongoing",
-  "last_updated": "2026-04-01T12:56:51.407497Z",
+  "last_updated": "2026-04-01T18:51:58.341801Z",
   "episodes": [
     {
       "number": 1,
@@ -145,6 +145,36 @@
       "number": 20,
       "title": "الحلقة 20",
       "date_added": "الخميس 12 فبراير 2026 - 04:30 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 21,
+      "title": "الحلقة 21",
+      "date_added": "الأربعاء 01 ابريل 2026 - 06:21 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 22,
+      "title": "الحلقة 22",
+      "date_added": "الأربعاء 01 ابريل 2026 - 06:21 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 23,
+      "title": "الحلقة 23",
+      "date_added": "الأربعاء 01 ابريل 2026 - 06:21 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 24,
+      "title": "الحلقة 24",
+      "date_added": "الأربعاء 01 ابريل 2026 - 06:21 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 25,
+      "title": "الحلقة 25",
+      "date_added": "الأربعاء 01 ابريل 2026 - 06:21 مساءاً",
       "servers_count": 2
     }
   ]
