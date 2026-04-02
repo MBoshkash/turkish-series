@@ -10,22 +10,22 @@
   "language": "العربية",
   "rating": 7.2,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
     "رمضان",
-    "#Uzak Şehir"
+    "#Uzak Şehir",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "32 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 125,
+  "total_episodes": 133,
   "status": "ongoing",
-  "last_updated": "2026-04-02T07:00:27.793541Z",
+  "last_updated": "2026-04-02T12:57:19.073981Z",
   "episodes": [
     {
       "number": 1,
@@ -775,6 +775,54 @@
       "number": 125,
       "title": "الحلقة 125",
       "date_added": "الأحد 22 مارس 2026 - 01:23 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 126,
+      "title": "الحلقة 126",
+      "date_added": "الخميس 02 ابريل 2026 - 12:38 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 127,
+      "title": "الحلقة 127",
+      "date_added": "الخميس 02 ابريل 2026 - 12:38 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 128,
+      "title": "الحلقة 128",
+      "date_added": "الخميس 02 ابريل 2026 - 12:38 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 129,
+      "title": "الحلقة 129",
+      "date_added": "الخميس 02 ابريل 2026 - 12:38 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 130,
+      "title": "الحلقة 130",
+      "date_added": "الخميس 02 ابريل 2026 - 12:38 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 131,
+      "title": "الحلقة 131",
+      "date_added": "الخميس 02 ابريل 2026 - 12:39 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 132,
+      "title": "الحلقة 132",
+      "date_added": "الخميس 02 ابريل 2026 - 12:39 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 134,
+      "title": "الحلقة 134",
+      "date_added": "الخميس 02 ابريل 2026 - 12:39 مساءاً",
       "servers_count": 2
     }
   ]

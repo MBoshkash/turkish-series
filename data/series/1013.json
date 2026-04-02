@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 5.2,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
     "#أزاد",
+    "#Azad",
     "رمضان",
-    "مدبلج",
-    "#Azad"
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "50 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 15,
   "status": "ongoing",
-  "last_updated": "2026-04-02T07:10:33.661526Z",
+  "last_updated": "2026-04-02T13:26:22.706485Z",
   "episodes": [
     {
       "number": 1,
