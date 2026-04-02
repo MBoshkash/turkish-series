@@ -11,13 +11,13 @@
   "rating": 7.2,
   "genres": [
     "دراما",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#أراضي بلا قانون",
     "#Kanunsuz Topraklar",
-    "مدبلج"
+    "مدبلج",
+    "#أراضي بلا قانون"
   ],
   "quality": "720p",
   "duration": "150 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 16,
   "status": "ongoing",
-  "last_updated": "2026-04-02T13:13:56.395843Z",
+  "last_updated": "2026-04-02T18:45:29.607045Z",
   "episodes": [
     {
       "number": 1,

@@ -10,22 +10,22 @@
   "language": "العربية",
   "rating": 7.2,
   "genres": [
-    "دراما",
+    "كوميدي",
     "رومانسي",
-    "كوميدي"
+    "دراما"
   ],
   "tags": [
     "رمضان",
-    "#Uzak Şehir",
-    "مدبلج"
+    "مدبلج",
+    "#Uzak Şehir"
   ],
   "quality": "WEB-DL",
   "duration": "32 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 133,
+  "total_episodes": 134,
   "status": "ongoing",
-  "last_updated": "2026-04-02T12:57:19.073981Z",
+  "last_updated": "2026-04-02T18:43:32.270554Z",
   "episodes": [
     {
       "number": 1,
@@ -823,6 +823,12 @@
       "number": 134,
       "title": "الحلقة 134",
       "date_added": "الخميس 02 ابريل 2026 - 12:39 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 135,
+      "title": "الحلقة 135",
+      "date_added": "الخميس 02 ابريل 2026 - 04:07 مساءاً",
       "servers_count": 2
     }
   ]
