@@ -10,23 +10,23 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
-    "رومانسي",
+    "كوميدي",
     "دراما",
-    "كوميدي"
+    "رومانسي"
   ],
   "tags": [
     "#المؤسس اورهان مترجم",
-    "#Kurulus: Orhan",
+    "مدبلج",
     "رمضان",
-    "مدبلج"
+    "#Kurulus: Orhan"
   ],
   "quality": "WEB-DL",
   "duration": "152 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 14,
+  "total_episodes": 20,
   "status": "ongoing",
-  "last_updated": "2026-04-02T01:18:46.384218Z",
+  "last_updated": "2026-04-02T07:00:42.932778Z",
   "episodes": [
     {
       "number": 1,
@@ -110,6 +110,42 @@
       "number": 14,
       "title": "الحلقة 14",
       "date_added": "الخميس 12 فبراير 2026 - 04:30 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 15,
+      "title": "الحلقة 15",
+      "date_added": "الخميس 02 ابريل 2026 - 01:34 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 16,
+      "title": "الحلقة 16",
+      "date_added": "الخميس 02 ابريل 2026 - 01:34 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 17,
+      "title": "الحلقة 17",
+      "date_added": "الخميس 02 ابريل 2026 - 01:34 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 18,
+      "title": "الحلقة 18",
+      "date_added": "الخميس 02 ابريل 2026 - 01:34 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 19,
+      "title": "الحلقة 19",
+      "date_added": "الخميس 02 ابريل 2026 - 01:34 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 20,
+      "title": "الحلقة 20",
+      "date_added": "الخميس 02 ابريل 2026 - 01:45 صباحا",
       "servers_count": 2
     }
   ]
