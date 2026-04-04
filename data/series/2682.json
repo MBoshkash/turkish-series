@@ -10,14 +10,15 @@
   "language": "العربية",
   "rating": 7.4,
   "genres": [
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "#Aile Sirketi",
     "#شركة العائلة الموسم الاول",
-    "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "#Aile Sirketi",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -25,7 +26,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-04-03T01:34:57.596946Z",
+  "last_updated": "2026-04-04T01:11:25.885550Z",
   "episodes": [
     {
       "number": 1,
