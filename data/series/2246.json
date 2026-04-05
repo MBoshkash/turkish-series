@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 6.5,
   "genres": [
-    "دراما",
     "رومانسي",
+    "دراما",
     "كوميدي"
   ],
   "tags": [
-    "#Aziz الموسم الأول",
     "مدبلج",
-    "#عزيز"
+    "#عزيز",
+    "#Aziz الموسم الأول"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 28,
   "status": "ongoing",
-  "last_updated": "2026-04-04T18:27:28.370897Z",
+  "last_updated": "2026-04-05T03:45:40.664706Z",
   "episodes": [
     {
       "number": 1,

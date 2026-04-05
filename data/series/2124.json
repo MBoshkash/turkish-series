@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.5,
   "genres": [
-    "دراما",
     "رومانسي",
+    "دراما",
     "كوميدي"
   ],
   "tags": [
-    "#العريس الرائع",
-    "#Şahane Damat",
     "مدبلج",
-    "رمضان"
+    "#Şahane Damat",
+    "رمضان",
+    "#العريس الرائع"
   ],
   "quality": "720p",
   "duration": "44 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 20,
   "status": "ongoing",
-  "last_updated": "2026-04-04T18:28:20.806470Z",
+  "last_updated": "2026-04-05T03:46:21.405931Z",
   "episodes": [
     {
       "number": 1,
