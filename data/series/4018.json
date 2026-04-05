@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 5.5,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#اللؤلؤة السوداء",
-    "#Siyah İnci",
     "رمضان",
-    "مدبلج"
+    "#Siyah İnci",
+    "مدبلج",
+    "#اللؤلؤة السوداء"
   ],
   "quality": "WEB-DL",
   "duration": "44 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 67,
   "status": "ongoing",
-  "last_updated": "2026-04-05T03:44:50.540037Z",
+  "last_updated": "2026-04-05T07:05:00.683694Z",
   "episodes": [
     {
       "number": 1,

@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 5.6,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "#جوليزار",
-    "#Gülizar",
     "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "#Gülizar"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 21,
   "status": "ongoing",
-  "last_updated": "2026-04-05T03:46:56.379723Z",
+  "last_updated": "2026-04-05T07:11:25.359802Z",
   "episodes": [
     {
       "number": 1,

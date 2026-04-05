@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 6.9,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "#اسكندر العاصف",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 3,
   "status": "ongoing",
-  "last_updated": "2026-04-05T03:46:50.790650Z",
+  "last_updated": "2026-04-05T07:11:07.487591Z",
   "episodes": [
     {
       "number": 1,

@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.9,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#Dirilis: Ertugrul",
     "#قيامة أرطغرل الموسم الثاني",
     "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "#Dirilis: Ertugrul"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 110,
   "status": "ongoing",
-  "last_updated": "2026-04-05T03:46:49.062361Z",
+  "last_updated": "2026-04-05T07:11:01.922771Z",
   "episodes": [
     {
       "number": 1,
