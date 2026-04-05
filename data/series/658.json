@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
     "رمضان",
     "#حب في العلية",
-    "#Çati Kati Ask"
+    "#Çati Kati Ask",
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 16,
   "status": "ongoing",
-  "last_updated": "2026-04-05T07:11:26.444432Z",
+  "last_updated": "2026-04-05T12:45:24.656919Z",
   "episodes": [
     {
       "number": 1,
