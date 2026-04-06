@@ -1,0 +1,72 @@
+{
+  "series_id": "5101",
+  "series_title": "المنظمة الموسم السادس",
+  "episode_number": 28,
+  "title": "الحلقة 28",
+  "date_added": "",
+  "last_updated": "2026-04-06T12:51:17.016335Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "Voe",
+        "type": "iframe",
+        "url": "https://voe.sx/e/3vplslem0kvq",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Bysezejataos",
+        "type": "iframe",
+        "url": "https://bysezejataos.com/e/n1q6n4rc3gvw",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      }
+    ],
+    "download": [
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/4t4l5wx9eyqh",
+        "quality": "1080p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/e4b1ob753zpt/%5Barabseed%5D.Teskilat.S06E28.1080p.mp4",
+        "quality": "1080p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/npjss5rtmcvl",
+        "quality": "720p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/hmhshagst5w9/%5Barabseed%5D.Teskilat.S06E28.720p.mp4",
+        "quality": "720p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/x3wyzj6w0v0v",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/gnvjwwdrw2pe/%5Barabseed%5D.Teskilat.S06E28.480p.mp4",
+        "quality": "480p",
+        "is_direct": true,
+        "source": "arabseed"
+      }
+    ]
+  }
+}
