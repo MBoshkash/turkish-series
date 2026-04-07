@@ -1,0 +1,72 @@
+{
+  "series_id": "5079",
+  "series_title": "المدينة البعيدة الموسم الثاني",
+  "episode_number": 28,
+  "title": "الحلقة 28",
+  "date_added": "",
+  "last_updated": "2026-04-07T18:42:45.715504Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "Vidara",
+        "type": "iframe",
+        "url": "https://vidara.to/e/R5tc3L4nx7HPa",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Voe",
+        "type": "iframe",
+        "url": "https://voe.sx/e/lcxkkzhukbo6",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      }
+    ],
+    "download": [
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/3tar4zgr02pm",
+        "quality": "1080p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/9rjji1hqwamk/%5Barabseed%5D.Uzak.Sehir.S02E28.1080p.mp4",
+        "quality": "1080p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/1gltjhdz6h7k",
+        "quality": "720p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/6n2yq937f6of/%5Barabseed%5D.Uzak.Sehir.S02E28.720p.mp4",
+        "quality": "720p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/byw4920g6t8g",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/7cfmvtinwcaw/%5Barabseed%5D.Uzak.Sehir.S02E28.480p.mp4",
+        "quality": "480p",
+        "is_direct": true,
+        "source": "arabseed"
+      }
+    ]
+  }
+}
