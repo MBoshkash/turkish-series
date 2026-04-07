@@ -10,14 +10,14 @@
   "language": "العربية",
   "rating": 6.0,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
     "#Can Kırıkları",
-    "#الإنتقام"
+    "#الإنتقام",
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "40 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 17,
   "status": "ongoing",
-  "last_updated": "2026-04-07T07:27:59.598270Z",
+  "last_updated": "2026-04-07T13:12:44.131648Z",
   "episodes": [
     {
       "number": 1,

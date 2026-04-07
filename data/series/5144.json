@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 8.0,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
+    "رمضان",
     "مدبلج",
-    "#أنا أمها مترجم",
     "#Ben Onun Annesiyim",
-    "رمضان"
+    "#أنا أمها مترجم"
   ],
   "quality": "WEB-DL",
   "duration": "115 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 4,
   "status": "ongoing",
-  "last_updated": "2026-04-07T07:13:28.142011Z",
+  "last_updated": "2026-04-07T13:07:20.839126Z",
   "episodes": [
     {
       "number": 1,
