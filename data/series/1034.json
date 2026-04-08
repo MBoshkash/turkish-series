@@ -11,12 +11,13 @@
   "rating": 6.9,
   "genres": [
     "رومانسي",
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
+    "#EDHO",
     "مدبلج",
-    "#EDHO"
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "130 دقيقة",
@@ -24,7 +25,7 @@
   "cast": [],
   "total_episodes": 33,
   "status": "ongoing",
-  "last_updated": "2026-04-08T01:44:30.655624Z",
+  "last_updated": "2026-04-08T13:01:55.965084Z",
   "episodes": [
     {
       "number": 1,
