@@ -10,22 +10,22 @@
   "language": "العربية",
   "rating": 7.2,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
+    "رمضان",
     "مدبلج",
-    "#Uzak Şehir",
-    "رمضان"
+    "#Uzak Şehir"
   ],
   "quality": "WEB-DL",
   "duration": "32 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 134,
+  "total_episodes": 139,
   "status": "ongoing",
-  "last_updated": "2026-04-08T19:08:31.688734Z",
+  "last_updated": "2026-04-09T01:05:36.371956Z",
   "episodes": [
     {
       "number": 1,
@@ -829,6 +829,36 @@
       "number": 135,
       "title": "الحلقة 135",
       "date_added": "الخميس 02 ابريل 2026 - 04:07 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 136,
+      "title": "الحلقة 136",
+      "date_added": "الخميس 09 ابريل 2026 - 12:16 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 137,
+      "title": "الحلقة 137",
+      "date_added": "الخميس 09 ابريل 2026 - 12:16 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 138,
+      "title": "الحلقة 138",
+      "date_added": "الخميس 09 ابريل 2026 - 12:16 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 139,
+      "title": "الحلقة 139",
+      "date_added": "الخميس 09 ابريل 2026 - 12:17 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 140,
+      "title": "الحلقة 140",
+      "date_added": "الخميس 09 ابريل 2026 - 12:17 صباحا",
       "servers_count": 2
     }
   ]

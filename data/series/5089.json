@@ -17,16 +17,16 @@
   "tags": [
     "#Cennetin Çocukları",
     "#اطفال الجنة مترجم",
-    "مدبلج",
-    "رمضان"
+    "رمضان",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "147 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 25,
+  "total_episodes": 26,
   "status": "ongoing",
-  "last_updated": "2026-04-08T19:03:05.633192Z",
+  "last_updated": "2026-04-09T01:05:13.061375Z",
   "episodes": [
     {
       "number": 1,
@@ -176,6 +176,12 @@
       "number": 25,
       "title": "الحلقة 25",
       "date_added": "الخميس 26 مارس 2026 - 09:40 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 26,
+      "title": "الحلقة 26",
+      "date_added": "الخميس 09 ابريل 2026 - 02:13 صباحا",
       "servers_count": 2
     }
   ]
