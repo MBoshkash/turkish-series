@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.6,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
-    "#شركة العائلة الموسم الثالث",
     "رمضان",
-    "#Aile Sirketi"
+    "#شركة العائلة الموسم الثالث",
+    "#Aile Sirketi",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-04-09T12:58:11.663749Z",
+  "last_updated": "2026-04-10T01:19:15.618440Z",
   "episodes": [
     {
       "number": 1,

@@ -10,23 +10,23 @@
   "language": "التركية",
   "rating": 6.5,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
     "#Eşref Rüya",
+    "#حلم اشرف الموسم الثاني",
     "رمضان",
-    "#حلم اشرف الموسم الثاني"
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "156 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 38,
+  "total_episodes": 40,
   "status": "ongoing",
-  "last_updated": "2026-04-09T12:52:58.995560Z",
+  "last_updated": "2026-04-10T01:14:55.296619Z",
   "episodes": [
     {
       "number": 1,
@@ -254,6 +254,18 @@
       "number": 38,
       "title": "الحلقة 38",
       "date_added": "الجمعة 27 مارس 2026 - 01:07 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 39,
+      "title": "الحلقة 39",
+      "date_added": "الخميس 09 ابريل 2026 - 08:18 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 40,
+      "title": "الحلقة 40",
+      "date_added": "الخميس 09 ابريل 2026 - 08:18 مساءاً",
       "servers_count": 2
     }
   ]

@@ -10,9 +10,9 @@
   "language": "العربية",
   "rating": 6.6,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
     "مدبلج",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-04-09T12:56:51.500472Z",
+  "last_updated": "2026-04-10T01:18:15.007400Z",
   "episodes": [
     {
       "number": 1,

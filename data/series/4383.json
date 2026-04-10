@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 6.0,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
-    "#Kardeslerim الموسم الثالث",
     "#اخوتي الموسم الثالث",
-    "رمضان"
+    "#Kardeslerim الموسم الثالث",
+    "رمضان",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 121,
   "status": "ongoing",
-  "last_updated": "2026-04-09T12:53:47.973614Z",
+  "last_updated": "2026-04-10T01:15:36.694819Z",
   "episodes": [
     {
       "number": 1,

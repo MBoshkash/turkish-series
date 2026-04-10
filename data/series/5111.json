@@ -10,23 +10,22 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
+    "#kiskanmak",
     "#نيران الحسد",
-    "مدبلج",
-    "رمضان",
-    "#kiskanmak"
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "28 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 135,
+  "total_episodes": 140,
   "status": "ongoing",
-  "last_updated": "2026-04-09T12:52:39.359668Z",
+  "last_updated": "2026-04-10T01:14:41.292268Z",
   "episodes": [
     {
       "number": 1,
@@ -836,6 +835,36 @@
       "number": 135,
       "title": "الحلقة 135",
       "date_added": "الجمعة 27 مارس 2026 - 08:43 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 136,
+      "title": "الحلقة 136",
+      "date_added": "الخميس 09 ابريل 2026 - 07:42 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 137,
+      "title": "الحلقة 137",
+      "date_added": "الخميس 09 ابريل 2026 - 07:42 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 138,
+      "title": "الحلقة 138",
+      "date_added": "الخميس 09 ابريل 2026 - 07:42 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 139,
+      "title": "الحلقة 139",
+      "date_added": "الخميس 09 ابريل 2026 - 07:42 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 140,
+      "title": "الحلقة 140",
+      "date_added": "الخميس 09 ابريل 2026 - 07:42 مساءاً",
       "servers_count": 2
     }
   ]

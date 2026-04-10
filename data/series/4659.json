@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "#Kizil Goncalar الموسم الاول",
-    "مدبلج"
+    "مدبلج",
+    "#Kizil Goncalar الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 4,
   "status": "ongoing",
-  "last_updated": "2026-04-09T12:53:45.975685Z",
+  "last_updated": "2026-04-10T01:15:35.177808Z",
   "episodes": [
     {
       "number": 1,

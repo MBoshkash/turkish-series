@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 8.5,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
     "مدبلج",
-    "رمضان",
+    "#EGO",
     "#مسلسل الغرور",
-    "#EGO"
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "130 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-04-09T12:55:59.482184Z",
+  "last_updated": "2026-04-10T01:17:25.421635Z",
   "episodes": [
     {
       "number": 1,

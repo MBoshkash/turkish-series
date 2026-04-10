@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 6.9,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
     "مدبلج",
-    "#Içimizdeki Ates الموسم الاول",
     "#النار التي بداخلنا",
-    "رمضان"
+    "رمضان",
+    "#Içimizdeki Ates الموسم الاول"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 5,
   "status": "ongoing",
-  "last_updated": "2026-04-09T12:57:40.562759Z",
+  "last_updated": "2026-04-10T01:18:47.861595Z",
   "episodes": [
     {
       "number": 1,
