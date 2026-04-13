@@ -10,23 +10,23 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#الاعراف",
     "#بين الجنة والنار مترجم",
-    "مدبلج",
+    "#Arafta - Beyound by Fate",
     "رمضان",
-    "#Arafta - Beyound by Fate"
+    "مدبلج",
+    "#الاعراف"
   ],
   "quality": "WEB-DL",
   "duration": "146 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 68,
+  "total_episodes": 69,
   "status": "ongoing",
-  "last_updated": "2026-04-13T13:10:47.786430Z",
+  "last_updated": "2026-04-13T19:07:54.370428Z",
   "episodes": [
     {
       "number": 1,
@@ -434,6 +434,12 @@
       "number": 68,
       "title": "الحلقة 68",
       "date_added": "الخميس 09 ابريل 2026 - 10:54 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 69,
+      "title": "الحلقة 69",
+      "date_added": "الإثنين 13 ابريل 2026 - 10:07 مساءاً",
       "servers_count": 2
     }
   ]

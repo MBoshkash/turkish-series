@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 6.8,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "#المنظمة الموسم الثالث",
     "مدبلج",
-    "#Teşkilat الموسم الثالث",
-    "#Teşkilat"
+    "#Teşkilat",
+    "#المنظمة الموسم الثالث",
+    "#Teşkilat الموسم الثالث"
   ],
   "quality": "WEB-DL",
   "duration": "160 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 31,
   "status": "ongoing",
-  "last_updated": "2026-04-13T13:12:49.245996Z",
+  "last_updated": "2026-04-13T19:08:50.751730Z",
   "episodes": [
     {
       "number": 1,
