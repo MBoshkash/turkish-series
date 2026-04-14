@@ -15,18 +15,18 @@
     "كوميدي"
   ],
   "tags": [
-    "#Uzak.Sehir.",
     "مدبلج",
-    "#المدينة البعيدة الموسم الثاني",
-    "رمضان"
+    "رمضان",
+    "#Uzak.Sehir.",
+    "#المدينة البعيدة الموسم الثاني"
   ],
   "quality": "WEB-DL",
   "duration": "141 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 28,
+  "total_episodes": 29,
   "status": "ongoing",
-  "last_updated": "2026-04-13T19:03:04.671765Z",
+  "last_updated": "2026-04-14T01:14:51.781204Z",
   "episodes": [
     {
       "number": 1,
@@ -193,6 +193,12 @@
     {
       "number": 28,
       "title": "الحلقة 28",
+      "date_added": "",
+      "servers_count": 8
+    },
+    {
+      "number": 29,
+      "title": "الحلقة 29",
       "date_added": "",
       "servers_count": 8
     }
