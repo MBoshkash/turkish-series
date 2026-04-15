@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.5,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
     "رمضان",
-    "مدبلج",
+    "#تذكر الحب",
     "#Aski Hatirla",
-    "#تذكر الحب"
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "50 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-04-14T19:05:58.818027Z",
+  "last_updated": "2026-04-15T01:22:13.977933Z",
   "episodes": [
     {
       "number": 1,
