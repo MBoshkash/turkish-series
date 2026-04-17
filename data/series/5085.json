@@ -10,8 +10,8 @@
   "language": "العربية",
   "rating": 7.2,
   "genres": [
-    "دراما",
     "كوميدي",
+    "دراما",
     "رومانسي"
   ],
   "tags": [
@@ -23,9 +23,9 @@
   "duration": "32 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 139,
+  "total_episodes": 144,
   "status": "ongoing",
-  "last_updated": "2026-04-17T12:58:16.733210Z",
+  "last_updated": "2026-04-17T18:42:55.729085Z",
   "episodes": [
     {
       "number": 1,
@@ -859,6 +859,36 @@
       "number": 140,
       "title": "الحلقة 140",
       "date_added": "الخميس 09 ابريل 2026 - 12:17 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 141,
+      "title": "الحلقة 141",
+      "date_added": "الجمعة 17 ابريل 2026 - 08:56 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 142,
+      "title": "الحلقة 142",
+      "date_added": "الجمعة 17 ابريل 2026 - 08:56 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 143,
+      "title": "الحلقة 143",
+      "date_added": "الجمعة 17 ابريل 2026 - 08:56 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 144,
+      "title": "الحلقة 144",
+      "date_added": "الجمعة 17 ابريل 2026 - 08:56 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 145,
+      "title": "الحلقة 145",
+      "date_added": "الجمعة 17 ابريل 2026 - 08:56 مساءاً",
       "servers_count": 2
     }
   ]
