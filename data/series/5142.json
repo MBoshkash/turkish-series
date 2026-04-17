@@ -10,23 +10,23 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "رومانسي",
+    "كوميدي",
     "دراما",
-    "كوميدي"
+    "رومانسي"
   ],
   "tags": [
+    "مدبلج",
     "#Can Bagi",
-    "رمضان",
     "#خيوط الحياة مدبلج",
-    "مدبلج"
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "57 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 120,
+  "total_episodes": 125,
   "status": "ongoing",
-  "last_updated": "2026-04-16T19:03:50.872872Z",
+  "last_updated": "2026-04-17T01:20:30.264317Z",
   "episodes": [
     {
       "number": 1,
@@ -746,6 +746,36 @@
       "number": 120,
       "title": "الحلقة 120",
       "date_added": "الخميس 09 ابريل 2026 - 11:07 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 121,
+      "title": "الحلقة 121",
+      "date_added": "الخميس 16 ابريل 2026 - 10:59 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 122,
+      "title": "الحلقة 122",
+      "date_added": "الخميس 16 ابريل 2026 - 10:59 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 123,
+      "title": "الحلقة 123",
+      "date_added": "الخميس 16 ابريل 2026 - 10:59 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 124,
+      "title": "الحلقة 124",
+      "date_added": "الخميس 16 ابريل 2026 - 10:59 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 125,
+      "title": "الحلقة 125",
+      "date_added": "الخميس 16 ابريل 2026 - 10:59 مساءاً",
       "servers_count": 2
     }
   ]

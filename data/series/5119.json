@@ -10,22 +10,22 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#Esaret",
     "#الأسيرة مدبلج",
-    "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "#Esaret",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "41 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 205,
+  "total_episodes": 206,
   "status": "ongoing",
-  "last_updated": "2026-04-16T19:04:00.180041Z",
+  "last_updated": "2026-04-17T01:20:39.473337Z",
   "episodes": [
     {
       "number": 1,
@@ -1255,6 +1255,12 @@
       "number": 206,
       "title": "الحلقة 206",
       "date_added": "الأربعاء 15 ابريل 2026 - 01:07 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 207,
+      "title": "الحلقة 207",
+      "date_added": "الخميس 16 ابريل 2026 - 10:59 مساءاً",
       "servers_count": 2
     }
   ]
