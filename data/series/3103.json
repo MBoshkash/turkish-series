@@ -10,9 +10,9 @@
   "language": "العربية",
   "rating": 7.6,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
     "#Aile Sirketi",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-04-18T01:08:46.219487Z",
+  "last_updated": "2026-04-18T07:09:24.805175Z",
   "episodes": [
     {
       "number": 1,

@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "#ÇOCUKLUK",
     "مدبلج",
+    "#ÇOCUKLUK",
     "#ÇOCUKLUK الموسم الاول",
     "رمضان"
   ],
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 11,
   "status": "ongoing",
-  "last_updated": "2026-04-18T01:09:58.614701Z",
+  "last_updated": "2026-04-18T07:11:11.821887Z",
   "episodes": [
     {
       "number": 1,

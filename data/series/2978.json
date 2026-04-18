@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.9,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
     "مدبلج",
-    "#Yesilçam",
     "#يشيلجام الموسم الثاني",
-    "رمضان"
+    "رمضان",
+    "#Yesilçam"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-04-18T01:08:57.485072Z",
+  "last_updated": "2026-04-18T07:09:40.828637Z",
   "episodes": [
     {
       "number": 1,
