@@ -11,17 +11,17 @@
   "rating": 6.5,
   "genres": [
     "رومانسي",
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#Evim",
+    "مدبلج",
     "#منزلي",
     "#Evim الموسم الثاني",
-    "#Dogdugun Ev Kaderindir",
     "رمضان",
     "#منزلي الموسم الثاني",
-    "مدبلج"
+    "#Evim",
+    "#Dogdugun Ev Kaderindir"
   ],
   "quality": "720p",
   "duration": "140 دقيقة",
@@ -29,7 +29,7 @@
   "cast": [],
   "total_episodes": 31,
   "status": "ongoing",
-  "last_updated": "2026-04-20T20:16:13.496052Z",
+  "last_updated": "2026-04-21T01:25:54.381365Z",
   "episodes": [
     {
       "number": 1,

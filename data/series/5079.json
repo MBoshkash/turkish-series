@@ -24,9 +24,9 @@
   "duration": "141 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 29,
+  "total_episodes": 30,
   "status": "ongoing",
-  "last_updated": "2026-04-20T18:50:46.166569Z",
+  "last_updated": "2026-04-21T01:15:20.053418Z",
   "episodes": [
     {
       "number": 1,
@@ -199,6 +199,12 @@
     {
       "number": 29,
       "title": "الحلقة 29",
+      "date_added": "",
+      "servers_count": 8
+    },
+    {
+      "number": 30,
+      "title": "الحلقة 30",
       "date_added": "",
       "servers_count": 8
     }
