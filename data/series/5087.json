@@ -10,12 +10,13 @@
   "language": "التركية",
   "rating": 6.5,
   "genres": [
-    "دراما",
     "كوميدي",
+    "دراما",
     "رومانسي"
   ],
   "tags": [
     "رمضان",
+    "مدبلج",
     "#Eşref Rüya",
     "#حلم اشرف الموسم الثاني"
   ],
@@ -23,9 +24,9 @@
   "duration": "156 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 40,
+  "total_episodes": 41,
   "status": "ongoing",
-  "last_updated": "2026-04-22T18:59:46.752208Z",
+  "last_updated": "2026-04-23T07:19:07.601973Z",
   "episodes": [
     {
       "number": 1,
@@ -265,6 +266,12 @@
       "number": 40,
       "title": "الحلقة 40",
       "date_added": "الخميس 09 ابريل 2026 - 08:18 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 41,
+      "title": "الحلقة 41",
+      "date_added": "الخميس 23 ابريل 2026 - 09:53 صباحا",
       "servers_count": 2
     }
   ]
