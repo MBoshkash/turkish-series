@@ -10,15 +10,14 @@
   "language": "التركية",
   "rating": 6.8,
   "genres": [
-    "دراما",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#Sokagin Cocuklari",
-    "مدبلج",
     "#اولاد الشوارع",
-    "رمضان"
+    "رمضان",
+    "#Sokagin Cocuklari",
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "45 دقيقة",
@@ -26,7 +25,7 @@
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-04-23T19:15:57.463346Z",
+  "last_updated": "2026-04-24T01:21:19.222569Z",
   "episodes": [
     {
       "number": 1,
