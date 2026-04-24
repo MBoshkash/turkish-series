@@ -10,24 +10,22 @@
   "language": "التركية",
   "rating": 7.5,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "كوميدي"
   ],
   "tags": [
-    "#الخليفة",
-    "رمضان",
-    "#مشاهدة و تحميل مسلسل الخليفة",
+    "#Halef: Koklerin Cagrıs",
     "مدبلج",
-    "#Halef: Koklerin Cagrıs"
+    "#الخليفة",
+    "#مشاهدة و تحميل مسلسل الخليفة"
   ],
   "quality": "WEB-DL",
   "duration": "141 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 26,
+  "total_episodes": 29,
   "status": "ongoing",
-  "last_updated": "2026-04-24T01:17:41.101630Z",
+  "last_updated": "2026-04-24T07:23:36.385590Z",
   "episodes": [
     {
       "number": 1,
@@ -183,6 +181,24 @@
       "number": 26,
       "title": "الحلقة 26",
       "date_added": "الأحد 29 مارس 2026 - 08:26 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 27,
+      "title": "الحلقة 27",
+      "date_added": "الجمعة 24 ابريل 2026 - 09:18 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 28,
+      "title": "الحلقة 28",
+      "date_added": "الجمعة 24 ابريل 2026 - 09:18 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 29,
+      "title": "الحلقة 29",
+      "date_added": "الجمعة 24 ابريل 2026 - 09:21 صباحا",
       "servers_count": 2
     }
   ]

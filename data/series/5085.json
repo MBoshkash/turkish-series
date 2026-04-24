@@ -10,22 +10,22 @@
   "language": "العربية",
   "rating": 7.2,
   "genres": [
-    "كوميدي",
     "دراما",
+    "كوميدي",
     "رومانسي"
   ],
   "tags": [
     "مدبلج",
-    "رمضان",
-    "#Uzak Şehir"
+    "#Uzak Şehir",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "32 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 144,
+  "total_episodes": 149,
   "status": "ongoing",
-  "last_updated": "2026-04-24T01:17:42.271064Z",
+  "last_updated": "2026-04-24T07:23:38.423516Z",
   "episodes": [
     {
       "number": 1,
@@ -889,6 +889,36 @@
       "number": 145,
       "title": "الحلقة 145",
       "date_added": "الجمعة 17 ابريل 2026 - 08:56 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 146,
+      "title": "الحلقة 146",
+      "date_added": "الجمعة 24 ابريل 2026 - 09:58 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 147,
+      "title": "الحلقة 147",
+      "date_added": "الجمعة 24 ابريل 2026 - 09:58 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 148,
+      "title": "الحلقة 148",
+      "date_added": "الجمعة 24 ابريل 2026 - 09:58 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 149,
+      "title": "الحلقة 149",
+      "date_added": "الجمعة 24 ابريل 2026 - 09:58 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 150,
+      "title": "الحلقة 150",
+      "date_added": "الجمعة 24 ابريل 2026 - 09:58 صباحا",
       "servers_count": 2
     }
   ]
