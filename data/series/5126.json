@@ -10,10 +10,12 @@
   "language": "التركية",
   "rating": 9.0,
   "genres": [
+    "دراما",
     "كوميدي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
+    "رمضان",
     "مدبلج",
     "#هذا البحر سوف يفيض مترجم",
     "#Tasacak Bu Deniz"
@@ -22,9 +24,9 @@
   "duration": "142 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 23,
+  "total_episodes": 25,
   "status": "ongoing",
-  "last_updated": "2026-04-25T12:46:59.634818Z",
+  "last_updated": "2026-04-25T18:41:36.820341Z",
   "episodes": [
     {
       "number": 1,
@@ -162,6 +164,18 @@
       "number": 23,
       "title": "الحلقة 23",
       "date_added": "الثلاثاء 07 ابريل 2026 - 12:27 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 24,
+      "title": "الحلقة 24",
+      "date_added": "السبت 25 ابريل 2026 - 08:14 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 25,
+      "title": "الحلقة 25",
+      "date_added": "السبت 25 ابريل 2026 - 08:14 مساءاً",
       "servers_count": 2
     }
   ]
