@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 5.1,
   "genres": [
+    "دراما",
     "رومانسي",
-    "كوميدي",
-    "دراما"
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
     "#عائلتي الكبيرة",
-    "#Kocaman Ailem"
+    "#Kocaman Ailem",
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "45 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 26,
   "status": "ongoing",
-  "last_updated": "2026-04-25T18:53:27.488801Z",
+  "last_updated": "2026-04-26T01:31:32.999366Z",
   "episodes": [
     {
       "number": 1,
