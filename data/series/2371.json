@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 5.7,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#Yasak Elma",
-    "رمضان",
     "#التفاح الحرام الموسم الرابع",
-    "مدبلج"
+    "رمضان",
+    "مدبلج",
+    "#Yasak Elma"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 99,
   "status": "ongoing",
-  "last_updated": "2026-04-26T12:57:18.092158Z",
+  "last_updated": "2026-04-26T18:47:11.324471Z",
   "episodes": [
     {
       "number": 1,
