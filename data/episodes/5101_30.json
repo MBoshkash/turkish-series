@@ -1,0 +1,86 @@
+{
+  "series_id": "5101",
+  "series_title": "المنظمة الموسم السادس",
+  "episode_number": 30,
+  "title": "الحلقة 30",
+  "date_added": "الأحد 26 ابريل 2026 - 11:43 مساءاً",
+  "last_updated": "2026-04-27T01:27:54.008791Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/100018/المنظمة-الموسم-السادس/الحلقة-30",
+        "quality": "720p",
+        "source": "akwam"
+      },
+      {
+        "name": "Vidara",
+        "type": "iframe",
+        "url": "https://vidara.to/e/m2VqpgoJCSZb3",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Voe",
+        "type": "iframe",
+        "url": "https://voe.sx/e/tsam9lrtfopm",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/100018/المنظمة-الموسم-السادس/الحلقة-30",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/70ffj0cuurts",
+        "quality": "1080p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/fbdjl005dtxg/%5Barabseed%5D.Teskilat.S06E30.1080p.mp4",
+        "quality": "1080p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/0d1rf75rc2va",
+        "quality": "720p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/pjtioadaybpt/%5Barabseed%5D.Teskilat.S06E30.720p.mp4",
+        "quality": "720p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/4wak3l6h4qwj",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/idg444foe4lo/%5Barabseed%5D.Teskilat.S06E30.480p.mp4",
+        "quality": "480p",
+        "is_direct": true,
+        "source": "arabseed"
+      }
+    ]
+  }
+}

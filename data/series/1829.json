@@ -11,14 +11,14 @@
   "rating": 7.0,
   "genres": [
     "رومانسي",
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#Bas Belasi",
     "مدبلج",
-    "#مصيبة رأسي",
-    "رمضان"
+    "رمضان",
+    "#Bas Belasi",
+    "#مصيبة رأسي"
   ],
   "quality": "720p",
   "duration": "100 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-04-26T18:48:52.468101Z",
+  "last_updated": "2026-04-27T01:35:57.772017Z",
   "episodes": [
     {
       "number": 1,

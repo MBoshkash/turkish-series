@@ -11,23 +11,23 @@
   "rating": 7.0,
   "genres": [
     "رومانسي",
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
+    "#The Shadow Team",
+    "#المنظمة الموسم السادس",
     "رمضان",
     "مدبلج",
-    "#Teşkilat",
-    "#The Shadow Team",
-    "#المنظمة الموسم السادس"
+    "#Teşkilat"
   ],
   "quality": "WEB-DL",
   "duration": "163 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 29,
+  "total_episodes": 30,
   "status": "ongoing",
-  "last_updated": "2026-04-26T18:40:01.060556Z",
+  "last_updated": "2026-04-27T01:28:00.741411Z",
   "episodes": [
     {
       "number": 1,
@@ -202,6 +202,12 @@
       "title": "الحلقة 29",
       "date_added": "الإثنين 13 ابريل 2026 - 02:31 صباحا",
       "servers_count": 2
+    },
+    {
+      "number": 30,
+      "title": "الحلقة 30",
+      "date_added": "الأحد 26 ابريل 2026 - 11:43 مساءاً",
+      "servers_count": 10
     }
   ]
 }
