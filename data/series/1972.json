@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 4.0,
   "genres": [
-    "دراما",
     "كوميدي",
+    "دراما",
     "رومانسي"
   ],
   "tags": [
     "رمضان",
-    "#Kirik Hayatlar",
     "#حيوات مكسورة",
-    "مدبلج"
+    "مدبلج",
+    "#Kirik Hayatlar"
   ],
   "quality": "720p",
   "duration": "50 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 32,
   "status": "ongoing",
-  "last_updated": "2026-04-27T13:51:11.130481Z",
+  "last_updated": "2026-04-27T20:31:45.801114Z",
   "episodes": [
     {
       "number": 1,

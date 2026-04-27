@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.3,
   "genres": [
-    "دراما",
     "كوميدي",
+    "دراما",
     "رومانسي"
   ],
   "tags": [
-    "#Ölene Kadar",
     "رمضان",
     "#حتى الممات",
-    "مدبلج"
+    "مدبلج",
+    "#Ölene Kadar"
   ],
   "quality": "720p",
   "duration": "",
@@ -26,6 +26,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-04-27T13:58:23.149017Z",
+  "last_updated": "2026-04-27T20:50:28.274416Z",
   "episodes": []
 }
