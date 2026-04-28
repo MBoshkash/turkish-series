@@ -10,15 +10,14 @@
   "language": "التركية",
   "rating": 6.3,
   "genres": [
-    "كوميدي",
     "دراما",
+    "كوميدي",
     "رومانسي"
   ],
   "tags": [
-    "رمضان",
-    "مدبلج",
     "#الكنة",
-    "#Elkizi الموسم الاول"
+    "#Elkizi الموسم الاول",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "150 دقيقة",
@@ -26,7 +25,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-04-28T13:56:20.522773Z",
+  "last_updated": "2026-04-28T19:35:53.984504Z",
   "episodes": [
     {
       "number": 1,
