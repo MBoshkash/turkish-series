@@ -10,12 +10,11 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "رومانسي",
     "كوميدي",
+    "رومانسي",
     "دراما"
   ],
   "tags": [
-    "مدبلج",
     "رمضان",
     "#المؤسس اورهان مدبلج"
   ],
@@ -23,9 +22,9 @@
   "duration": "152 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 18,
+  "total_episodes": 19,
   "status": "ongoing",
-  "last_updated": "2026-04-28T19:23:25.456930Z",
+  "last_updated": "2026-04-29T08:00:17.538233Z",
   "episodes": [
     {
       "number": 1,
@@ -133,6 +132,12 @@
       "number": 18,
       "title": "الحلقة 18",
       "date_added": "الإثنين 27 ابريل 2026 - 01:03 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 19,
+      "title": "الحلقة 19",
+      "date_added": "الأربعاء 29 ابريل 2026 - 01:35 صباحا",
       "servers_count": 2
     }
   ]

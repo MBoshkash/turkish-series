@@ -1,0 +1,86 @@
+{
+  "series_id": "5079",
+  "series_title": "المدينة البعيدة الموسم الثاني",
+  "episode_number": 31,
+  "title": "الحلقة 31",
+  "date_added": "الثلاثاء 28 ابريل 2026 - 10:17 مساءاً",
+  "last_updated": "2026-04-29T07:54:09.455411Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://ak.sv/episode/100135/المدينة-البعيدة-الموسم-الثاني/الحلقة-31",
+        "quality": "720p",
+        "source": "akwam"
+      },
+      {
+        "name": "Vidara",
+        "type": "iframe",
+        "url": "https://vidara.to/e/GDFOBjY5Bf6H9",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Voe",
+        "type": "iframe",
+        "url": "https://voe.sx/e/riqbzzh6gene",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://ak.sv/episode/100135/المدينة-البعيدة-الموسم-الثاني/الحلقة-31",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/5q7ucguj6q0p",
+        "quality": "1080p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/2ftrq93cj9nx/%5Barabseed%5D.Uzak.Sehir.S02E31.1080p.mp4",
+        "quality": "1080p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/hflhkidcaref",
+        "quality": "720p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/ts1cjunuvo2z/%5Barabseed%5D.Uzak.Sehir.S02E31.720p.mp4",
+        "quality": "720p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/nc2gbwnqfouf",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/vh19vrmyw0t7/%5Barabseed%5D.Uzak.Sehir.S02E31.480p.mp4",
+        "quality": "480p",
+        "is_direct": true,
+        "source": "arabseed"
+      }
+    ]
+  }
+}
