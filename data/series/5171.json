@@ -11,23 +11,23 @@
   "rating": 7.0,
   "genres": [
     "رومانسي",
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#Arafta - Beyound by Fate",
-    "#الاعراف",
-    "رمضان",
     "مدبلج",
-    "#بين الجنة والنار مترجم"
+    "#Arafta - Beyound by Fate",
+    "رمضان",
+    "#بين الجنة والنار مترجم",
+    "#الاعراف"
   ],
   "quality": "WEB-DL",
   "duration": "146 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 72,
+  "total_episodes": 73,
   "status": "ongoing",
-  "last_updated": "2026-04-30T13:14:49.595179Z",
+  "last_updated": "2026-04-30T19:03:13.510013Z",
   "episodes": [
     {
       "number": 1,
@@ -459,6 +459,12 @@
       "number": 72,
       "title": "الحلقة 72",
       "date_added": "السبت 25 ابريل 2026 - 09:30 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 73,
+      "title": "الحلقة 73",
+      "date_added": "الخميس 30 ابريل 2026 - 07:14 مساءاً",
       "servers_count": 2
     }
   ]

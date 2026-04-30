@@ -11,15 +11,15 @@
   "rating": 7.1,
   "genres": [
     "رومانسي",
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#Benim Hayatim",
-    "#حياتي أنا",
-    "رمضان",
     "مدبلج",
-    "#Benim Hayatim الموسم الاول"
+    "#حياتي أنا",
+    "#Benim Hayatim الموسم الاول",
+    "رمضان",
+    "#Benim Hayatim"
   ],
   "quality": "720p",
   "duration": "135 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-04-30T13:19:29.396190Z",
+  "last_updated": "2026-04-30T19:05:33.898611Z",
   "episodes": [
     {
       "number": 1,
