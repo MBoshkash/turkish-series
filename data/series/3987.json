@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 6.2,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
     "رمضان",
-    "مدبلج",
     "#Bizden Olur Mu الموسم الاول",
-    "#هل ستكون منا"
+    "#هل ستكون منا",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "30 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-04-30T01:35:45.425570Z",
+  "last_updated": "2026-04-30T08:13:30.623296Z",
   "episodes": [
     {
       "number": 1,
