@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 5.2,
   "genres": [
-    "رومانسي",
     "دراما",
+    "رومانسي",
     "كوميدي"
   ],
   "tags": [
-    "#السيد شريف",
     "#Seref Bey",
-    "مدبلج"
+    "مدبلج",
+    "#السيد شريف"
   ],
   "quality": "WEB-DL",
   "duration": "55 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-04-29T19:23:02.414945Z",
+  "last_updated": "2026-04-30T01:38:47.304135Z",
   "episodes": [
     {
       "number": 1,
