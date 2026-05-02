@@ -10,23 +10,23 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
+    "رومانسي",
     "دراما",
-    "كوميدي",
-    "رومانسي"
+    "كوميدي"
   ],
   "tags": [
     "رمضان",
-    "#kiskanmak",
     "#نيران الحسد",
-    "مدبلج"
+    "مدبلج",
+    "#kiskanmak"
   ],
   "quality": "WEB-DL",
   "duration": "28 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 145,
+  "total_episodes": 150,
   "status": "ongoing",
-  "last_updated": "2026-05-02T07:38:25.828527Z",
+  "last_updated": "2026-05-02T18:46:20.543838Z",
   "episodes": [
     {
       "number": 1,
@@ -896,6 +896,36 @@
       "number": 145,
       "title": "الحلقة 145",
       "date_added": "الجمعة 24 ابريل 2026 - 10:20 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 146,
+      "title": "الحلقة 146",
+      "date_added": "السبت 02 مايو 2026 - 07:52 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 147,
+      "title": "الحلقة 147",
+      "date_added": "السبت 02 مايو 2026 - 07:53 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 148,
+      "title": "الحلقة 148",
+      "date_added": "السبت 02 مايو 2026 - 07:53 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 149,
+      "title": "الحلقة 149",
+      "date_added": "السبت 02 مايو 2026 - 07:53 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 150,
+      "title": "الحلقة 150",
+      "date_added": "السبت 02 مايو 2026 - 07:53 مساءاً",
       "servers_count": 2
     }
   ]
