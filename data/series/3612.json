@@ -10,16 +10,16 @@
   "language": "التركية",
   "rating": 6.6,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
+    "#Gecenin Ucunda",
     "#على مشارف الليل",
-    "مدبلج",
     "رمضان",
-    "#Gecenin Ucunda الموسم الاول",
-    "#Gecenin Ucunda"
+    "مدبلج",
+    "#Gecenin Ucunda الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "140 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 26,
   "status": "ongoing",
-  "last_updated": "2026-05-01T19:10:24.020561Z",
+  "last_updated": "2026-05-02T01:31:32.480236Z",
   "episodes": [
     {
       "number": 1,

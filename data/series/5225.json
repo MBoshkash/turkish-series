@@ -10,14 +10,14 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
+    "مدبلج",
     "#Esaretim Sensin",
-    "#انت اسيري",
-    "مدبلج"
+    "#انت اسيري"
   ],
   "quality": "WEB-DL",
   "duration": "30 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 20,
   "status": "ongoing",
-  "last_updated": "2026-05-01T19:02:25.510279Z",
+  "last_updated": "2026-05-02T01:26:51.820048Z",
   "episodes": [
     {
       "number": 1,

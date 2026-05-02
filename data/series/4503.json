@@ -10,13 +10,13 @@
   "language": "الإنجليزية",
   "rating": 6.2,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#Creature الموسم الاول",
-    "مدبلج"
+    "مدبلج",
+    "#Creature الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-05-01T19:09:30.988896Z",
+  "last_updated": "2026-05-02T01:29:59.235157Z",
   "episodes": [
     {
       "number": 1,

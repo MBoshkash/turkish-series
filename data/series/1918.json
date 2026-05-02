@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 5.1,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "#Adım Başı Kafe",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-05-01T19:12:49.621738Z",
+  "last_updated": "2026-05-02T01:35:42.208707Z",
   "episodes": [
     {
       "number": 1,

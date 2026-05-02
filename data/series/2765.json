@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 6.7,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
+    "#Bizden Olur Mu",
     "رمضان",
-    "#هل ستكون منا",
-    "#Bizden Olur Mu"
+    "#هل ستكون منا"
   ],
   "quality": "WEB-DL",
   "duration": "18 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-05-01T19:11:58.184386Z",
+  "last_updated": "2026-05-02T01:34:13.698395Z",
   "episodes": [
     {
       "number": 1,
