@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 4.9,
   "genres": [
-    "كوميدي",
     "رومانسي",
+    "كوميدي",
     "دراما"
   ],
   "tags": [
-    "#هذه هي قصتي",
-    "مدبلج"
+    "مدبلج",
+    "#هذه هي قصتي"
   ],
   "quality": "WEB-DL",
   "duration": "40 دقيقة",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-05-03T01:33:26.874194Z",
+  "last_updated": "2026-05-03T08:07:39.710490Z",
   "episodes": [
     {
       "number": 1,
