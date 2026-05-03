@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.9,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
-    "#Dirilis: Ertugrul",
     "رمضان",
-    "#قيامة أرطغرل الموسم الثالث"
+    "#قيامة أرطغرل الموسم الثالث",
+    "مدبلج",
+    "#Dirilis: Ertugrul"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 102,
   "status": "ongoing",
-  "last_updated": "2026-05-03T08:09:21.202756Z",
+  "last_updated": "2026-05-03T13:06:10.717978Z",
   "episodes": [
     {
       "number": 1,
