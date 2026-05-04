@@ -10,23 +10,22 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
+    "رومانسي",
     "كوميدي",
-    "دراما",
-    "رومانسي"
+    "دراما"
   ],
   "tags": [
-    "رمضان",
-    "#Güller ve Günahlar",
     "#ورود وذنوب مترجم",
+    "#Güller ve Günahlar",
     "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "134 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 26,
+  "total_episodes": 27,
   "status": "ongoing",
-  "last_updated": "2026-05-03T12:58:22.718935Z",
+  "last_updated": "2026-05-04T01:29:15.715830Z",
   "episodes": [
     {
       "number": 1,
@@ -182,6 +181,12 @@
       "number": 26,
       "title": "الحلقة 26",
       "date_added": "الأحد 26 ابريل 2026 - 11:43 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 27,
+      "title": "الحلقة 27",
+      "date_added": "الإثنين 04 مايو 2026 - 01:33 صباحا",
       "servers_count": 2
     }
   ]
