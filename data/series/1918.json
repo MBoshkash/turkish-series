@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.1,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
+    "#Adım Başı Kafe",
     "رمضان",
-    "#مقهى لكل خطوة",
-    "#Adım Başı Kafe"
+    "مدبلج",
+    "#مقهى لكل خطوة"
   ],
   "quality": "WEB-DL",
   "duration": "30 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-05-05T08:10:26.825451Z",
+  "last_updated": "2026-05-05T13:09:34.285411Z",
   "episodes": [
     {
       "number": 1,

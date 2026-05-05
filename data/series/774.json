@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.4,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "#Sen Çal Kapimi",
-    "مدبلج",
     "#أطرق بابي",
-    "#أنت أطرق بابي"
+    "مدبلج",
+    "#أنت أطرق بابي",
+    "#Sen Çal Kapimi"
   ],
   "quality": "WEB-DL",
   "duration": "44 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 115,
   "status": "ongoing",
-  "last_updated": "2026-05-05T08:11:32.888131Z",
+  "last_updated": "2026-05-05T13:10:22.277318Z",
   "episodes": [
     {
       "number": 1,

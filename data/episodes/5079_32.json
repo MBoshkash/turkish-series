@@ -1,0 +1,72 @@
+{
+  "series_id": "5079",
+  "series_title": "المدينة البعيدة الموسم الثاني",
+  "episode_number": 32,
+  "title": "الحلقة 32",
+  "date_added": "",
+  "last_updated": "2026-05-05T13:02:10.204509Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "Vidara",
+        "type": "iframe",
+        "url": "https://vidara.to/e/dd3GRiFfH2eJW",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Bysezejataos",
+        "type": "iframe",
+        "url": "https://bysezejataos.com/e/3kgo61k5qskl",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      }
+    ],
+    "download": [
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/tq5zjsptnyhc",
+        "quality": "1080p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/mskh6r11tem1/%5Barabseed%5D.Uzak.Sehir.S02E32.1080p.mp4",
+        "quality": "1080p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/n8c9c3cu61q2",
+        "quality": "720p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/o2dscasz1cij/%5Barabseed%5D.Uzak.Sehir.S02E32.720p.mp4",
+        "quality": "720p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/6vowyv0hpsqg",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/ziu5t9fllet2/%5Barabseed%5D.Uzak.Sehir.S02E32.480p.mp4",
+        "quality": "480p",
+        "is_direct": true,
+        "source": "arabseed"
+      }
+    ]
+  }
+}
