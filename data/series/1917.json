@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 4.0,
   "genres": [
-    "دراما",
     "رومانسي",
+    "دراما",
     "كوميدي"
   ],
   "tags": [
-    "#Ikimizin Sirri",
-    "رمضان",
     "مدبلج",
-    "#سرنا نحن الإثنان"
+    "#Ikimizin Sirri",
+    "#سرنا نحن الإثنان",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "160 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-05-05T13:09:12.105895Z",
+  "last_updated": "2026-05-05T19:09:30.016162Z",
   "episodes": [
     {
       "number": 1,
