@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 6.7,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "#Benim Adım Melek"
+    "#Benim Adım Melek",
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "160 دقيقة",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 38,
   "status": "ongoing",
-  "last_updated": "2026-05-06T19:32:41.055664Z",
+  "last_updated": "2026-05-07T01:34:13.423326Z",
   "episodes": [
     {
       "number": 1,

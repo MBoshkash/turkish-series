@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 5.2,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
     "#من الذي أخذك",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 31,
   "status": "ongoing",
-  "last_updated": "2026-05-06T19:30:37.483262Z",
+  "last_updated": "2026-05-07T01:33:02.067180Z",
   "episodes": [
     {
       "number": 1,
