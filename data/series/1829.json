@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "#مصيبة رأسي",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-05-07T13:44:59.179343Z",
+  "last_updated": "2026-05-08T01:52:27.353745Z",
   "episodes": [
     {
       "number": 1,
