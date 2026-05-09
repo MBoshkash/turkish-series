@@ -11,8 +11,8 @@
   "rating": 7.0,
   "genres": [
     "دراما",
-    "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
     "#نيران الحسد",
@@ -24,9 +24,9 @@
   "duration": "28 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 150,
+  "total_episodes": 155,
   "status": "ongoing",
-  "last_updated": "2026-05-08T19:20:50.990765Z",
+  "last_updated": "2026-05-09T01:27:03.138434Z",
   "episodes": [
     {
       "number": 1,
@@ -926,6 +926,36 @@
       "number": 150,
       "title": "الحلقة 150",
       "date_added": "السبت 02 مايو 2026 - 07:53 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 151,
+      "title": "الحلقة 151",
+      "date_added": "الجمعة 08 مايو 2026 - 11:40 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 152,
+      "title": "الحلقة 152",
+      "date_added": "الجمعة 08 مايو 2026 - 11:40 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 153,
+      "title": "الحلقة 153",
+      "date_added": "الجمعة 08 مايو 2026 - 11:41 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 154,
+      "title": "الحلقة 154",
+      "date_added": "الجمعة 08 مايو 2026 - 11:41 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 155,
+      "title": "الحلقة 155",
+      "date_added": "الجمعة 08 مايو 2026 - 11:41 مساءاً",
       "servers_count": 2
     }
   ]
