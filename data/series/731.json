@@ -11,14 +11,14 @@
   "rating": 5.0,
   "genres": [
     "دراما",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#الحب والخطيئة",
-    "#Ask ve Günah",
     "مدبلج",
-    "رمضان"
+    "#Ask ve Günah",
+    "رمضان",
+    "#الحب والخطيئة"
   ],
   "quality": "WEB-DL",
   "duration": "50 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 120,
   "status": "ongoing",
-  "last_updated": "2026-05-10T08:15:04.272276Z",
+  "last_updated": "2026-05-10T13:05:05.528211Z",
   "episodes": [
     {
       "number": 1,
