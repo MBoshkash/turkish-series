@@ -10,12 +10,11 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "كوميدي",
     "رومانسي",
+    "كوميدي",
     "دراما"
   ],
   "tags": [
-    "رمضان",
     "#ورود وذنوب",
     "مدبلج"
   ],
@@ -23,9 +22,9 @@
   "duration": "50 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 78,
+  "total_episodes": 81,
   "status": "ongoing",
-  "last_updated": "2026-05-09T18:45:02.980276Z",
+  "last_updated": "2026-05-10T01:33:05.372965Z",
   "episodes": [
     {
       "number": 1,
@@ -493,6 +492,24 @@
       "number": 78,
       "title": "الحلقة 78",
       "date_added": "الخميس 30 ابريل 2026 - 08:31 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 79,
+      "title": "الحلقة 79",
+      "date_added": "الأحد 10 مايو 2026 - 01:35 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 80,
+      "title": "الحلقة 80",
+      "date_added": "الأحد 10 مايو 2026 - 01:35 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 81,
+      "title": "الحلقة 81",
+      "date_added": "الأحد 10 مايو 2026 - 01:35 صباحا",
       "servers_count": 2
     }
   ]
