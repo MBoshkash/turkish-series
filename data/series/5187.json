@@ -10,11 +10,12 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "كوميدي",
     "رومانسي",
+    "كوميدي",
     "دراما"
   ],
   "tags": [
+    "مدبلج",
     "رمضان",
     "#kizil goncala"
   ],
@@ -22,9 +23,9 @@
   "duration": "48 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 83,
+  "total_episodes": 86,
   "status": "ongoing",
-  "last_updated": "2026-05-11T14:22:21.882735Z",
+  "last_updated": "2026-05-11T19:23:27.708168Z",
   "episodes": [
     {
       "number": 1,
@@ -522,6 +523,24 @@
       "number": 83,
       "title": "الحلقة 83",
       "date_added": "الإثنين 04 مايو 2026 - 01:33 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 84,
+      "title": "الحلقة 84",
+      "date_added": "الإثنين 11 مايو 2026 - 08:35 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 85,
+      "title": "الحلقة 85",
+      "date_added": "الإثنين 11 مايو 2026 - 08:35 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 86,
+      "title": "الحلقة 86",
+      "date_added": "الإثنين 11 مايو 2026 - 08:36 مساءاً",
       "servers_count": 2
     }
   ]

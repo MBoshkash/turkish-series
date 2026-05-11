@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
-    "كوميدي",
     "رومانسي",
+    "كوميدي",
     "دراما"
   ],
   "tags": [
-    "#Hekimoglu",
     "#حكيم أوغلو",
-    "مدبلج"
+    "مدبلج",
+    "#Hekimoglu"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 37,
   "status": "ongoing",
-  "last_updated": "2026-05-11T14:26:03.611811Z",
+  "last_updated": "2026-05-11T19:31:41.650331Z",
   "episodes": [
     {
       "number": 1,
