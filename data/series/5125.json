@@ -16,16 +16,15 @@
   ],
   "tags": [
     "#ورود وذنوب مترجم",
-    "#Güller ve Günahlar",
-    "رمضان"
+    "#Güller ve Günahlar"
   ],
   "quality": "WEB-DL",
   "duration": "134 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 27,
+  "total_episodes": 28,
   "status": "ongoing",
-  "last_updated": "2026-05-10T18:48:48.440132Z",
+  "last_updated": "2026-05-11T02:10:22.438891Z",
   "episodes": [
     {
       "number": 1,
@@ -187,6 +186,12 @@
       "number": 27,
       "title": "الحلقة 27",
       "date_added": "الإثنين 04 مايو 2026 - 01:33 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 28,
+      "title": "الحلقة 28",
+      "date_added": "الإثنين 11 مايو 2026 - 03:01 صباحا",
       "servers_count": 2
     }
   ]
