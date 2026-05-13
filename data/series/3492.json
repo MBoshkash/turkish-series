@@ -10,16 +10,16 @@
   "language": "العربية",
   "rating": 7.2,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
+    "مدبلج",
+    "رمضان",
     "#سعيد وشورى",
     "#ليث و نورا",
-    "#Kurt Seyit ve Sura",
-    "رمضان",
-    "مدبلج"
+    "#Kurt Seyit ve Sura"
   ],
   "quality": "WEB-DL",
   "duration": "50 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 15,
   "status": "ongoing",
-  "last_updated": "2026-05-13T14:24:17.957602Z",
+  "last_updated": "2026-05-13T19:40:16.926443Z",
   "episodes": [
     {
       "number": 1,
