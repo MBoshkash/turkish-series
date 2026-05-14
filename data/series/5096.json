@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
     "رمضان",
-    "#حب و دموع",
-    "#AŞK VE GÖZYAŞI"
+    "#AŞK VE GÖZYAŞI",
+    "مدبلج",
+    "#حب و دموع"
   ],
   "quality": "WEB-DL",
   "duration": "116 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 7,
   "status": "ongoing",
-  "last_updated": "2026-05-14T08:26:48.103697Z",
+  "last_updated": "2026-05-14T13:43:29.017392Z",
   "episodes": [
     {
       "number": 1,
