@@ -10,16 +10,16 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "رمضان",
-    "#Seref Sözü",
+    "#وعد شرف",
     "#Seref Sözü الموسم الاول",
+    "رمضان",
     "مدبلج",
-    "#وعد شرف"
+    "#Seref Sözü"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 4,
   "status": "ongoing",
-  "last_updated": "2026-05-14T14:08:19.277058Z",
+  "last_updated": "2026-05-14T19:47:34.938791Z",
   "episodes": [
     {
       "number": 1,
