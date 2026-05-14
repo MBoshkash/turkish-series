@@ -10,16 +10,15 @@
   "language": "التركية",
   "rating": 8.3,
   "genres": [
-    "كوميدي",
     "دراما",
+    "كوميدي",
     "رومانسي"
   ],
   "tags": [
-    "رمضان",
     "#Yargi الموسم الأول",
     "#القضاء الموسم الأول",
-    "مدبلج",
-    "#Yargi"
+    "#Yargi",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -27,7 +26,7 @@
   "cast": [],
   "total_episodes": 34,
   "status": "ongoing",
-  "last_updated": "2026-05-14T01:56:09.436265Z",
+  "last_updated": "2026-05-14T08:33:00.827929Z",
   "episodes": [
     {
       "number": 1,

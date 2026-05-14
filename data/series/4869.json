@@ -10,12 +10,13 @@
   "language": "العربية",
   "rating": 5.5,
   "genres": [
-    "كوميدي",
     "دراما",
+    "كوميدي",
     "رومانسي"
   ],
   "tags": [
-    "مدبلج"
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "50 دقيقة",
@@ -23,7 +24,7 @@
   "cast": [],
   "total_episodes": 15,
   "status": "ongoing",
-  "last_updated": "2026-05-14T01:51:56.396975Z",
+  "last_updated": "2026-05-14T08:27:22.009166Z",
   "episodes": [
     {
       "number": 1,
