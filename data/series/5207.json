@@ -10,9 +10,9 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "#ورود وذنوب",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 81,
   "status": "ongoing",
-  "last_updated": "2026-05-14T19:34:21.668684Z",
+  "last_updated": "2026-05-15T01:53:11.220058Z",
   "episodes": [
     {
       "number": 1,

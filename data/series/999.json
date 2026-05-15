@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.7,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#7YUZ",
     "#سبعة وجوه",
     "مدبلج",
-    "رمضان"
+    "رمضان",
+    "#7YUZ"
   ],
   "quality": "WEB-DL",
   "duration": "50 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 7,
   "status": "ongoing",
-  "last_updated": "2026-05-14T19:47:55.564068Z",
+  "last_updated": "2026-05-15T02:07:34.836855Z",
   "episodes": [
     {
       "number": 1,

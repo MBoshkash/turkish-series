@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 6.6,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
-    "مدبلج",
+    "#Kusursuz Kiraci الموسم الاول",
     "#المستأجر المثالي",
-    "#Kusursuz Kiraci الموسم الاول"
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "110 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-05-14T19:40:40.200613Z",
+  "last_updated": "2026-05-15T01:57:10.328187Z",
   "episodes": [
     {
       "number": 1,

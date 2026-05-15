@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "#ÇOCUKLUK الموسم الاول",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 11,
   "status": "ongoing",
-  "last_updated": "2026-05-14T19:47:17.028445Z",
+  "last_updated": "2026-05-15T02:07:20.648503Z",
   "episodes": [
     {
       "number": 1,

@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.7,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
-    "مدبلج",
     "#مسلسل شراب التوب",
-    "#Kizilcik Serbeti الموسم الاول"
+    "مدبلج",
+    "#Kizilcik Serbeti الموسم الاول",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "140 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 29,
   "status": "ongoing",
-  "last_updated": "2026-05-14T19:38:42.356048Z",
+  "last_updated": "2026-05-15T01:55:58.416265Z",
   "episodes": [
     {
       "number": 1,
