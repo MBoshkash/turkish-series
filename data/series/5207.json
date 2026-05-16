@@ -10,9 +10,9 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "كوميدي",
+    "دراما",
     "رومانسي",
-    "دراما"
+    "كوميدي"
   ],
   "tags": [
     "رمضان",
@@ -23,9 +23,9 @@
   "duration": "50 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 81,
+  "total_episodes": 84,
   "status": "ongoing",
-  "last_updated": "2026-05-16T07:49:15.515525Z",
+  "last_updated": "2026-05-16T18:48:42.340511Z",
   "episodes": [
     {
       "number": 1,
@@ -511,6 +511,24 @@
       "number": 81,
       "title": "الحلقة 81",
       "date_added": "الأحد 10 مايو 2026 - 01:35 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 82,
+      "title": "الحلقة 82",
+      "date_added": "السبت 16 مايو 2026 - 08:48 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 83,
+      "title": "الحلقة 83",
+      "date_added": "السبت 16 مايو 2026 - 08:48 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 84,
+      "title": "الحلقة 84",
+      "date_added": "السبت 16 مايو 2026 - 08:48 مساءاً",
       "servers_count": 2
     }
   ]

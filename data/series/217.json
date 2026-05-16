@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 9.1,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "#Ögretmen",
@@ -25,6 +25,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-05-16T08:15:44.533180Z",
+  "last_updated": "2026-05-16T19:03:21.045574Z",
   "episodes": []
 }

@@ -10,21 +10,22 @@
   "language": "العربية",
   "rating": 7.2,
   "genres": [
-    "كوميدي",
-    "دراما"
+    "رومانسي",
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "#Uzak Şehir",
-    "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "32 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 159,
+  "total_episodes": 164,
   "status": "ongoing",
-  "last_updated": "2026-05-16T08:02:15.750890Z",
+  "last_updated": "2026-05-16T18:49:17.567301Z",
   "episodes": [
     {
       "number": 1,
@@ -978,6 +979,36 @@
       "number": 160,
       "title": "الحلقة 160",
       "date_added": "الخميس 07 مايو 2026 - 10:37 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 161,
+      "title": "الحلقة 161",
+      "date_added": "السبت 16 مايو 2026 - 07:37 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 162,
+      "title": "الحلقة 162",
+      "date_added": "السبت 16 مايو 2026 - 07:37 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 163,
+      "title": "الحلقة 163",
+      "date_added": "السبت 16 مايو 2026 - 07:37 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 164,
+      "title": "الحلقة 164",
+      "date_added": "السبت 16 مايو 2026 - 07:37 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 165,
+      "title": "الحلقة 165",
+      "date_added": "السبت 16 مايو 2026 - 07:37 مساءاً",
       "servers_count": 2
     }
   ]

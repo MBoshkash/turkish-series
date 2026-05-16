@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 8.4,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#Sifirinci Gün الموسم الاول",
-    "رمضان",
     "#يوم الصفر الموسم الاول",
-    "مدبلج"
+    "مدبلج",
+    "رمضان",
+    "#Sifirinci Gün الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "170 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 4,
   "status": "ongoing",
-  "last_updated": "2026-05-16T08:07:12.837482Z",
+  "last_updated": "2026-05-16T18:54:30.327997Z",
   "episodes": [
     {
       "number": 1,
