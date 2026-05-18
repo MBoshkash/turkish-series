@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "دراما",
     "كوميدي",
+    "دراما",
     "رومانسي"
   ],
   "tags": [
-    "رمضان",
     "#اسقف زجاجية",
-    "#Cam Tavanlar"
+    "#Cam Tavanlar",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-05-17T18:57:02.630695Z",
+  "last_updated": "2026-05-18T02:03:41.111819Z",
   "episodes": [
     {
       "number": 1,

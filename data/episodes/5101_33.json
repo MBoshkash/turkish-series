@@ -1,0 +1,86 @@
+{
+  "series_id": "5101",
+  "series_title": "المنظمة الموسم السادس",
+  "episode_number": 33,
+  "title": "الحلقة 33",
+  "date_added": "الإثنين 18 مايو 2026 - 01:40 صباحا",
+  "last_updated": "2026-05-18T01:57:40.409937Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://akwam.it/episode/100859/المنظمة-الموسم-السادس/الحلقة-33",
+        "quality": "720p",
+        "source": "akwam"
+      },
+      {
+        "name": "Luluvid",
+        "type": "iframe",
+        "url": "https://luluvid.com/e/8hlrrr8np47q",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Vidara",
+        "type": "iframe",
+        "url": "https://vidara.to/e/HNJxVMkVxRJ1M",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://akwam.it/episode/100859/المنظمة-الموسم-السادس/الحلقة-33",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/hvusu3ydmv94",
+        "quality": "1080p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/wlyw95nm043h/%5Barabseed%5D.Teskilat.S06E33.1080p.mp4",
+        "quality": "1080p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/5b1suoku329z",
+        "quality": "720p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/kamvf085nv21/%5Barabseed%5D.Teskilat.S06E33.720p.mp4",
+        "quality": "720p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/f2xzp3ggsdda",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/uigia2nqpja3/%5Barabseed%5D.Teskilat.S06E33.480p.mp4",
+        "quality": "480p",
+        "is_direct": true,
+        "source": "arabseed"
+      }
+    ]
+  }
+}
