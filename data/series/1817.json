@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
     "#Baht Oyunu",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 17,
   "status": "ongoing",
-  "last_updated": "2026-05-19T08:58:51.954929Z",
+  "last_updated": "2026-05-19T19:53:28.961306Z",
   "episodes": [
     {
       "number": 1,

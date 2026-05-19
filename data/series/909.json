@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 8.3,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
     "#Kırmızı Oda",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 30,
   "status": "ongoing",
-  "last_updated": "2026-05-19T08:59:28.925735Z",
+  "last_updated": "2026-05-19T19:56:50.682046Z",
   "episodes": [
     {
       "number": 1,

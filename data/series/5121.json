@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 6.0,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
     "رمضان",
-    "#قلب اسود مدبلج",
-    "#Siyah Kalp"
+    "#Siyah Kalp",
+    "مدبلج",
+    "#قلب اسود مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "43 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 112,
   "status": "ongoing",
-  "last_updated": "2026-05-19T08:55:48.070207Z",
+  "last_updated": "2026-05-19T19:36:41.463043Z",
   "episodes": [
     {
       "number": 1,

@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.9,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
+    "مدبلج",
     "#رامو",
     "#Ramo الموسم الثاني",
-    "#Ramo",
-    "مدبلج"
+    "#Ramo"
   ],
   "quality": "720p",
   "duration": "150 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 29,
   "status": "ongoing",
-  "last_updated": "2026-05-19T08:59:28.403266Z",
+  "last_updated": "2026-05-19T19:56:48.364743Z",
   "episodes": [
     {
       "number": 1,
