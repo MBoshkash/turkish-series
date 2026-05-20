@@ -10,23 +10,23 @@
   "language": "التركية",
   "rating": 8.0,
   "genres": [
-    "كوميدي",
+    "رومانسي",
     "دراما",
-    "رومانسي"
+    "كوميدي"
   ],
   "tags": [
-    "رمضان",
-    "#Cennetin Çocukları",
     "مدبلج",
-    "#اطفال الجنة مترجم"
+    "رمضان",
+    "#اطفال الجنة مترجم",
+    "#Cennetin Çocukları"
   ],
   "quality": "WEB-DL",
   "duration": "147 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 32,
+  "total_episodes": 33,
   "status": "ongoing",
-  "last_updated": "2026-05-19T19:36:03.358269Z",
+  "last_updated": "2026-05-20T01:57:54.487471Z",
   "episodes": [
     {
       "number": 1,
@@ -218,6 +218,12 @@
       "number": 32,
       "title": "الحلقة 32",
       "date_added": "الجمعة 15 مايو 2026 - 12:16 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 33,
+      "title": "الحلقة 33",
+      "date_added": "الأربعاء 20 مايو 2026 - 01:36 صباحا",
       "servers_count": 2
     }
   ]
