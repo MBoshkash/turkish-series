@@ -10,9 +10,9 @@
   "language": "العربية",
   "rating": 7.2,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
     "#Uzak Şehir",
@@ -23,9 +23,9 @@
   "duration": "32 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 164,
+  "total_episodes": 169,
   "status": "ongoing",
-  "last_updated": "2026-05-21T09:09:39.193557Z",
+  "last_updated": "2026-05-21T14:41:38.623397Z",
   "episodes": [
     {
       "number": 1,
@@ -1009,6 +1009,36 @@
       "number": 165,
       "title": "الحلقة 165",
       "date_added": "السبت 16 مايو 2026 - 07:37 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 166,
+      "title": "الحلقة 166",
+      "date_added": "الخميس 21 مايو 2026 - 01:42 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 167,
+      "title": "الحلقة 167",
+      "date_added": "الخميس 21 مايو 2026 - 01:42 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 168,
+      "title": "الحلقة 168",
+      "date_added": "الخميس 21 مايو 2026 - 01:42 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 169,
+      "title": "الحلقة 169",
+      "date_added": "الخميس 21 مايو 2026 - 01:42 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 170,
+      "title": "الحلقة 170",
+      "date_added": "الخميس 21 مايو 2026 - 01:42 صباحا",
       "servers_count": 2
     }
   ]
