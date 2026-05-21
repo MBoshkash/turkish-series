@@ -11,12 +11,12 @@
   "rating": 5.5,
   "genres": [
     "دراما",
-    "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "#Black Tree Saga",
     "مدبلج",
+    "#Black Tree Saga",
     "#ملحمة الشجرة السوداء",
     "رمضان"
   ],
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-05-21T14:41:59.465273Z",
+  "last_updated": "2026-05-21T20:03:21.749090Z",
   "episodes": [
     {
       "number": 1,
