@@ -11,14 +11,14 @@
   "rating": 5.1,
   "genres": [
     "دراما",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
     "مدبلج",
     "#عائلتي الكبيرة",
-    "#Kocaman Ailem"
+    "#Kocaman Ailem",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 26,
   "status": "ongoing",
-  "last_updated": "2026-05-21T21:28:01.347742Z",
+  "last_updated": "2026-05-22T02:26:43.205988Z",
   "episodes": [
     {
       "number": 1,
