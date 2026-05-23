@@ -10,23 +10,23 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "رومانسي",
+    "دراما",
     "كوميدي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
-    "رمضان",
     "#kiskanmak",
-    "#نيران الحسد"
+    "مدبلج",
+    "#نيران الحسد",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "28 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 160,
+  "total_episodes": 165,
   "status": "ongoing",
-  "last_updated": "2026-05-23T08:23:37.194315Z",
+  "last_updated": "2026-05-23T13:02:36.366282Z",
   "episodes": [
     {
       "number": 1,
@@ -986,6 +986,36 @@
       "number": 160,
       "title": "الحلقة 160",
       "date_added": "السبت 16 مايو 2026 - 08:14 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 161,
+      "title": "الحلقة 161",
+      "date_added": "السبت 23 مايو 2026 - 03:23 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 162,
+      "title": "الحلقة 162",
+      "date_added": "السبت 23 مايو 2026 - 03:23 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 163,
+      "title": "الحلقة 163",
+      "date_added": "السبت 23 مايو 2026 - 03:23 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 164,
+      "title": "الحلقة 164",
+      "date_added": "السبت 23 مايو 2026 - 03:23 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 165,
+      "title": "الحلقة 165",
+      "date_added": "السبت 23 مايو 2026 - 03:23 مساءاً",
       "servers_count": 2
     }
   ]
