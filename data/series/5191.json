@@ -10,9 +10,9 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
     "#The Town",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-05-22T19:35:50.164730Z",
+  "last_updated": "2026-05-23T01:50:48.086151Z",
   "episodes": [
     {
       "number": 1,

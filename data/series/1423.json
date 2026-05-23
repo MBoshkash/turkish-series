@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.9,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#Dirilis: Ertugrul",
-    "#قيامة أرطغرل الموسم الاول",
     "رمضان",
-    "مدبلج"
+    "#قيامة أرطغرل الموسم الاول",
+    "مدبلج",
+    "#Dirilis: Ertugrul"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 81,
   "status": "ongoing",
-  "last_updated": "2026-05-22T19:38:31.933598Z",
+  "last_updated": "2026-05-23T01:56:17.782206Z",
   "episodes": [
     {
       "number": 1,
