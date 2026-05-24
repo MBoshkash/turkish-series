@@ -10,15 +10,13 @@
   "language": "العربية",
   "rating": 7.6,
   "genres": [
-    "دراما",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#Gaddar",
-    "رمضان",
     "#غدار الموسم الاول",
-    "مدبلج"
+    "مدبلج",
+    "#Gaddar"
   ],
   "quality": "WEB-DL",
   "duration": "30 دقيقة",
@@ -26,7 +24,7 @@
   "cast": [],
   "total_episodes": 75,
   "status": "ongoing",
-  "last_updated": "2026-05-24T02:05:50.454163Z",
+  "last_updated": "2026-05-24T08:19:53.430497Z",
   "episodes": [
     {
       "number": 1,
