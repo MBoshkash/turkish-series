@@ -11,14 +11,13 @@
   "rating": 8.5,
   "genres": [
     "كوميدي",
-    "رومانسي",
     "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "رمضان",
+    "#Masum الموسم الأول",
     "#مصعوم",
-    "#Masum الموسم الأول"
+    "رمضان",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +25,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-05-27T02:05:28.870131Z",
+  "last_updated": "2026-05-27T09:29:51.036487Z",
   "episodes": [
     {
       "number": 1,
