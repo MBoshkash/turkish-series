@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 6.9,
   "genres": [
-    "دراما",
     "كوميدي",
+    "دراما",
     "رومانسي"
   ],
   "tags": [
-    "#Adi Sevgi الموسم الاول",
     "#مسلسل اسمه حب",
-    "مدبلج"
+    "مدبلج",
+    "#Adi Sevgi الموسم الاول"
   ],
   "quality": "720p",
   "duration": "140 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 11,
   "status": "ongoing",
-  "last_updated": "2026-05-27T15:07:16.537505Z",
+  "last_updated": "2026-05-28T01:39:20.842251Z",
   "episodes": [
     {
       "number": 1,
