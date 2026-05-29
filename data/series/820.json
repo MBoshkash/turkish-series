@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
+    "رومانسي",
     "دراما",
-    "كوميدي",
-    "رومانسي"
+    "كوميدي"
   ],
   "tags": [
-    "#Tövbeler Olsun",
-    "#التوبة",
     "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "#Tövbeler Olsun",
+    "#التوبة"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 32,
   "status": "ongoing",
-  "last_updated": "2026-05-29T09:08:15.630164Z",
+  "last_updated": "2026-05-29T14:51:17.631210Z",
   "episodes": [
     {
       "number": 1,
