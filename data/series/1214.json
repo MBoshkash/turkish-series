@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 9.8,
   "genres": [
+    "كوميدي",
     "رومانسي",
-    "دراما",
-    "كوميدي"
+    "دراما"
   ],
   "tags": [
-    "#Kefaret الموسم الاول",
-    "مدبلج"
+    "مدبلج",
+    "#Kefaret الموسم الاول"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 35,
   "status": "ongoing",
-  "last_updated": "2026-05-31T13:21:58.787741Z",
+  "last_updated": "2026-05-31T19:08:56.048575Z",
   "episodes": [
     {
       "number": 1,
