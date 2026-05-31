@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 9.1,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "#Yardimci Oyuncu الموسم الاول",
     "رمضان",
+    "#Yardimci Oyuncu الموسم الاول",
     "مدبلج",
     "#مسلسل الممثل المساعد"
   ],
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-05-31T08:35:22.494223Z",
+  "last_updated": "2026-05-31T13:08:26.930480Z",
   "episodes": [
     {
       "number": 1,

@@ -10,9 +10,9 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "كوميدي",
+    "رومانسي",
     "دراما",
-    "رومانسي"
+    "كوميدي"
   ],
   "tags": [
     "رمضان",
@@ -23,9 +23,9 @@
   "duration": "50 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 87,
+  "total_episodes": 90,
   "status": "ongoing",
-  "last_updated": "2026-05-31T08:31:11.481116Z",
+  "last_updated": "2026-05-31T13:04:44.820998Z",
   "episodes": [
     {
       "number": 1,
@@ -547,6 +547,24 @@
       "number": 87,
       "title": "الحلقة 87",
       "date_added": "الإثنين 25 مايو 2026 - 03:01 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 88,
+      "title": "الحلقة 88",
+      "date_added": "الأحد 31 مايو 2026 - 02:20 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 89,
+      "title": "الحلقة 89",
+      "date_added": "الأحد 31 مايو 2026 - 02:20 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 90,
+      "title": "الحلقة 90",
+      "date_added": "الأحد 31 مايو 2026 - 02:21 مساءاً",
       "servers_count": 2
     }
   ]
