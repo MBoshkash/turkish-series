@@ -1,0 +1,86 @@
+{
+  "series_id": "5101",
+  "series_title": "المنظمة الموسم السادس",
+  "episode_number": 35,
+  "title": "الحلقة 35",
+  "date_added": "الإثنين 01 يونيو 2026 - 03:11 صباحا",
+  "last_updated": "2026-06-01T02:07:38.084423Z",
+  "servers": {
+    "watch": [
+      {
+        "name": "أكوام",
+        "type": "akwam",
+        "url": "https://akwam.it/episode/101276/المنظمة-الموسم-السادس/الحلقة-35",
+        "quality": "720p",
+        "source": "akwam"
+      },
+      {
+        "name": "Luluvid",
+        "type": "iframe",
+        "url": "https://luluvid.com/e/h92hizqrq5xs",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      },
+      {
+        "name": "Vidmoly",
+        "type": "iframe",
+        "url": "https://vidmoly.biz/embed-603a2q7v90je.html",
+        "direct_url": "",
+        "quality": "480p",
+        "source": "arabseed"
+      }
+    ],
+    "download": [
+      {
+        "name": "أكوام",
+        "url": "https://akwam.it/episode/101276/المنظمة-الموسم-السادس/الحلقة-35",
+        "quality": "720p",
+        "size": "",
+        "source": "akwam"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/mgld0roi8wra",
+        "quality": "1080p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/desz6aoxlnxy/%5Barabseed%5D.Teskilat.S06E35.1080p.mp4",
+        "quality": "1080p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/pzi9vjfbtzb9",
+        "quality": "720p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/0sv1870w9g68/%5Barabseed%5D.Teskilat.S06E35.720p.mp4",
+        "quality": "720p",
+        "is_direct": true,
+        "source": "arabseed"
+      },
+      {
+        "name": "Frdl",
+        "url": "tdm://open?url=https://fredl.ru/hb3x987y7hma",
+        "quality": "480p",
+        "is_direct": false,
+        "source": "arabseed"
+      },
+      {
+        "name": "Filespayouts",
+        "url": "https://filespayouts.com/pxwxrsiuf0ru/",
+        "quality": "480p",
+        "is_direct": true,
+        "source": "arabseed"
+      }
+    ]
+  }
+}

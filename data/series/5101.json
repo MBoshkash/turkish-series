@@ -10,24 +10,23 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
+    "#المنظمة الموسم السادس",
     "#The Shadow Team",
     "رمضان",
-    "مدبلج",
-    "#Teşkilat",
-    "#المنظمة الموسم السادس"
+    "#Teşkilat"
   ],
   "quality": "WEB-DL",
   "duration": "163 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 34,
+  "total_episodes": 35,
   "status": "ongoing",
-  "last_updated": "2026-05-31T18:57:51.559586Z",
+  "last_updated": "2026-06-01T02:07:42.528831Z",
   "episodes": [
     {
       "number": 1,
@@ -232,6 +231,12 @@
       "title": "الحلقة 34",
       "date_added": "",
       "servers_count": 8
+    },
+    {
+      "number": 35,
+      "title": "الحلقة 35",
+      "date_added": "الإثنين 01 يونيو 2026 - 03:11 صباحا",
+      "servers_count": 10
     }
   ]
 }
