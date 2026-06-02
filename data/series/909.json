@@ -11,13 +11,13 @@
   "rating": 8.3,
   "genres": [
     "دراما",
-    "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "#Kırmızı Oda",
     "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "#Kırmızı Oda"
   ],
   "quality": "720p",
   "duration": "147 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 30,
   "status": "ongoing",
-  "last_updated": "2026-06-01T11:49:46.530329Z",
+  "last_updated": "2026-06-02T02:41:14.145351Z",
   "episodes": [
     {
       "number": 1,
