@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 3.9,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
     "#لا شيء الموسم الاول",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-06-03T10:31:55.150147Z",
+  "last_updated": "2026-06-03T16:39:57.385879Z",
   "episodes": [
     {
       "number": 1,

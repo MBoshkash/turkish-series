@@ -10,10 +10,10 @@
   "language": "التركية",
   "rating": 7.4,
   "genres": [
-    "دراما",
     "رومانسي",
-    "#كوميديا تحت الأرض",
-    "كوميدي"
+    "كوميدي",
+    "دراما",
+    "#كوميديا تحت الأرض"
   ],
   "tags": [
     "#Bir Yeralti Sitcom'u",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 9,
   "status": "ongoing",
-  "last_updated": "2026-06-03T10:38:59.519253Z",
+  "last_updated": "2026-06-03T16:43:42.699218Z",
   "episodes": [
     {
       "number": 1,
