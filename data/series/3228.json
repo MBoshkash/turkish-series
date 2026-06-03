@@ -11,14 +11,14 @@
   "rating": 7.1,
   "genres": [
     "رومانسي",
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "رمضان",
-    "مدبلج",
     "#وقت الحب",
-    "#Sevmek Zamani الموسم الاول"
+    "#Sevmek Zamani الموسم الاول",
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 5,
   "status": "ongoing",
-  "last_updated": "2026-06-03T16:40:56.685727Z",
+  "last_updated": "2026-06-03T20:44:55.616211Z",
   "episodes": [
     {
       "number": 1,
