@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.2,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
-    "#Zemheri",
     "رمضان",
-    "#زمهرير"
+    "#زمهرير",
+    "مدبلج",
+    "#Zemheri"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 35,
   "status": "ongoing",
-  "last_updated": "2026-06-03T02:32:25.008583Z",
+  "last_updated": "2026-06-03T10:41:08.633185Z",
   "episodes": [
     {
       "number": 1,
