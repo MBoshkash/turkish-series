@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "دراما",
     "رومانسي",
+    "دراما",
     "كوميدي"
   ],
   "tags": [
-    "#The Town",
-    "#kasaba",
     "مدبلج",
-    "رمضان"
+    "#The Town",
+    "رمضان",
+    "#kasaba"
   ],
   "quality": "WEB-DL",
   "duration": "38 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-06-03T20:43:28.199623Z",
+  "last_updated": "2026-06-04T02:16:05.518839Z",
   "episodes": [
     {
       "number": 1,
