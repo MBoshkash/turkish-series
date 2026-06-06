@@ -10,22 +10,21 @@
   "language": "العربية",
   "rating": 7.2,
   "genres": [
-    "دراما",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
     "رمضان",
-    "#Uzak Şehir"
+    "#Uzak Şehir",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "32 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 169,
+  "total_episodes": 174,
   "status": "ongoing",
-  "last_updated": "2026-06-06T13:12:44.761818Z",
+  "last_updated": "2026-06-06T19:06:33.970668Z",
   "episodes": [
     {
       "number": 1,
@@ -1039,6 +1038,36 @@
       "number": 170,
       "title": "الحلقة 170",
       "date_added": "الخميس 21 مايو 2026 - 01:42 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 171,
+      "title": "الحلقة 171",
+      "date_added": "السبت 06 يونيو 2026 - 09:40 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 172,
+      "title": "الحلقة 172",
+      "date_added": "السبت 06 يونيو 2026 - 09:40 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 173,
+      "title": "الحلقة 173",
+      "date_added": "السبت 06 يونيو 2026 - 09:40 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 174,
+      "title": "الحلقة 174",
+      "date_added": "السبت 06 يونيو 2026 - 09:40 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 175,
+      "title": "الحلقة 175",
+      "date_added": "السبت 06 يونيو 2026 - 09:40 مساءاً",
       "servers_count": 2
     }
   ]
