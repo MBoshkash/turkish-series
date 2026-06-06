@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 7.5,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "#Kuruluş Osman الموسم الرابع",
     "مدبلج",
+    "#Kuruluş Osman الموسم الرابع",
     "رمضان",
     "#Kuruluş Osman"
   ],
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 32,
   "status": "ongoing",
-  "last_updated": "2026-06-06T01:55:32.677673Z",
+  "last_updated": "2026-06-06T08:33:45.399188Z",
   "episodes": [
     {
       "number": 1,
