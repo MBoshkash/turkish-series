@@ -10,23 +10,22 @@
   "language": "التركية",
   "rating": 9.0,
   "genres": [
-    "كوميدي",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "رمضان",
-    "#هذا البحر سوف يفيض مترجم",
     "مدبلج",
+    "#هذا البحر سوف يفيض مترجم",
+    "رمضان",
     "#Tasacak Bu Deniz"
   ],
   "quality": "WEB-DL",
   "duration": "142 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 29,
+  "total_episodes": 31,
   "status": "ongoing",
-  "last_updated": "2026-06-06T19:06:29.649423Z",
+  "last_updated": "2026-06-07T02:08:22.747379Z",
   "episodes": [
     {
       "number": 1,
@@ -200,6 +199,18 @@
       "number": 29,
       "title": "الحلقة 29",
       "date_added": "السبت 23 مايو 2026 - 04:38 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 30,
+      "title": "الحلقة 30",
+      "date_added": "السبت 06 يونيو 2026 - 11:01 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 34,
+      "title": "الحلقة 34",
+      "date_added": "السبت 06 يونيو 2026 - 11:01 مساءاً",
       "servers_count": 2
     }
   ]
