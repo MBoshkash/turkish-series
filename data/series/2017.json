@@ -11,13 +11,13 @@
   "rating": 5.0,
   "genres": [
     "كوميدي",
+    "رومانسي",
     "دراما"
   ],
   "tags": [
-    "مدبلج",
     "رمضان",
-    "#Uzak Sehrin Masali",
-    "#حكاية المدينة البعيدة"
+    "#حكاية المدينة البعيدة",
+    "#Uzak Sehrin Masali"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 5,
   "status": "ongoing",
-  "last_updated": "2026-06-09T01:54:38.109048Z",
+  "last_updated": "2026-06-09T14:39:26.378439Z",
   "episodes": [
     {
       "number": 1,
