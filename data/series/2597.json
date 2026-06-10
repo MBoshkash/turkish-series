@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.1,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
-    "رمضان",
     "#حريم السلطان الموسم الاول",
-    "#Muhtesem Yüzyil"
+    "#Muhtesem Yüzyil",
+    "رمضان",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 55,
   "status": "ongoing",
-  "last_updated": "2026-06-10T15:41:22.246968Z",
+  "last_updated": "2026-06-10T20:11:08.148836Z",
   "episodes": [
     {
       "number": 1,

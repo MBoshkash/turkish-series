@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 4.3,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "رمضان",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-06-10T15:02:04.695098Z",
+  "last_updated": "2026-06-10T20:07:47.450191Z",
   "episodes": [
     {
       "number": 1,

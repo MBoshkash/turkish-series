@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 8.0,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "#أنا أمها مترجم",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 4,
   "status": "ongoing",
-  "last_updated": "2026-06-10T14:59:22.864184Z",
+  "last_updated": "2026-06-10T20:07:21.697391Z",
   "episodes": [
     {
       "number": 1,
