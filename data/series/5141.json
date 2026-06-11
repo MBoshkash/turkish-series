@@ -15,18 +15,18 @@
     "كوميدي"
   ],
   "tags": [
-    "#Kurulus: Orhan",
     "رمضان",
     "#المؤسس اورهان مترجم",
+    "#Kurulus: Orhan",
     "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "152 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 25,
+  "total_episodes": 26,
   "status": "ongoing",
-  "last_updated": "2026-06-10T20:07:13.287123Z",
+  "last_updated": "2026-06-11T02:23:39.729684Z",
   "episodes": [
     {
       "number": 1,
@@ -176,6 +176,12 @@
       "number": 25,
       "title": "الحلقة 25",
       "date_added": "الخميس 04 يونيو 2026 - 12:43 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 26,
+      "title": "الحلقة 26",
+      "date_added": "الخميس 11 يونيو 2026 - 01:05 صباحا",
       "servers_count": 2
     }
   ]
