@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 6.9,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
+    "مدبلج",
     "#لعبة الحياة الموسم الاول",
     "رمضان",
-    "#Hayat Bugün الموسم الاول",
-    "مدبلج"
+    "#Hayat Bugün الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "120 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-06-14T02:24:35.956700Z",
+  "last_updated": "2026-06-14T09:04:03.836010Z",
   "episodes": [
     {
       "number": 1,
