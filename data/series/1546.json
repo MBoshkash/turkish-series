@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 8.1,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "#Ankara",
     "مدبلج",
+    "#Ankara",
     "#teskilat 2021",
     "رمضان"
   ],
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 14,
   "status": "ongoing",
-  "last_updated": "2026-06-14T13:57:41.467835Z",
+  "last_updated": "2026-06-14T19:20:38.088341Z",
   "episodes": [
     {
       "number": 1,

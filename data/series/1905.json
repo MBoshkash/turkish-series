@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.2,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
     "مدبلج",
-    "#عشق منطق انتقام",
-    "#Aşk Mantık İntikam"
+    "#Aşk Mantık İntikam",
+    "رمضان",
+    "#عشق منطق انتقام"
   ],
   "quality": "WEB-DL",
   "duration": "44 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 125,
   "status": "ongoing",
-  "last_updated": "2026-06-14T13:50:40.451167Z",
+  "last_updated": "2026-06-14T19:19:56.531594Z",
   "episodes": [
     {
       "number": 1,

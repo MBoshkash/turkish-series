@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 7.8,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
     "#Bir Zamanlar Kibris",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 9,
   "status": "ongoing",
-  "last_updated": "2026-06-14T13:57:50.656170Z",
+  "last_updated": "2026-06-14T19:20:38.886130Z",
   "episodes": [
     {
       "number": 1,
