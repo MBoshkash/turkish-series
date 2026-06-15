@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 9.8,
   "genres": [
-    "دراما",
     "رومانسي",
+    "دراما",
     "كوميدي"
   ],
   "tags": [
-    "#Kefaret الموسم الاول",
-    "رمضان"
+    "رمضان",
+    "#Kefaret الموسم الاول"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 35,
   "status": "ongoing",
-  "last_updated": "2026-06-15T17:34:34.486239Z",
+  "last_updated": "2026-06-15T20:57:23.159129Z",
   "episodes": [
     {
       "number": 1,
