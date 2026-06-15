@@ -10,12 +10,11 @@
   "language": "العربية",
   "rating": 6.6,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
     "#اخوتي",
     "#Kardeslerim",
     "رمضان"
@@ -26,7 +25,7 @@
   "cast": [],
   "total_episodes": 63,
   "status": "ongoing",
-  "last_updated": "2026-06-15T02:35:43.126953Z",
+  "last_updated": "2026-06-15T11:51:26.815629Z",
   "episodes": [
     {
       "number": 1,

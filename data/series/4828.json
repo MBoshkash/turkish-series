@@ -10,13 +10,15 @@
   "language": "التركية",
   "rating": 5.5,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
+    "مدبلج",
+    "#Black Tree Saga",
     "#ملحمة الشجرة السوداء",
-    "#Black Tree Saga"
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -24,7 +26,7 @@
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-06-15T02:25:38.787949Z",
+  "last_updated": "2026-06-15T11:43:09.749879Z",
   "episodes": [
     {
       "number": 1,

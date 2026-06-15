@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
     "#Ask mantik intikam",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 42,
   "status": "ongoing",
-  "last_updated": "2026-06-15T02:32:34.811422Z",
+  "last_updated": "2026-06-15T11:49:32.835950Z",
   "episodes": [
     {
       "number": 1,

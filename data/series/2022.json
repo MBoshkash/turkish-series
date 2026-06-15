@@ -10,16 +10,16 @@
   "language": "التركية",
   "rating": 5.7,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "#التفاح الحرام",
-    "#Yasak Elma",
     "#Yasak Elma الموسم الخامس",
     "مدبلج",
-    "رمضان"
+    "#التفاح الحرام",
+    "رمضان",
+    "#Yasak Elma"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 36,
   "status": "ongoing",
-  "last_updated": "2026-06-15T02:31:44.309522Z",
+  "last_updated": "2026-06-15T11:48:48.372613Z",
   "episodes": [
     {
       "number": 1,
