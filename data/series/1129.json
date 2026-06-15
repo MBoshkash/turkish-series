@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 6.2,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "#Ariza الموسم الاول",
-    "رمضان",
+    "#Ariza",
     "#مسلسل علي رضا",
-    "#Ariza"
+    "رمضان",
+    "#Ariza الموسم الاول"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 30,
   "status": "ongoing",
-  "last_updated": "2026-06-15T11:53:56.345062Z",
+  "last_updated": "2026-06-15T17:36:00.294936Z",
   "episodes": [
     {
       "number": 1,

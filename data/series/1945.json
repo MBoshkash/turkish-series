@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 6.7,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
     "مدبلج",
-    "#Benim Için Üzülme",
     "#لا تحزن لأجلي",
+    "#Benim Için Üzülme",
     "رمضان"
   ],
   "quality": "720p",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 47,
   "status": "ongoing",
-  "last_updated": "2026-06-15T11:50:50.533359Z",
+  "last_updated": "2026-06-15T17:32:28.376951Z",
   "episodes": [
     {
       "number": 1,
