@@ -10,9 +10,9 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
+    "رومانسي",
     "كوميدي",
-    "دراما",
-    "رومانسي"
+    "دراما"
   ],
   "tags": [
     "مدبلج",
@@ -23,9 +23,9 @@
   "duration": "152 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 20,
+  "total_episodes": 21,
   "status": "ongoing",
-  "last_updated": "2026-06-14T19:04:55.198391Z",
+  "last_updated": "2026-06-15T02:24:46.044840Z",
   "episodes": [
     {
       "number": 1,
@@ -145,6 +145,12 @@
       "number": 20,
       "title": "الحلقة 20",
       "date_added": "الخميس 30 ابريل 2026 - 07:20 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 21,
+      "title": "الحلقة 21",
+      "date_added": "الأحد 14 يونيو 2026 - 11:51 مساءاً",
       "servers_count": 2
     }
   ]

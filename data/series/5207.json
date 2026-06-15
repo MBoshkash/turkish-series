@@ -10,9 +10,9 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "دراما",
+    "رومانسي",
     "كوميدي",
-    "رومانسي"
+    "دراما"
   ],
   "tags": [
     "مدبلج",
@@ -23,9 +23,9 @@
   "duration": "50 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 90,
+  "total_episodes": 93,
   "status": "ongoing",
-  "last_updated": "2026-06-14T19:04:04.897726Z",
+  "last_updated": "2026-06-15T02:18:56.053056Z",
   "episodes": [
     {
       "number": 1,
@@ -565,6 +565,24 @@
       "number": 90,
       "title": "الحلقة 90",
       "date_added": "الأحد 31 مايو 2026 - 02:21 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 91,
+      "title": "الحلقة 91",
+      "date_added": "الأحد 14 يونيو 2026 - 11:47 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 92,
+      "title": "الحلقة 92",
+      "date_added": "الأحد 14 يونيو 2026 - 11:47 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 93,
+      "title": "الحلقة 93",
+      "date_added": "الأحد 14 يونيو 2026 - 11:51 مساءاً",
       "servers_count": 2
     }
   ]
