@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.5,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "رمضان",
-    "#فتاة النافذة",
     "#Camdaki Kiz",
-    "#Camdaki Kiz الموسم الثالث"
+    "#Camdaki Kiz الموسم الثالث",
+    "رمضان",
+    "#فتاة النافذة"
   ],
   "quality": "WEB-DL",
   "duration": "140 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 35,
   "status": "ongoing",
-  "last_updated": "2026-06-16T21:21:54.496436Z",
+  "last_updated": "2026-06-17T02:22:39.621485Z",
   "episodes": [
     {
       "number": 1,
