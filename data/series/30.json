@@ -10,16 +10,16 @@
   "language": "التركية",
   "rating": 4.0,
   "genres": [
-    "#كوميديا",
-    "دراما",
-    "#رومانسية",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "#رومانسية",
+    "#كوميديا",
+    "دراما"
   ],
   "tags": [
+    "مدبلج",
     "#حب حياتي",
-    "#Hayatimin Aski",
-    "مدبلج"
+    "#Hayatimin Aski"
   ],
   "quality": "WEB-DL",
   "duration": "",
@@ -27,6 +27,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-06-18T10:13:56.762348Z",
+  "last_updated": "2026-06-18T14:46:01.998619Z",
   "episodes": []
 }
