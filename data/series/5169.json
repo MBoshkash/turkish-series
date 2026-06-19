@@ -15,17 +15,17 @@
     "دراما"
   ],
   "tags": [
-    "#المؤسس اورهان مدبلج",
     "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "#المؤسس اورهان مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "152 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 21,
+  "total_episodes": 22,
   "status": "ongoing",
-  "last_updated": "2026-06-19T10:13:04.786006Z",
+  "last_updated": "2026-06-19T14:43:44.539542Z",
   "episodes": [
     {
       "number": 1,
@@ -151,6 +151,12 @@
       "number": 21,
       "title": "الحلقة 21",
       "date_added": "الأحد 14 يونيو 2026 - 11:51 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 22,
+      "title": "الحلقة 22",
+      "date_added": "الجمعة 19 يونيو 2026 - 03:42 مساءاً",
       "servers_count": 2
     }
   ]
