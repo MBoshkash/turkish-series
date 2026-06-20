@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
     "مدبلج",
-    "#Bir Derdim Var الموسم الاول"
+    "#Bir Derdim Var الموسم الاول",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-06-19T19:26:58.025876Z",
+  "last_updated": "2026-06-20T01:59:26.852867Z",
   "episodes": [
     {
       "number": 1,
