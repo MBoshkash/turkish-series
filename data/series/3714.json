@@ -10,14 +10,14 @@
   "language": "العربية",
   "rating": 7.1,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
     "مدبلج",
-    "#Içimizdeki Ates الموسم الاول",
-    "رمضان"
+    "رمضان",
+    "#Içimizdeki Ates الموسم الاول"
   ],
   "quality": "720p",
   "duration": "35 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 20,
   "status": "ongoing",
-  "last_updated": "2026-06-20T02:00:48.760159Z",
+  "last_updated": "2026-06-20T08:40:34.231251Z",
   "episodes": [
     {
       "number": 1,
