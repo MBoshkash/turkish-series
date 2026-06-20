@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 5.8,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "رمضان",
+    "#Tozlu Yaka الموسم الاول",
     "#الياقة المغبرة",
-    "#Tozlu Yaka الموسم الاول"
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "110 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 26,
   "status": "ongoing",
-  "last_updated": "2026-06-20T08:40:24.026420Z",
+  "last_updated": "2026-06-20T13:32:38.371857Z",
   "episodes": [
     {
       "number": 1,

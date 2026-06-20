@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 7.9,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "#Diriliş Ertuğrul S4",
     "مدبلج",
+    "#Diriliş Ertuğrul S4",
     "#قيامة أرطغرل ج4",
     "رمضان"
   ],
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 90,
   "status": "ongoing",
-  "last_updated": "2026-06-20T08:49:56.627795Z",
+  "last_updated": "2026-06-20T14:02:32.629413Z",
   "episodes": [
     {
       "number": 1,
