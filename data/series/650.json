@@ -10,17 +10,17 @@
   "language": "التركية",
   "rating": 6.8,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#المحافظ",
+    "رمضان",
     "#الحامي الموسم الرابع",
-    "#The Protector الموسم الرابع",
     "#The Protector",
     "مدبلج",
-    "رمضان"
+    "#المحافظ",
+    "#The Protector الموسم الرابع"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -28,6 +28,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-06-21T02:25:02.410121Z",
+  "last_updated": "2026-06-21T10:10:16.020910Z",
   "episodes": []
 }
