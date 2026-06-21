@@ -11,14 +11,14 @@
   "rating": 6.3,
   "genres": [
     "دراما",
-    "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
-    "#ذات اخرى",
     "#Another Self",
-    "#Another Self الموسم الاول"
+    "#ذات اخرى",
+    "#Another Self الموسم الاول",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "55 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-06-21T09:59:11.254164Z",
+  "last_updated": "2026-06-21T13:31:09.920182Z",
   "episodes": [
     {
       "number": 1,

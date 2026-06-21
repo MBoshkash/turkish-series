@@ -11,13 +11,13 @@
   "rating": 7.2,
   "genres": [
     "دراما",
-    "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "#Babil",
-    "مدبلج",
     "#Babil الموسم الثاني",
+    "مدبلج",
+    "#Babil",
     "رمضان"
   ],
   "quality": "720p",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-06-21T10:08:58.275200Z",
+  "last_updated": "2026-06-21T13:33:36.542518Z",
   "episodes": [
     {
       "number": 1,
