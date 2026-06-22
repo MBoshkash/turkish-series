@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 8.3,
   "genres": [
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#Çarpıntı",
-    "#خفقان مترجم",
     "مدبلج",
-    "رمضان"
+    "#خفقان مترجم",
+    "رمضان",
+    "#Çarpıntı"
   ],
   "quality": "WEB-DL",
   "duration": "127 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-06-21T19:17:21.712356Z",
+  "last_updated": "2026-06-22T02:14:39.900555Z",
   "episodes": [
     {
       "number": 1,

@@ -10,16 +10,16 @@
   "language": "التركية",
   "rating": 8.8,
   "genres": [
-    "كوميدي",
     "دراما",
+    "كوميدي",
     "رومانسي"
   ],
   "tags": [
-    "#Maraşlı",
     "مدبلج",
     "#مرعشلي",
-    "#Maraşlı الموسم الاول",
-    "رمضان"
+    "رمضان",
+    "#Maraşlı",
+    "#Maraşlı الموسم الاول"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 26,
   "status": "ongoing",
-  "last_updated": "2026-06-21T19:20:57.512894Z",
+  "last_updated": "2026-06-22T02:25:04.777582Z",
   "episodes": [
     {
       "number": 1,

@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 8.0,
   "genres": [
-    "كوميدي",
     "دراما",
+    "كوميدي",
     "رومانسي"
   ],
   "tags": [
-    "#Alaca",
     "#جراح الروح",
     "مدبلج",
-    "رمضان"
+    "رمضان",
+    "#Alaca"
   ],
   "quality": "WEB-DL",
   "duration": "43 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 120,
   "status": "ongoing",
-  "last_updated": "2026-06-21T19:16:45.856171Z",
+  "last_updated": "2026-06-22T02:14:08.481571Z",
   "episodes": [
     {
       "number": 1,
