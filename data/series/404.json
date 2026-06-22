@@ -10,14 +10,14 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "رومانسي",
     "دراما",
+    "رومانسي",
     "كوميدي"
   ],
   "tags": [
-    "#Ask 101",
     "#عشق 101",
-    "مدبلج"
+    "مدبلج",
+    "#Ask 101"
   ],
   "quality": "720p",
   "duration": "40 دقيقة",
@@ -25,6 +25,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-06-22T11:44:50.864558Z",
+  "last_updated": "2026-06-22T20:37:49.746088Z",
   "episodes": []
 }

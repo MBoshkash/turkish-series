@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 6.9,
   "genres": [
-    "دراما",
     "رومانسي",
+    "دراما",
     "كوميدي"
   ],
   "tags": [
-    "مدبلج",
-    "#EDHO"
+    "#EDHO",
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "130 دقيقة",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 33,
   "status": "ongoing",
-  "last_updated": "2026-06-22T11:43:03.379445Z",
+  "last_updated": "2026-06-22T19:52:56.725804Z",
   "episodes": [
     {
       "number": 1,

@@ -10,16 +10,16 @@
   "language": "التركية",
   "rating": 7.8,
   "genres": [
-    "دراما",
     "رومانسي",
+    "دراما",
     "كوميدي"
   ],
   "tags": [
-    "#Kulüp",
-    "رمضان",
-    "مدبلج",
     "#The Club الموسم الثاني",
-    "#الملهى"
+    "#الملهى",
+    "مدبلج",
+    "#Kulüp",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "55 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-06-22T11:36:44.908199Z",
+  "last_updated": "2026-06-22T17:22:58.731897Z",
   "episodes": [
     {
       "number": 1,
