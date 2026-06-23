@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 8.0,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
     "#Alaca",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 120,
   "status": "ongoing",
-  "last_updated": "2026-06-22T16:32:27.354762Z",
+  "last_updated": "2026-06-23T01:55:40.505275Z",
   "episodes": [
     {
       "number": 1,

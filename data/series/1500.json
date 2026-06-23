@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
+    "#البراءة 2021",
     "رمضان",
     "مدبلج",
-    "#Masumiyet",
-    "#البراءة 2021"
+    "#Masumiyet"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-06-22T20:03:22.706281Z",
+  "last_updated": "2026-06-23T02:11:34.389110Z",
   "episodes": [
     {
       "number": 1,

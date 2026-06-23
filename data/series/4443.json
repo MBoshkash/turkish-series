@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 6.5,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
     "#مسلسل شراب التوب",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 18,
   "status": "ongoing",
-  "last_updated": "2026-06-22T17:12:45.874746Z",
+  "last_updated": "2026-06-23T01:58:31.279101Z",
   "episodes": [
     {
       "number": 1,

@@ -10,16 +10,16 @@
   "language": "العربية",
   "rating": 7.3,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#Kara Sevda",
-    "#حب أعمى الموسم الاول",
-    "مدبلج",
     "رمضان",
-    "#Endless Love"
+    "#Kara Sevda",
+    "مدبلج",
+    "#Endless Love",
+    "#حب أعمى الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 132,
   "status": "ongoing",
-  "last_updated": "2026-06-22T19:00:00.817973Z",
+  "last_updated": "2026-06-23T02:09:03.095252Z",
   "episodes": [
     {
       "number": 1,

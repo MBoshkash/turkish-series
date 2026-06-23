@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 4.3,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "رمضان",
     "#SaklaBeni الموسم الاول",
-    "مدبلج"
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-06-22T17:10:38.794731Z",
+  "last_updated": "2026-06-23T01:58:21.002471Z",
   "episodes": [
     {
       "number": 1,
