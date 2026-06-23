@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 5.7,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "#مسلسل أنا في ورطة",
     "مدبلج",
-    "رمضان",
-    "#Basim Belada"
+    "#Basim Belada",
+    "#مسلسل أنا في ورطة",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "35 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 17,
   "status": "ongoing",
-  "last_updated": "2026-06-23T01:59:32.670828Z",
+  "last_updated": "2026-06-23T14:14:36.851760Z",
   "episodes": [
     {
       "number": 1,

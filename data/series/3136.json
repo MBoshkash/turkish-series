@@ -10,14 +10,14 @@
   "language": "العربية",
   "rating": 5.4,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
     "رمضان",
-    "#Kaderimin Oyunu",
     "#لعبة قدري",
+    "#Kaderimin Oyunu",
     "مدبلج",
     "#لعبة قدري الموسم الاول"
   ],
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 85,
   "status": "ongoing",
-  "last_updated": "2026-06-23T02:03:36.852404Z",
+  "last_updated": "2026-06-23T14:16:00.464348Z",
   "episodes": [
     {
       "number": 1,

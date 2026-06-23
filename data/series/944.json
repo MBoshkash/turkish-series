@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 6.9,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "#القانون",
-    "رمضان",
     "مدبلج",
-    "#Racon ailem için"
+    "#Racon ailem için",
+    "رمضان",
+    "#القانون"
   ],
   "quality": "720p",
   "duration": "",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 12,
   "status": "ongoing",
-  "last_updated": "2026-06-23T02:12:39.566495Z",
+  "last_updated": "2026-06-23T14:19:12.661465Z",
   "episodes": [
     {
       "number": 1,

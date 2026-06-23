@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 7.9,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
     "مدبلج",
-    "#Mehmed: Sultan of Conquests"
+    "#Mehmed: Sultan of Conquests",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "132 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 34,
   "status": "ongoing",
-  "last_updated": "2026-06-23T01:56:23.608449Z",
+  "last_updated": "2026-06-23T14:13:41.214031Z",
   "episodes": [
     {
       "number": 1,
