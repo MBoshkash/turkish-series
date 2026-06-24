@@ -10,15 +10,14 @@
   "language": "التركية",
   "rating": 7.9,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
+    "رمضان",
     "#Ben Leman",
-    "مدبلج",
-    "#اسمي ليمان",
-    "رمضان"
+    "#اسمي ليمان"
   ],
   "quality": "WEB-DL",
   "duration": "133 دقيقة",
@@ -26,7 +25,7 @@
   "cast": [],
   "total_episodes": 12,
   "status": "ongoing",
-  "last_updated": "2026-06-24T01:52:31.584544Z",
+  "last_updated": "2026-06-24T08:54:39.240059Z",
   "episodes": [
     {
       "number": 1,

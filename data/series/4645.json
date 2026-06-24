@@ -10,13 +10,12 @@
   "language": "التركية",
   "rating": 6.5,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
-    "رمضان"
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -24,7 +23,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-06-24T01:53:55.818181Z",
+  "last_updated": "2026-06-24T08:56:37.099216Z",
   "episodes": [
     {
       "number": 1,

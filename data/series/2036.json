@@ -10,15 +10,16 @@
   "language": "التركية",
   "rating": 7.1,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#Son Yaz",
+    "رمضان",
+    "مدبلج",
     "#الصيف الاخير",
-    "#Son Yaz الموسم الثاني",
-    "مدبلج"
+    "#Son Yaz",
+    "#Son Yaz الموسم الثاني"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -26,7 +27,7 @@
   "cast": [],
   "total_episodes": 5,
   "status": "ongoing",
-  "last_updated": "2026-06-24T02:00:43.065875Z",
+  "last_updated": "2026-06-24T09:06:02.399036Z",
   "episodes": [
     {
       "number": 1,

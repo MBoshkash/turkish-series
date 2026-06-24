@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.5,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
-    "#Sen Çal Kapimi",
+    "رمضان",
     "#Sen Çal Kapimi الموسم الثاني",
-    "رمضان"
+    "#Sen Çal Kapimi",
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-06-24T02:01:11.044480Z",
+  "last_updated": "2026-06-24T09:06:37.971579Z",
   "episodes": [
     {
       "number": 1,
