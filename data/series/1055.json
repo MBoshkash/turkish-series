@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#Ögretmen",
-    "مدبلج",
     "#المعلم الموسم الثاني",
-    "رمضان"
+    "#Ögretmen",
+    "رمضان",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "44 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 15,
   "status": "ongoing",
-  "last_updated": "2026-06-25T10:31:02.630060Z",
+  "last_updated": "2026-06-25T14:05:36.651101Z",
   "episodes": [
     {
       "number": 1,

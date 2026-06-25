@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#Hekimoglu",
-    "مدبلج",
+    "رمضان",
     "#حكيم أوغلو",
-    "رمضان"
+    "#Hekimoglu",
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 37,
   "status": "ongoing",
-  "last_updated": "2026-06-25T10:30:30.888084Z",
+  "last_updated": "2026-06-25T14:05:26.620270Z",
   "episodes": [
     {
       "number": 1,

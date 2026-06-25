@@ -10,16 +10,16 @@
   "language": "العربية",
   "rating": 6.9,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#المحافظ",
-    "#الحامي",
     "مدبلج",
-    "رمضان",
-    "#The Protector"
+    "#The Protector",
+    "#الحامي",
+    "#المحافظ",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "46 دقيقة",
@@ -27,6 +27,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-06-25T10:34:00.240770Z",
+  "last_updated": "2026-06-25T14:06:21.169754Z",
   "episodes": []
 }

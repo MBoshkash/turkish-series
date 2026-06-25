@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 5.5,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "#The Actress",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-06-25T09:31:40.453918Z",
+  "last_updated": "2026-06-25T14:01:36.337405Z",
   "episodes": [
     {
       "number": 1,

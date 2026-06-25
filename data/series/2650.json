@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.1,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
-    "رمضان",
+    "#Muhtesem Yüzyil S03",
     "#حريم السلطان الموسم الثالث",
-    "#Muhtesem Yüzyil S03"
+    "رمضان",
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 110,
   "status": "ongoing",
-  "last_updated": "2026-06-25T10:11:00.805356Z",
+  "last_updated": "2026-06-25T14:03:41.336109Z",
   "episodes": [
     {
       "number": 1,

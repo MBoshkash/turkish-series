@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 7.5,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#Rüzgarli Tepe الموسم الاول",
-    "رمضان"
+    "رمضان",
+    "#Rüzgarli Tepe الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 3,
   "status": "ongoing",
-  "last_updated": "2026-06-25T09:10:05.722909Z",
+  "last_updated": "2026-06-25T14:00:34.290671Z",
   "episodes": [
     {
       "number": 1,
