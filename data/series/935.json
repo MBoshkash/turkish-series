@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "#Iyi Günde Kötü Günde",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-06-24T19:33:29.088208Z",
+  "last_updated": "2026-06-25T02:05:52.247786Z",
   "episodes": [
     {
       "number": 1,

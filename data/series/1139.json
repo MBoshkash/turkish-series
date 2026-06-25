@@ -10,16 +10,16 @@
   "language": "التركية",
   "rating": 8.6,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
+    "#مسلسل اللهيب",
     "#مثل اللهيب",
-    "#Alev Alev",
-    "#Alev Alev الموسم الاول",
     "رمضان",
-    "#مسلسل اللهيب"
+    "#Alev Alev الموسم الاول",
+    "#Alev Alev"
   ],
   "quality": "720p",
   "duration": "110 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 28,
   "status": "ongoing",
-  "last_updated": "2026-06-24T19:33:03.462050Z",
+  "last_updated": "2026-06-25T02:04:58.082437Z",
   "episodes": [
     {
       "number": 1,
