@@ -10,16 +10,16 @@
   "language": "العربية",
   "rating": 7.3,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "رمضان",
-    "مدبلج",
-    "#The Pit S4",
     "#الحفرة الجزء الرابع",
-    "#Çukur S4"
+    "#Çukur S4",
+    "#The Pit S4",
+    "رمضان",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 129,
   "status": "ongoing",
-  "last_updated": "2026-06-25T19:48:02.279022Z",
+  "last_updated": "2026-06-26T02:22:24.125682Z",
   "episodes": [
     {
       "number": 1,
