@@ -11,12 +11,12 @@
   "rating": 7.0,
   "genres": [
     "رومانسي",
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
     "#kasaba",
+    "مدبلج",
     "#The Town",
     "رمضان"
   ],
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-06-26T08:52:35.507651Z",
+  "last_updated": "2026-06-26T14:33:34.246289Z",
   "episodes": [
     {
       "number": 1,
