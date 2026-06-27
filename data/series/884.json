@@ -11,16 +11,16 @@
   "rating": 8.6,
   "genres": [
     "كوميدي",
-    "دراما",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "رمضان",
-    "#Menajerimi Ara",
-    "#اتصل بوكيل اعمالي",
-    "#Call My Agent",
     "#اتصل بمدير اعمالي",
-    "مدبلج"
+    "#Menajerimi Ara",
+    "مدبلج",
+    "رمضان",
+    "#اتصل بوكيل اعمالي",
+    "#Call My Agent"
   ],
   "quality": "720p",
   "duration": "140 دقيقة",
@@ -28,7 +28,7 @@
   "cast": [],
   "total_episodes": 45,
   "status": "ongoing",
-  "last_updated": "2026-06-27T02:08:46.663894Z",
+  "last_updated": "2026-06-27T08:58:53.931364Z",
   "episodes": [
     {
       "number": 1,
