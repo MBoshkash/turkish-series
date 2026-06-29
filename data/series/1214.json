@@ -11,12 +11,12 @@
   "rating": 9.8,
   "genres": [
     "رومانسي",
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#Kefaret الموسم الاول",
     "رمضان",
+    "#Kefaret الموسم الاول",
     "مدبلج"
   ],
   "quality": "720p",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 35,
   "status": "ongoing",
-  "last_updated": "2026-06-29T02:18:29.110526Z",
+  "last_updated": "2026-06-29T10:25:55.146731Z",
   "episodes": [
     {
       "number": 1,
