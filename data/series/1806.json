@@ -10,9 +10,9 @@
   "language": "العربية",
   "rating": 5.0,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "#اسقف زجاجية",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 24,
   "status": "ongoing",
-  "last_updated": "2026-06-29T15:49:03.624586Z",
+  "last_updated": "2026-06-29T19:51:29.894873Z",
   "episodes": [
     {
       "number": 1,

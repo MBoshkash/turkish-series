@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 8.9,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
+    "#Yalniz Kurt الموسم الأول",
     "مدبلج",
-    "#الذئب الوحيد",
-    "#Yalniz Kurt الموسم الأول"
+    "#الذئب الوحيد"
   ],
   "quality": "720p",
   "duration": "130 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 20,
   "status": "ongoing",
-  "last_updated": "2026-06-29T15:46:15.931900Z",
+  "last_updated": "2026-06-29T19:49:06.559402Z",
   "episodes": [
     {
       "number": 1,

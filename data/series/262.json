@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 8.7,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "# مصطفى كمال أتاتورك",
     "مدبلج",
     "#إما الاستقلال وإما الموت",
-    "#Ya Istiklal Ya Ölüm"
+    "#Ya Istiklal Ya Ölüm",
+    "# مصطفى كمال أتاتورك"
   ],
   "quality": "WEB-DL",
   "duration": "140 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-06-29T15:48:20.365312Z",
+  "last_updated": "2026-06-29T19:50:20.634340Z",
   "episodes": [
     {
       "number": 1,

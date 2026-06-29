@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 5.1,
   "genres": [
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#Dayan Yuregim",
     "مدبلج",
-    "#تحمل ياقلبي"
+    "#تحمل ياقلبي",
+    "#Dayan Yuregim"
   ],
   "quality": "720p",
   "duration": "",
@@ -24,6 +24,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-06-29T15:51:22.180300Z",
+  "last_updated": "2026-06-29T19:55:18.274566Z",
   "episodes": []
 }
