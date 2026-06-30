@@ -10,13 +10,13 @@
   "language": "العربية",
   "rating": 5.2,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
     "#Azad",
+    "مدبلج",
     "#أزاد"
   ],
   "quality": "720p",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 15,
   "status": "ongoing",
-  "last_updated": "2026-06-29T19:54:24.075845Z",
+  "last_updated": "2026-06-30T02:20:17.662926Z",
   "episodes": [
     {
       "number": 1,

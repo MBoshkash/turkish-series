@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 6.7,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
     "#Bonkis الموسم الاول",
-    "#بونكيس"
+    "#بونكيس",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "17 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 7,
   "status": "ongoing",
-  "last_updated": "2026-06-29T19:49:35.465611Z",
+  "last_updated": "2026-06-30T02:15:11.498054Z",
   "episodes": [
     {
       "number": 1,

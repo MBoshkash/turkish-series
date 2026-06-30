@@ -10,9 +10,9 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "#Ada Masali",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 74,
   "status": "ongoing",
-  "last_updated": "2026-06-29T19:49:50.299152Z",
+  "last_updated": "2026-06-30T02:15:47.871316Z",
   "episodes": [
     {
       "number": 1,

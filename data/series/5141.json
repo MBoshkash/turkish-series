@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
     "رمضان",
-    "#Kurulus: Orhan",
-    "#المؤسس اورهان مترجم"
+    "#المؤسس اورهان مترجم",
+    "مدبلج",
+    "#Kurulus: Orhan"
   ],
   "quality": "WEB-DL",
   "duration": "152 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 26,
   "status": "ongoing",
-  "last_updated": "2026-06-29T19:40:16.256938Z",
+  "last_updated": "2026-06-30T02:08:25.870133Z",
   "episodes": [
     {
       "number": 1,

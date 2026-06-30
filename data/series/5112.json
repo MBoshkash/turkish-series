@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 9.0,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
-    "رمضان",
+    "#غريب في المرآة",
     "#Aynadaki Yabanci",
-    "#غريب في المرآة"
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "136 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 7,
   "status": "ongoing",
-  "last_updated": "2026-06-29T19:40:51.197198Z",
+  "last_updated": "2026-06-30T02:08:42.445341Z",
   "episodes": [
     {
       "number": 1,

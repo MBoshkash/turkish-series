@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.9,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
     "#يشيلجام الموسم الاول",
-    "رمضان",
-    "#Yesilçam"
+    "#Yesilçam",
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-06-29T19:49:23.961198Z",
+  "last_updated": "2026-06-30T02:14:40.789938Z",
   "episodes": [
     {
       "number": 1,

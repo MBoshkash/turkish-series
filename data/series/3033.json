@@ -10,16 +10,16 @@
   "language": "التركية",
   "rating": 6.6,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#Kara Tahta",
+    "مدبلج",
+    "#Kara Tahta الموسم الاول",
     "#السبورة السوداء",
     "رمضان",
-    "#Kara Tahta الموسم الاول",
-    "مدبلج"
+    "#Kara Tahta"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 20,
   "status": "ongoing",
-  "last_updated": "2026-06-29T19:48:01.409798Z",
+  "last_updated": "2026-06-30T02:13:14.072451Z",
   "episodes": [
     {
       "number": 1,
