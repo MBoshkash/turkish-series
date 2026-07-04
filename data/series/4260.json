@@ -11,14 +11,14 @@
   "rating": 5.5,
   "genres": [
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "#The Actress",
     "#Aktris الموسم الاول",
     "مدبلج",
-    "رمضان"
+    "رمضان",
+    "#The Actress"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-07-04T13:07:40.517184Z",
+  "last_updated": "2026-07-04T19:05:28.617115Z",
   "episodes": [
     {
       "number": 1,
