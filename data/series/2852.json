@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 4.9,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "رمضان",
-    "#Vahsi Seyler الموسم الاول",
     "#أمور جامحة الموسم الاول",
-    "مدبلج"
+    "مدبلج",
+    "#Vahsi Seyler الموسم الاول",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "40 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-07-05T13:33:18.867445Z",
+  "last_updated": "2026-07-05T19:10:09.017327Z",
   "episodes": [
     {
       "number": 1,

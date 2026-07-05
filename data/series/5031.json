@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.5,
   "genres": [
-    "#السعادة العائلية",
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "#السعادة العائلية",
+    "دراما"
   ],
   "tags": [
+    "#Aile Saadeti",
     "مدبلج",
-    "رمضان",
-    "#Aile Saadeti"
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "131 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-07-05T13:17:45.085843Z",
+  "last_updated": "2026-07-05T19:08:06.894660Z",
   "episodes": [
     {
       "number": 1,
