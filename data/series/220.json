@@ -10,17 +10,17 @@
   "language": "التركية",
   "rating": 6.9,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "رمضان",
-    "#المحافظ",
     "مدبلج",
-    "#The Protector Seasons 3",
-    "#الحامي الموسم الثالث",
+    "#المحافظ",
     "#The Protector",
+    "#الحامي الموسم الثالث",
+    "#The Protector Seasons 3",
+    "رمضان",
     "#المحافظ الموسم الثالث",
     "#The Protector 2020"
   ],
@@ -30,6 +30,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-07-04T19:09:26.400587Z",
+  "last_updated": "2026-07-05T01:59:22.977902Z",
   "episodes": []
 }

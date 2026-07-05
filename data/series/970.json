@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.7,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
     "#Aynen Aynen",
-    "#Aynen Aynen الموسم الاول",
-    "رمضان"
+    "مدبلج",
+    "رمضان",
+    "#Aynen Aynen الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "6 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 7,
   "status": "ongoing",
-  "last_updated": "2026-07-04T19:09:08.089937Z",
+  "last_updated": "2026-07-05T01:58:55.746919Z",
   "episodes": [
     {
       "number": 1,

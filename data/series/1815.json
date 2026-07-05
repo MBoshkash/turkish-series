@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "رمضان",
     "مدبلج",
     "#Ada Masali",
+    "رمضان",
     "#حكاية جزيرة"
   ],
   "quality": "720p",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 25,
   "status": "ongoing",
-  "last_updated": "2026-07-04T19:07:46.182837Z",
+  "last_updated": "2026-07-05T01:57:08.875813Z",
   "episodes": [
     {
       "number": 1,
