@@ -10,16 +10,16 @@
   "language": "العربية",
   "rating": 7.3,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#Ask-i Memnu",
     "#العشق الممنوع",
     "رمضان",
-    "مدبلج",
-    "#forbidden love"
+    "#forbidden love",
+    "#Ask-i Memnu",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "44 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 27,
   "status": "ongoing",
-  "last_updated": "2026-07-08T08:28:51.654205Z",
+  "last_updated": "2026-07-08T14:28:48.521069Z",
   "episodes": [
     {
       "number": 1,

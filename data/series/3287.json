@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 4.8,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#قلعه الاحلام: عفروتو",
-    "#Masal Satosu: Peri Hirsizi",
     "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "#Masal Satosu: Peri Hirsizi",
+    "#قلعه الاحلام: عفروتو"
   ],
   "quality": "WEB-DL",
   "duration": "20 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-07-08T08:23:31.779401Z",
+  "last_updated": "2026-07-08T14:26:40.141869Z",
   "episodes": [
     {
       "number": 1,

@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 6.7,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#Al Sancak الموسم الاول",
+    "مدبلج",
     "#مسلسل الراية",
     "رمضان",
-    "مدبلج"
+    "#Al Sancak الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "140 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 19,
   "status": "ongoing",
-  "last_updated": "2026-07-08T08:21:32.721887Z",
+  "last_updated": "2026-07-08T14:25:50.602922Z",
   "episodes": [
     {
       "number": 1,

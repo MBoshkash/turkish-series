@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 5.2,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "#مسلسل الطيبة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-07-08T08:23:38.446162Z",
+  "last_updated": "2026-07-08T14:26:42.943196Z",
   "episodes": [
     {
       "number": 1,
