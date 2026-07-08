@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 2.7,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "#اذا ناداك الحب",
     "رمضان",
-    "#Gel Dese Ask"
+    "#Gel Dese Ask",
+    "#اذا ناداك الحب",
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "",
@@ -26,6 +26,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-07-07T09:30:22.870399Z",
+  "last_updated": "2026-07-08T01:43:28.599440Z",
   "episodes": []
 }
