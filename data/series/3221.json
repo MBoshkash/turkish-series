@@ -11,12 +11,12 @@
   "rating": 6.0,
   "genres": [
     "رومانسي",
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#Kardeslerim",
     "مدبلج",
+    "#Kardeslerim",
     "رمضان",
     "#اخوتي الموسم الثاني"
   ],
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 129,
   "status": "ongoing",
-  "last_updated": "2026-07-09T09:18:40.767761Z",
+  "last_updated": "2026-07-09T14:35:45.419814Z",
   "episodes": [
     {
       "number": 1,
