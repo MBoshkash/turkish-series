@@ -11,14 +11,14 @@
   "rating": 7.2,
   "genres": [
     "دراما",
-    "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "#Kara Ekmek",
-    "رمضان",
     "#الخبز الاسود",
-    "مدبلج"
+    "مدبلج",
+    "رمضان",
+    "#Kara Ekmek"
   ],
   "quality": "720p",
   "duration": "52 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 81,
   "status": "ongoing",
-  "last_updated": "2026-07-10T01:48:59.354960Z",
+  "last_updated": "2026-07-10T09:17:56.109443Z",
   "episodes": [
     {
       "number": 1,
