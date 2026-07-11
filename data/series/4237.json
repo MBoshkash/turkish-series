@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.8,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#مسلسل تهويدة البلقان",
-    "#Balkan Ninnisi الموسم الاول",
     "مدبلج",
-    "رمضان"
+    "#مسلسل تهويدة البلقان",
+    "رمضان",
+    "#Balkan Ninnisi الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "55 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 24,
   "status": "ongoing",
-  "last_updated": "2026-07-10T19:32:48.595620Z",
+  "last_updated": "2026-07-11T01:29:44.025020Z",
   "episodes": [
     {
       "number": 1,
