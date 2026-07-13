@@ -10,11 +10,12 @@
   "language": "التركية",
   "rating": 8.7,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
+    "رمضان",
     "مدبلج",
     "# مصطفى كمال أتاتورك",
     "#Ya Istiklal Ya Ölüm",
@@ -26,7 +27,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-07-13T01:41:09.818341Z",
+  "last_updated": "2026-07-13T09:01:14.465151Z",
   "episodes": [
     {
       "number": 1,

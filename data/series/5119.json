@@ -10,13 +10,13 @@
   "language": "العربية",
   "rating": 8.0,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "#Esaret",
     "مدبلج",
+    "#Esaret",
     "رمضان",
     "#الأسيرة مدبلج"
   ],
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 206,
   "status": "ongoing",
-  "last_updated": "2026-07-13T01:31:22.301903Z",
+  "last_updated": "2026-07-13T08:52:51.320042Z",
   "episodes": [
     {
       "number": 1,
