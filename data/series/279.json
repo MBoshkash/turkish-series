@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 5.6,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "#الانتقام الحلو",
     "رمضان",
-    "#Tatli intikam"
+    "#Tatli intikam",
+    "#الانتقام الحلو",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "",
@@ -26,6 +26,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-07-14T13:14:21.912601Z",
+  "last_updated": "2026-07-14T19:22:01.218191Z",
   "episodes": []
 }
