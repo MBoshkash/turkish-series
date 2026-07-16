@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 7.4,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
     "#البطل",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 7,
   "status": "ongoing",
-  "last_updated": "2026-07-15T19:33:10.846869Z",
+  "last_updated": "2026-07-16T01:36:43.970098Z",
   "episodes": [
     {
       "number": 28,

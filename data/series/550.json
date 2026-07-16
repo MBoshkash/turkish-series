@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 6.2,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "رمضان",
-    "مدبلج",
     "#يا أسفاء علي شبابي",
-    "#Gençligim Eyvah"
+    "مدبلج",
+    "#Gençligim Eyvah",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "140 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 17,
   "status": "ongoing",
-  "last_updated": "2026-07-15T19:32:22.008475Z",
+  "last_updated": "2026-07-16T01:36:36.161163Z",
   "episodes": [
     {
       "number": 1,

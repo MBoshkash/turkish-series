@@ -10,16 +10,16 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#The Graft",
-    "#Kaosun Anatomisi",
     "مدبلج",
-    "#تشريح الفوضى مترجم",
-    "رمضان"
+    "#Kaosun Anatomisi",
+    "رمضان",
+    "#The Graft",
+    "#تشريح الفوضى مترجم"
   ],
   "quality": "WEB-DL",
   "duration": "47 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-07-15T19:04:53.320934Z",
+  "last_updated": "2026-07-16T01:32:14.326427Z",
   "episodes": [
     {
       "number": 1,
