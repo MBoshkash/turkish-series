@@ -10,13 +10,14 @@
   "language": "التركية",
   "rating": 7.8,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "مدبلج",
-    "#Ramo"
+    "#Ramo",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "",
@@ -24,6 +25,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-07-21T13:24:41.792759Z",
+  "last_updated": "2026-07-22T10:05:53.718810Z",
   "episodes": []
 }
