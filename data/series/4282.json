@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 9.1,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
     "مدبلج",
-    "#Yardimci Oyuncu الموسم الاول",
-    "#مسلسل الممثل المساعد"
+    "#مسلسل الممثل المساعد",
+    "رمضان",
+    "#Yardimci Oyuncu الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-07-22T13:28:29.744632Z",
+  "last_updated": "2026-07-23T01:37:55.731013Z",
   "episodes": [
     {
       "number": 1,

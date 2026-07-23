@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 5.5,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "#Aktris الموسم الاول",
-    "#The Actress"
+    "#The Actress",
+    "#Aktris الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-07-22T13:30:14.435515Z",
+  "last_updated": "2026-07-23T01:39:12.953172Z",
   "episodes": [
     {
       "number": 1,

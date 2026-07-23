@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 8.0,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
     "#المشبوه مترجم",
-    "#Sakincali",
+    "مدبلج",
     "رمضان",
-    "مدبلج"
+    "#Sakincali"
   ],
   "quality": "WEB-DL",
   "duration": "121 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 5,
   "status": "ongoing",
-  "last_updated": "2026-07-22T13:25:02.091648Z",
+  "last_updated": "2026-07-23T01:35:24.043800Z",
   "episodes": [
     {
       "number": 1,
