@@ -10,14 +10,13 @@
   "language": "التركية",
   "rating": 8.0,
   "genres": [
-    "رومانسي",
     "كوميدي",
+    "رومانسي",
     "دراما"
   ],
   "tags": [
-    "رمضان",
-    "مدبلج",
-    "#Ögretmen"
+    "#Ögretmen",
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "110 دقيقة",
@@ -25,7 +24,7 @@
   "cast": [],
   "total_episodes": 5,
   "status": "ongoing",
-  "last_updated": "2026-07-23T08:31:08.633230Z",
+  "last_updated": "2026-07-23T13:36:14.762539Z",
   "episodes": [
     {
       "number": 1,
