@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 9.1,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "رمضان",
     "#مسلسل المعلم",
-    "#Ögretmen"
+    "#Ögretmen",
+    "رمضان",
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "",
@@ -26,6 +26,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-07-26T02:03:28.528876Z",
+  "last_updated": "2026-07-26T08:18:42.397264Z",
   "episodes": []
 }

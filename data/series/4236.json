@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 6.0,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
     "#Dayton الموسم الاول",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-07-26T01:38:13.436926Z",
+  "last_updated": "2026-07-26T08:15:37.975483Z",
   "episodes": [
     {
       "number": 1,
