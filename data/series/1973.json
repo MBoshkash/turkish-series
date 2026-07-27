@@ -10,15 +10,14 @@
   "language": "التركية",
   "rating": 6.5,
   "genres": [
-    "رومانسي",
     "كوميدي",
     "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "#Olum Zamani",
     "رمضان",
-    "#وقت الموت"
+    "#Olum Zamani",
+    "#وقت الموت",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "30 دقيقة",
@@ -26,7 +25,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-07-27T02:01:14.323119Z",
+  "last_updated": "2026-07-27T14:28:09.632299Z",
   "episodes": [
     {
       "number": 1,
