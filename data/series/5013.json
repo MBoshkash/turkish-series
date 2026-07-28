@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "#Letters from the Past",
     "#رسائل إلى المستقبل",
+    "#Letters from the Past",
     "مدبلج",
     "رمضان"
   ],
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-07-28T13:36:38.805164Z",
+  "last_updated": "2026-07-28T19:16:26.621667Z",
   "episodes": [
     {
       "number": 1,

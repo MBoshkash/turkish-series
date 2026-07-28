@@ -10,16 +10,16 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
+    "رمضان",
     "#Kazara Ask",
-    "#Kazara Ask الموسم الاول",
-    "#حب بالصدفة",
     "مدبلج",
-    "رمضان"
+    "#Kazara Ask الموسم الاول",
+    "#حب بالصدفة"
   ],
   "quality": "720p",
   "duration": "115 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-07-28T13:44:18.065966Z",
+  "last_updated": "2026-07-28T19:24:21.851600Z",
   "episodes": [
     {
       "number": 1,

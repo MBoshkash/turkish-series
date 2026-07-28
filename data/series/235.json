@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.6,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "#Kuzey.Güney",
     "#شمال وجنوب",
     "#عودة مهند",
-    "مدبلج"
+    "مدبلج",
+    "#Kuzey.Güney"
   ],
   "quality": "WEB-DL",
   "duration": "",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 112,
   "status": "ongoing",
-  "last_updated": "2026-07-28T13:47:19.756725Z",
+  "last_updated": "2026-07-28T19:27:32.367725Z",
   "episodes": [
     {
       "number": 1,
