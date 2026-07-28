@@ -10,17 +10,17 @@
   "language": "التركية",
   "rating": 7.6,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "رمضان",
-    "#Kuruluş Osman",
-    "#مسلسل قيامة عثمان",
     "#المؤسس عثمان",
-    "#Kuruluş Osman الموسم الخامس"
+    "#مسلسل قيامة عثمان",
+    "#Kuruluş Osman",
+    "#Kuruluş Osman الموسم الخامس",
+    "رمضان",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "140 دقيقة",
@@ -28,7 +28,7 @@
   "cast": [],
   "total_episodes": 29,
   "status": "ongoing",
-  "last_updated": "2026-07-28T01:31:27.924744Z",
+  "last_updated": "2026-07-28T08:31:17.272154Z",
   "episodes": [
     {
       "number": 1,
