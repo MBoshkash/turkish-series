@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 6.3,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
     "#ذات أخرى الموسم الاول",
-    "#Another Self الموسم الاول",
     "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "#Another Self الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "55 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-08-04T13:48:28.982653Z",
+  "last_updated": "2026-08-04T19:30:09.778467Z",
   "episodes": [
     {
       "number": 1,

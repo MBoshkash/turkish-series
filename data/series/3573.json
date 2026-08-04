@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.1,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "#مسلسل حكاية حورية",
     "رمضان",
     "#مسلسل حكاية خرافية",
-    "#Bir Peri Masali الموسم الاول"
+    "#Bir Peri Masali الموسم الاول",
+    "#مسلسل حكاية حورية"
   ],
   "quality": "WEB-DL",
   "duration": "120 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-08-04T13:48:01.329588Z",
+  "last_updated": "2026-08-04T19:29:50.202174Z",
   "episodes": [
     {
       "number": 1,
