@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "#نيران الحسد",
     "رمضان",
-    "#kiskanmak"
+    "#kiskanmak",
+    "#نيران الحسد",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "28 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 165,
   "status": "ongoing",
-  "last_updated": "2026-08-05T08:22:24.551559Z",
+  "last_updated": "2026-08-05T13:41:52.691045Z",
   "episodes": [
     {
       "number": 1,

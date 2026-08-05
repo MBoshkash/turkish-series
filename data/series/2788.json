@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 9.3,
   "genres": [
-    "دراما",
-    "#الحقيقة والخيال الموسم الأول",
     "كوميدي",
-    "رومانسي"
+    "#الحقيقة والخيال الموسم الأول",
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
     "رمضان",
-    "#Hayaller Ve Hayatlar"
+    "#Hayaller Ve Hayatlar",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 26,
   "status": "ongoing",
-  "last_updated": "2026-08-05T08:28:53.362180Z",
+  "last_updated": "2026-08-05T13:54:25.698182Z",
   "episodes": [
     {
       "number": 1,

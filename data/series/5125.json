@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "#ورود وذنوب مترجم",
     "رمضان",
-    "#Güller ve Günahlar"
+    "#Güller ve Günahlar",
+    "#ورود وذنوب مترجم",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "134 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 32,
   "status": "ongoing",
-  "last_updated": "2026-08-05T08:22:43.976892Z",
+  "last_updated": "2026-08-05T13:42:29.454874Z",
   "episodes": [
     {
       "number": 1,

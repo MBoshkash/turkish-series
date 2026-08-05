@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 6.0,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "#اخوتي  2021",
-    "مدبلج",
     "رمضان",
-    "#Kardeslerim"
+    "#اخوتي  2021",
+    "#Kardeslerim",
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 18,
   "status": "ongoing",
-  "last_updated": "2026-08-05T08:31:40.921939Z",
+  "last_updated": "2026-08-05T14:00:04.626078Z",
   "episodes": [
     {
       "number": 1,
