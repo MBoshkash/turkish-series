@@ -11,13 +11,13 @@
   "rating": 4.0,
   "genres": [
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#اضحكوا عاليا",
-    "رمضان",
     "مدبلج",
-    "#Sesli Guldum الموسم الاول"
+    "#Sesli Guldum الموسم الاول",
+    "#اضحكوا عاليا"
   ],
   "quality": "WEB-DL",
   "duration": "22 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 20,
   "status": "ongoing",
-  "last_updated": "2026-08-04T19:30:43.385119Z",
+  "last_updated": "2026-08-05T08:29:13.871739Z",
   "episodes": [
     {
       "number": 1,

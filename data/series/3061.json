@@ -11,14 +11,14 @@
   "rating": 6.5,
   "genres": [
     "دراما",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
     "#طبيب البلدة",
-    "#Kasaba Doktoru",
-    "مدبلج"
+    "مدبلج",
+    "رمضان",
+    "#Kasaba Doktoru"
   ],
   "quality": "720p",
   "duration": "110 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-08-04T19:30:16.383443Z",
+  "last_updated": "2026-08-05T08:28:04.679510Z",
   "episodes": [
     {
       "number": 1,
