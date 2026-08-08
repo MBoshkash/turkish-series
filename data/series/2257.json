@@ -11,14 +11,13 @@
   "rating": 6.9,
   "genres": [
     "رومانسي",
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "رمضان",
+    "#Elbet Bir Gün",
     "#حتماً يوماً ما",
-    "مدبلج",
-    "#Elbet Bir Gün"
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -26,7 +25,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-08-08T09:01:48.036722Z",
+  "last_updated": "2026-08-08T12:35:00.492081Z",
   "episodes": [
     {
       "number": 1,
