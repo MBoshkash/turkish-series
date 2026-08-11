@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 8.3,
   "genres": [
+    "دراما",
     "رومانسي",
-    "كوميدي",
-    "دراما"
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
-    "#Kırmızı Oda"
+    "#Kırmızı Oda",
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "147 دقيقة",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 30,
   "status": "ongoing",
-  "last_updated": "2026-08-11T12:51:36.906064Z",
+  "last_updated": "2026-08-11T19:01:58.537984Z",
   "episodes": [
     {
       "number": 1,
