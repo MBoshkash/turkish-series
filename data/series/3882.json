@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.6,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
+    "مدبلج",
     "رمضان",
-    "#Ömer",
     "#Ömer الموسم الاول",
-    "مدبلج"
+    "#Ömer"
   ],
   "quality": "WEB-DL",
   "duration": "150 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 21,
   "status": "ongoing",
-  "last_updated": "2026-08-13T12:57:49.623549Z",
+  "last_updated": "2026-08-13T19:07:10.806885Z",
   "episodes": [
     {
       "number": 1,
