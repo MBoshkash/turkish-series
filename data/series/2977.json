@@ -10,14 +10,14 @@
   "language": "العربية",
   "rating": 7.9,
   "genres": [
-    "دراما",
     "رومانسي",
+    "دراما",
     "كوميدي"
   ],
   "tags": [
-    "#Yesilçam",
     "#يشيلجام الموسم الاول",
-    "مدبلج"
+    "مدبلج",
+    "#Yesilçam"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-08-15T12:47:40.739354Z",
+  "last_updated": "2026-08-15T18:29:00.030029Z",
   "episodes": [
     {
       "number": 1,
