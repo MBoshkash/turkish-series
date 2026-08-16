@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 6.7,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "رمضان",
-    "#Yalancilar Ve Mumlari",
     "مدبلج",
-    "#الكاذبون وشموعهم"
+    "#الكاذبون وشموعهم",
+    "#Yalancilar Ve Mumlari"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 5,
   "status": "ongoing",
-  "last_updated": "2026-08-15T18:30:25.029370Z",
+  "last_updated": "2026-08-16T00:42:14.797107Z",
   "episodes": [
     {
       "number": 1,
