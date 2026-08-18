@@ -11,13 +11,13 @@
   "rating": 5.0,
   "genres": [
     "رومانسي",
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
+    "#Sen Çal Kapimi",
     "#أنت أطرق بابي",
-    "#Sen Çal Kapimi"
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 39,
   "status": "ongoing",
-  "last_updated": "2026-08-17T18:34:41.259258Z",
+  "last_updated": "2026-08-18T00:44:28.636491Z",
   "episodes": [
     {
       "number": 1,

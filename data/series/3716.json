@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 6.0,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "مدبلج",
     "#مسلسل وجع القلب",
-    "#Yürek Çikmazi الموسم الاول"
+    "#Yürek Çikmazi الموسم الاول",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "130 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 28,
   "status": "ongoing",
-  "last_updated": "2026-08-17T18:32:50.997060Z",
+  "last_updated": "2026-08-18T00:39:38.203487Z",
   "episodes": [
     {
       "number": 1,

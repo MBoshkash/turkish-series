@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 5.5,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "#Bir Zamanlar Cukurova",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 39,
   "status": "ongoing",
-  "last_updated": "2026-08-17T18:33:31.424359Z",
+  "last_updated": "2026-08-18T00:41:25.013258Z",
   "episodes": [
     {
       "number": 1,
