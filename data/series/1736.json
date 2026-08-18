@@ -11,12 +11,12 @@
   "rating": 7.1,
   "genres": [
     "رومانسي",
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#Kagit Ev",
-    "مدبلج"
+    "مدبلج",
+    "#Kagit Ev"
   ],
   "quality": "720p",
   "duration": "122 دقيقة",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-08-18T12:38:26.791283Z",
+  "last_updated": "2026-08-18T18:35:03.924763Z",
   "episodes": [
     {
       "number": 1,
