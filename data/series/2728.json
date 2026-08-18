@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.4,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
+    "#Son",
     "رمضان",
     "#لغز الماضي",
-    "مدبلج",
-    "#Son"
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "40 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 31,
   "status": "ongoing",
-  "last_updated": "2026-08-18T06:41:07.781213Z",
+  "last_updated": "2026-08-18T12:36:48.395310Z",
   "episodes": [
     {
       "number": 1,
