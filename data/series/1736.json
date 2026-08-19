@@ -10,11 +10,12 @@
   "language": "التركية",
   "rating": 7.1,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
+    "رمضان",
     "مدبلج",
     "#Kagit Ev"
   ],
@@ -24,7 +25,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-08-19T12:55:16.569341Z",
+  "last_updated": "2026-08-19T18:27:29.569291Z",
   "episodes": [
     {
       "number": 1,
