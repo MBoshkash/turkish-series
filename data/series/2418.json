@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 8.8,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "#Yargi",
-    "رمضان",
     "#مسلسل القضاء",
-    "مدبلج"
+    "مدبلج",
+    "رمضان",
+    "#Yargi"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 109,
   "status": "ongoing",
-  "last_updated": "2026-08-20T06:33:33.597422Z",
+  "last_updated": "2026-08-20T12:35:53.704033Z",
   "episodes": [
     {
       "number": 1,
