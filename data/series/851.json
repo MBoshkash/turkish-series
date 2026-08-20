@@ -10,14 +10,14 @@
   "language": "العربية",
   "rating": 6.0,
   "genres": [
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#الإنتقام",
-    "#Can Kırıkları",
     "رمضان",
-    "مدبلج"
+    "مدبلج",
+    "#Can Kırıkları",
+    "#الإنتقام"
   ],
   "quality": "720p",
   "duration": "40 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 17,
   "status": "ongoing",
-  "last_updated": "2026-08-20T12:40:13.509251Z",
+  "last_updated": "2026-08-20T18:38:20.154343Z",
   "episodes": [
     {
       "number": 1,
