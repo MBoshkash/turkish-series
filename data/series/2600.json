@@ -10,14 +10,14 @@
   "language": "العربية",
   "rating": 5.6,
   "genres": [
+    "رومانسي",
     "دراما",
-    "كوميدي",
-    "رومانسي"
+    "كوميدي"
   ],
   "tags": [
-    "#Yalanci Bahar",
     "#ظلال الماضي الموسم الاول",
-    "مدبلج"
+    "مدبلج",
+    "#Yalanci Bahar"
   ],
   "quality": "720p",
   "duration": "40 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 21,
   "status": "ongoing",
-  "last_updated": "2026-08-19T18:26:59.344556Z",
+  "last_updated": "2026-08-20T00:44:45.309550Z",
   "episodes": [
     {
       "number": 1,
