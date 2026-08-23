@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 6.3,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "#المعجبة الموسم الأول",
-    "#Fandom",
     "مدبلج",
-    "رمضان"
+    "رمضان",
+    "#Fandom"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 12,
   "status": "ongoing",
-  "last_updated": "2026-08-22T12:29:29.829818Z",
+  "last_updated": "2026-08-23T00:43:54.339401Z",
   "episodes": [
     {
       "number": 1,

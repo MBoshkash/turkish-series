@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.0,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
+    "مدبلج",
     "#زهرة الثالوث",
-    "#Hercai",
     "رمضان",
-    "مدبلج"
+    "#Hercai"
   ],
   "quality": "720p",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 120,
   "status": "ongoing",
-  "last_updated": "2026-08-22T12:28:36.555357Z",
+  "last_updated": "2026-08-23T00:43:26.541562Z",
   "episodes": [
     {
       "number": 1,
