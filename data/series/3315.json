@@ -10,12 +10,10 @@
   "language": "العربية",
   "rating": 7.1,
   "genres": [
-    "دراما",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "رمضان",
     "#Var Bunlar",
     "مدبلج"
   ],
@@ -25,7 +23,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-08-23T18:47:43.497956Z",
+  "last_updated": "2026-08-24T00:44:35.551460Z",
   "episodes": [
     {
       "number": 1,
