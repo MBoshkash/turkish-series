@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "رمضان",
-    "#Askin Tarifi",
     "#وصفة الحب",
-    "مدبلج"
+    "#Askin Tarifi",
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "140 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-08-24T00:46:58.799976Z",
+  "last_updated": "2026-08-24T06:48:45.763232Z",
   "episodes": [
     {
       "number": 1,

@@ -10,14 +10,13 @@
   "language": "التركية",
   "rating": 7.2,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "رمضان",
     "#Akrep الموسم الاول",
-    "مدبلج"
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -25,7 +24,7 @@
   "cast": [],
   "total_episodes": 26,
   "status": "ongoing",
-  "last_updated": "2026-08-24T00:47:19.939434Z",
+  "last_updated": "2026-08-24T06:49:05.304680Z",
   "episodes": [
     {
       "number": 1,
