@@ -11,15 +11,16 @@
   "rating": 4.0,
   "genres": [
     "#كوميديا",
-    "دراما",
     "#رومانسية",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#Hayatimin Aski",
     "#حب حياتي",
-    "رمضان"
+    "رمضان",
+    "#Hayatimin Aski",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "",
@@ -27,6 +28,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-08-25T06:45:43.016699Z",
+  "last_updated": "2026-08-25T12:39:59.644639Z",
   "episodes": []
 }
