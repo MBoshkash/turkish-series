@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 8.0,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "رمضان",
-    "#Sahtekarlar",
     "#المحتالون مترجم",
-    "مدبلج"
+    "رمضان",
+    "مدبلج",
+    "#Sahtekarlar"
   ],
   "quality": "WEB-DL",
   "duration": "119 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 22,
   "status": "ongoing",
-  "last_updated": "2026-08-26T00:33:52.938704Z",
+  "last_updated": "2026-08-26T06:31:39.594082Z",
   "episodes": [
     {
       "number": 1,
