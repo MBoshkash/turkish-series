@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 5.7,
   "genres": [
-    "كوميدي",
     "دراما",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
-    "مدبلج",
-    "#Yasak Elma",
     "#التفاح الحرام الموسم الثالث",
-    "رمضان"
+    "رمضان",
+    "مدبلج",
+    "#Yasak Elma"
   ],
   "quality": "WEB-DL",
   "duration": "44 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 81,
   "status": "ongoing",
-  "last_updated": "2026-09-03T20:46:27.010582Z",
+  "last_updated": "2026-09-04T10:19:33.562681Z",
   "episodes": [
     {
       "number": 1,
