@@ -10,10 +10,12 @@
   "language": "التركية",
   "rating": 8.3,
   "genres": [
-    "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
+    "مدبلج",
     "#Kırmızı Oda",
     "رمضان"
   ],
@@ -23,7 +25,7 @@
   "cast": [],
   "total_episodes": 30,
   "status": "ongoing",
-  "last_updated": "2026-09-04T20:32:51.368494Z",
+  "last_updated": "2026-09-05T02:05:14.915382Z",
   "episodes": [
     {
       "number": 1,
