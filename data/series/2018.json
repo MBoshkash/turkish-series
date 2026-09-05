@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 4.0,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "مدبلج",
-    "#واحد منا",
-    "#İçimizden Birisi الموسم الاول"
+    "#İçimizden Birisi الموسم الاول",
+    "#واحد منا"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-09-05T10:03:57.092227Z",
+  "last_updated": "2026-09-05T20:32:25.917475Z",
   "episodes": [
     {
       "number": 1,
