@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.4,
   "genres": [
+    "دراما",
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "رومانسي"
   ],
   "tags": [
-    "#البطل",
-    "رمضان",
     "مدبلج",
-    "#Sampiyon"
+    "#البطل",
+    "#Sampiyon",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 7,
   "status": "ongoing",
-  "last_updated": "2026-09-07T21:15:49.614097Z",
+  "last_updated": "2026-09-08T01:58:53.481319Z",
   "episodes": [
     {
       "number": 28,
