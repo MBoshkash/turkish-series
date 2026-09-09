@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 6.2,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
     "#مسلسل اغنية الصيف",
-    "#Yaz Sarkisi الموسم الاول",
-    "مدبلج"
+    "مدبلج",
+    "#Yaz Sarkisi الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "130 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-09-09T15:47:41.226281Z",
+  "last_updated": "2026-09-09T20:23:50.600248Z",
   "episodes": [
     {
       "number": 1,

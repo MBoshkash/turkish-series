@@ -10,16 +10,16 @@
   "language": "التركية",
   "rating": 8.4,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#Sadakatsiz",
     "#عديم الإخلاص",
+    "مدبلج",
     "رمضان",
-    "#الخائن",
-    "مدبلج"
+    "#Sadakatsiz",
+    "#الخائن"
   ],
   "quality": "720p",
   "duration": "110 دقيقة",
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 31,
   "status": "ongoing",
-  "last_updated": "2026-09-09T16:06:54.401835Z",
+  "last_updated": "2026-09-09T20:31:33.731495Z",
   "episodes": [
     {
       "number": 1,

@@ -10,16 +10,16 @@
   "language": "التركية",
   "rating": 3.8,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
+    "#Eve Dusen Yildirim",
     "#الصاعقة التي سقطت على المنزل",
-    "#اليتمية",
     "مدبلج",
-    "#Eve Dusen Yildirim"
+    "#اليتمية",
+    "رمضان"
   ],
   "quality": "720p",
   "duration": "",
@@ -27,6 +27,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-09-09T16:11:06.681194Z",
+  "last_updated": "2026-09-09T20:32:22.411495Z",
   "episodes": []
 }
