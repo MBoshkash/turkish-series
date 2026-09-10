@@ -11,13 +11,13 @@
   "rating": 5.0,
   "genres": [
     "دراما",
-    "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "كوميدي"
   ],
   "tags": [
+    "مدبلج",
     "#لعبة الحظ",
-    "#Baht Oyunu",
-    "مدبلج"
+    "#Baht Oyunu"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 17,
   "status": "ongoing",
-  "last_updated": "2026-09-09T20:30:57.988054Z",
+  "last_updated": "2026-09-10T01:57:09.915123Z",
   "episodes": [
     {
       "number": 1,
