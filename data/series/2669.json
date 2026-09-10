@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.1,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "#Muhtesem Yüzyil S04",
     "#حريم السلطان الموسم الرابع",
-    "رمضان"
+    "رمضان",
+    "مدبلج",
+    "#Muhtesem Yüzyil S04"
   ],
   "quality": "720p",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 110,
   "status": "ongoing",
-  "last_updated": "2026-09-10T01:56:20.010403Z",
+  "last_updated": "2026-09-10T10:28:33.483236Z",
   "episodes": [
     {
       "number": 1,

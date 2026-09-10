@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 6.6,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
     "مدبلج",
-    "#Kardeslerim",
     "رمضان",
-    "#اخوتي"
+    "#اخوتي",
+    "#Kardeslerim"
   ],
   "quality": "WEB-DL",
   "duration": "44 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 63,
   "status": "ongoing",
-  "last_updated": "2026-09-10T01:56:55.650816Z",
+  "last_updated": "2026-09-10T10:29:13.418737Z",
   "episodes": [
     {
       "number": 1,

@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 6.8,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "#أولاد الشوارع",
     "#Sokagin Cocuklari",
-    "رمضان"
+    "رمضان",
+    "مدبلج",
+    "#أولاد الشوارع"
   ],
   "quality": "WEB-DL",
   "duration": "43 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 10,
   "status": "ongoing",
-  "last_updated": "2026-09-10T01:57:47.178715Z",
+  "last_updated": "2026-09-10T10:30:15.009421Z",
   "episodes": [
     {
       "number": 1,
