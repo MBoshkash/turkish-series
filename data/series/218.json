@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 8.8,
   "genres": [
-    "دراما",
     "كوميدي",
+    "دراما",
     "رومانسي"
   ],
   "tags": [
-    "رمضان",
-    "#Ögretmen",
     "مدبلج",
-    "#المعلم"
+    "#المعلم",
+    "رمضان",
+    "#Ögretmen"
   ],
   "quality": "720p",
   "duration": "44 دقيقة",
@@ -26,6 +26,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-09-12T14:58:18.206316Z",
+  "last_updated": "2026-09-12T20:09:53.947797Z",
   "episodes": []
 }
