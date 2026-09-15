@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T11:20:23.825228Z",
+  "last_updated": "2026-09-15T21:23:33.727268Z",
   "total": 564,
   "series": [
     {
@@ -12,14 +12,14 @@
       "language": "التركية",
       "rating": 7.2,
       "genres": [
-        "دراما",
         "رومانسي",
+        "دراما",
         "كوميدي"
       ],
       "tags": [
+        "مدبلج",
         "#المدينة البعيدة الموسم الثاني",
         "#Uzak.Sehir.",
-        "مدبلج",
         "رمضان"
       ],
       "quality": "WEB-DL",
@@ -27,7 +27,7 @@
       "episodes_count": 36,
       "last_episode": 36,
       "last_episode_date": "الثلاثاء 02 يونيو 2026 - 11:13 مساءاً",
-      "last_updated": "2026-09-15T10:36:27.409634Z",
+      "last_updated": "2026-09-15T20:33:27.147145Z",
       "status": "ongoing"
     },
     {
@@ -54,7 +54,7 @@
       "episodes_count": 36,
       "last_episode": 36,
       "last_episode_date": "الأربعاء 10 يونيو 2026 - 02:03 مساءاً",
-      "last_updated": "2026-09-15T10:39:29.558023Z",
+      "last_updated": "2026-09-15T20:35:14.308761Z",
       "status": "ongoing"
     },
     {
@@ -82,7 +82,7 @@
       "episodes_count": 120,
       "last_episode": 120,
       "last_episode_date": "الإثنين 19 يناير 2026 - 01:11 صباحا",
-      "last_updated": "2026-09-15T10:41:25.591514Z",
+      "last_updated": "2026-09-15T20:38:48.648796Z",
       "status": "ongoing"
     },
     {
@@ -96,8 +96,8 @@
       "rating": 7.0,
       "genres": [
         "رومانسي",
-        "كوميدي",
-        "دراما"
+        "دراما",
+        "كوميدي"
       ],
       "tags": [
         "مدبلج",
@@ -109,7 +109,7 @@
       "episodes_count": 111,
       "last_episode": 111,
       "last_episode_date": "الجمعة 27 مارس 2026 - 08:43 مساءاً",
-      "last_updated": "2026-09-15T10:43:45.766207Z",
+      "last_updated": "2026-09-15T20:40:38.951559Z",
       "status": "ongoing"
     },
     {
@@ -123,12 +123,13 @@
       "rating": 8.0,
       "genres": [
         "رومانسي",
-        "كوميدي",
-        "دراما"
+        "دراما",
+        "كوميدي"
       ],
       "tags": [
-        "#انت اسيري",
         "مدبلج",
+        "رمضان",
+        "#انت اسيري",
         "#Esaretim Sensin"
       ],
       "quality": "WEB-DL",
@@ -136,7 +137,7 @@
       "episodes_count": 20,
       "last_episode": 20,
       "last_episode_date": "الأربعاء 28 يناير 2026 - 11:09 مساءاً",
-      "last_updated": "2026-09-15T10:44:01.841682Z",
+      "last_updated": "2026-09-15T20:40:39.913734Z",
       "status": "ongoing"
     },
     {
@@ -150,20 +151,19 @@
       "rating": 8.0,
       "genres": [
         "رومانسي",
-        "كوميدي",
-        "دراما"
+        "دراما",
+        "كوميدي"
       ],
       "tags": [
-        "#ورود وذنوب",
         "مدبلج",
-        "رمضان"
+        "#ورود وذنوب"
       ],
       "quality": "WEB-DL",
       "duration": "50 دقيقة",
       "episodes_count": 96,
       "last_episode": 96,
       "last_episode_date": "الجمعة 19 يونيو 2026 - 03:42 مساءاً",
-      "last_updated": "2026-09-15T10:44:05.477676Z",
+      "last_updated": "2026-09-15T20:40:40.963241Z",
       "status": "ongoing"
     },
     {
@@ -177,20 +177,21 @@
       "rating": 8.0,
       "genres": [
         "رومانسي",
-        "كوميدي",
-        "دراما"
+        "دراما",
+        "كوميدي"
       ],
       "tags": [
         "#Sahtekarlar",
+        "#المحتالون مترجم",
         "مدبلج",
-        "#المحتالون مترجم"
+        "رمضان"
       ],
       "quality": "WEB-DL",
       "duration": "119 دقيقة",
       "episodes_count": 22,
       "last_episode": 22,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T10:45:23.859295Z",
+      "last_updated": "2026-09-15T20:42:52.488114Z",
       "status": "ongoing"
     },
     {
@@ -204,22 +205,22 @@
       "rating": 7.0,
       "genres": [
         "رومانسي",
-        "كوميدي",
-        "دراما"
+        "دراما",
+        "كوميدي"
       ],
       "tags": [
-        "#The Shadow Team",
+        "رمضان",
+        "مدبلج",
         "#المنظمة الموسم السادس",
         "#Teşkilat",
-        "رمضان",
-        "مدبلج"
+        "#The Shadow Team"
       ],
       "quality": "WEB-DL",
       "duration": "163 دقيقة",
       "episodes_count": 36,
       "last_episode": 36,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T10:46:31.064910Z",
+      "last_updated": "2026-09-15T20:44:50.917077Z",
       "status": "ongoing"
     },
     {
@@ -233,20 +234,20 @@
       "rating": 8.0,
       "genres": [
         "رومانسي",
-        "كوميدي",
-        "دراما"
+        "دراما",
+        "كوميدي"
       ],
       "tags": [
-        "رمضان",
+        "مدبلج",
         "#kizil goncala",
-        "مدبلج"
+        "رمضان"
       ],
       "quality": "WEB-DL",
       "duration": "48 دقيقة",
       "episodes_count": 87,
       "last_episode": 87,
       "last_episode_date": "السبت 16 مايو 2026 - 11:46 مساءاً",
-      "last_updated": "2026-09-15T10:46:34.772975Z",
+      "last_updated": "2026-09-15T20:45:32.045976Z",
       "status": "ongoing"
     },
     {
@@ -274,7 +275,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الأحد 18 يناير 2026 - 11:55 مساءاً",
-      "last_updated": "2026-09-15T10:46:38.408282Z",
+      "last_updated": "2026-09-15T20:46:37.481779Z",
       "status": "ongoing"
     },
     {
@@ -301,7 +302,7 @@
       "episodes_count": 31,
       "last_episode": 34,
       "last_episode_date": "السبت 06 يونيو 2026 - 11:01 مساءاً",
-      "last_updated": "2026-09-15T10:46:42.053381Z",
+      "last_updated": "2026-09-15T20:47:11.320223Z",
       "status": "ongoing"
     },
     {
@@ -329,7 +330,7 @@
       "episodes_count": 165,
       "last_episode": 165,
       "last_episode_date": "السبت 23 مايو 2026 - 03:23 مساءاً",
-      "last_updated": "2026-09-15T10:46:45.715381Z",
+      "last_updated": "2026-09-15T20:47:15.021309Z",
       "status": "ongoing"
     },
     {
@@ -358,7 +359,7 @@
       "episodes_count": 82,
       "last_episode": 82,
       "last_episode_date": "الأحد 14 يونيو 2026 - 10:39 مساءاً",
-      "last_updated": "2026-09-15T10:46:49.376372Z",
+      "last_updated": "2026-09-15T20:47:18.725865Z",
       "status": "ongoing"
     },
     {
@@ -387,7 +388,7 @@
       "episodes_count": 34,
       "last_episode": 35,
       "last_episode_date": "السبت 13 يونيو 2026 - 10:03 مساءاً",
-      "last_updated": "2026-09-15T10:46:53.027628Z",
+      "last_updated": "2026-09-15T20:47:22.420154Z",
       "status": "ongoing"
     },
     {
@@ -415,7 +416,7 @@
       "episodes_count": 26,
       "last_episode": 26,
       "last_episode_date": "الأحد 29 مارس 2026 - 11:11 مساءاً",
-      "last_updated": "2026-09-15T10:46:56.680463Z",
+      "last_updated": "2026-09-15T20:47:26.104339Z",
       "status": "ongoing"
     },
     {
@@ -443,7 +444,7 @@
       "episodes_count": 125,
       "last_episode": 125,
       "last_episode_date": "الخميس 16 ابريل 2026 - 10:59 مساءاً",
-      "last_updated": "2026-09-15T10:47:00.334192Z",
+      "last_updated": "2026-09-15T20:47:29.808391Z",
       "status": "ongoing"
     },
     {
@@ -469,7 +470,7 @@
       "episodes_count": 174,
       "last_episode": 175,
       "last_episode_date": "السبت 06 يونيو 2026 - 09:40 مساءاً",
-      "last_updated": "2026-09-15T10:47:04.049918Z",
+      "last_updated": "2026-09-15T20:47:33.511348Z",
       "status": "ongoing"
     },
     {
@@ -497,7 +498,7 @@
       "episodes_count": 111,
       "last_episode": 112,
       "last_episode_date": "الأحد 28 يونيو 2026 - 02:38 مساءاً",
-      "last_updated": "2026-09-15T10:47:07.678533Z",
+      "last_updated": "2026-09-15T20:47:37.205641Z",
       "status": "ongoing"
     },
     {
@@ -525,7 +526,7 @@
       "episodes_count": 33,
       "last_episode": 33,
       "last_episode_date": "الأربعاء 20 مايو 2026 - 08:41 صباحا",
-      "last_updated": "2026-09-15T10:47:11.326960Z",
+      "last_updated": "2026-09-15T20:47:40.903392Z",
       "status": "ongoing"
     },
     {
@@ -553,7 +554,7 @@
       "episodes_count": 11,
       "last_episode": 11,
       "last_episode_date": "الإثنين 16 فبراير 2026 - 10:10 مساءاً",
-      "last_updated": "2026-09-15T10:47:14.994239Z",
+      "last_updated": "2026-09-15T20:47:44.599777Z",
       "status": "ongoing"
     },
     {
@@ -581,7 +582,7 @@
       "episodes_count": 26,
       "last_episode": 26,
       "last_episode_date": "الخميس 14 مايو 2026 - 01:29 مساءاً",
-      "last_updated": "2026-09-15T10:47:18.660659Z",
+      "last_updated": "2026-09-15T20:47:48.294721Z",
       "status": "ongoing"
     },
     {
@@ -608,7 +609,7 @@
       "episodes_count": 34,
       "last_episode": 34,
       "last_episode_date": "الأربعاء 10 يونيو 2026 - 02:03 مساءاً",
-      "last_updated": "2026-09-15T10:47:22.309447Z",
+      "last_updated": "2026-09-15T20:47:51.990816Z",
       "status": "ongoing"
     },
     {
@@ -636,7 +637,7 @@
       "episodes_count": 206,
       "last_episode": 207,
       "last_episode_date": "الخميس 16 ابريل 2026 - 10:59 مساءاً",
-      "last_updated": "2026-09-15T10:47:25.959175Z",
+      "last_updated": "2026-09-15T20:47:55.693072Z",
       "status": "ongoing"
     },
     {
@@ -664,7 +665,7 @@
       "episodes_count": 110,
       "last_episode": 110,
       "last_episode_date": "الأحد 22 مارس 2026 - 11:48 صباحا",
-      "last_updated": "2026-09-15T10:47:29.597523Z",
+      "last_updated": "2026-09-15T20:47:59.394929Z",
       "status": "ongoing"
     },
     {
@@ -693,7 +694,7 @@
       "episodes_count": 100,
       "last_episode": 100,
       "last_episode_date": "الإثنين 29 ديسمبر 2025 - 12:48 صباحا",
-      "last_updated": "2026-09-15T10:47:33.339351Z",
+      "last_updated": "2026-09-15T20:48:03.085922Z",
       "status": "ongoing"
     },
     {
@@ -721,7 +722,7 @@
       "episodes_count": 12,
       "last_episode": 13,
       "last_episode_date": "الأحد 28 ديسمبر 2025 - 10:26 مساءاً",
-      "last_updated": "2026-09-15T10:47:36.987077Z",
+      "last_updated": "2026-09-15T20:48:06.785245Z",
       "status": "ongoing"
     },
     {
@@ -749,7 +750,7 @@
       "episodes_count": 32,
       "last_episode": 32,
       "last_episode_date": "الإثنين 15 يونيو 2026 - 01:14 صباحا",
-      "last_updated": "2026-09-15T10:47:40.631098Z",
+      "last_updated": "2026-09-15T20:48:10.485289Z",
       "status": "ongoing"
     },
     {
@@ -776,7 +777,7 @@
       "episodes_count": 22,
       "last_episode": 22,
       "last_episode_date": "الجمعة 19 يونيو 2026 - 03:42 مساءاً",
-      "last_updated": "2026-09-15T10:47:44.267253Z",
+      "last_updated": "2026-09-15T20:48:14.181259Z",
       "status": "ongoing"
     },
     {
@@ -802,7 +803,7 @@
       "episodes_count": 47,
       "last_episode": 47,
       "last_episode_date": "الجمعة 12 يونيو 2026 - 09:04 مساءاً",
-      "last_updated": "2026-09-15T10:47:47.922652Z",
+      "last_updated": "2026-09-15T20:48:17.879577Z",
       "status": "ongoing"
     },
     {
@@ -830,7 +831,7 @@
       "episodes_count": 112,
       "last_episode": 112,
       "last_episode_date": "الخميس 25 ديسمبر 2025 - 10:26 مساءاً",
-      "last_updated": "2026-09-15T10:47:51.578056Z",
+      "last_updated": "2026-09-15T20:48:21.579861Z",
       "status": "ongoing"
     },
     {
@@ -858,7 +859,7 @@
       "episodes_count": 26,
       "last_episode": 26,
       "last_episode_date": "الخميس 11 يونيو 2026 - 01:05 صباحا",
-      "last_updated": "2026-09-15T10:47:55.229406Z",
+      "last_updated": "2026-09-15T20:48:25.276033Z",
       "status": "ongoing"
     },
     {
@@ -885,7 +886,7 @@
       "episodes_count": 79,
       "last_episode": 80,
       "last_episode_date": "الأحد 21 ديسمبر 2025 - 01:27 صباحا",
-      "last_updated": "2026-09-15T10:47:58.887663Z",
+      "last_updated": "2026-09-15T20:48:28.973978Z",
       "status": "ongoing"
     },
     {
@@ -912,7 +913,7 @@
       "episodes_count": 5,
       "last_episode": 5,
       "last_episode_date": "الخميس 18 ديسمبر 2025 - 02:27 صباحا",
-      "last_updated": "2026-09-15T10:48:02.521857Z",
+      "last_updated": "2026-09-15T20:48:32.664711Z",
       "status": "ongoing"
     },
     {
@@ -940,7 +941,7 @@
       "episodes_count": 16,
       "last_episode": 16,
       "last_episode_date": "الأربعاء 17 ديسمبر 2025 - 01:51 صباحا",
-      "last_updated": "2026-09-15T10:48:06.221838Z",
+      "last_updated": "2026-09-15T20:48:36.361159Z",
       "status": "ongoing"
     },
     {
@@ -968,7 +969,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الثلاثاء 16 ديسمبر 2025 - 10:55 مساءاً",
-      "last_updated": "2026-09-15T10:48:09.868541Z",
+      "last_updated": "2026-09-15T20:48:40.060932Z",
       "status": "ongoing"
     },
     {
@@ -997,7 +998,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الثلاثاء 16 ديسمبر 2025 - 10:19 مساءاً",
-      "last_updated": "2026-09-15T10:48:13.511453Z",
+      "last_updated": "2026-09-15T20:48:43.755886Z",
       "status": "ongoing"
     },
     {
@@ -1025,7 +1026,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الإثنين 08 ديسمبر 2025 - 01:25 صباحا",
-      "last_updated": "2026-09-15T10:48:17.152799Z",
+      "last_updated": "2026-09-15T20:48:47.448783Z",
       "status": "ongoing"
     },
     {
@@ -1054,7 +1055,7 @@
       "episodes_count": 63,
       "last_episode": 63,
       "last_episode_date": "الأحد 07 ديسمبر 2025 - 10:58 مساءاً",
-      "last_updated": "2026-09-15T10:48:20.806446Z",
+      "last_updated": "2026-09-15T20:48:51.147953Z",
       "status": "ongoing"
     },
     {
@@ -1082,7 +1083,7 @@
       "episodes_count": 5,
       "last_episode": 5,
       "last_episode_date": "الإثنين 01 ديسمبر 2025 - 02:12 صباحا",
-      "last_updated": "2026-09-15T10:48:24.455424Z",
+      "last_updated": "2026-09-15T20:48:54.842254Z",
       "status": "ongoing"
     },
     {
@@ -1110,7 +1111,7 @@
       "episodes_count": 42,
       "last_episode": 42,
       "last_episode_date": "الأحد 30 نوفمبر 2025 - 08:44 مساءاً",
-      "last_updated": "2026-09-15T10:48:28.105290Z",
+      "last_updated": "2026-09-15T20:48:58.532323Z",
       "status": "ongoing"
     },
     {
@@ -1139,7 +1140,7 @@
       "episodes_count": 3,
       "last_episode": 3,
       "last_episode_date": "الثلاثاء 25 نوفمبر 2025 - 12:54 صباحا",
-      "last_updated": "2026-09-15T10:48:31.765310Z",
+      "last_updated": "2026-09-15T20:49:02.231933Z",
       "status": "ongoing"
     },
     {
@@ -1168,7 +1169,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأحد 16 نوفمبر 2025 - 10:45 مساءاً",
-      "last_updated": "2026-09-15T10:48:35.505892Z",
+      "last_updated": "2026-09-15T20:49:05.917938Z",
       "status": "ongoing"
     },
     {
@@ -1196,7 +1197,7 @@
       "episodes_count": 4,
       "last_episode": 4,
       "last_episode_date": "الأحد 16 نوفمبر 2025 - 02:00 صباحا",
-      "last_updated": "2026-09-15T10:48:39.136484Z",
+      "last_updated": "2026-09-15T20:49:09.616444Z",
       "status": "ongoing"
     },
     {
@@ -1224,7 +1225,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الأحد 16 نوفمبر 2025 - 01:29 صباحا",
-      "last_updated": "2026-09-15T10:48:42.775320Z",
+      "last_updated": "2026-09-15T20:49:13.312228Z",
       "status": "ongoing"
     },
     {
@@ -1252,7 +1253,7 @@
       "episodes_count": 35,
       "last_episode": 35,
       "last_episode_date": "الثلاثاء 11 نوفمبر 2025 - 10:40 مساءاً",
-      "last_updated": "2026-09-15T10:48:46.409008Z",
+      "last_updated": "2026-09-15T20:49:17.004199Z",
       "status": "ongoing"
     },
     {
@@ -1280,7 +1281,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الأحد 09 نوفمبر 2025 - 11:13 مساءاً",
-      "last_updated": "2026-09-15T10:48:50.067277Z",
+      "last_updated": "2026-09-15T20:49:20.700781Z",
       "status": "ongoing"
     },
     {
@@ -1308,7 +1309,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 19 سبتمبر 2025 - 02:43 مساءاً",
-      "last_updated": "2026-09-15T10:48:53.723035Z",
+      "last_updated": "2026-09-15T20:49:24.396618Z",
       "status": "ongoing"
     },
     {
@@ -1337,7 +1338,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 19 سبتمبر 2025 - 02:07 مساءاً",
-      "last_updated": "2026-09-15T10:48:57.369444Z",
+      "last_updated": "2026-09-15T20:49:28.096959Z",
       "status": "ongoing"
     },
     {
@@ -1365,7 +1366,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الأربعاء 10 سبتمبر 2025 - 01:18 صباحا",
-      "last_updated": "2026-09-15T10:49:01.004866Z",
+      "last_updated": "2026-09-15T20:49:31.795072Z",
       "status": "ongoing"
     },
     {
@@ -1395,7 +1396,7 @@
       "episodes_count": 40,
       "last_episode": 40,
       "last_episode_date": "السبت 16 اغسطس 2025 - 11:04 مساءاً",
-      "last_updated": "2026-09-15T10:49:04.638480Z",
+      "last_updated": "2026-09-15T20:49:35.490215Z",
       "status": "ongoing"
     },
     {
@@ -1423,7 +1424,7 @@
       "episodes_count": 40,
       "last_episode": 61,
       "last_episode_date": "الخميس 24 يوليو 2025 - 09:56 مساءاً",
-      "last_updated": "2026-09-15T10:49:08.347519Z",
+      "last_updated": "2026-09-15T20:49:39.192936Z",
       "status": "ongoing"
     },
     {
@@ -1451,7 +1452,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأربعاء 23 يوليو 2025 - 09:16 مساءاً",
-      "last_updated": "2026-09-15T10:49:11.981783Z",
+      "last_updated": "2026-09-15T20:49:42.888376Z",
       "status": "ongoing"
     },
     {
@@ -1479,7 +1480,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأربعاء 23 يوليو 2025 - 08:38 مساءاً",
-      "last_updated": "2026-09-15T10:49:15.615515Z",
+      "last_updated": "2026-09-15T20:49:46.583863Z",
       "status": "ongoing"
     },
     {
@@ -1507,7 +1508,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأربعاء 23 يوليو 2025 - 03:56 مساءاً",
-      "last_updated": "2026-09-15T10:49:19.263243Z",
+      "last_updated": "2026-09-15T20:49:50.280459Z",
       "status": "ongoing"
     },
     {
@@ -1537,7 +1538,7 @@
       "episodes_count": 29,
       "last_episode": 29,
       "last_episode_date": "الخميس 09 مايو 2024 - 01:27 صباحا",
-      "last_updated": "2026-09-15T10:49:22.902318Z",
+      "last_updated": "2026-09-15T20:49:53.972122Z",
       "status": "ongoing"
     },
     {
@@ -1563,7 +1564,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الأربعاء 08 مايو 2024 - 09:22 مساءاً",
-      "last_updated": "2026-09-15T10:49:26.556095Z",
+      "last_updated": "2026-09-15T20:49:57.670672Z",
       "status": "ongoing"
     },
     {
@@ -1590,7 +1591,7 @@
       "episodes_count": 23,
       "last_episode": 23,
       "last_episode_date": "الثلاثاء 07 مايو 2024 - 09:26 مساءاً",
-      "last_updated": "2026-09-15T10:49:30.198764Z",
+      "last_updated": "2026-09-15T20:50:01.368264Z",
       "status": "ongoing"
     },
     {
@@ -1618,7 +1619,7 @@
       "episodes_count": 75,
       "last_episode": 75,
       "last_episode_date": "الثلاثاء 07 مايو 2024 - 11:18 صباحا",
-      "last_updated": "2026-09-15T10:49:33.843920Z",
+      "last_updated": "2026-09-15T20:50:05.066789Z",
       "status": "ongoing"
     },
     {
@@ -1647,7 +1648,7 @@
       "episodes_count": 28,
       "last_episode": 29,
       "last_episode_date": "الإثنين 06 مايو 2024 - 12:25 مساءاً",
-      "last_updated": "2026-09-15T10:49:37.531131Z",
+      "last_updated": "2026-09-15T20:50:08.767966Z",
       "status": "ongoing"
     },
     {
@@ -1675,7 +1676,7 @@
       "episodes_count": 158,
       "last_episode": 160,
       "last_episode_date": "الإثنين 06 مايو 2024 - 11:36 صباحا",
-      "last_updated": "2026-09-15T10:49:41.188305Z",
+      "last_updated": "2026-09-15T20:50:12.474048Z",
       "status": "ongoing"
     },
     {
@@ -1702,7 +1703,7 @@
       "episodes_count": 25,
       "last_episode": 27,
       "last_episode_date": "الإثنين 06 مايو 2024 - 01:31 صباحا",
-      "last_updated": "2026-09-15T10:49:44.834024Z",
+      "last_updated": "2026-09-15T20:50:16.169378Z",
       "status": "ongoing"
     },
     {
@@ -1730,7 +1731,7 @@
       "episodes_count": 159,
       "last_episode": 160,
       "last_episode_date": "الأحد 05 مايو 2024 - 09:14 مساءاً",
-      "last_updated": "2026-09-15T10:49:48.498234Z",
+      "last_updated": "2026-09-15T20:50:19.872094Z",
       "status": "ongoing"
     },
     {
@@ -1757,7 +1758,7 @@
       "episodes_count": 32,
       "last_episode": 32,
       "last_episode_date": "الأحد 05 مايو 2024 - 04:44 مساءاً",
-      "last_updated": "2026-09-15T10:49:52.121576Z",
+      "last_updated": "2026-09-15T20:50:23.569337Z",
       "status": "ongoing"
     },
     {
@@ -1785,7 +1786,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الأحد 05 مايو 2024 - 02:37 مساءاً",
-      "last_updated": "2026-09-15T10:49:55.762601Z",
+      "last_updated": "2026-09-15T20:50:27.264351Z",
       "status": "ongoing"
     },
     {
@@ -1813,7 +1814,7 @@
       "episodes_count": 32,
       "last_episode": 32,
       "last_episode_date": "السبت 04 مايو 2024 - 10:41 مساءاً",
-      "last_updated": "2026-09-15T10:49:59.419731Z",
+      "last_updated": "2026-09-15T20:50:30.961080Z",
       "status": "ongoing"
     },
     {
@@ -1841,7 +1842,7 @@
       "episodes_count": 30,
       "last_episode": 32,
       "last_episode_date": "السبت 04 مايو 2024 - 08:28 مساءاً",
-      "last_updated": "2026-09-15T10:50:03.082547Z",
+      "last_updated": "2026-09-15T20:50:34.659224Z",
       "status": "ongoing"
     },
     {
@@ -1869,7 +1870,7 @@
       "episodes_count": 15,
       "last_episode": 15,
       "last_episode_date": "السبت 04 مايو 2024 - 08:24 مساءاً",
-      "last_updated": "2026-09-15T10:50:06.729971Z",
+      "last_updated": "2026-09-15T20:50:38.359075Z",
       "status": "ongoing"
     },
     {
@@ -1896,7 +1897,7 @@
       "episodes_count": 20,
       "last_episode": 20,
       "last_episode_date": "الثلاثاء 16 ابريل 2024 - 09:44 مساءاً",
-      "last_updated": "2026-09-15T10:50:10.438735Z",
+      "last_updated": "2026-09-15T20:50:42.055117Z",
       "status": "ongoing"
     },
     {
@@ -1925,7 +1926,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "السبت 13 ابريل 2024 - 09:48 مساءاً",
-      "last_updated": "2026-09-15T10:50:14.110630Z",
+      "last_updated": "2026-09-15T20:50:45.754190Z",
       "status": "ongoing"
     },
     {
@@ -1950,7 +1951,7 @@
       "episodes_count": 15,
       "last_episode": 15,
       "last_episode_date": "الأربعاء 27 مارس 2024 - 12:22 مساءاً",
-      "last_updated": "2026-09-15T10:50:17.800329Z",
+      "last_updated": "2026-09-15T20:50:49.450807Z",
       "status": "ongoing"
     },
     {
@@ -1980,7 +1981,7 @@
       "episodes_count": 19,
       "last_episode": 20,
       "last_episode_date": "الخميس 21 مارس 2024 - 04:16 مساءاً",
-      "last_updated": "2026-09-15T10:50:21.463098Z",
+      "last_updated": "2026-09-15T20:50:53.149275Z",
       "status": "ongoing"
     },
     {
@@ -2008,7 +2009,7 @@
       "episodes_count": 20,
       "last_episode": 20,
       "last_episode_date": "الإثنين 19 فبراير 2024 - 10:49 مساءاً",
-      "last_updated": "2026-09-15T10:50:25.123116Z",
+      "last_updated": "2026-09-15T20:50:56.845676Z",
       "status": "ongoing"
     },
     {
@@ -2035,7 +2036,7 @@
       "episodes_count": 85,
       "last_episode": 85,
       "last_episode_date": "الثلاثاء 06 فبراير 2024 - 08:04 مساءاً",
-      "last_updated": "2026-09-15T10:50:28.768832Z",
+      "last_updated": "2026-09-15T20:51:00.549841Z",
       "status": "ongoing"
     },
     {
@@ -2063,7 +2064,7 @@
       "episodes_count": 22,
       "last_episode": 22,
       "last_episode_date": "الثلاثاء 30 يناير 2024 - 10:03 مساءاً",
-      "last_updated": "2026-09-15T10:50:32.423405Z",
+      "last_updated": "2026-09-15T20:51:04.244771Z",
       "status": "ongoing"
     },
     {
@@ -2089,7 +2090,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الثلاثاء 30 يناير 2024 - 10:01 مساءاً",
-      "last_updated": "2026-09-15T10:50:36.082991Z",
+      "last_updated": "2026-09-15T20:51:07.936506Z",
       "status": "ongoing"
     },
     {
@@ -2116,7 +2117,7 @@
       "episodes_count": 4,
       "last_episode": 4,
       "last_episode_date": "الثلاثاء 30 يناير 2024 - 09:59 مساءاً",
-      "last_updated": "2026-09-15T10:50:39.785383Z",
+      "last_updated": "2026-09-15T20:51:11.632970Z",
       "status": "ongoing"
     },
     {
@@ -2144,7 +2145,7 @@
       "episodes_count": 19,
       "last_episode": 20,
       "last_episode_date": "الإثنين 29 يناير 2024 - 06:34 مساءاً",
-      "last_updated": "2026-09-15T10:50:43.450084Z",
+      "last_updated": "2026-09-15T20:51:15.320814Z",
       "status": "ongoing"
     },
     {
@@ -2172,7 +2173,7 @@
       "episodes_count": 121,
       "last_episode": 122,
       "last_episode_date": "الإثنين 29 يناير 2024 - 06:30 مساءاً",
-      "last_updated": "2026-09-15T10:50:47.091522Z",
+      "last_updated": "2026-09-15T20:51:19.026948Z",
       "status": "ongoing"
     },
     {
@@ -2199,7 +2200,7 @@
       "episodes_count": 1,
       "last_episode": 1,
       "last_episode_date": "الأحد 28 يناير 2024 - 06:39 مساءاً",
-      "last_updated": "2026-09-15T10:50:50.736796Z",
+      "last_updated": "2026-09-15T20:51:22.720714Z",
       "status": "ongoing"
     },
     {
@@ -2226,7 +2227,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الجمعة 26 يناير 2024 - 05:43 مساءاً",
-      "last_updated": "2026-09-15T10:50:54.385122Z",
+      "last_updated": "2026-09-15T20:51:26.416912Z",
       "status": "ongoing"
     },
     {
@@ -2254,7 +2255,7 @@
       "episodes_count": 16,
       "last_episode": 17,
       "last_episode_date": "السبت 27 يناير 2024 - 11:07 مساءاً",
-      "last_updated": "2026-09-15T10:50:58.031806Z",
+      "last_updated": "2026-09-15T20:51:30.114363Z",
       "status": "ongoing"
     },
     {
@@ -2281,7 +2282,7 @@
       "episodes_count": 3,
       "last_episode": 3,
       "last_episode_date": "الجمعة 26 يناير 2024 - 05:43 مساءاً",
-      "last_updated": "2026-09-15T10:51:01.686092Z",
+      "last_updated": "2026-09-15T20:51:33.809580Z",
       "status": "ongoing"
     },
     {
@@ -2308,7 +2309,7 @@
       "episodes_count": 11,
       "last_episode": 12,
       "last_episode_date": "الجمعة 26 يناير 2024 - 04:38 مساءاً",
-      "last_updated": "2026-09-15T10:51:05.347010Z",
+      "last_updated": "2026-09-15T20:51:37.511767Z",
       "status": "ongoing"
     },
     {
@@ -2337,7 +2338,7 @@
       "episodes_count": 15,
       "last_episode": 16,
       "last_episode_date": "الجمعة 26 يناير 2024 - 04:22 مساءاً",
-      "last_updated": "2026-09-15T10:51:08.981132Z",
+      "last_updated": "2026-09-15T20:51:41.209269Z",
       "status": "ongoing"
     },
     {
@@ -2363,7 +2364,7 @@
       "episodes_count": 18,
       "last_episode": 47,
       "last_episode_date": "السبت 20 يناير 2024 - 09:44 مساءاً",
-      "last_updated": "2026-09-15T10:51:12.650122Z",
+      "last_updated": "2026-09-15T20:51:44.904698Z",
       "status": "ongoing"
     },
     {
@@ -2391,7 +2392,7 @@
       "episodes_count": 15,
       "last_episode": 15,
       "last_episode_date": "الثلاثاء 09 يناير 2024 - 09:02 مساءاً",
-      "last_updated": "2026-09-15T10:51:16.298346Z",
+      "last_updated": "2026-09-15T20:51:48.600967Z",
       "status": "ongoing"
     },
     {
@@ -2417,7 +2418,7 @@
       "episodes_count": 48,
       "last_episode": 48,
       "last_episode_date": "الإثنين 08 يناير 2024 - 07:05 مساءاً",
-      "last_updated": "2026-09-15T10:51:19.934312Z",
+      "last_updated": "2026-09-15T20:51:52.294852Z",
       "status": "ongoing"
     },
     {
@@ -2443,7 +2444,7 @@
       "episodes_count": 26,
       "last_episode": 27,
       "last_episode_date": "السبت 06 يناير 2024 - 11:35 مساءاً",
-      "last_updated": "2026-09-15T10:51:23.587693Z",
+      "last_updated": "2026-09-15T20:51:55.990174Z",
       "status": "ongoing"
     },
     {
@@ -2470,7 +2471,7 @@
       "episodes_count": 60,
       "last_episode": 60,
       "last_episode_date": "الثلاثاء 26 ديسمبر 2023 - 09:51 مساءاً",
-      "last_updated": "2026-09-15T10:51:27.228767Z",
+      "last_updated": "2026-09-15T20:51:59.688284Z",
       "status": "ongoing"
     },
     {
@@ -2499,7 +2500,7 @@
       "episodes_count": 12,
       "last_episode": 12,
       "last_episode_date": "الإثنين 18 ديسمبر 2023 - 09:12 مساءاً",
-      "last_updated": "2026-09-15T10:51:30.877309Z",
+      "last_updated": "2026-09-15T20:52:03.379946Z",
       "status": "ongoing"
     },
     {
@@ -2526,7 +2527,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "السبت 16 ديسمبر 2023 - 11:13 مساءاً",
-      "last_updated": "2026-09-15T10:51:34.530823Z",
+      "last_updated": "2026-09-15T20:52:07.075489Z",
       "status": "ongoing"
     },
     {
@@ -2551,7 +2552,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 15 ديسمبر 2023 - 01:13 مساءاً",
-      "last_updated": "2026-09-15T10:51:38.203389Z",
+      "last_updated": "2026-09-15T20:52:10.768065Z",
       "status": "ongoing"
     },
     {
@@ -2577,7 +2578,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 15 ديسمبر 2023 - 01:05 مساءاً",
-      "last_updated": "2026-09-15T10:51:41.952172Z",
+      "last_updated": "2026-09-15T20:52:14.463471Z",
       "status": "ongoing"
     },
     {
@@ -2605,7 +2606,7 @@
       "episodes_count": 12,
       "last_episode": 12,
       "last_episode_date": "الجمعة 08 ديسمبر 2023 - 11:35 مساءاً",
-      "last_updated": "2026-09-15T10:51:45.596416Z",
+      "last_updated": "2026-09-15T20:52:18.157754Z",
       "status": "ongoing"
     },
     {
@@ -2633,7 +2634,7 @@
       "episodes_count": 12,
       "last_episode": 12,
       "last_episode_date": "الجمعة 08 ديسمبر 2023 - 12:55 صباحا",
-      "last_updated": "2026-09-15T10:51:49.246686Z",
+      "last_updated": "2026-09-15T20:52:21.852745Z",
       "status": "ongoing"
     },
     {
@@ -2661,7 +2662,7 @@
       "episodes_count": 24,
       "last_episode": 24,
       "last_episode_date": "الأربعاء 22 نوفمبر 2023 - 07:49 مساءاً",
-      "last_updated": "2026-09-15T10:51:52.893984Z",
+      "last_updated": "2026-09-15T20:52:25.552215Z",
       "status": "ongoing"
     },
     {
@@ -2690,7 +2691,7 @@
       "episodes_count": 34,
       "last_episode": 34,
       "last_episode_date": "الثلاثاء 07 نوفمبر 2023 - 07:32 مساءاً",
-      "last_updated": "2026-09-15T10:51:56.529017Z",
+      "last_updated": "2026-09-15T20:52:29.240320Z",
       "status": "ongoing"
     },
     {
@@ -2717,7 +2718,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "السبت 04 نوفمبر 2023 - 09:00 مساءاً",
-      "last_updated": "2026-09-15T10:52:00.185606Z",
+      "last_updated": "2026-09-15T20:52:32.933964Z",
       "status": "ongoing"
     },
     {
@@ -2743,7 +2744,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "السبت 04 نوفمبر 2023 - 08:40 مساءاً",
-      "last_updated": "2026-09-15T10:52:03.838563Z",
+      "last_updated": "2026-09-15T20:52:36.633390Z",
       "status": "ongoing"
     },
     {
@@ -2771,7 +2772,7 @@
       "episodes_count": 34,
       "last_episode": 38,
       "last_episode_date": "الثلاثاء 31 أكتوبر 2023 - 09:16 مساءاً",
-      "last_updated": "2026-09-15T10:52:07.479980Z",
+      "last_updated": "2026-09-15T20:52:40.332900Z",
       "status": "ongoing"
     },
     {
@@ -2798,7 +2799,7 @@
       "episodes_count": 4,
       "last_episode": 4,
       "last_episode_date": "الخميس 26 أكتوبر 2023 - 09:04 مساءاً",
-      "last_updated": "2026-09-15T10:52:11.140137Z",
+      "last_updated": "2026-09-15T20:52:44.028465Z",
       "status": "ongoing"
     },
     {
@@ -2826,7 +2827,7 @@
       "episodes_count": 40,
       "last_episode": 40,
       "last_episode_date": "الأربعاء 25 أكتوبر 2023 - 07:12 مساءاً",
-      "last_updated": "2026-09-15T10:52:14.852356Z",
+      "last_updated": "2026-09-15T20:52:47.722511Z",
       "status": "ongoing"
     },
     {
@@ -2853,7 +2854,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأحد 22 أكتوبر 2023 - 12:05 صباحا",
-      "last_updated": "2026-09-15T10:52:18.501104Z",
+      "last_updated": "2026-09-15T20:52:51.418297Z",
       "status": "ongoing"
     },
     {
@@ -2880,7 +2881,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "السبت 21 أكتوبر 2023 - 08:10 مساءاً",
-      "last_updated": "2026-09-15T10:52:22.151640Z",
+      "last_updated": "2026-09-15T20:52:55.114666Z",
       "status": "ongoing"
     },
     {
@@ -2908,7 +2909,7 @@
       "episodes_count": 55,
       "last_episode": 55,
       "last_episode_date": "السبت 07 أكتوبر 2023 - 03:27 صباحا",
-      "last_updated": "2026-09-15T10:52:25.798180Z",
+      "last_updated": "2026-09-15T20:52:58.806833Z",
       "status": "ongoing"
     },
     {
@@ -2936,7 +2937,7 @@
       "episodes_count": 97,
       "last_episode": 97,
       "last_episode_date": "السبت 07 أكتوبر 2023 - 03:20 صباحا",
-      "last_updated": "2026-09-15T10:52:29.442437Z",
+      "last_updated": "2026-09-15T20:53:02.504468Z",
       "status": "ongoing"
     },
     {
@@ -2963,7 +2964,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الجمعة 06 أكتوبر 2023 - 05:46 مساءاً",
-      "last_updated": "2026-09-15T10:52:33.086041Z",
+      "last_updated": "2026-09-15T20:53:06.199658Z",
       "status": "ongoing"
     },
     {
@@ -2991,7 +2992,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الخميس 05 أكتوبر 2023 - 11:55 مساءاً",
-      "last_updated": "2026-09-15T10:52:36.723559Z",
+      "last_updated": "2026-09-15T20:53:09.895136Z",
       "status": "ongoing"
     },
     {
@@ -3019,7 +3020,7 @@
       "episodes_count": 9,
       "last_episode": 9,
       "last_episode_date": "الأربعاء 04 أكتوبر 2023 - 01:09 صباحا",
-      "last_updated": "2026-09-15T10:52:40.377499Z",
+      "last_updated": "2026-09-15T20:53:13.591064Z",
       "status": "ongoing"
     },
     {
@@ -3047,7 +3048,7 @@
       "episodes_count": 65,
       "last_episode": 65,
       "last_episode_date": "الأحد 01 أكتوبر 2023 - 06:50 مساءاً",
-      "last_updated": "2026-09-15T10:52:44.115140Z",
+      "last_updated": "2026-09-15T20:53:17.289840Z",
       "status": "ongoing"
     },
     {
@@ -3075,7 +3076,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الأحد 01 أكتوبر 2023 - 03:55 صباحا",
-      "last_updated": "2026-09-15T10:52:47.769587Z",
+      "last_updated": "2026-09-15T20:53:20.985485Z",
       "status": "ongoing"
     },
     {
@@ -3103,7 +3104,7 @@
       "episodes_count": 17,
       "last_episode": 17,
       "last_episode_date": "الأحد 01 أكتوبر 2023 - 12:39 صباحا",
-      "last_updated": "2026-09-15T10:52:51.434007Z",
+      "last_updated": "2026-09-15T20:53:24.684273Z",
       "status": "ongoing"
     },
     {
@@ -3131,7 +3132,7 @@
       "episodes_count": 54,
       "last_episode": 54,
       "last_episode_date": "الخميس 28 سبتمبر 2023 - 02:23 صباحا",
-      "last_updated": "2026-09-15T10:52:55.090845Z",
+      "last_updated": "2026-09-15T20:53:28.377420Z",
       "status": "ongoing"
     },
     {
@@ -3158,7 +3159,7 @@
       "episodes_count": 45,
       "last_episode": 45,
       "last_episode_date": "الأربعاء 27 سبتمبر 2023 - 03:31 صباحا",
-      "last_updated": "2026-09-15T10:52:58.730480Z",
+      "last_updated": "2026-09-15T20:53:32.095904Z",
       "status": "ongoing"
     },
     {
@@ -3186,7 +3187,7 @@
       "episodes_count": 9,
       "last_episode": 9,
       "last_episode_date": "الأحد 24 سبتمبر 2023 - 05:39 مساءاً",
-      "last_updated": "2026-09-15T10:53:02.386185Z",
+      "last_updated": "2026-09-15T20:53:35.786434Z",
       "status": "ongoing"
     },
     {
@@ -3215,7 +3216,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 22 سبتمبر 2023 - 03:54 صباحا",
-      "last_updated": "2026-09-15T10:53:06.019234Z",
+      "last_updated": "2026-09-15T20:53:39.484873Z",
       "status": "ongoing"
     },
     {
@@ -3241,7 +3242,7 @@
       "episodes_count": 23,
       "last_episode": 23,
       "last_episode_date": "الجمعة 22 سبتمبر 2023 - 03:50 صباحا",
-      "last_updated": "2026-09-15T10:53:09.681733Z",
+      "last_updated": "2026-09-15T20:53:43.177153Z",
       "status": "ongoing"
     },
     {
@@ -3270,7 +3271,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الجمعة 15 سبتمبر 2023 - 09:37 مساءاً",
-      "last_updated": "2026-09-15T10:53:13.330693Z",
+      "last_updated": "2026-09-15T20:53:46.875184Z",
       "status": "ongoing"
     },
     {
@@ -3298,7 +3299,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الجمعة 15 سبتمبر 2023 - 08:26 مساءاً",
-      "last_updated": "2026-09-15T10:53:16.982085Z",
+      "last_updated": "2026-09-15T20:53:50.565256Z",
       "status": "ongoing"
     },
     {
@@ -3326,7 +3327,7 @@
       "episodes_count": 24,
       "last_episode": 24,
       "last_episode_date": "الجمعة 15 سبتمبر 2023 - 05:11 مساءاً",
-      "last_updated": "2026-09-15T10:53:20.634909Z",
+      "last_updated": "2026-09-15T20:53:54.266118Z",
       "status": "ongoing"
     },
     {
@@ -3355,7 +3356,7 @@
       "episodes_count": 42,
       "last_episode": 42,
       "last_episode_date": "الخميس 14 سبتمبر 2023 - 03:56 صباحا",
-      "last_updated": "2026-09-15T10:53:24.279230Z",
+      "last_updated": "2026-09-15T20:53:57.966292Z",
       "status": "ongoing"
     },
     {
@@ -3382,7 +3383,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الخميس 14 سبتمبر 2023 - 03:04 صباحا",
-      "last_updated": "2026-09-15T10:53:27.928882Z",
+      "last_updated": "2026-09-15T20:54:01.665812Z",
       "status": "ongoing"
     },
     {
@@ -3409,7 +3410,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأربعاء 13 سبتمبر 2023 - 03:01 صباحا",
-      "last_updated": "2026-09-15T10:53:31.569841Z",
+      "last_updated": "2026-09-15T20:54:05.359053Z",
       "status": "ongoing"
     },
     {
@@ -3437,7 +3438,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأحد 10 سبتمبر 2023 - 04:39 صباحا",
-      "last_updated": "2026-09-15T10:53:35.197125Z",
+      "last_updated": "2026-09-15T20:54:09.053102Z",
       "status": "ongoing"
     },
     {
@@ -3464,7 +3465,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "السبت 09 سبتمبر 2023 - 12:55 صباحا",
-      "last_updated": "2026-09-15T10:53:38.832300Z",
+      "last_updated": "2026-09-15T20:54:12.753566Z",
       "status": "ongoing"
     },
     {
@@ -3491,7 +3492,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الخميس 07 سبتمبر 2023 - 05:43 صباحا",
-      "last_updated": "2026-09-15T10:53:42.471981Z",
+      "last_updated": "2026-09-15T20:54:16.453241Z",
       "status": "ongoing"
     },
     {
@@ -3519,7 +3520,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الإثنين 28 اغسطس 2023 - 03:51 صباحا",
-      "last_updated": "2026-09-15T10:53:46.218462Z",
+      "last_updated": "2026-09-15T20:54:20.149390Z",
       "status": "ongoing"
     },
     {
@@ -3547,7 +3548,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "السبت 26 اغسطس 2023 - 03:38 صباحا",
-      "last_updated": "2026-09-15T10:53:49.859075Z",
+      "last_updated": "2026-09-15T20:54:23.841923Z",
       "status": "ongoing"
     },
     {
@@ -3575,7 +3576,7 @@
       "episodes_count": 24,
       "last_episode": 24,
       "last_episode_date": "الثلاثاء 22 اغسطس 2023 - 03:59 صباحا",
-      "last_updated": "2026-09-15T10:53:53.495586Z",
+      "last_updated": "2026-09-15T20:54:27.540446Z",
       "status": "ongoing"
     },
     {
@@ -3602,7 +3603,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الثلاثاء 15 اغسطس 2023 - 07:38 مساءاً",
-      "last_updated": "2026-09-15T10:53:57.140295Z",
+      "last_updated": "2026-09-15T20:54:31.235485Z",
       "status": "ongoing"
     },
     {
@@ -3629,7 +3630,7 @@
       "episodes_count": 9,
       "last_episode": 9,
       "last_episode_date": "الإثنين 14 اغسطس 2023 - 04:37 صباحا",
-      "last_updated": "2026-09-15T10:54:00.790095Z",
+      "last_updated": "2026-09-15T20:54:34.931051Z",
       "status": "ongoing"
     },
     {
@@ -3656,7 +3657,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "السبت 12 اغسطس 2023 - 01:21 صباحا",
-      "last_updated": "2026-09-15T10:54:04.441806Z",
+      "last_updated": "2026-09-15T20:54:38.628329Z",
       "status": "ongoing"
     },
     {
@@ -3684,7 +3685,7 @@
       "episodes_count": 70,
       "last_episode": 70,
       "last_episode_date": "الجمعة 11 اغسطس 2023 - 01:36 صباحا",
-      "last_updated": "2026-09-15T10:54:08.094277Z",
+      "last_updated": "2026-09-15T20:54:42.325874Z",
       "status": "ongoing"
     },
     {
@@ -3711,7 +3712,7 @@
       "episodes_count": 119,
       "last_episode": 119,
       "last_episode_date": "الأربعاء 09 اغسطس 2023 - 03:48 مساءاً",
-      "last_updated": "2026-09-15T10:54:11.774645Z",
+      "last_updated": "2026-09-15T20:54:46.025745Z",
       "status": "ongoing"
     },
     {
@@ -3737,7 +3738,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأربعاء 09 اغسطس 2023 - 01:50 صباحا",
-      "last_updated": "2026-09-15T10:54:15.414677Z",
+      "last_updated": "2026-09-15T20:54:49.719943Z",
       "status": "ongoing"
     },
     {
@@ -3765,7 +3766,7 @@
       "episodes_count": 24,
       "last_episode": 24,
       "last_episode_date": "الأحد 06 اغسطس 2023 - 02:10 صباحا",
-      "last_updated": "2026-09-15T10:54:19.125920Z",
+      "last_updated": "2026-09-15T20:54:53.413252Z",
       "status": "ongoing"
     },
     {
@@ -3794,7 +3795,7 @@
       "episodes_count": 103,
       "last_episode": 103,
       "last_episode_date": "الأحد 06 اغسطس 2023 - 01:05 صباحا",
-      "last_updated": "2026-09-15T10:54:22.757252Z",
+      "last_updated": "2026-09-15T20:54:57.112196Z",
       "status": "ongoing"
     },
     {
@@ -3822,7 +3823,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الإثنين 31 يوليو 2023 - 02:19 صباحا",
-      "last_updated": "2026-09-15T10:54:26.401272Z",
+      "last_updated": "2026-09-15T20:55:00.806893Z",
       "status": "ongoing"
     },
     {
@@ -3850,7 +3851,7 @@
       "episodes_count": 65,
       "last_episode": 65,
       "last_episode_date": "الأحد 30 يوليو 2023 - 09:51 مساءاً",
-      "last_updated": "2026-09-15T10:54:30.055628Z",
+      "last_updated": "2026-09-15T20:55:04.510309Z",
       "status": "ongoing"
     },
     {
@@ -3879,7 +3880,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 28 يوليو 2023 - 09:31 مساءاً",
-      "last_updated": "2026-09-15T10:54:33.711088Z",
+      "last_updated": "2026-09-15T20:55:08.203844Z",
       "status": "ongoing"
     },
     {
@@ -3908,7 +3909,7 @@
       "episodes_count": 16,
       "last_episode": 16,
       "last_episode_date": "الخميس 27 يوليو 2023 - 03:47 صباحا",
-      "last_updated": "2026-09-15T10:54:37.383612Z",
+      "last_updated": "2026-09-15T20:55:11.904123Z",
       "status": "ongoing"
     },
     {
@@ -3936,7 +3937,7 @@
       "episodes_count": 86,
       "last_episode": 86,
       "last_episode_date": "الإثنين 17 يوليو 2023 - 07:47 مساءاً",
-      "last_updated": "2026-09-15T10:54:41.056859Z",
+      "last_updated": "2026-09-15T20:55:15.601147Z",
       "status": "ongoing"
     },
     {
@@ -3962,7 +3963,7 @@
       "episodes_count": 17,
       "last_episode": 17,
       "last_episode_date": "الإثنين 17 يوليو 2023 - 01:16 صباحا",
-      "last_updated": "2026-09-15T10:54:44.707851Z",
+      "last_updated": "2026-09-15T20:55:19.299127Z",
       "status": "ongoing"
     },
     {
@@ -3989,7 +3990,7 @@
       "episodes_count": 4,
       "last_episode": 4,
       "last_episode_date": "الأحد 16 يوليو 2023 - 03:52 مساءاً",
-      "last_updated": "2026-09-15T10:54:48.416699Z",
+      "last_updated": "2026-09-15T20:55:22.994115Z",
       "status": "ongoing"
     },
     {
@@ -4017,7 +4018,7 @@
       "episodes_count": 38,
       "last_episode": 38,
       "last_episode_date": "السبت 15 يوليو 2023 - 10:33 صباحا",
-      "last_updated": "2026-09-15T10:54:52.091014Z",
+      "last_updated": "2026-09-15T20:55:26.695915Z",
       "status": "ongoing"
     },
     {
@@ -4044,7 +4045,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الجمعة 14 يوليو 2023 - 09:25 مساءاً",
-      "last_updated": "2026-09-15T10:54:55.745792Z",
+      "last_updated": "2026-09-15T20:55:30.390579Z",
       "status": "ongoing"
     },
     {
@@ -4072,7 +4073,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الجمعة 14 يوليو 2023 - 03:15 صباحا",
-      "last_updated": "2026-09-15T10:54:59.383990Z",
+      "last_updated": "2026-09-15T20:55:34.080173Z",
       "status": "ongoing"
     },
     {
@@ -4100,7 +4101,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الثلاثاء 11 يوليو 2023 - 05:26 مساءاً",
-      "last_updated": "2026-09-15T10:55:03.064292Z",
+      "last_updated": "2026-09-15T20:55:37.773511Z",
       "status": "ongoing"
     },
     {
@@ -4128,7 +4129,7 @@
       "episodes_count": 11,
       "last_episode": 11,
       "last_episode_date": "الإثنين 10 يوليو 2023 - 06:44 مساءاً",
-      "last_updated": "2026-09-15T10:55:06.700871Z",
+      "last_updated": "2026-09-15T20:55:41.464350Z",
       "status": "ongoing"
     },
     {
@@ -4155,7 +4156,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "السبت 08 يوليو 2023 - 07:13 مساءاً",
-      "last_updated": "2026-09-15T10:55:10.361532Z",
+      "last_updated": "2026-09-15T20:55:45.163228Z",
       "status": "ongoing"
     },
     {
@@ -4183,7 +4184,7 @@
       "episodes_count": 67,
       "last_episode": 67,
       "last_episode_date": "السبت 08 يوليو 2023 - 03:34 صباحا",
-      "last_updated": "2026-09-15T10:55:14.014690Z",
+      "last_updated": "2026-09-15T20:55:48.857466Z",
       "status": "ongoing"
     },
     {
@@ -4211,7 +4212,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "السبت 08 يوليو 2023 - 02:05 صباحا",
-      "last_updated": "2026-09-15T10:55:17.666355Z",
+      "last_updated": "2026-09-15T20:55:52.553570Z",
       "status": "ongoing"
     },
     {
@@ -4238,7 +4239,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الجمعة 07 يوليو 2023 - 02:24 صباحا",
-      "last_updated": "2026-09-15T10:55:21.344102Z",
+      "last_updated": "2026-09-15T20:55:56.243455Z",
       "status": "ongoing"
     },
     {
@@ -4265,7 +4266,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الخميس 06 يوليو 2023 - 04:18 صباحا",
-      "last_updated": "2026-09-15T10:55:24.984745Z",
+      "last_updated": "2026-09-15T20:55:59.938488Z",
       "status": "ongoing"
     },
     {
@@ -4294,7 +4295,7 @@
       "episodes_count": 64,
       "last_episode": 65,
       "last_episode_date": "الثلاثاء 27 يونيو 2023 - 02:25 صباحا",
-      "last_updated": "2026-09-15T10:55:28.636731Z",
+      "last_updated": "2026-09-15T20:56:03.640423Z",
       "status": "ongoing"
     },
     {
@@ -4322,7 +4323,7 @@
       "episodes_count": 31,
       "last_episode": 31,
       "last_episode_date": "الإثنين 26 يونيو 2023 - 03:26 صباحا",
-      "last_updated": "2026-09-15T10:55:32.278552Z",
+      "last_updated": "2026-09-15T20:56:07.338389Z",
       "status": "ongoing"
     },
     {
@@ -4349,7 +4350,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الأحد 25 يونيو 2023 - 03:46 مساءاً",
-      "last_updated": "2026-09-15T10:55:35.895802Z",
+      "last_updated": "2026-09-15T20:56:11.031841Z",
       "status": "ongoing"
     },
     {
@@ -4378,7 +4379,7 @@
       "episodes_count": 32,
       "last_episode": 32,
       "last_episode_date": "السبت 24 يونيو 2023 - 11:11 مساءاً",
-      "last_updated": "2026-09-15T10:55:39.544659Z",
+      "last_updated": "2026-09-15T20:56:14.726799Z",
       "status": "ongoing"
     },
     {
@@ -4406,7 +4407,7 @@
       "episodes_count": 21,
       "last_episode": 21,
       "last_episode_date": "السبت 24 يونيو 2023 - 02:29 صباحا",
-      "last_updated": "2026-09-15T10:55:43.204883Z",
+      "last_updated": "2026-09-15T20:56:18.417282Z",
       "status": "ongoing"
     },
     {
@@ -4434,7 +4435,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأربعاء 21 يونيو 2023 - 08:39 مساءاً",
-      "last_updated": "2026-09-15T10:55:46.872037Z",
+      "last_updated": "2026-09-15T20:56:22.112342Z",
       "status": "ongoing"
     },
     {
@@ -4461,7 +4462,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الأحد 18 يونيو 2023 - 02:04 صباحا",
-      "last_updated": "2026-09-15T10:55:50.596248Z",
+      "last_updated": "2026-09-15T20:56:25.807422Z",
       "status": "ongoing"
     },
     {
@@ -4489,7 +4490,7 @@
       "episodes_count": 19,
       "last_episode": 19,
       "last_episode_date": "السبت 17 يونيو 2023 - 03:31 صباحا",
-      "last_updated": "2026-09-15T10:55:54.244781Z",
+      "last_updated": "2026-09-15T20:56:29.504408Z",
       "status": "ongoing"
     },
     {
@@ -4518,7 +4519,7 @@
       "episodes_count": 35,
       "last_episode": 35,
       "last_episode_date": "الجمعة 16 يونيو 2023 - 04:01 صباحا",
-      "last_updated": "2026-09-15T10:55:57.910466Z",
+      "last_updated": "2026-09-15T20:56:33.193507Z",
       "status": "ongoing"
     },
     {
@@ -4546,7 +4547,7 @@
       "episodes_count": 25,
       "last_episode": 25,
       "last_episode_date": "الخميس 15 يونيو 2023 - 03:58 مساءاً",
-      "last_updated": "2026-09-15T10:56:01.544500Z",
+      "last_updated": "2026-09-15T20:56:36.892701Z",
       "status": "ongoing"
     },
     {
@@ -4574,7 +4575,7 @@
       "episodes_count": 37,
       "last_episode": 37,
       "last_episode_date": "الخميس 15 يونيو 2023 - 03:12 صباحا",
-      "last_updated": "2026-09-15T10:56:05.197007Z",
+      "last_updated": "2026-09-15T20:56:40.583150Z",
       "status": "ongoing"
     },
     {
@@ -4602,7 +4603,7 @@
       "episodes_count": 32,
       "last_episode": 32,
       "last_episode_date": "الخميس 15 يونيو 2023 - 12:48 صباحا",
-      "last_updated": "2026-09-15T10:56:08.838492Z",
+      "last_updated": "2026-09-15T20:56:44.284610Z",
       "status": "ongoing"
     },
     {
@@ -4630,7 +4631,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الأربعاء 14 يونيو 2023 - 11:02 مساءاً",
-      "last_updated": "2026-09-15T10:56:12.488908Z",
+      "last_updated": "2026-09-15T20:56:47.975124Z",
       "status": "ongoing"
     },
     {
@@ -4658,7 +4659,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الأربعاء 14 يونيو 2023 - 10:58 مساءاً",
-      "last_updated": "2026-09-15T10:56:16.139689Z",
+      "last_updated": "2026-09-15T20:56:51.674865Z",
       "status": "ongoing"
     },
     {
@@ -4686,7 +4687,7 @@
       "episodes_count": 21,
       "last_episode": 21,
       "last_episode_date": "الأربعاء 14 يونيو 2023 - 04:14 صباحا",
-      "last_updated": "2026-09-15T10:56:19.793270Z",
+      "last_updated": "2026-09-15T20:56:55.365223Z",
       "status": "ongoing"
     },
     {
@@ -4714,7 +4715,7 @@
       "episodes_count": 28,
       "last_episode": 28,
       "last_episode_date": "الأربعاء 14 يونيو 2023 - 04:12 صباحا",
-      "last_updated": "2026-09-15T10:56:23.533256Z",
+      "last_updated": "2026-09-15T20:56:59.051805Z",
       "status": "ongoing"
     },
     {
@@ -4743,7 +4744,7 @@
       "episodes_count": 180,
       "last_episode": 180,
       "last_episode_date": "الإثنين 12 يونيو 2023 - 04:03 مساءاً",
-      "last_updated": "2026-09-15T10:56:27.174527Z",
+      "last_updated": "2026-09-15T20:57:02.758716Z",
       "status": "ongoing"
     },
     {
@@ -4771,7 +4772,7 @@
       "episodes_count": 29,
       "last_episode": 29,
       "last_episode_date": "الأحد 11 يونيو 2023 - 02:44 مساءاً",
-      "last_updated": "2026-09-15T10:56:30.808324Z",
+      "last_updated": "2026-09-15T20:57:06.459300Z",
       "status": "ongoing"
     },
     {
@@ -4799,7 +4800,7 @@
       "episodes_count": 38,
       "last_episode": 38,
       "last_episode_date": "الأحد 11 يونيو 2023 - 03:41 صباحا",
-      "last_updated": "2026-09-15T10:56:34.441264Z",
+      "last_updated": "2026-09-15T20:57:10.154614Z",
       "status": "ongoing"
     },
     {
@@ -4826,7 +4827,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الأحد 11 يونيو 2023 - 12:58 صباحا",
-      "last_updated": "2026-09-15T10:56:38.104193Z",
+      "last_updated": "2026-09-15T20:57:13.852682Z",
       "status": "ongoing"
     },
     {
@@ -4855,7 +4856,7 @@
       "episodes_count": 36,
       "last_episode": 36,
       "last_episode_date": "السبت 10 يونيو 2023 - 10:30 صباحا",
-      "last_updated": "2026-09-15T10:56:41.764904Z",
+      "last_updated": "2026-09-15T20:57:17.541878Z",
       "status": "ongoing"
     },
     {
@@ -4882,7 +4883,7 @@
       "episodes_count": 20,
       "last_episode": 20,
       "last_episode_date": "السبت 10 يونيو 2023 - 10:15 صباحا",
-      "last_updated": "2026-09-15T10:56:45.428843Z",
+      "last_updated": "2026-09-15T20:57:21.238116Z",
       "status": "ongoing"
     },
     {
@@ -4911,7 +4912,7 @@
       "episodes_count": 11,
       "last_episode": 11,
       "last_episode_date": "الخميس 08 يونيو 2023 - 03:51 صباحا",
-      "last_updated": "2026-09-15T10:56:49.094149Z",
+      "last_updated": "2026-09-15T20:57:24.931370Z",
       "status": "ongoing"
     },
     {
@@ -4938,7 +4939,7 @@
       "episodes_count": 36,
       "last_episode": 36,
       "last_episode_date": "الأربعاء 07 يونيو 2023 - 03:28 صباحا",
-      "last_updated": "2026-09-15T10:56:52.806072Z",
+      "last_updated": "2026-09-15T20:57:28.625733Z",
       "status": "ongoing"
     },
     {
@@ -4968,7 +4969,7 @@
       "episodes_count": 31,
       "last_episode": 31,
       "last_episode_date": "الثلاثاء 06 يونيو 2023 - 03:30 صباحا",
-      "last_updated": "2026-09-15T10:56:56.439190Z",
+      "last_updated": "2026-09-15T20:57:32.324961Z",
       "status": "ongoing"
     },
     {
@@ -4996,7 +4997,7 @@
       "episodes_count": 36,
       "last_episode": 36,
       "last_episode_date": "الخميس 01 يونيو 2023 - 01:40 مساءاً",
-      "last_updated": "2026-09-15T10:57:00.091430Z",
+      "last_updated": "2026-09-15T20:57:36.017259Z",
       "status": "ongoing"
     },
     {
@@ -5024,7 +5025,7 @@
       "episodes_count": 14,
       "last_episode": 14,
       "last_episode_date": "الخميس 01 يونيو 2023 - 03:45 صباحا",
-      "last_updated": "2026-09-15T10:57:03.750191Z",
+      "last_updated": "2026-09-15T20:57:39.713481Z",
       "status": "ongoing"
     },
     {
@@ -5053,7 +5054,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأربعاء 31 مايو 2023 - 04:57 مساءاً",
-      "last_updated": "2026-09-15T10:57:07.379860Z",
+      "last_updated": "2026-09-15T20:57:43.410509Z",
       "status": "ongoing"
     },
     {
@@ -5081,7 +5082,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأربعاء 31 مايو 2023 - 03:32 مساءاً",
-      "last_updated": "2026-09-15T10:57:11.018044Z",
+      "last_updated": "2026-09-15T20:57:47.105338Z",
       "status": "ongoing"
     },
     {
@@ -5108,7 +5109,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الأربعاء 31 مايو 2023 - 03:50 صباحا",
-      "last_updated": "2026-09-15T10:57:14.644305Z",
+      "last_updated": "2026-09-15T20:57:50.803534Z",
       "status": "ongoing"
     },
     {
@@ -5135,7 +5136,7 @@
       "episodes_count": 41,
       "last_episode": 41,
       "last_episode_date": "الجمعة 26 مايو 2023 - 03:24 صباحا",
-      "last_updated": "2026-09-15T10:57:18.296997Z",
+      "last_updated": "2026-09-15T20:57:54.495511Z",
       "status": "ongoing"
     },
     {
@@ -5163,7 +5164,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الثلاثاء 23 مايو 2023 - 05:19 صباحا",
-      "last_updated": "2026-09-15T10:57:21.945312Z",
+      "last_updated": "2026-09-15T20:57:58.192156Z",
       "status": "ongoing"
     },
     {
@@ -5192,7 +5193,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الأحد 21 مايو 2023 - 05:33 مساءاً",
-      "last_updated": "2026-09-15T10:57:25.663234Z",
+      "last_updated": "2026-09-15T20:58:01.882588Z",
       "status": "ongoing"
     },
     {
@@ -5221,7 +5222,7 @@
       "episodes_count": 24,
       "last_episode": 24,
       "last_episode_date": "الخميس 18 مايو 2023 - 02:31 صباحا",
-      "last_updated": "2026-09-15T10:57:29.312795Z",
+      "last_updated": "2026-09-15T20:58:05.583387Z",
       "status": "ongoing"
     },
     {
@@ -5249,7 +5250,7 @@
       "episodes_count": 29,
       "last_episode": 29,
       "last_episode_date": "الإثنين 08 مايو 2023 - 03:09 صباحا",
-      "last_updated": "2026-09-15T10:57:32.980575Z",
+      "last_updated": "2026-09-15T20:58:09.275807Z",
       "status": "ongoing"
     },
     {
@@ -5277,7 +5278,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الثلاثاء 02 مايو 2023 - 01:22 مساءاً",
-      "last_updated": "2026-09-15T10:57:36.612758Z",
+      "last_updated": "2026-09-15T20:58:12.971623Z",
       "status": "ongoing"
     },
     {
@@ -5305,7 +5306,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الثلاثاء 02 مايو 2023 - 01:21 مساءاً",
-      "last_updated": "2026-09-15T10:57:40.271609Z",
+      "last_updated": "2026-09-15T20:58:16.666043Z",
       "status": "ongoing"
     },
     {
@@ -5333,7 +5334,7 @@
       "episodes_count": 26,
       "last_episode": 26,
       "last_episode_date": "الأحد 30 ابريل 2023 - 04:08 صباحا",
-      "last_updated": "2026-09-15T10:57:43.916554Z",
+      "last_updated": "2026-09-15T20:58:20.366905Z",
       "status": "ongoing"
     },
     {
@@ -5362,7 +5363,7 @@
       "episodes_count": 26,
       "last_episode": 26,
       "last_episode_date": "الخميس 27 ابريل 2023 - 03:26 صباحا",
-      "last_updated": "2026-09-15T10:57:47.535144Z",
+      "last_updated": "2026-09-15T20:58:24.062796Z",
       "status": "ongoing"
     },
     {
@@ -5391,7 +5392,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الأحد 26 مارس 2023 - 04:45 مساءاً",
-      "last_updated": "2026-09-15T10:57:51.195075Z",
+      "last_updated": "2026-09-15T20:58:27.761304Z",
       "status": "ongoing"
     },
     {
@@ -5417,7 +5418,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الجمعة 24 مارس 2023 - 05:56 مساءاً",
-      "last_updated": "2026-09-15T10:57:54.928179Z",
+      "last_updated": "2026-09-15T20:58:31.455416Z",
       "status": "ongoing"
     },
     {
@@ -5444,7 +5445,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "السبت 18 مارس 2023 - 08:43 مساءاً",
-      "last_updated": "2026-09-15T10:57:58.564153Z",
+      "last_updated": "2026-09-15T20:58:35.149871Z",
       "status": "ongoing"
     },
     {
@@ -5472,7 +5473,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الثلاثاء 14 مارس 2023 - 05:43 مساءاً",
-      "last_updated": "2026-09-15T10:58:02.219417Z",
+      "last_updated": "2026-09-15T20:58:38.849730Z",
       "status": "ongoing"
     },
     {
@@ -5500,7 +5501,7 @@
       "episodes_count": 15,
       "last_episode": 15,
       "last_episode_date": "الثلاثاء 14 مارس 2023 - 12:51 صباحا",
-      "last_updated": "2026-09-15T10:58:05.837649Z",
+      "last_updated": "2026-09-15T20:58:42.549461Z",
       "status": "ongoing"
     },
     {
@@ -5527,7 +5528,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الإثنين 20 فبراير 2023 - 04:17 مساءاً",
-      "last_updated": "2026-09-15T10:58:09.483544Z",
+      "last_updated": "2026-09-15T20:58:46.247163Z",
       "status": "ongoing"
     },
     {
@@ -5554,7 +5555,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الإثنين 20 فبراير 2023 - 04:10 مساءاً",
-      "last_updated": "2026-09-15T10:58:13.111306Z",
+      "last_updated": "2026-09-15T20:58:49.941767Z",
       "status": "ongoing"
     },
     {
@@ -5582,7 +5583,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأربعاء 15 فبراير 2023 - 02:04 صباحا",
-      "last_updated": "2026-09-15T10:58:16.793286Z",
+      "last_updated": "2026-09-15T20:58:53.639155Z",
       "status": "ongoing"
     },
     {
@@ -5608,7 +5609,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأربعاء 15 فبراير 2023 - 01:09 صباحا",
-      "last_updated": "2026-09-15T10:58:20.446652Z",
+      "last_updated": "2026-09-15T20:58:57.330166Z",
       "status": "ongoing"
     },
     {
@@ -5636,7 +5637,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الجمعة 10 فبراير 2023 - 04:54 مساءاً",
-      "last_updated": "2026-09-15T10:58:24.092595Z",
+      "last_updated": "2026-09-15T20:59:01.030393Z",
       "status": "ongoing"
     },
     {
@@ -5664,7 +5665,7 @@
       "episodes_count": 9,
       "last_episode": 9,
       "last_episode_date": "الجمعة 10 فبراير 2023 - 04:32 مساءاً",
-      "last_updated": "2026-09-15T10:58:27.765756Z",
+      "last_updated": "2026-09-15T20:59:04.725355Z",
       "status": "ongoing"
     },
     {
@@ -5691,7 +5692,7 @@
       "episodes_count": 5,
       "last_episode": 5,
       "last_episode_date": "الخميس 02 فبراير 2023 - 11:30 مساءاً",
-      "last_updated": "2026-09-15T10:58:31.418535Z",
+      "last_updated": "2026-09-15T20:59:08.419200Z",
       "status": "ongoing"
     },
     {
@@ -5717,7 +5718,7 @@
       "episodes_count": 19,
       "last_episode": 19,
       "last_episode_date": "الأربعاء 01 فبراير 2023 - 03:23 مساءاً",
-      "last_updated": "2026-09-15T10:58:35.095180Z",
+      "last_updated": "2026-09-15T20:59:12.114435Z",
       "status": "ongoing"
     },
     {
@@ -5746,7 +5747,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الثلاثاء 31 يناير 2023 - 11:12 مساءاً",
-      "last_updated": "2026-09-15T10:58:38.745723Z",
+      "last_updated": "2026-09-15T20:59:15.809904Z",
       "status": "ongoing"
     },
     {
@@ -5774,7 +5775,7 @@
       "episodes_count": 12,
       "last_episode": 12,
       "last_episode_date": "الثلاثاء 31 يناير 2023 - 03:28 مساءاً",
-      "last_updated": "2026-09-15T10:58:42.391554Z",
+      "last_updated": "2026-09-15T20:59:19.507650Z",
       "status": "ongoing"
     },
     {
@@ -5802,7 +5803,7 @@
       "episodes_count": 19,
       "last_episode": 19,
       "last_episode_date": "الأحد 22 يناير 2023 - 02:13 صباحا",
-      "last_updated": "2026-09-15T10:58:46.056236Z",
+      "last_updated": "2026-09-15T20:59:23.201717Z",
       "status": "ongoing"
     },
     {
@@ -5830,7 +5831,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 20 يناير 2023 - 04:08 مساءاً",
-      "last_updated": "2026-09-15T10:58:49.700079Z",
+      "last_updated": "2026-09-15T20:59:26.896725Z",
       "status": "ongoing"
     },
     {
@@ -5859,7 +5860,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 20 يناير 2023 - 02:53 مساءاً",
-      "last_updated": "2026-09-15T10:58:53.341465Z",
+      "last_updated": "2026-09-15T20:59:30.594859Z",
       "status": "ongoing"
     },
     {
@@ -5886,7 +5887,7 @@
       "episodes_count": 4,
       "last_episode": 4,
       "last_episode_date": "الجمعة 20 يناير 2023 - 12:41 صباحا",
-      "last_updated": "2026-09-15T10:58:57.029999Z",
+      "last_updated": "2026-09-15T20:59:34.289459Z",
       "status": "ongoing"
     },
     {
@@ -5915,7 +5916,7 @@
       "episodes_count": 19,
       "last_episode": 19,
       "last_episode_date": "الخميس 19 يناير 2023 - 03:18 صباحا",
-      "last_updated": "2026-09-15T10:59:00.669355Z",
+      "last_updated": "2026-09-15T20:59:37.988352Z",
       "status": "ongoing"
     },
     {
@@ -5945,7 +5946,7 @@
       "episodes_count": 80,
       "last_episode": 80,
       "last_episode_date": "الثلاثاء 17 يناير 2023 - 02:30 صباحا",
-      "last_updated": "2026-09-15T10:59:04.317765Z",
+      "last_updated": "2026-09-15T20:59:41.686960Z",
       "status": "ongoing"
     },
     {
@@ -5973,7 +5974,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الجمعة 13 يناير 2023 - 11:09 مساءاً",
-      "last_updated": "2026-09-15T10:59:07.976352Z",
+      "last_updated": "2026-09-15T20:59:45.385025Z",
       "status": "ongoing"
     },
     {
@@ -6001,7 +6002,7 @@
       "episodes_count": 3,
       "last_episode": 3,
       "last_episode_date": "الجمعة 13 يناير 2023 - 04:32 مساءاً",
-      "last_updated": "2026-09-15T10:59:11.600094Z",
+      "last_updated": "2026-09-15T20:59:49.082173Z",
       "status": "ongoing"
     },
     {
@@ -6027,7 +6028,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الأربعاء 11 يناير 2023 - 06:09 مساءاً",
-      "last_updated": "2026-09-15T10:59:15.230962Z",
+      "last_updated": "2026-09-15T20:59:52.777266Z",
       "status": "ongoing"
     },
     {
@@ -6055,7 +6056,7 @@
       "episodes_count": 135,
       "last_episode": 136,
       "last_episode_date": "الخميس 05 يناير 2023 - 02:51 صباحا",
-      "last_updated": "2026-09-15T10:59:18.894754Z",
+      "last_updated": "2026-09-15T20:59:56.482657Z",
       "status": "ongoing"
     },
     {
@@ -6082,7 +6083,7 @@
       "episodes_count": 175,
       "last_episode": 175,
       "last_episode_date": "الإثنين 02 يناير 2023 - 04:18 مساءاً",
-      "last_updated": "2026-09-15T10:59:22.564677Z",
+      "last_updated": "2026-09-15T21:00:00.183219Z",
       "status": "ongoing"
     },
     {
@@ -6110,7 +6111,7 @@
       "episodes_count": 71,
       "last_episode": 71,
       "last_episode_date": "الأحد 01 يناير 2023 - 03:36 صباحا",
-      "last_updated": "2026-09-15T10:59:26.217997Z",
+      "last_updated": "2026-09-15T21:00:03.877447Z",
       "status": "ongoing"
     },
     {
@@ -6139,7 +6140,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الخميس 29 ديسمبر 2022 - 04:59 مساءاً",
-      "last_updated": "2026-09-15T10:59:30.011808Z",
+      "last_updated": "2026-09-15T21:00:07.568657Z",
       "status": "ongoing"
     },
     {
@@ -6167,7 +6168,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأربعاء 28 ديسمبر 2022 - 05:11 مساءاً",
-      "last_updated": "2026-09-15T10:59:33.693751Z",
+      "last_updated": "2026-09-15T21:00:11.263895Z",
       "status": "ongoing"
     },
     {
@@ -6195,7 +6196,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الأربعاء 28 ديسمبر 2022 - 03:29 صباحا",
-      "last_updated": "2026-09-15T10:59:37.351247Z",
+      "last_updated": "2026-09-15T21:00:14.962389Z",
       "status": "ongoing"
     },
     {
@@ -6223,7 +6224,7 @@
       "episodes_count": 15,
       "last_episode": 15,
       "last_episode_date": "الأربعاء 28 ديسمبر 2022 - 03:25 صباحا",
-      "last_updated": "2026-09-15T10:59:40.978738Z",
+      "last_updated": "2026-09-15T21:00:18.661990Z",
       "status": "ongoing"
     },
     {
@@ -6252,7 +6253,7 @@
       "episodes_count": 45,
       "last_episode": 45,
       "last_episode_date": "الثلاثاء 27 ديسمبر 2022 - 03:11 مساءاً",
-      "last_updated": "2026-09-15T10:59:44.631468Z",
+      "last_updated": "2026-09-15T21:00:22.358069Z",
       "status": "ongoing"
     },
     {
@@ -6281,7 +6282,7 @@
       "episodes_count": 78,
       "last_episode": 78,
       "last_episode_date": "الثلاثاء 27 ديسمبر 2022 - 03:05 مساءاً",
-      "last_updated": "2026-09-15T10:59:48.283189Z",
+      "last_updated": "2026-09-15T21:00:26.051547Z",
       "status": "ongoing"
     },
     {
@@ -6309,7 +6310,7 @@
       "episodes_count": 26,
       "last_episode": 26,
       "last_episode_date": "الإثنين 26 ديسمبر 2022 - 02:26 مساءاً",
-      "last_updated": "2026-09-15T10:59:51.927757Z",
+      "last_updated": "2026-09-15T21:00:29.751211Z",
       "status": "ongoing"
     },
     {
@@ -6337,7 +6338,7 @@
       "episodes_count": 9,
       "last_episode": 9,
       "last_episode_date": "الأحد 25 ديسمبر 2022 - 03:55 مساءاً",
-      "last_updated": "2026-09-15T10:59:55.581004Z",
+      "last_updated": "2026-09-15T21:00:33.450399Z",
       "status": "ongoing"
     },
     {
@@ -6364,7 +6365,7 @@
       "episodes_count": 129,
       "last_episode": 129,
       "last_episode_date": "الأربعاء 14 ديسمبر 2022 - 04:42 مساءاً",
-      "last_updated": "2026-09-15T10:59:59.322131Z",
+      "last_updated": "2026-09-15T21:00:37.151506Z",
       "status": "ongoing"
     },
     {
@@ -6393,7 +6394,7 @@
       "episodes_count": 85,
       "last_episode": 85,
       "last_episode_date": "الأحد 11 ديسمبر 2022 - 03:30 مساءاً",
-      "last_updated": "2026-09-15T11:00:02.977738Z",
+      "last_updated": "2026-09-15T21:00:40.853560Z",
       "status": "ongoing"
     },
     {
@@ -6421,7 +6422,7 @@
       "episodes_count": 40,
       "last_episode": 40,
       "last_episode_date": "السبت 10 ديسمبر 2022 - 03:16 مساءاً",
-      "last_updated": "2026-09-15T11:00:06.604816Z",
+      "last_updated": "2026-09-15T21:00:44.545312Z",
       "status": "ongoing"
     },
     {
@@ -6448,7 +6449,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 09 ديسمبر 2022 - 12:41 صباحا",
-      "last_updated": "2026-09-15T11:00:10.248406Z",
+      "last_updated": "2026-09-15T21:00:48.244614Z",
       "status": "ongoing"
     },
     {
@@ -6476,7 +6477,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 02 ديسمبر 2022 - 03:49 مساءاً",
-      "last_updated": "2026-09-15T11:00:13.902295Z",
+      "last_updated": "2026-09-15T21:00:51.945396Z",
       "status": "ongoing"
     },
     {
@@ -6504,7 +6505,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 02 ديسمبر 2022 - 02:10 مساءاً",
-      "last_updated": "2026-09-15T11:00:17.530011Z",
+      "last_updated": "2026-09-15T21:00:55.638889Z",
       "status": "ongoing"
     },
     {
@@ -6534,7 +6535,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الجمعة 25 نوفمبر 2022 - 05:51 مساءاً",
-      "last_updated": "2026-09-15T11:00:21.176909Z",
+      "last_updated": "2026-09-15T21:00:59.330169Z",
       "status": "ongoing"
     },
     {
@@ -6562,7 +6563,7 @@
       "episodes_count": 20,
       "last_episode": 20,
       "last_episode_date": "الجمعة 18 نوفمبر 2022 - 03:01 صباحا",
-      "last_updated": "2026-09-15T11:00:24.806862Z",
+      "last_updated": "2026-09-15T21:01:03.022765Z",
       "status": "ongoing"
     },
     {
@@ -6589,7 +6590,7 @@
       "episodes_count": 20,
       "last_episode": 20,
       "last_episode_date": "الأحد 13 نوفمبر 2022 - 07:59 مساءاً",
-      "last_updated": "2026-09-15T11:00:28.469496Z",
+      "last_updated": "2026-09-15T21:01:06.713740Z",
       "status": "ongoing"
     },
     {
@@ -6617,7 +6618,7 @@
       "episodes_count": 120,
       "last_episode": 120,
       "last_episode_date": "السبت 12 نوفمبر 2022 - 03:20 صباحا",
-      "last_updated": "2026-09-15T11:00:32.184340Z",
+      "last_updated": "2026-09-15T21:01:10.413279Z",
       "status": "ongoing"
     },
     {
@@ -6645,7 +6646,7 @@
       "episodes_count": 21,
       "last_episode": 21,
       "last_episode_date": "الثلاثاء 01 نوفمبر 2022 - 12:32 صباحا",
-      "last_updated": "2026-09-15T11:00:35.831803Z",
+      "last_updated": "2026-09-15T21:01:14.111611Z",
       "status": "ongoing"
     },
     {
@@ -6673,7 +6674,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الأحد 30 أكتوبر 2022 - 03:26 صباحا",
-      "last_updated": "2026-09-15T11:00:39.468776Z",
+      "last_updated": "2026-09-15T21:01:17.811320Z",
       "status": "ongoing"
     },
     {
@@ -6701,7 +6702,7 @@
       "episodes_count": 28,
       "last_episode": 28,
       "last_episode_date": "السبت 22 أكتوبر 2022 - 03:05 صباحا",
-      "last_updated": "2026-09-15T11:00:43.116378Z",
+      "last_updated": "2026-09-15T21:01:21.511496Z",
       "status": "ongoing"
     },
     {
@@ -6729,7 +6730,7 @@
       "episodes_count": 21,
       "last_episode": 21,
       "last_episode_date": "الثلاثاء 18 أكتوبر 2022 - 07:01 مساءاً",
-      "last_updated": "2026-09-15T11:00:46.757109Z",
+      "last_updated": "2026-09-15T21:01:25.199265Z",
       "status": "ongoing"
     },
     {
@@ -6757,7 +6758,7 @@
       "episodes_count": 17,
       "last_episode": 17,
       "last_episode_date": "الثلاثاء 18 أكتوبر 2022 - 02:08 صباحا",
-      "last_updated": "2026-09-15T11:00:50.424310Z",
+      "last_updated": "2026-09-15T21:01:28.899794Z",
       "status": "ongoing"
     },
     {
@@ -6787,7 +6788,7 @@
       "episodes_count": 4,
       "last_episode": 4,
       "last_episode_date": "السبت 15 أكتوبر 2022 - 01:37 صباحا",
-      "last_updated": "2026-09-15T11:00:54.057771Z",
+      "last_updated": "2026-09-15T21:01:32.598716Z",
       "status": "ongoing"
     },
     {
@@ -6816,7 +6817,7 @@
       "episodes_count": 4,
       "last_episode": 4,
       "last_episode_date": "الجمعة 14 أكتوبر 2022 - 02:06 صباحا",
-      "last_updated": "2026-09-15T11:00:57.694190Z",
+      "last_updated": "2026-09-15T21:01:36.294135Z",
       "status": "ongoing"
     },
     {
@@ -6844,7 +6845,7 @@
       "episodes_count": 20,
       "last_episode": 20,
       "last_episode_date": "الثلاثاء 11 أكتوبر 2022 - 03:29 صباحا",
-      "last_updated": "2026-09-15T11:01:01.363440Z",
+      "last_updated": "2026-09-15T21:01:39.990101Z",
       "status": "ongoing"
     },
     {
@@ -6872,7 +6873,7 @@
       "episodes_count": 18,
       "last_episode": 18,
       "last_episode_date": "السبت 08 أكتوبر 2022 - 03:17 مساءاً",
-      "last_updated": "2026-09-15T11:01:05.015519Z",
+      "last_updated": "2026-09-15T21:01:43.684536Z",
       "status": "ongoing"
     },
     {
@@ -6899,7 +6900,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "السبت 08 أكتوبر 2022 - 01:39 صباحا",
-      "last_updated": "2026-09-15T11:01:08.674283Z",
+      "last_updated": "2026-09-15T21:01:47.376303Z",
       "status": "ongoing"
     },
     {
@@ -6926,7 +6927,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الجمعة 07 أكتوبر 2022 - 02:31 مساءاً",
-      "last_updated": "2026-09-15T11:01:12.328664Z",
+      "last_updated": "2026-09-15T21:01:51.066852Z",
       "status": "ongoing"
     },
     {
@@ -6953,7 +6954,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الخميس 06 أكتوبر 2022 - 02:28 صباحا",
-      "last_updated": "2026-09-15T11:01:15.969832Z",
+      "last_updated": "2026-09-15T21:01:54.760357Z",
       "status": "ongoing"
     },
     {
@@ -6981,7 +6982,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الخميس 22 سبتمبر 2022 - 01:57 صباحا",
-      "last_updated": "2026-09-15T11:01:19.630406Z",
+      "last_updated": "2026-09-15T21:01:58.460585Z",
       "status": "ongoing"
     },
     {
@@ -7010,7 +7011,7 @@
       "episodes_count": 95,
       "last_episode": 95,
       "last_episode_date": "الأحد 18 سبتمبر 2022 - 04:33 مساءاً",
-      "last_updated": "2026-09-15T11:01:23.265523Z",
+      "last_updated": "2026-09-15T21:02:02.160149Z",
       "status": "ongoing"
     },
     {
@@ -7037,7 +7038,7 @@
       "episodes_count": 14,
       "last_episode": 14,
       "last_episode_date": "الأحد 18 سبتمبر 2022 - 01:22 مساءاً",
-      "last_updated": "2026-09-15T11:01:26.907135Z",
+      "last_updated": "2026-09-15T21:02:05.856760Z",
       "status": "ongoing"
     },
     {
@@ -7067,7 +7068,7 @@
       "episodes_count": 28,
       "last_episode": 28,
       "last_episode_date": "الجمعة 16 سبتمبر 2022 - 01:10 صباحا",
-      "last_updated": "2026-09-15T11:01:30.593207Z",
+      "last_updated": "2026-09-15T21:02:09.549872Z",
       "status": "ongoing"
     },
     {
@@ -7095,7 +7096,7 @@
       "episodes_count": 90,
       "last_episode": 90,
       "last_episode_date": "الخميس 15 سبتمبر 2022 - 01:24 مساءاً",
-      "last_updated": "2026-09-15T11:01:34.264377Z",
+      "last_updated": "2026-09-15T21:02:13.249456Z",
       "status": "ongoing"
     },
     {
@@ -7124,7 +7125,7 @@
       "episodes_count": 15,
       "last_episode": 15,
       "last_episode_date": "الثلاثاء 13 سبتمبر 2022 - 01:35 صباحا",
-      "last_updated": "2026-09-15T11:01:37.917616Z",
+      "last_updated": "2026-09-15T21:02:16.947987Z",
       "status": "ongoing"
     },
     {
@@ -7152,7 +7153,7 @@
       "episodes_count": 20,
       "last_episode": 20,
       "last_episode_date": "الخميس 01 سبتمبر 2022 - 04:09 مساءاً",
-      "last_updated": "2026-09-15T11:01:41.542818Z",
+      "last_updated": "2026-09-15T21:02:20.637629Z",
       "status": "ongoing"
     },
     {
@@ -7179,7 +7180,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الخميس 25 اغسطس 2022 - 02:17 صباحا",
-      "last_updated": "2026-09-15T11:01:45.201375Z",
+      "last_updated": "2026-09-15T21:02:24.337079Z",
       "status": "ongoing"
     },
     {
@@ -7207,7 +7208,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "السبت 20 اغسطس 2022 - 03:54 صباحا",
-      "last_updated": "2026-09-15T11:01:48.838044Z",
+      "last_updated": "2026-09-15T21:02:28.023048Z",
       "status": "ongoing"
     },
     {
@@ -7236,7 +7237,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الجمعة 12 اغسطس 2022 - 04:39 صباحا",
-      "last_updated": "2026-09-15T11:01:52.486695Z",
+      "last_updated": "2026-09-15T21:02:31.720900Z",
       "status": "ongoing"
     },
     {
@@ -7264,7 +7265,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الخميس 11 اغسطس 2022 - 01:45 صباحا",
-      "last_updated": "2026-09-15T11:01:56.136785Z",
+      "last_updated": "2026-09-15T21:02:35.417325Z",
       "status": "ongoing"
     },
     {
@@ -7292,7 +7293,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الخميس 04 اغسطس 2022 - 04:20 صباحا",
-      "last_updated": "2026-09-15T11:01:59.786340Z",
+      "last_updated": "2026-09-15T21:02:39.111840Z",
       "status": "ongoing"
     },
     {
@@ -7320,7 +7321,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 29 يوليو 2022 - 03:23 صباحا",
-      "last_updated": "2026-09-15T11:02:03.547242Z",
+      "last_updated": "2026-09-15T21:02:42.807479Z",
       "status": "ongoing"
     },
     {
@@ -7349,7 +7350,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الخميس 28 يوليو 2022 - 08:34 مساءاً",
-      "last_updated": "2026-09-15T11:02:07.188919Z",
+      "last_updated": "2026-09-15T21:02:46.498931Z",
       "status": "ongoing"
     },
     {
@@ -7377,7 +7378,7 @@
       "episodes_count": 65,
       "last_episode": 65,
       "last_episode_date": "الثلاثاء 26 يوليو 2022 - 02:03 صباحا",
-      "last_updated": "2026-09-15T11:02:10.833656Z",
+      "last_updated": "2026-09-15T21:02:50.200980Z",
       "status": "ongoing"
     },
     {
@@ -7405,7 +7406,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأحد 24 يوليو 2022 - 04:24 مساءاً",
-      "last_updated": "2026-09-15T11:02:14.499560Z",
+      "last_updated": "2026-09-15T21:02:53.900468Z",
       "status": "ongoing"
     },
     {
@@ -7432,7 +7433,7 @@
       "episodes_count": 34,
       "last_episode": 34,
       "last_episode_date": "الأحد 24 يوليو 2022 - 01:41 صباحا",
-      "last_updated": "2026-09-15T11:02:18.123190Z",
+      "last_updated": "2026-09-15T21:02:57.595474Z",
       "status": "ongoing"
     },
     {
@@ -7460,7 +7461,7 @@
       "episodes_count": 5,
       "last_episode": 5,
       "last_episode_date": "الجمعة 22 يوليو 2022 - 06:19 مساءاً",
-      "last_updated": "2026-09-15T11:02:21.773572Z",
+      "last_updated": "2026-09-15T21:03:01.293802Z",
       "status": "ongoing"
     },
     {
@@ -7488,7 +7489,7 @@
       "episodes_count": 5,
       "last_episode": 5,
       "last_episode_date": "الثلاثاء 19 يوليو 2022 - 07:41 مساءاً",
-      "last_updated": "2026-09-15T11:02:25.423882Z",
+      "last_updated": "2026-09-15T21:03:04.989685Z",
       "status": "ongoing"
     },
     {
@@ -7516,7 +7517,7 @@
       "episodes_count": 4,
       "last_episode": 4,
       "last_episode_date": "الأحد 17 يوليو 2022 - 05:21 صباحا",
-      "last_updated": "2026-09-15T11:02:29.094500Z",
+      "last_updated": "2026-09-15T21:03:08.689151Z",
       "status": "ongoing"
     },
     {
@@ -7544,7 +7545,7 @@
       "episodes_count": 49,
       "last_episode": 49,
       "last_episode_date": "السبت 16 يوليو 2022 - 06:14 مساءاً",
-      "last_updated": "2026-09-15T11:02:32.744766Z",
+      "last_updated": "2026-09-15T21:03:12.388056Z",
       "status": "ongoing"
     },
     {
@@ -7572,7 +7573,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الخميس 14 يوليو 2022 - 03:33 صباحا",
-      "last_updated": "2026-09-15T11:02:36.397654Z",
+      "last_updated": "2026-09-15T21:03:16.088177Z",
       "status": "ongoing"
     },
     {
@@ -7599,7 +7600,7 @@
       "episodes_count": 20,
       "last_episode": 20,
       "last_episode_date": "الخميس 14 يوليو 2022 - 02:08 صباحا",
-      "last_updated": "2026-09-15T11:02:40.028899Z",
+      "last_updated": "2026-09-15T21:03:19.787675Z",
       "status": "ongoing"
     },
     {
@@ -7627,7 +7628,7 @@
       "episodes_count": 120,
       "last_episode": 120,
       "last_episode_date": "الثلاثاء 12 يوليو 2022 - 04:14 صباحا",
-      "last_updated": "2026-09-15T11:02:43.692052Z",
+      "last_updated": "2026-09-15T21:03:23.488247Z",
       "status": "ongoing"
     },
     {
@@ -7656,7 +7657,7 @@
       "episodes_count": 210,
       "last_episode": 211,
       "last_episode_date": "الأربعاء 06 يوليو 2022 - 04:53 صباحا",
-      "last_updated": "2026-09-15T11:02:47.324837Z",
+      "last_updated": "2026-09-15T21:03:27.192199Z",
       "status": "ongoing"
     },
     {
@@ -7684,7 +7685,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "السبت 02 يوليو 2022 - 01:30 صباحا",
-      "last_updated": "2026-09-15T11:02:50.945735Z",
+      "last_updated": "2026-09-15T21:03:30.888274Z",
       "status": "ongoing"
     },
     {
@@ -7711,7 +7712,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأربعاء 22 يونيو 2022 - 08:21 مساءاً",
-      "last_updated": "2026-09-15T11:02:54.606679Z",
+      "last_updated": "2026-09-15T21:03:34.583732Z",
       "status": "ongoing"
     },
     {
@@ -7738,7 +7739,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأحد 19 يونيو 2022 - 02:57 صباحا",
-      "last_updated": "2026-09-15T11:02:58.252102Z",
+      "last_updated": "2026-09-15T21:03:38.283298Z",
       "status": "ongoing"
     },
     {
@@ -7767,7 +7768,7 @@
       "episodes_count": 37,
       "last_episode": 37,
       "last_episode_date": "الأحد 19 يونيو 2022 - 02:44 صباحا",
-      "last_updated": "2026-09-15T11:03:01.899476Z",
+      "last_updated": "2026-09-15T21:03:41.974212Z",
       "status": "ongoing"
     },
     {
@@ -7795,7 +7796,7 @@
       "episodes_count": 26,
       "last_episode": 26,
       "last_episode_date": "السبت 18 يونيو 2022 - 03:55 صباحا",
-      "last_updated": "2026-09-15T11:03:05.614242Z",
+      "last_updated": "2026-09-15T21:03:45.670211Z",
       "status": "ongoing"
     },
     {
@@ -7823,7 +7824,7 @@
       "episodes_count": 109,
       "last_episode": 109,
       "last_episode_date": "السبت 18 يونيو 2022 - 02:53 صباحا",
-      "last_updated": "2026-09-15T11:03:09.266267Z",
+      "last_updated": "2026-09-15T21:03:49.374282Z",
       "status": "ongoing"
     },
     {
@@ -7850,7 +7851,7 @@
       "episodes_count": 90,
       "last_episode": 90,
       "last_episode_date": "الجمعة 17 يونيو 2022 - 10:42 مساءاً",
-      "last_updated": "2026-09-15T11:03:12.940306Z",
+      "last_updated": "2026-09-15T21:03:53.068488Z",
       "status": "ongoing"
     },
     {
@@ -7877,7 +7878,7 @@
       "episodes_count": 39,
       "last_episode": 39,
       "last_episode_date": "الجمعة 17 يونيو 2022 - 10:39 مساءاً",
-      "last_updated": "2026-09-15T11:03:16.585841Z",
+      "last_updated": "2026-09-15T21:03:56.767353Z",
       "status": "ongoing"
     },
     {
@@ -7907,7 +7908,7 @@
       "episodes_count": 38,
       "last_episode": 38,
       "last_episode_date": "الجمعة 17 يونيو 2022 - 03:27 مساءاً",
-      "last_updated": "2026-09-15T11:03:20.220320Z",
+      "last_updated": "2026-09-15T21:04:00.471536Z",
       "status": "ongoing"
     },
     {
@@ -7934,7 +7935,7 @@
       "episodes_count": 11,
       "last_episode": 11,
       "last_episode_date": "الخميس 16 يونيو 2022 - 02:29 مساءاً",
-      "last_updated": "2026-09-15T11:03:23.878965Z",
+      "last_updated": "2026-09-15T21:04:04.163438Z",
       "status": "ongoing"
     },
     {
@@ -7967,7 +7968,7 @@
       "episodes_count": 34,
       "last_episode": 34,
       "last_episode_date": "الخميس 16 يونيو 2022 - 01:34 صباحا",
-      "last_updated": "2026-09-15T11:03:27.545405Z",
+      "last_updated": "2026-09-15T21:04:07.863186Z",
       "status": "ongoing"
     },
     {
@@ -7996,7 +7997,7 @@
       "episodes_count": 16,
       "last_episode": 16,
       "last_episode_date": "الأربعاء 15 يونيو 2022 - 03:19 مساءاً",
-      "last_updated": "2026-09-15T11:03:31.185530Z",
+      "last_updated": "2026-09-15T21:04:11.558481Z",
       "status": "ongoing"
     },
     {
@@ -8024,7 +8025,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الأربعاء 15 يونيو 2022 - 01:35 صباحا",
-      "last_updated": "2026-09-15T11:03:34.815996Z",
+      "last_updated": "2026-09-15T21:04:15.258745Z",
       "status": "ongoing"
     },
     {
@@ -8053,7 +8054,7 @@
       "episodes_count": 36,
       "last_episode": 36,
       "last_episode_date": "الثلاثاء 14 يونيو 2022 - 03:41 صباحا",
-      "last_updated": "2026-09-15T11:03:38.522711Z",
+      "last_updated": "2026-09-15T21:04:18.957165Z",
       "status": "ongoing"
     },
     {
@@ -8080,7 +8081,7 @@
       "episodes_count": 38,
       "last_episode": 38,
       "last_episode_date": "الأحد 12 يونيو 2022 - 03:43 صباحا",
-      "last_updated": "2026-09-15T11:03:42.158124Z",
+      "last_updated": "2026-09-15T21:04:22.658203Z",
       "status": "ongoing"
     },
     {
@@ -8107,7 +8108,7 @@
       "episodes_count": 20,
       "last_episode": 20,
       "last_episode_date": "السبت 11 يونيو 2022 - 01:34 صباحا",
-      "last_updated": "2026-09-15T11:03:45.799019Z",
+      "last_updated": "2026-09-15T21:04:26.348396Z",
       "status": "ongoing"
     },
     {
@@ -8135,7 +8136,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأربعاء 08 يونيو 2022 - 05:39 مساءاً",
-      "last_updated": "2026-09-15T11:03:49.436381Z",
+      "last_updated": "2026-09-15T21:04:30.047620Z",
       "status": "ongoing"
     },
     {
@@ -8163,7 +8164,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الأربعاء 08 يونيو 2022 - 04:04 صباحا",
-      "last_updated": "2026-09-15T11:03:53.071533Z",
+      "last_updated": "2026-09-15T21:04:33.737755Z",
       "status": "ongoing"
     },
     {
@@ -8191,7 +8192,7 @@
       "episodes_count": 84,
       "last_episode": 84,
       "last_episode_date": "الثلاثاء 07 يونيو 2022 - 02:14 صباحا",
-      "last_updated": "2026-09-15T11:03:56.756622Z",
+      "last_updated": "2026-09-15T21:04:37.440186Z",
       "status": "ongoing"
     },
     {
@@ -8220,7 +8221,7 @@
       "episodes_count": 72,
       "last_episode": 72,
       "last_episode_date": "الأحد 05 يونيو 2022 - 03:08 صباحا",
-      "last_updated": "2026-09-15T11:04:00.404564Z",
+      "last_updated": "2026-09-15T21:04:41.132633Z",
       "status": "ongoing"
     },
     {
@@ -8248,7 +8249,7 @@
       "episodes_count": 28,
       "last_episode": 28,
       "last_episode_date": "السبت 04 يونيو 2022 - 05:18 صباحا",
-      "last_updated": "2026-09-15T11:04:04.068693Z",
+      "last_updated": "2026-09-15T21:04:44.829896Z",
       "status": "ongoing"
     },
     {
@@ -8277,7 +8278,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 03 يونيو 2022 - 07:41 مساءاً",
-      "last_updated": "2026-09-15T11:04:07.779634Z",
+      "last_updated": "2026-09-15T21:04:48.524328Z",
       "status": "ongoing"
     },
     {
@@ -8307,7 +8308,7 @@
       "episodes_count": 24,
       "last_episode": 24,
       "last_episode_date": "الجمعة 03 يونيو 2022 - 01:56 مساءاً",
-      "last_updated": "2026-09-15T11:04:11.412455Z",
+      "last_updated": "2026-09-15T21:04:52.221607Z",
       "status": "ongoing"
     },
     {
@@ -8335,7 +8336,7 @@
       "episodes_count": 84,
       "last_episode": 84,
       "last_episode_date": "الخميس 02 يونيو 2022 - 04:12 صباحا",
-      "last_updated": "2026-09-15T11:04:15.051899Z",
+      "last_updated": "2026-09-15T21:04:55.921052Z",
       "status": "ongoing"
     },
     {
@@ -8362,7 +8363,7 @@
       "episodes_count": 15,
       "last_episode": 15,
       "last_episode_date": "الأربعاء 01 يونيو 2022 - 03:11 صباحا",
-      "last_updated": "2026-09-15T11:04:18.713719Z",
+      "last_updated": "2026-09-15T21:04:59.613752Z",
       "status": "ongoing"
     },
     {
@@ -8390,7 +8391,7 @@
       "episodes_count": 28,
       "last_episode": 28,
       "last_episode_date": "الثلاثاء 31 مايو 2022 - 02:51 صباحا",
-      "last_updated": "2026-09-15T11:04:22.377472Z",
+      "last_updated": "2026-09-15T21:05:03.309888Z",
       "status": "ongoing"
     },
     {
@@ -8420,7 +8421,7 @@
       "episodes_count": 27,
       "last_episode": 27,
       "last_episode_date": "الثلاثاء 31 مايو 2022 - 01:34 صباحا",
-      "last_updated": "2026-09-15T11:04:26.031849Z",
+      "last_updated": "2026-09-15T21:05:07.005602Z",
       "status": "ongoing"
     },
     {
@@ -8448,7 +8449,7 @@
       "episodes_count": 34,
       "last_episode": 34,
       "last_episode_date": "الإثنين 30 مايو 2022 - 03:43 صباحا",
-      "last_updated": "2026-09-15T11:04:29.684412Z",
+      "last_updated": "2026-09-15T21:05:10.702166Z",
       "status": "ongoing"
     },
     {
@@ -8478,7 +8479,7 @@
       "episodes_count": 34,
       "last_episode": 34,
       "last_episode_date": "الإثنين 30 مايو 2022 - 02:43 صباحا",
-      "last_updated": "2026-09-15T11:04:33.332039Z",
+      "last_updated": "2026-09-15T21:05:14.393817Z",
       "status": "ongoing"
     },
     {
@@ -8508,7 +8509,7 @@
       "episodes_count": 32,
       "last_episode": 32,
       "last_episode_date": "الجمعة 27 مايو 2022 - 12:48 صباحا",
-      "last_updated": "2026-09-15T11:04:36.970387Z",
+      "last_updated": "2026-09-15T21:05:18.097276Z",
       "status": "ongoing"
     },
     {
@@ -8536,7 +8537,7 @@
       "episodes_count": 5,
       "last_episode": 5,
       "last_episode_date": "الخميس 26 مايو 2022 - 12:12 مساءاً",
-      "last_updated": "2026-09-15T11:04:40.649456Z",
+      "last_updated": "2026-09-15T21:05:21.791762Z",
       "status": "ongoing"
     },
     {
@@ -8564,7 +8565,7 @@
       "episodes_count": 15,
       "last_episode": 15,
       "last_episode_date": "الخميس 26 مايو 2022 - 10:04 صباحا",
-      "last_updated": "2026-09-15T11:04:44.295815Z",
+      "last_updated": "2026-09-15T21:05:25.486525Z",
       "status": "ongoing"
     },
     {
@@ -8594,7 +8595,7 @@
       "episodes_count": 29,
       "last_episode": 29,
       "last_episode_date": "الخميس 26 مايو 2022 - 03:12 صباحا",
-      "last_updated": "2026-09-15T11:04:47.960405Z",
+      "last_updated": "2026-09-15T21:05:29.179776Z",
       "status": "ongoing"
     },
     {
@@ -8622,7 +8623,7 @@
       "episodes_count": 34,
       "last_episode": 34,
       "last_episode_date": "الأربعاء 25 مايو 2022 - 04:58 صباحا",
-      "last_updated": "2026-09-15T11:04:51.608687Z",
+      "last_updated": "2026-09-15T21:05:32.872917Z",
       "status": "ongoing"
     },
     {
@@ -8650,7 +8651,7 @@
       "episodes_count": 11,
       "last_episode": 11,
       "last_episode_date": "الإثنين 23 مايو 2022 - 03:21 مساءاً",
-      "last_updated": "2026-09-15T11:04:55.252587Z",
+      "last_updated": "2026-09-15T21:05:36.568436Z",
       "status": "ongoing"
     },
     {
@@ -8678,7 +8679,7 @@
       "episodes_count": 104,
       "last_episode": 104,
       "last_episode_date": "السبت 21 مايو 2022 - 04:30 مساءاً",
-      "last_updated": "2026-09-15T11:04:58.890083Z",
+      "last_updated": "2026-09-15T21:05:40.272417Z",
       "status": "ongoing"
     },
     {
@@ -8707,7 +8708,7 @@
       "episodes_count": 129,
       "last_episode": 129,
       "last_episode_date": "الثلاثاء 17 مايو 2022 - 02:27 مساءاً",
-      "last_updated": "2026-09-15T11:05:02.548297Z",
+      "last_updated": "2026-09-15T21:05:43.975346Z",
       "status": "ongoing"
     },
     {
@@ -8735,7 +8736,7 @@
       "episodes_count": 26,
       "last_episode": 26,
       "last_episode_date": "الثلاثاء 17 مايو 2022 - 02:17 صباحا",
-      "last_updated": "2026-09-15T11:05:06.179324Z",
+      "last_updated": "2026-09-15T21:05:47.676711Z",
       "status": "ongoing"
     },
     {
@@ -8763,7 +8764,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 13 مايو 2022 - 10:59 مساءاً",
-      "last_updated": "2026-09-15T11:05:09.911863Z",
+      "last_updated": "2026-09-15T21:05:51.363385Z",
       "status": "ongoing"
     },
     {
@@ -8790,7 +8791,7 @@
       "episodes_count": 26,
       "last_episode": 26,
       "last_episode_date": "الجمعة 13 مايو 2022 - 05:56 مساءاً",
-      "last_updated": "2026-09-15T11:05:13.557700Z",
+      "last_updated": "2026-09-15T21:05:55.060696Z",
       "status": "ongoing"
     },
     {
@@ -8817,7 +8818,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الأربعاء 04 مايو 2022 - 05:30 مساءاً",
-      "last_updated": "2026-09-15T11:05:17.188446Z",
+      "last_updated": "2026-09-15T21:05:58.760816Z",
       "status": "ongoing"
     },
     {
@@ -8845,7 +8846,7 @@
       "episodes_count": 125,
       "last_episode": 126,
       "last_episode_date": "الإثنين 25 ابريل 2022 - 06:40 مساءاً",
-      "last_updated": "2026-09-15T11:05:20.833352Z",
+      "last_updated": "2026-09-15T21:06:02.461937Z",
       "status": "ongoing"
     },
     {
@@ -8873,7 +8874,7 @@
       "episodes_count": 42,
       "last_episode": 42,
       "last_episode_date": "السبت 23 ابريل 2022 - 05:26 صباحا",
-      "last_updated": "2026-09-15T11:05:24.499463Z",
+      "last_updated": "2026-09-15T21:06:06.160057Z",
       "status": "ongoing"
     },
     {
@@ -8901,7 +8902,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الخميس 21 ابريل 2022 - 12:48 صباحا",
-      "last_updated": "2026-09-15T11:05:28.135365Z",
+      "last_updated": "2026-09-15T21:06:09.858955Z",
       "status": "ongoing"
     },
     {
@@ -8929,7 +8930,7 @@
       "episodes_count": 99,
       "last_episode": 99,
       "last_episode_date": "الأحد 10 ابريل 2022 - 04:12 مساءاً",
-      "last_updated": "2026-09-15T11:05:31.773309Z",
+      "last_updated": "2026-09-15T21:06:13.555363Z",
       "status": "ongoing"
     },
     {
@@ -8957,7 +8958,7 @@
       "episodes_count": 26,
       "last_episode": 26,
       "last_episode_date": "الثلاثاء 29 مارس 2022 - 02:18 مساءاً",
-      "last_updated": "2026-09-15T11:05:35.430753Z",
+      "last_updated": "2026-09-15T21:06:17.248677Z",
       "status": "ongoing"
     },
     {
@@ -8985,7 +8986,7 @@
       "episodes_count": 12,
       "last_episode": 12,
       "last_episode_date": "السبت 26 مارس 2022 - 01:26 صباحا",
-      "last_updated": "2026-09-15T11:05:39.063255Z",
+      "last_updated": "2026-09-15T21:06:20.941862Z",
       "status": "ongoing"
     },
     {
@@ -9014,7 +9015,7 @@
       "episodes_count": 20,
       "last_episode": 20,
       "last_episode_date": "السبت 26 مارس 2022 - 12:08 صباحا",
-      "last_updated": "2026-09-15T11:05:42.787314Z",
+      "last_updated": "2026-09-15T21:06:24.639622Z",
       "status": "ongoing"
     },
     {
@@ -9041,7 +9042,7 @@
       "episodes_count": 5,
       "last_episode": 5,
       "last_episode_date": "الجمعة 25 مارس 2022 - 03:47 صباحا",
-      "last_updated": "2026-09-15T11:05:46.440674Z",
+      "last_updated": "2026-09-15T21:06:28.329808Z",
       "status": "ongoing"
     },
     {
@@ -9069,7 +9070,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الثلاثاء 22 مارس 2022 - 03:25 صباحا",
-      "last_updated": "2026-09-15T11:05:50.063819Z",
+      "last_updated": "2026-09-15T21:06:32.026332Z",
       "status": "ongoing"
     },
     {
@@ -9097,7 +9098,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الثلاثاء 22 مارس 2022 - 03:18 صباحا",
-      "last_updated": "2026-09-15T11:05:53.736571Z",
+      "last_updated": "2026-09-15T21:06:35.717352Z",
       "status": "ongoing"
     },
     {
@@ -9125,7 +9126,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "السبت 19 مارس 2022 - 03:20 صباحا",
-      "last_updated": "2026-09-15T11:05:57.375079Z",
+      "last_updated": "2026-09-15T21:06:39.416818Z",
       "status": "ongoing"
     },
     {
@@ -9153,7 +9154,7 @@
       "episodes_count": 20,
       "last_episode": 20,
       "last_episode_date": "الثلاثاء 08 مارس 2022 - 05:06 صباحا",
-      "last_updated": "2026-09-15T11:06:01.020990Z",
+      "last_updated": "2026-09-15T21:06:43.112449Z",
       "status": "ongoing"
     },
     {
@@ -9181,7 +9182,7 @@
       "episodes_count": 20,
       "last_episode": 20,
       "last_episode_date": "الإثنين 07 مارس 2022 - 09:17 مساءاً",
-      "last_updated": "2026-09-15T11:06:04.677862Z",
+      "last_updated": "2026-09-15T21:06:46.801552Z",
       "status": "ongoing"
     },
     {
@@ -9209,7 +9210,7 @@
       "episodes_count": 38,
       "last_episode": 38,
       "last_episode_date": "الإثنين 07 مارس 2022 - 01:52 صباحا",
-      "last_updated": "2026-09-15T11:06:08.332890Z",
+      "last_updated": "2026-09-15T21:06:50.500980Z",
       "status": "ongoing"
     },
     {
@@ -9236,7 +9237,7 @@
       "episodes_count": 24,
       "last_episode": 24,
       "last_episode_date": "الأحد 06 مارس 2022 - 07:37 صباحا",
-      "last_updated": "2026-09-15T11:06:11.982520Z",
+      "last_updated": "2026-09-15T21:06:54.187846Z",
       "status": "ongoing"
     },
     {
@@ -9262,7 +9263,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 04 مارس 2022 - 07:09 صباحا",
-      "last_updated": "2026-09-15T11:06:15.625140Z",
+      "last_updated": "2026-09-15T21:06:57.886497Z",
       "status": "ongoing"
     },
     {
@@ -9290,7 +9291,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأحد 06 مارس 2022 - 01:31 صباحا",
-      "last_updated": "2026-09-15T11:06:19.269119Z",
+      "last_updated": "2026-09-15T21:07:01.577392Z",
       "status": "ongoing"
     },
     {
@@ -9318,7 +9319,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الأحد 06 مارس 2022 - 01:09 صباحا",
-      "last_updated": "2026-09-15T11:06:22.930246Z",
+      "last_updated": "2026-09-15T21:07:05.276959Z",
       "status": "ongoing"
     },
     {
@@ -9346,7 +9347,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 04 مارس 2022 - 07:04 صباحا",
-      "last_updated": "2026-09-15T11:06:26.563714Z",
+      "last_updated": "2026-09-15T21:07:08.967209Z",
       "status": "ongoing"
     },
     {
@@ -9375,7 +9376,7 @@
       "episodes_count": 120,
       "last_episode": 120,
       "last_episode_date": "الأربعاء 12 يناير 2022 - 06:19 مساءاً",
-      "last_updated": "2026-09-15T11:06:30.216621Z",
+      "last_updated": "2026-09-15T21:07:12.669664Z",
       "status": "ongoing"
     },
     {
@@ -9402,7 +9403,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الخميس 03 مارس 2022 - 05:44 مساءاً",
-      "last_updated": "2026-09-15T11:06:33.866306Z",
+      "last_updated": "2026-09-15T21:07:16.365221Z",
       "status": "ongoing"
     },
     {
@@ -9430,7 +9431,7 @@
       "episodes_count": 18,
       "last_episode": 18,
       "last_episode_date": "الثلاثاء 01 مارس 2022 - 05:28 مساءاً",
-      "last_updated": "2026-09-15T11:06:37.521506Z",
+      "last_updated": "2026-09-15T21:07:20.063772Z",
       "status": "ongoing"
     },
     {
@@ -9458,7 +9459,7 @@
       "episodes_count": 32,
       "last_episode": 32,
       "last_episode_date": "الثلاثاء 22 فبراير 2022 - 10:47 مساءاً",
-      "last_updated": "2026-09-15T11:06:41.156564Z",
+      "last_updated": "2026-09-15T21:07:23.759049Z",
       "status": "ongoing"
     },
     {
@@ -9486,7 +9487,7 @@
       "episodes_count": 107,
       "last_episode": 107,
       "last_episode_date": "الأحد 20 فبراير 2022 - 02:01 مساءاً",
-      "last_updated": "2026-09-15T11:06:44.850405Z",
+      "last_updated": "2026-09-15T21:07:27.462628Z",
       "status": "ongoing"
     },
     {
@@ -9514,7 +9515,7 @@
       "episodes_count": 64,
       "last_episode": 64,
       "last_episode_date": "الأحد 20 فبراير 2022 - 12:20 مساءاً",
-      "last_updated": "2026-09-15T11:06:48.506823Z",
+      "last_updated": "2026-09-15T21:07:31.160452Z",
       "status": "ongoing"
     },
     {
@@ -9542,7 +9543,7 @@
       "episodes_count": 33,
       "last_episode": 181,
       "last_episode_date": "الجمعة 18 فبراير 2022 - 12:31 مساءاً",
-      "last_updated": "2026-09-15T11:06:52.154431Z",
+      "last_updated": "2026-09-15T21:07:34.860795Z",
       "status": "ongoing"
     },
     {
@@ -9570,7 +9571,7 @@
       "episodes_count": 169,
       "last_episode": 169,
       "last_episode_date": "الخميس 17 فبراير 2022 - 01:28 مساءاً",
-      "last_updated": "2026-09-15T11:06:55.811874Z",
+      "last_updated": "2026-09-15T21:07:38.563862Z",
       "status": "ongoing"
     },
     {
@@ -9598,7 +9599,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الخميس 17 فبراير 2022 - 05:14 صباحا",
-      "last_updated": "2026-09-15T11:06:59.471676Z",
+      "last_updated": "2026-09-15T21:07:42.264781Z",
       "status": "ongoing"
     },
     {
@@ -9628,7 +9629,7 @@
       "episodes_count": 147,
       "last_episode": 147,
       "last_episode_date": "الإثنين 14 فبراير 2022 - 12:30 مساءاً",
-      "last_updated": "2026-09-15T11:07:03.099107Z",
+      "last_updated": "2026-09-15T21:07:45.966973Z",
       "status": "ongoing"
     },
     {
@@ -9656,7 +9657,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الإثنين 14 فبراير 2022 - 03:24 صباحا",
-      "last_updated": "2026-09-15T11:07:06.722393Z",
+      "last_updated": "2026-09-15T21:07:49.657631Z",
       "status": "ongoing"
     },
     {
@@ -9684,7 +9685,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الأحد 13 فبراير 2022 - 07:11 مساءاً",
-      "last_updated": "2026-09-15T11:07:10.371165Z",
+      "last_updated": "2026-09-15T21:07:53.353168Z",
       "status": "ongoing"
     },
     {
@@ -9712,7 +9713,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الأحد 13 فبراير 2022 - 06:32 صباحا",
-      "last_updated": "2026-09-15T11:07:14.105387Z",
+      "last_updated": "2026-09-15T21:07:57.052633Z",
       "status": "ongoing"
     },
     {
@@ -9740,7 +9741,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الأحد 13 فبراير 2022 - 06:09 صباحا",
-      "last_updated": "2026-09-15T11:07:17.739210Z",
+      "last_updated": "2026-09-15T21:08:00.744422Z",
       "status": "ongoing"
     },
     {
@@ -9769,7 +9770,7 @@
       "episodes_count": 132,
       "last_episode": 132,
       "last_episode_date": "الجمعة 11 فبراير 2022 - 04:22 مساءاً",
-      "last_updated": "2026-09-15T11:07:21.383253Z",
+      "last_updated": "2026-09-15T21:08:04.443608Z",
       "status": "ongoing"
     },
     {
@@ -9797,7 +9798,7 @@
       "episodes_count": 16,
       "last_episode": 16,
       "last_episode_date": "الخميس 10 فبراير 2022 - 02:42 صباحا",
-      "last_updated": "2026-09-15T11:07:25.041433Z",
+      "last_updated": "2026-09-15T21:08:08.143523Z",
       "status": "ongoing"
     },
     {
@@ -9825,7 +9826,7 @@
       "episodes_count": 31,
       "last_episode": 31,
       "last_episode_date": "الإثنين 07 فبراير 2022 - 07:27 مساءاً",
-      "last_updated": "2026-09-15T11:07:28.694166Z",
+      "last_updated": "2026-09-15T21:08:11.838804Z",
       "status": "ongoing"
     },
     {
@@ -9853,7 +9854,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 04 فبراير 2022 - 03:15 مساءاً",
-      "last_updated": "2026-09-15T11:07:32.340502Z",
+      "last_updated": "2026-09-15T21:08:15.536647Z",
       "status": "ongoing"
     },
     {
@@ -9882,7 +9883,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 04 فبراير 2022 - 12:16 صباحا",
-      "last_updated": "2026-09-15T11:07:35.980056Z",
+      "last_updated": "2026-09-15T21:08:19.226468Z",
       "status": "ongoing"
     },
     {
@@ -9910,7 +9911,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الإثنين 31 يناير 2022 - 02:05 صباحا",
-      "last_updated": "2026-09-15T11:07:39.638086Z",
+      "last_updated": "2026-09-15T21:08:22.923405Z",
       "status": "ongoing"
     },
     {
@@ -9938,7 +9939,7 @@
       "episodes_count": 110,
       "last_episode": 110,
       "last_episode_date": "الأربعاء 26 يناير 2022 - 11:20 صباحا",
-      "last_updated": "2026-09-15T11:07:43.293456Z",
+      "last_updated": "2026-09-15T21:08:26.628188Z",
       "status": "ongoing"
     },
     {
@@ -9966,7 +9967,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الإثنين 24 يناير 2022 - 05:07 مساءاً",
-      "last_updated": "2026-09-15T11:07:47.046844Z",
+      "last_updated": "2026-09-15T21:08:30.320347Z",
       "status": "ongoing"
     },
     {
@@ -9994,7 +9995,7 @@
       "episodes_count": 110,
       "last_episode": 110,
       "last_episode_date": "الإثنين 24 يناير 2022 - 03:38 صباحا",
-      "last_updated": "2026-09-15T11:07:50.722774Z",
+      "last_updated": "2026-09-15T21:08:34.026415Z",
       "status": "ongoing"
     },
     {
@@ -10022,7 +10023,7 @@
       "episodes_count": 97,
       "last_episode": 97,
       "last_episode_date": "الخميس 20 يناير 2022 - 05:16 صباحا",
-      "last_updated": "2026-09-15T11:07:54.367386Z",
+      "last_updated": "2026-09-15T21:08:37.730262Z",
       "status": "ongoing"
     },
     {
@@ -10050,7 +10051,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 14 يناير 2022 - 04:05 مساءاً",
-      "last_updated": "2026-09-15T11:07:58.007493Z",
+      "last_updated": "2026-09-15T21:08:41.425985Z",
       "status": "ongoing"
     },
     {
@@ -10078,7 +10079,7 @@
       "episodes_count": 55,
       "last_episode": 55,
       "last_episode_date": "الجمعة 14 يناير 2022 - 05:35 صباحا",
-      "last_updated": "2026-09-15T11:08:01.654235Z",
+      "last_updated": "2026-09-15T21:08:45.126885Z",
       "status": "ongoing"
     },
     {
@@ -10106,7 +10107,7 @@
       "episodes_count": 21,
       "last_episode": 21,
       "last_episode_date": "الخميس 13 يناير 2022 - 09:39 مساءاً",
-      "last_updated": "2026-09-15T11:08:05.285255Z",
+      "last_updated": "2026-09-15T21:08:48.826269Z",
       "status": "ongoing"
     },
     {
@@ -10132,7 +10133,7 @@
       "episodes_count": 83,
       "last_episode": 83,
       "last_episode_date": "الثلاثاء 11 يناير 2022 - 03:33 صباحا",
-      "last_updated": "2026-09-15T11:08:08.936637Z",
+      "last_updated": "2026-09-15T21:08:52.524123Z",
       "status": "ongoing"
     },
     {
@@ -10160,7 +10161,7 @@
       "episodes_count": 4,
       "last_episode": 4,
       "last_episode_date": "الإثنين 10 يناير 2022 - 04:25 صباحا",
-      "last_updated": "2026-09-15T11:08:12.574879Z",
+      "last_updated": "2026-09-15T21:08:56.218825Z",
       "status": "ongoing"
     },
     {
@@ -10188,7 +10189,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الإثنين 10 يناير 2022 - 04:22 صباحا",
-      "last_updated": "2026-09-15T11:08:16.385234Z",
+      "last_updated": "2026-09-15T21:08:59.914073Z",
       "status": "ongoing"
     },
     {
@@ -10216,7 +10217,7 @@
       "episodes_count": 137,
       "last_episode": 138,
       "last_episode_date": "الأحد 09 يناير 2022 - 01:17 صباحا",
-      "last_updated": "2026-09-15T11:08:20.011689Z",
+      "last_updated": "2026-09-15T21:09:03.614096Z",
       "status": "ongoing"
     },
     {
@@ -10244,7 +10245,7 @@
       "episodes_count": 47,
       "last_episode": 47,
       "last_episode_date": "الخميس 06 يناير 2022 - 04:43 مساءاً",
-      "last_updated": "2026-09-15T11:08:23.665209Z",
+      "last_updated": "2026-09-15T21:09:07.304339Z",
       "status": "ongoing"
     },
     {
@@ -10271,7 +10272,7 @@
       "episodes_count": 12,
       "last_episode": 13,
       "last_episode_date": "الأربعاء 05 يناير 2022 - 07:13 مساءاً",
-      "last_updated": "2026-09-15T11:08:27.319152Z",
+      "last_updated": "2026-09-15T21:09:11.003186Z",
       "status": "ongoing"
     },
     {
@@ -10300,7 +10301,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الخميس 06 يناير 2022 - 10:06 مساءاً",
-      "last_updated": "2026-09-15T11:08:30.960618Z",
+      "last_updated": "2026-09-15T21:09:14.698267Z",
       "status": "ongoing"
     },
     {
@@ -10328,7 +10329,7 @@
       "episodes_count": 114,
       "last_episode": 114,
       "last_episode_date": "الإثنين 27 ديسمبر 2021 - 05:00 مساءاً",
-      "last_updated": "2026-09-15T11:08:34.602544Z",
+      "last_updated": "2026-09-15T21:09:18.397717Z",
       "status": "ongoing"
     },
     {
@@ -10356,7 +10357,7 @@
       "episodes_count": 88,
       "last_episode": 88,
       "last_episode_date": "السبت 25 ديسمبر 2021 - 02:38 مساءاً",
-      "last_updated": "2026-09-15T11:08:38.253580Z",
+      "last_updated": "2026-09-15T21:09:22.101487Z",
       "status": "ongoing"
     },
     {
@@ -10385,7 +10386,7 @@
       "episodes_count": 153,
       "last_episode": 154,
       "last_episode_date": "الجمعة 24 ديسمبر 2021 - 09:10 مساءاً",
-      "last_updated": "2026-09-15T11:08:41.880337Z",
+      "last_updated": "2026-09-15T21:09:25.795843Z",
       "status": "ongoing"
     },
     {
@@ -10414,7 +10415,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الخميس 16 ديسمبر 2021 - 02:49 صباحا",
-      "last_updated": "2026-09-15T11:08:45.519831Z",
+      "last_updated": "2026-09-15T21:09:29.492215Z",
       "status": "ongoing"
     },
     {
@@ -10441,7 +10442,7 @@
       "episodes_count": 90,
       "last_episode": 90,
       "last_episode_date": "الأربعاء 15 ديسمبر 2021 - 01:01 مساءاً",
-      "last_updated": "2026-09-15T11:08:49.249025Z",
+      "last_updated": "2026-09-15T21:09:33.195927Z",
       "status": "ongoing"
     },
     {
@@ -10469,7 +10470,7 @@
       "episodes_count": 91,
       "last_episode": 91,
       "last_episode_date": "الإثنين 13 ديسمبر 2021 - 11:30 صباحا",
-      "last_updated": "2026-09-15T11:08:52.921653Z",
+      "last_updated": "2026-09-15T21:09:36.894367Z",
       "status": "ongoing"
     },
     {
@@ -10497,7 +10498,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الإثنين 13 ديسمبر 2021 - 05:23 صباحا",
-      "last_updated": "2026-09-15T11:08:56.566718Z",
+      "last_updated": "2026-09-15T21:09:40.588847Z",
       "status": "ongoing"
     },
     {
@@ -10524,7 +10525,7 @@
       "episodes_count": 74,
       "last_episode": 75,
       "last_episode_date": "الأحد 12 ديسمبر 2021 - 05:33 صباحا",
-      "last_updated": "2026-09-15T11:09:00.237354Z",
+      "last_updated": "2026-09-15T21:09:44.287757Z",
       "status": "ongoing"
     },
     {
@@ -10552,7 +10553,7 @@
       "episodes_count": 25,
       "last_episode": 25,
       "last_episode_date": "الأحد 12 ديسمبر 2021 - 05:25 صباحا",
-      "last_updated": "2026-09-15T11:09:03.905151Z",
+      "last_updated": "2026-09-15T21:09:47.982664Z",
       "status": "ongoing"
     },
     {
@@ -10581,7 +10582,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الجمعة 10 ديسمبر 2021 - 04:37 صباحا",
-      "last_updated": "2026-09-15T11:09:07.538360Z",
+      "last_updated": "2026-09-15T21:09:51.672428Z",
       "status": "ongoing"
     },
     {
@@ -10610,7 +10611,7 @@
       "episodes_count": 5,
       "last_episode": 5,
       "last_episode_date": "الجمعة 10 ديسمبر 2021 - 01:57 صباحا",
-      "last_updated": "2026-09-15T11:09:11.186065Z",
+      "last_updated": "2026-09-15T21:09:55.365595Z",
       "status": "ongoing"
     },
     {
@@ -10638,7 +10639,7 @@
       "episodes_count": 81,
       "last_episode": 81,
       "last_episode_date": "الأحد 28 نوفمبر 2021 - 03:55 صباحا",
-      "last_updated": "2026-09-15T11:09:14.831342Z",
+      "last_updated": "2026-09-15T21:09:59.065539Z",
       "status": "ongoing"
     },
     {
@@ -10665,7 +10666,7 @@
       "episodes_count": 102,
       "last_episode": 103,
       "last_episode_date": "الأربعاء 24 نوفمبر 2021 - 03:55 صباحا",
-      "last_updated": "2026-09-15T11:09:18.529378Z",
+      "last_updated": "2026-09-15T21:10:02.760254Z",
       "status": "ongoing"
     },
     {
@@ -10693,7 +10694,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الأربعاء 24 نوفمبر 2021 - 02:42 صباحا",
-      "last_updated": "2026-09-15T11:09:22.181631Z",
+      "last_updated": "2026-09-15T21:10:06.460841Z",
       "status": "ongoing"
     },
     {
@@ -10720,7 +10721,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الأربعاء 24 نوفمبر 2021 - 02:03 صباحا",
-      "last_updated": "2026-09-15T11:09:25.827224Z",
+      "last_updated": "2026-09-15T21:10:10.155856Z",
       "status": "ongoing"
     },
     {
@@ -10746,7 +10747,7 @@
       "episodes_count": 76,
       "last_episode": 76,
       "last_episode_date": "الأحد 21 نوفمبر 2021 - 12:38 مساءاً",
-      "last_updated": "2026-09-15T11:09:29.461888Z",
+      "last_updated": "2026-09-15T21:10:13.858112Z",
       "status": "ongoing"
     },
     {
@@ -10774,7 +10775,7 @@
       "episodes_count": 31,
       "last_episode": 31,
       "last_episode_date": "الأحد 21 نوفمبر 2021 - 02:08 صباحا",
-      "last_updated": "2026-09-15T11:09:33.110366Z",
+      "last_updated": "2026-09-15T21:10:17.553907Z",
       "status": "ongoing"
     },
     {
@@ -10806,7 +10807,7 @@
       "episodes_count": 26,
       "last_episode": 26,
       "last_episode_date": "الجمعة 19 نوفمبر 2021 - 03:08 مساءاً",
-      "last_updated": "2026-09-15T11:09:36.748159Z",
+      "last_updated": "2026-09-15T21:10:21.256408Z",
       "status": "ongoing"
     },
     {
@@ -10834,7 +10835,7 @@
       "episodes_count": 63,
       "last_episode": 63,
       "last_episode_date": "الثلاثاء 09 نوفمبر 2021 - 03:21 صباحا",
-      "last_updated": "2026-09-15T11:09:40.388409Z",
+      "last_updated": "2026-09-15T21:10:24.955187Z",
       "status": "ongoing"
     },
     {
@@ -10861,7 +10862,7 @@
       "episodes_count": 5,
       "last_episode": 5,
       "last_episode_date": "الأحد 07 نوفمبر 2021 - 03:27 مساءاً",
-      "last_updated": "2026-09-15T11:09:44.029500Z",
+      "last_updated": "2026-09-15T21:10:28.642197Z",
       "status": "ongoing"
     },
     {
@@ -10888,7 +10889,7 @@
       "episodes_count": 5,
       "last_episode": 5,
       "last_episode_date": "الأحد 07 نوفمبر 2021 - 03:21 مساءاً",
-      "last_updated": "2026-09-15T11:09:47.666524Z",
+      "last_updated": "2026-09-15T21:10:32.336134Z",
       "status": "ongoing"
     },
     {
@@ -10916,7 +10917,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الجمعة 05 نوفمبر 2021 - 07:19 مساءاً",
-      "last_updated": "2026-09-15T11:09:51.353044Z",
+      "last_updated": "2026-09-15T21:10:36.036179Z",
       "status": "ongoing"
     },
     {
@@ -10944,7 +10945,7 @@
       "episodes_count": 5,
       "last_episode": 5,
       "last_episode_date": "الإثنين 01 نوفمبر 2021 - 12:40 صباحا",
-      "last_updated": "2026-09-15T11:09:54.996568Z",
+      "last_updated": "2026-09-15T21:10:39.731453Z",
       "status": "ongoing"
     },
     {
@@ -10971,7 +10972,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الأحد 31 أكتوبر 2021 - 03:55 مساءاً",
-      "last_updated": "2026-09-15T11:09:58.615378Z",
+      "last_updated": "2026-09-15T21:10:43.423815Z",
       "status": "ongoing"
     },
     {
@@ -10999,7 +11000,7 @@
       "episodes_count": 4,
       "last_episode": 4,
       "last_episode_date": "الأحد 31 أكتوبر 2021 - 12:54 مساءاً",
-      "last_updated": "2026-09-15T11:10:02.270492Z",
+      "last_updated": "2026-09-15T21:10:47.114279Z",
       "status": "ongoing"
     },
     {
@@ -11027,7 +11028,7 @@
       "episodes_count": 30,
       "last_episode": 30,
       "last_episode_date": "السبت 30 أكتوبر 2021 - 03:30 صباحا",
-      "last_updated": "2026-09-15T11:10:05.909786Z",
+      "last_updated": "2026-09-15T21:10:50.813134Z",
       "status": "ongoing"
     },
     {
@@ -11055,7 +11056,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "السبت 30 أكتوبر 2021 - 03:11 صباحا",
-      "last_updated": "2026-09-15T11:10:09.557776Z",
+      "last_updated": "2026-09-15T21:10:54.508436Z",
       "status": "ongoing"
     },
     {
@@ -11083,7 +11084,7 @@
       "episodes_count": 108,
       "last_episode": 108,
       "last_episode_date": "الأربعاء 20 أكتوبر 2021 - 04:27 مساءاً",
-      "last_updated": "2026-09-15T11:10:13.205815Z",
+      "last_updated": "2026-09-15T21:10:58.208957Z",
       "status": "ongoing"
     },
     {
@@ -11111,7 +11112,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الأربعاء 20 أكتوبر 2021 - 04:12 مساءاً",
-      "last_updated": "2026-09-15T11:10:16.856107Z",
+      "last_updated": "2026-09-15T21:11:01.901762Z",
       "status": "ongoing"
     },
     {
@@ -11140,7 +11141,7 @@
       "episodes_count": 5,
       "last_episode": 5,
       "last_episode_date": "الأحد 17 أكتوبر 2021 - 11:51 صباحا",
-      "last_updated": "2026-09-15T11:10:20.774405Z",
+      "last_updated": "2026-09-15T21:11:05.597958Z",
       "status": "ongoing"
     },
     {
@@ -11168,7 +11169,7 @@
       "episodes_count": 5,
       "last_episode": 5,
       "last_episode_date": "السبت 16 أكتوبر 2021 - 01:55 صباحا",
-      "last_updated": "2026-09-15T11:10:24.417481Z",
+      "last_updated": "2026-09-15T21:11:09.288483Z",
       "status": "ongoing"
     },
     {
@@ -11195,7 +11196,7 @@
       "episodes_count": 107,
       "last_episode": 107,
       "last_episode_date": "الأحد 17 أكتوبر 2021 - 05:37 صباحا",
-      "last_updated": "2026-09-15T11:10:28.069393Z",
+      "last_updated": "2026-09-15T21:11:12.986633Z",
       "status": "ongoing"
     },
     {
@@ -11223,7 +11224,7 @@
       "episodes_count": 17,
       "last_episode": 17,
       "last_episode_date": "الأربعاء 13 أكتوبر 2021 - 03:25 صباحا",
-      "last_updated": "2026-09-15T11:10:31.711405Z",
+      "last_updated": "2026-09-15T21:11:16.681436Z",
       "status": "ongoing"
     },
     {
@@ -11251,7 +11252,7 @@
       "episodes_count": 39,
       "last_episode": 39,
       "last_episode_date": "الثلاثاء 12 أكتوبر 2021 - 08:28 صباحا",
-      "last_updated": "2026-09-15T11:10:35.363240Z",
+      "last_updated": "2026-09-15T21:11:20.374105Z",
       "status": "ongoing"
     },
     {
@@ -11279,7 +11280,7 @@
       "episodes_count": 26,
       "last_episode": 26,
       "last_episode_date": "الثلاثاء 12 أكتوبر 2021 - 06:58 صباحا",
-      "last_updated": "2026-09-15T11:10:39.025525Z",
+      "last_updated": "2026-09-15T21:11:24.070185Z",
       "status": "ongoing"
     },
     {
@@ -11307,7 +11308,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الثلاثاء 12 أكتوبر 2021 - 03:21 صباحا",
-      "last_updated": "2026-09-15T11:10:42.694563Z",
+      "last_updated": "2026-09-15T21:11:27.767202Z",
       "status": "ongoing"
     },
     {
@@ -11335,7 +11336,7 @@
       "episodes_count": 34,
       "last_episode": 34,
       "last_episode_date": "الإثنين 11 أكتوبر 2021 - 06:36 صباحا",
-      "last_updated": "2026-09-15T11:10:46.315092Z",
+      "last_updated": "2026-09-15T21:11:31.467368Z",
       "status": "ongoing"
     },
     {
@@ -11363,7 +11364,7 @@
       "episodes_count": 33,
       "last_episode": 33,
       "last_episode_date": "الإثنين 11 أكتوبر 2021 - 04:10 صباحا",
-      "last_updated": "2026-09-15T11:10:49.973427Z",
+      "last_updated": "2026-09-15T21:11:35.158980Z",
       "status": "ongoing"
     },
     {
@@ -11390,7 +11391,7 @@
       "episodes_count": 20,
       "last_episode": 20,
       "last_episode_date": "الإثنين 11 أكتوبر 2021 - 02:19 صباحا",
-      "last_updated": "2026-09-15T11:10:53.662537Z",
+      "last_updated": "2026-09-15T21:11:38.853357Z",
       "status": "ongoing"
     },
     {
@@ -11418,7 +11419,7 @@
       "episodes_count": 20,
       "last_episode": 20,
       "last_episode_date": "الأحد 10 أكتوبر 2021 - 12:40 مساءاً",
-      "last_updated": "2026-09-15T11:10:57.303039Z",
+      "last_updated": "2026-09-15T21:11:42.553649Z",
       "status": "ongoing"
     },
     {
@@ -11446,7 +11447,7 @@
       "episodes_count": 32,
       "last_episode": 32,
       "last_episode_date": "الأحد 10 أكتوبر 2021 - 01:38 صباحا",
-      "last_updated": "2026-09-15T11:11:00.966348Z",
+      "last_updated": "2026-09-15T21:11:46.253148Z",
       "status": "ongoing"
     },
     {
@@ -11475,7 +11476,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الجمعة 01 أكتوبر 2021 - 05:22 صباحا",
-      "last_updated": "2026-09-15T11:11:04.612188Z",
+      "last_updated": "2026-09-15T21:11:49.954720Z",
       "status": "ongoing"
     },
     {
@@ -11502,7 +11503,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الخميس 30 سبتمبر 2021 - 06:23 مساءاً",
-      "last_updated": "2026-09-15T11:11:08.259468Z",
+      "last_updated": "2026-09-15T21:11:53.648661Z",
       "status": "ongoing"
     },
     {
@@ -11531,7 +11532,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الخميس 30 سبتمبر 2021 - 05:12 مساءاً",
-      "last_updated": "2026-09-15T11:11:11.903907Z",
+      "last_updated": "2026-09-15T21:11:57.345148Z",
       "status": "ongoing"
     },
     {
@@ -11558,7 +11559,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الإثنين 27 سبتمبر 2021 - 04:42 مساءاً",
-      "last_updated": "2026-09-15T11:11:15.562033Z",
+      "last_updated": "2026-09-15T21:12:01.044363Z",
       "status": "ongoing"
     },
     {
@@ -11587,7 +11588,7 @@
       "episodes_count": 15,
       "last_episode": 15,
       "last_episode_date": "الثلاثاء 21 سبتمبر 2021 - 05:21 صباحا",
-      "last_updated": "2026-09-15T11:11:19.208009Z",
+      "last_updated": "2026-09-15T21:12:04.742162Z",
       "status": "ongoing"
     },
     {
@@ -11614,7 +11615,7 @@
       "episodes_count": 76,
       "last_episode": 76,
       "last_episode_date": "الأحد 19 سبتمبر 2021 - 04:55 مساءاً",
-      "last_updated": "2026-09-15T11:11:22.926572Z",
+      "last_updated": "2026-09-15T21:12:08.444654Z",
       "status": "ongoing"
     },
     {
@@ -11641,7 +11642,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "السبت 11 سبتمبر 2021 - 03:07 صباحا",
-      "last_updated": "2026-09-15T11:11:26.585415Z",
+      "last_updated": "2026-09-15T21:12:12.146229Z",
       "status": "ongoing"
     },
     {
@@ -11669,7 +11670,7 @@
       "episodes_count": 39,
       "last_episode": 39,
       "last_episode_date": "الخميس 09 سبتمبر 2021 - 04:44 صباحا",
-      "last_updated": "2026-09-15T11:11:30.211679Z",
+      "last_updated": "2026-09-15T21:12:15.840574Z",
       "status": "ongoing"
     },
     {
@@ -11697,7 +11698,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الخميس 09 سبتمبر 2021 - 04:10 صباحا",
-      "last_updated": "2026-09-15T11:11:33.834921Z",
+      "last_updated": "2026-09-15T21:12:19.536438Z",
       "status": "ongoing"
     },
     {
@@ -11725,7 +11726,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الثلاثاء 07 سبتمبر 2021 - 03:36 صباحا",
-      "last_updated": "2026-09-15T11:11:37.468255Z",
+      "last_updated": "2026-09-15T21:12:23.228310Z",
       "status": "ongoing"
     },
     {
@@ -11753,7 +11754,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الخميس 02 سبتمبر 2021 - 12:59 مساءاً",
-      "last_updated": "2026-09-15T11:11:41.106495Z",
+      "last_updated": "2026-09-15T21:12:26.922178Z",
       "status": "ongoing"
     },
     {
@@ -11781,7 +11782,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الخميس 26 اغسطس 2021 - 03:25 مساءاً",
-      "last_updated": "2026-09-15T11:11:44.749364Z",
+      "last_updated": "2026-09-15T21:12:30.616760Z",
       "status": "ongoing"
     },
     {
@@ -11810,7 +11811,7 @@
       "episodes_count": 84,
       "last_episode": 84,
       "last_episode_date": "الثلاثاء 17 اغسطس 2021 - 06:20 مساءاً",
-      "last_updated": "2026-09-15T11:11:48.396729Z",
+      "last_updated": "2026-09-15T21:12:34.314825Z",
       "status": "ongoing"
     },
     {
@@ -11839,7 +11840,7 @@
       "episodes_count": 80,
       "last_episode": 80,
       "last_episode_date": "الثلاثاء 10 اغسطس 2021 - 04:06 مساءاً",
-      "last_updated": "2026-09-15T11:11:52.054163Z",
+      "last_updated": "2026-09-15T21:12:38.012225Z",
       "status": "ongoing"
     },
     {
@@ -11867,7 +11868,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الأحد 15 اغسطس 2021 - 01:45 صباحا",
-      "last_updated": "2026-09-15T11:11:55.733413Z",
+      "last_updated": "2026-09-15T21:12:41.707167Z",
       "status": "ongoing"
     },
     {
@@ -11895,7 +11896,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الأربعاء 11 اغسطس 2021 - 03:02 صباحا",
-      "last_updated": "2026-09-15T11:11:59.387273Z",
+      "last_updated": "2026-09-15T21:12:45.401655Z",
       "status": "ongoing"
     },
     {
@@ -11923,7 +11924,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الثلاثاء 10 اغسطس 2021 - 03:18 صباحا",
-      "last_updated": "2026-09-15T11:12:03.021380Z",
+      "last_updated": "2026-09-15T21:12:49.094787Z",
       "status": "ongoing"
     },
     {
@@ -11950,7 +11951,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الخميس 05 اغسطس 2021 - 04:05 صباحا",
-      "last_updated": "2026-09-15T11:12:06.665356Z",
+      "last_updated": "2026-09-15T21:12:52.794600Z",
       "status": "ongoing"
     },
     {
@@ -11978,7 +11979,7 @@
       "episodes_count": 24,
       "last_episode": 24,
       "last_episode_date": "الخميس 05 اغسطس 2021 - 03:15 صباحا",
-      "last_updated": "2026-09-15T11:12:10.319481Z",
+      "last_updated": "2026-09-15T21:12:56.491354Z",
       "status": "ongoing"
     },
     {
@@ -12005,7 +12006,7 @@
       "episodes_count": 35,
       "last_episode": 35,
       "last_episode_date": "الجمعة 30 يوليو 2021 - 08:47 مساءاً",
-      "last_updated": "2026-09-15T11:12:13.960218Z",
+      "last_updated": "2026-09-15T21:13:00.187312Z",
       "status": "ongoing"
     },
     {
@@ -12037,7 +12038,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الأربعاء 21 يوليو 2021 - 12:43 صباحا",
-      "last_updated": "2026-09-15T11:12:17.610713Z",
+      "last_updated": "2026-09-15T21:13:03.889844Z",
       "status": "ongoing"
     },
     {
@@ -12064,7 +12065,7 @@
       "episodes_count": 78,
       "last_episode": 78,
       "last_episode_date": "الإثنين 19 يوليو 2021 - 03:48 صباحا",
-      "last_updated": "2026-09-15T11:12:21.269681Z",
+      "last_updated": "2026-09-15T21:13:07.593764Z",
       "status": "ongoing"
     },
     {
@@ -12093,7 +12094,7 @@
       "episodes_count": 132,
       "last_episode": 133,
       "last_episode_date": "السبت 17 يوليو 2021 - 02:20 صباحا",
-      "last_updated": "2026-09-15T11:12:24.988528Z",
+      "last_updated": "2026-09-15T21:13:11.299827Z",
       "status": "ongoing"
     },
     {
@@ -12122,7 +12123,7 @@
       "episodes_count": 26,
       "last_episode": 26,
       "last_episode_date": "الأربعاء 14 يوليو 2021 - 05:14 صباحا",
-      "last_updated": "2026-09-15T11:12:28.650697Z",
+      "last_updated": "2026-09-15T21:13:15.000302Z",
       "status": "ongoing"
     },
     {
@@ -12152,7 +12153,7 @@
       "episodes_count": 45,
       "last_episode": 45,
       "last_episode_date": "الإثنين 12 يوليو 2021 - 04:32 صباحا",
-      "last_updated": "2026-09-15T11:12:32.284234Z",
+      "last_updated": "2026-09-15T21:13:18.696252Z",
       "status": "ongoing"
     },
     {
@@ -12181,7 +12182,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "السبت 10 يوليو 2021 - 03:29 مساءاً",
-      "last_updated": "2026-09-15T11:12:35.921261Z",
+      "last_updated": "2026-09-15T21:13:22.392967Z",
       "status": "ongoing"
     },
     {
@@ -12210,7 +12211,7 @@
       "episodes_count": 9,
       "last_episode": 9,
       "last_episode_date": "الجمعة 09 يوليو 2021 - 05:06 مساءاً",
-      "last_updated": "2026-09-15T11:12:39.572375Z",
+      "last_updated": "2026-09-15T21:13:26.092336Z",
       "status": "ongoing"
     },
     {
@@ -12237,7 +12238,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الأربعاء 07 يوليو 2021 - 03:57 مساءاً",
-      "last_updated": "2026-09-15T11:12:43.195065Z",
+      "last_updated": "2026-09-15T21:13:29.780956Z",
       "status": "ongoing"
     },
     {
@@ -12265,7 +12266,7 @@
       "episodes_count": 9,
       "last_episode": 10,
       "last_episode_date": "السبت 03 يوليو 2021 - 04:28 صباحا",
-      "last_updated": "2026-09-15T11:12:46.844858Z",
+      "last_updated": "2026-09-15T21:13:33.476928Z",
       "status": "ongoing"
     },
     {
@@ -12292,7 +12293,7 @@
       "episodes_count": 39,
       "last_episode": 39,
       "last_episode_date": "الجمعة 25 يونيو 2021 - 03:45 مساءاً",
-      "last_updated": "2026-09-15T11:12:50.471868Z",
+      "last_updated": "2026-09-15T21:13:37.174050Z",
       "status": "ongoing"
     },
     {
@@ -12326,7 +12327,7 @@
       "episodes_count": 37,
       "last_episode": 37,
       "last_episode_date": "الخميس 24 يونيو 2021 - 01:28 صباحا",
-      "last_updated": "2026-09-15T11:12:54.112593Z",
+      "last_updated": "2026-09-15T21:13:40.868169Z",
       "status": "ongoing"
     },
     {
@@ -12353,7 +12354,7 @@
       "episodes_count": 204,
       "last_episode": 205,
       "last_episode_date": "الإثنين 21 يونيو 2021 - 10:43 صباحا",
-      "last_updated": "2026-09-15T11:12:57.838888Z",
+      "last_updated": "2026-09-15T21:13:44.577865Z",
       "status": "ongoing"
     },
     {
@@ -12381,7 +12382,7 @@
       "episodes_count": 18,
       "last_episode": 18,
       "last_episode_date": "الأحد 20 يونيو 2021 - 03:39 صباحا",
-      "last_updated": "2026-09-15T11:13:01.500587Z",
+      "last_updated": "2026-09-15T21:13:48.274155Z",
       "status": "ongoing"
     },
     {
@@ -12408,7 +12409,7 @@
       "episodes_count": 26,
       "last_episode": 26,
       "last_episode_date": "الأحد 20 يونيو 2021 - 12:20 صباحا",
-      "last_updated": "2026-09-15T11:13:05.138122Z",
+      "last_updated": "2026-09-15T21:13:51.965773Z",
       "status": "ongoing"
     },
     {
@@ -12437,7 +12438,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الخميس 17 يونيو 2021 - 03:16 مساءاً",
-      "last_updated": "2026-09-15T11:13:08.797588Z",
+      "last_updated": "2026-09-15T21:13:55.657479Z",
       "status": "ongoing"
     },
     {
@@ -12466,7 +12467,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الخميس 17 يونيو 2021 - 02:53 مساءاً",
-      "last_updated": "2026-09-15T11:13:12.444667Z",
+      "last_updated": "2026-09-15T21:13:59.352853Z",
       "status": "ongoing"
     },
     {
@@ -12493,7 +12494,7 @@
       "episodes_count": 33,
       "last_episode": 34,
       "last_episode_date": "الأربعاء 16 يونيو 2021 - 02:15 مساءاً",
-      "last_updated": "2026-09-15T11:13:16.099755Z",
+      "last_updated": "2026-09-15T21:14:03.047664Z",
       "status": "ongoing"
     },
     {
@@ -12521,7 +12522,7 @@
       "episodes_count": 18,
       "last_episode": 18,
       "last_episode_date": "الثلاثاء 15 يونيو 2021 - 01:38 صباحا",
-      "last_updated": "2026-09-15T11:13:19.760049Z",
+      "last_updated": "2026-09-15T21:14:06.743539Z",
       "status": "ongoing"
     },
     {
@@ -12551,7 +12552,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الأحد 13 يونيو 2021 - 04:03 مساءاً",
-      "last_updated": "2026-09-15T11:13:23.422344Z",
+      "last_updated": "2026-09-15T21:14:10.443912Z",
       "status": "ongoing"
     },
     {
@@ -12579,7 +12580,7 @@
       "episodes_count": 9,
       "last_episode": 9,
       "last_episode_date": "الجمعة 11 يونيو 2021 - 03:29 صباحا",
-      "last_updated": "2026-09-15T11:13:27.141269Z",
+      "last_updated": "2026-09-15T21:14:14.138455Z",
       "status": "ongoing"
     },
     {
@@ -12606,7 +12607,7 @@
       "episodes_count": 37,
       "last_episode": 37,
       "last_episode_date": "الأربعاء 09 يونيو 2021 - 04:31 صباحا",
-      "last_updated": "2026-09-15T11:13:30.766474Z",
+      "last_updated": "2026-09-15T21:14:17.833296Z",
       "status": "ongoing"
     },
     {
@@ -12633,7 +12634,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الثلاثاء 08 يونيو 2021 - 09:23 مساءاً",
-      "last_updated": "2026-09-15T11:13:34.404122Z",
+      "last_updated": "2026-09-15T21:14:21.520676Z",
       "status": "ongoing"
     },
     {
@@ -12663,7 +12664,7 @@
       "episodes_count": 39,
       "last_episode": 39,
       "last_episode_date": "الثلاثاء 08 يونيو 2021 - 04:11 صباحا",
-      "last_updated": "2026-09-15T11:13:38.051195Z",
+      "last_updated": "2026-09-15T21:14:25.213175Z",
       "status": "ongoing"
     },
     {
@@ -12691,7 +12692,7 @@
       "episodes_count": 14,
       "last_episode": 14,
       "last_episode_date": "الإثنين 07 يونيو 2021 - 10:41 صباحا",
-      "last_updated": "2026-09-15T11:13:41.699079Z",
+      "last_updated": "2026-09-15T21:14:28.913206Z",
       "status": "ongoing"
     },
     {
@@ -12719,7 +12720,7 @@
       "episodes_count": 21,
       "last_episode": 21,
       "last_episode_date": "السبت 05 يونيو 2021 - 02:52 صباحا",
-      "last_updated": "2026-09-15T11:13:45.358365Z",
+      "last_updated": "2026-09-15T21:14:32.611129Z",
       "status": "ongoing"
     },
     {
@@ -12746,7 +12747,7 @@
       "episodes_count": 35,
       "last_episode": 35,
       "last_episode_date": "السبت 05 يونيو 2021 - 01:23 صباحا",
-      "last_updated": "2026-09-15T11:13:49.012159Z",
+      "last_updated": "2026-09-15T21:14:36.311282Z",
       "status": "ongoing"
     },
     {
@@ -12773,7 +12774,7 @@
       "episodes_count": 9,
       "last_episode": 9,
       "last_episode_date": "السبت 05 يونيو 2021 - 01:09 صباحا",
-      "last_updated": "2026-09-15T11:13:52.662168Z",
+      "last_updated": "2026-09-15T21:14:40.006200Z",
       "status": "ongoing"
     },
     {
@@ -12802,7 +12803,7 @@
       "episodes_count": 31,
       "last_episode": 31,
       "last_episode_date": "الخميس 03 يونيو 2021 - 02:21 صباحا",
-      "last_updated": "2026-09-15T11:13:56.296706Z",
+      "last_updated": "2026-09-15T21:14:43.702781Z",
       "status": "ongoing"
     },
     {
@@ -12832,7 +12833,7 @@
       "episodes_count": 34,
       "last_episode": 34,
       "last_episode_date": "الثلاثاء 01 يونيو 2021 - 03:25 صباحا",
-      "last_updated": "2026-09-15T11:14:00.013881Z",
+      "last_updated": "2026-09-15T21:14:47.406242Z",
       "status": "ongoing"
     },
     {
@@ -12859,7 +12860,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الإثنين 31 مايو 2021 - 02:44 صباحا",
-      "last_updated": "2026-09-15T11:14:03.657858Z",
+      "last_updated": "2026-09-15T21:14:51.104605Z",
       "status": "ongoing"
     },
     {
@@ -12889,7 +12890,7 @@
       "episodes_count": 28,
       "last_episode": 28,
       "last_episode_date": "الجمعة 28 مايو 2021 - 04:44 صباحا",
-      "last_updated": "2026-09-15T11:14:07.295053Z",
+      "last_updated": "2026-09-15T21:14:54.796410Z",
       "status": "ongoing"
     },
     {
@@ -12918,7 +12919,7 @@
       "episodes_count": 36,
       "last_episode": 36,
       "last_episode_date": "الجمعة 28 مايو 2021 - 03:35 صباحا",
-      "last_updated": "2026-09-15T11:14:10.933708Z",
+      "last_updated": "2026-09-15T21:14:58.485397Z",
       "status": "ongoing"
     },
     {
@@ -12946,7 +12947,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الثلاثاء 25 مايو 2021 - 07:46 صباحا",
-      "last_updated": "2026-09-15T11:14:14.573461Z",
+      "last_updated": "2026-09-15T21:15:02.180458Z",
       "status": "ongoing"
     },
     {
@@ -12972,7 +12973,7 @@
       "episodes_count": 38,
       "last_episode": 38,
       "last_episode_date": "الخميس 20 مايو 2021 - 01:06 صباحا",
-      "last_updated": "2026-09-15T11:14:18.209698Z",
+      "last_updated": "2026-09-15T21:15:05.877120Z",
       "status": "ongoing"
     },
     {
@@ -13003,7 +13004,7 @@
       "episodes_count": 31,
       "last_episode": 31,
       "last_episode_date": "الخميس 13 مايو 2021 - 11:42 مساءاً",
-      "last_updated": "2026-09-15T11:14:21.860742Z",
+      "last_updated": "2026-09-15T21:15:09.570346Z",
       "status": "ongoing"
     },
     {
@@ -13033,7 +13034,7 @@
       "episodes_count": 102,
       "last_episode": 105,
       "last_episode_date": "الخميس 13 مايو 2021 - 10:59 صباحا",
-      "last_updated": "2026-09-15T11:14:25.487262Z",
+      "last_updated": "2026-09-15T21:15:13.269386Z",
       "status": "ongoing"
     },
     {
@@ -13062,7 +13063,7 @@
       "episodes_count": 34,
       "last_episode": 35,
       "last_episode_date": "الأربعاء 12 مايو 2021 - 04:31 صباحا",
-      "last_updated": "2026-09-15T11:14:29.205917Z",
+      "last_updated": "2026-09-15T21:15:16.964618Z",
       "status": "ongoing"
     },
     {
@@ -13092,7 +13093,7 @@
       "episodes_count": 39,
       "last_episode": 39,
       "last_episode_date": "الأربعاء 12 مايو 2021 - 04:28 صباحا",
-      "last_updated": "2026-09-15T11:14:32.855651Z",
+      "last_updated": "2026-09-15T21:15:20.661814Z",
       "status": "ongoing"
     },
     {
@@ -13121,7 +13122,7 @@
       "episodes_count": 36,
       "last_episode": 36,
       "last_episode_date": "الثلاثاء 11 مايو 2021 - 05:12 صباحا",
-      "last_updated": "2026-09-15T11:14:36.499052Z",
+      "last_updated": "2026-09-15T21:15:24.358740Z",
       "status": "ongoing"
     },
     {
@@ -13148,7 +13149,7 @@
       "episodes_count": 13,
       "last_episode": 13,
       "last_episode_date": "الخميس 29 ابريل 2021 - 04:45 صباحا",
-      "last_updated": "2026-09-15T11:14:40.137129Z",
+      "last_updated": "2026-09-15T21:15:28.055769Z",
       "status": "ongoing"
     },
     {
@@ -13176,7 +13177,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الأربعاء 28 ابريل 2021 - 05:33 صباحا",
-      "last_updated": "2026-09-15T11:14:43.778216Z",
+      "last_updated": "2026-09-15T21:15:31.752592Z",
       "status": "ongoing"
     },
     {
@@ -13206,7 +13207,7 @@
       "episodes_count": 31,
       "last_episode": 31,
       "last_episode_date": "الإثنين 26 ابريل 2021 - 05:07 صباحا",
-      "last_updated": "2026-09-15T11:14:47.417282Z",
+      "last_updated": "2026-09-15T21:15:35.447732Z",
       "status": "ongoing"
     },
     {
@@ -13235,7 +13236,7 @@
       "episodes_count": 115,
       "last_episode": 115,
       "last_episode_date": "الثلاثاء 20 ابريل 2021 - 05:24 صباحا",
-      "last_updated": "2026-09-15T11:14:51.057044Z",
+      "last_updated": "2026-09-15T21:15:39.152547Z",
       "status": "ongoing"
     },
     {
@@ -13263,7 +13264,7 @@
       "episodes_count": 39,
       "last_episode": 39,
       "last_episode_date": "الأحد 18 ابريل 2021 - 01:54 مساءاً",
-      "last_updated": "2026-09-15T11:14:54.719513Z",
+      "last_updated": "2026-09-15T21:15:42.843702Z",
       "status": "ongoing"
     },
     {
@@ -13292,7 +13293,7 @@
       "episodes_count": 29,
       "last_episode": 29,
       "last_episode_date": "السبت 17 ابريل 2021 - 05:49 صباحا",
-      "last_updated": "2026-09-15T11:14:58.375967Z",
+      "last_updated": "2026-09-15T21:15:46.535888Z",
       "status": "ongoing"
     },
     {
@@ -13319,7 +13320,7 @@
       "episodes_count": 30,
       "last_episode": 30,
       "last_episode_date": "الثلاثاء 13 ابريل 2021 - 06:49 صباحا",
-      "last_updated": "2026-09-15T11:15:02.133954Z",
+      "last_updated": "2026-09-15T21:15:50.231487Z",
       "status": "ongoing"
     },
     {
@@ -13348,7 +13349,7 @@
       "episodes_count": 30,
       "last_episode": 30,
       "last_episode_date": "الثلاثاء 13 ابريل 2021 - 06:17 صباحا",
-      "last_updated": "2026-09-15T11:15:05.804352Z",
+      "last_updated": "2026-09-15T21:15:53.924099Z",
       "status": "ongoing"
     },
     {
@@ -13378,7 +13379,7 @@
       "episodes_count": 30,
       "last_episode": 30,
       "last_episode_date": "الإثنين 12 ابريل 2021 - 07:54 صباحا",
-      "last_updated": "2026-09-15T11:15:09.472316Z",
+      "last_updated": "2026-09-15T21:15:57.622052Z",
       "status": "ongoing"
     },
     {
@@ -13407,7 +13408,7 @@
       "episodes_count": 102,
       "last_episode": 104,
       "last_episode_date": "الخميس 08 ابريل 2021 - 02:26 مساءاً",
-      "last_updated": "2026-09-15T11:15:13.122163Z",
+      "last_updated": "2026-09-15T21:16:01.321929Z",
       "status": "ongoing"
     },
     {
@@ -13434,7 +13435,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الجمعة 26 مارس 2021 - 07:29 مساءاً",
-      "last_updated": "2026-09-15T11:15:16.753260Z",
+      "last_updated": "2026-09-15T21:16:05.016803Z",
       "status": "ongoing"
     },
     {
@@ -13463,7 +13464,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "السبت 13 مارس 2021 - 10:51 مساءاً",
-      "last_updated": "2026-09-15T11:15:20.405113Z",
+      "last_updated": "2026-09-15T21:16:08.711130Z",
       "status": "ongoing"
     },
     {
@@ -13491,7 +13492,7 @@
       "episodes_count": 26,
       "last_episode": 26,
       "last_episode_date": "الخميس 11 مارس 2021 - 12:54 صباحا",
-      "last_updated": "2026-09-15T11:15:24.052714Z",
+      "last_updated": "2026-09-15T21:16:12.411439Z",
       "status": "ongoing"
     },
     {
@@ -13518,7 +13519,7 @@
       "episodes_count": 16,
       "last_episode": 16,
       "last_episode_date": "الجمعة 05 مارس 2021 - 05:05 مساءاً",
-      "last_updated": "2026-09-15T11:15:27.678862Z",
+      "last_updated": "2026-09-15T21:16:16.111442Z",
       "status": "ongoing"
     },
     {
@@ -13545,7 +13546,7 @@
       "episodes_count": 81,
       "last_episode": 81,
       "last_episode_date": "الأحد 21 فبراير 2021 - 02:03 صباحا",
-      "last_updated": "2026-09-15T11:15:31.439417Z",
+      "last_updated": "2026-09-15T21:16:19.809877Z",
       "status": "ongoing"
     },
     {
@@ -13573,7 +13574,7 @@
       "episodes_count": 104,
       "last_episode": 104,
       "last_episode_date": "الأربعاء 17 فبراير 2021 - 01:08 صباحا",
-      "last_updated": "2026-09-15T11:15:35.108800Z",
+      "last_updated": "2026-09-15T21:16:23.513381Z",
       "status": "ongoing"
     },
     {
@@ -13600,7 +13601,7 @@
       "episodes_count": 102,
       "last_episode": 102,
       "last_episode_date": "الإثنين 15 فبراير 2021 - 02:21 صباحا",
-      "last_updated": "2026-09-15T11:15:38.762115Z",
+      "last_updated": "2026-09-15T21:16:27.213220Z",
       "status": "ongoing"
     },
     {
@@ -13628,7 +13629,7 @@
       "episodes_count": 110,
       "last_episode": 110,
       "last_episode_date": "الأربعاء 10 فبراير 2021 - 08:47 مساءاً",
-      "last_updated": "2026-09-15T11:15:42.419160Z",
+      "last_updated": "2026-09-15T21:16:30.918358Z",
       "status": "ongoing"
     },
     {
@@ -13655,7 +13656,7 @@
       "episodes_count": 81,
       "last_episode": 81,
       "last_episode_date": "الجمعة 05 فبراير 2021 - 02:20 صباحا",
-      "last_updated": "2026-09-15T11:15:46.075733Z",
+      "last_updated": "2026-09-15T21:16:34.617237Z",
       "status": "ongoing"
     },
     {
@@ -13681,7 +13682,7 @@
       "episodes_count": 12,
       "last_episode": 12,
       "last_episode_date": "الخميس 18 فبراير 2021 - 02:47 مساءاً",
-      "last_updated": "2026-09-15T11:15:49.718080Z",
+      "last_updated": "2026-09-15T21:16:38.314067Z",
       "status": "ongoing"
     },
     {
@@ -13709,7 +13710,7 @@
       "episodes_count": 37,
       "last_episode": 37,
       "last_episode_date": "الأربعاء 17 فبراير 2021 - 03:51 صباحا",
-      "last_updated": "2026-09-15T11:15:53.356613Z",
+      "last_updated": "2026-09-15T21:16:42.006710Z",
       "status": "ongoing"
     },
     {
@@ -13738,7 +13739,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 05 فبراير 2021 - 11:42 مساءاً",
-      "last_updated": "2026-09-15T11:15:56.999545Z",
+      "last_updated": "2026-09-15T21:16:45.703245Z",
       "status": "ongoing"
     },
     {
@@ -13766,7 +13767,7 @@
       "episodes_count": 3,
       "last_episode": 3,
       "last_episode_date": "الجمعة 05 فبراير 2021 - 01:37 صباحا",
-      "last_updated": "2026-09-15T11:16:00.631747Z",
+      "last_updated": "2026-09-15T21:16:49.394332Z",
       "status": "ongoing"
     },
     {
@@ -13794,7 +13795,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الجمعة 29 يناير 2021 - 06:36 صباحا",
-      "last_updated": "2026-09-15T11:16:04.291038Z",
+      "last_updated": "2026-09-15T21:16:53.089666Z",
       "status": "ongoing"
     },
     {
@@ -13824,7 +13825,7 @@
       "episodes_count": 17,
       "last_episode": 17,
       "last_episode_date": "الخميس 07 يناير 2021 - 02:46 صباحا",
-      "last_updated": "2026-09-15T11:16:07.945861Z",
+      "last_updated": "2026-09-15T21:16:56.780920Z",
       "status": "ongoing"
     },
     {
@@ -13853,7 +13854,7 @@
       "episodes_count": 17,
       "last_episode": 17,
       "last_episode_date": "الإثنين 28 ديسمبر 2020 - 06:39 صباحا",
-      "last_updated": "2026-09-15T11:16:11.585036Z",
+      "last_updated": "2026-09-15T21:17:00.475890Z",
       "status": "ongoing"
     },
     {
@@ -13881,7 +13882,7 @@
       "episodes_count": 11,
       "last_episode": 11,
       "last_episode_date": "الأحد 27 ديسمبر 2020 - 08:32 صباحا",
-      "last_updated": "2026-09-15T11:16:15.214365Z",
+      "last_updated": "2026-09-15T21:17:04.170842Z",
       "status": "ongoing"
     },
     {
@@ -13909,7 +13910,7 @@
       "episodes_count": 5,
       "last_episode": 5,
       "last_episode_date": "الخميس 26 نوفمبر 2020 - 07:38 مساءاً",
-      "last_updated": "2026-09-15T11:16:18.895640Z",
+      "last_updated": "2026-09-15T21:17:07.865478Z",
       "status": "ongoing"
     },
     {
@@ -13923,21 +13924,21 @@
       "rating": 8.3,
       "genres": [
         "رومانسي",
-        "كوميدي",
-        "دراما"
+        "دراما",
+        "كوميدي"
       ],
       "tags": [
-        "#حدث في اضنة الموسم الاول",
-        "#Sifir Bir الموسم الاول",
+        "مدبلج",
         "رمضان",
-        "مدبلج"
+        "#Sifir Bir الموسم الاول",
+        "#حدث في اضنة الموسم الاول"
       ],
       "quality": "WEB-DL",
       "duration": "30 دقيقة",
       "episodes_count": 5,
       "last_episode": 5,
       "last_episode_date": "الخميس 26 نوفمبر 2020 - 07:19 مساءاً",
-      "last_updated": "2026-09-15T11:16:22.525011Z",
+      "last_updated": "2026-09-15T21:17:21.975709Z",
       "status": "ongoing"
     },
     {
@@ -13951,21 +13952,21 @@
       "rating": 7.2,
       "genres": [
         "رومانسي",
-        "كوميدي",
-        "دراما"
+        "دراما",
+        "كوميدي"
       ],
       "tags": [
-        "#Babil الموسم الثاني",
-        "رمضان",
+        "مدبلج",
         "#Babil",
-        "مدبلج"
+        "رمضان",
+        "#Babil الموسم الثاني"
       ],
       "quality": "720p",
       "duration": "",
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "السبت 21 نوفمبر 2020 - 06:41 مساءاً",
-      "last_updated": "2026-09-15T11:16:26.171846Z",
+      "last_updated": "2026-09-15T21:18:01.734234Z",
       "status": "ongoing"
     },
     {
@@ -13993,7 +13994,7 @@
       "episodes_count": 36,
       "last_episode": 36,
       "last_episode_date": "الإثنين 16 نوفمبر 2020 - 02:58 صباحا",
-      "last_updated": "2026-09-15T11:16:29.827413Z",
+      "last_updated": "2026-09-15T21:19:07.296048Z",
       "status": "ongoing"
     },
     {
@@ -14021,7 +14022,7 @@
       "episodes_count": 15,
       "last_episode": 15,
       "last_episode_date": "الإثنين 16 نوفمبر 2020 - 02:28 صباحا",
-      "last_updated": "2026-09-15T11:16:33.505829Z",
+      "last_updated": "2026-09-15T21:19:40.917644Z",
       "status": "ongoing"
     },
     {
@@ -14048,7 +14049,7 @@
       "episodes_count": 5,
       "last_episode": 5,
       "last_episode_date": "الإثنين 16 نوفمبر 2020 - 01:38 صباحا",
-      "last_updated": "2026-09-15T11:16:37.152908Z",
+      "last_updated": "2026-09-15T21:19:44.613331Z",
       "status": "ongoing"
     },
     {
@@ -14077,7 +14078,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "السبت 14 نوفمبر 2020 - 06:58 مساءاً",
-      "last_updated": "2026-09-15T11:16:40.815333Z",
+      "last_updated": "2026-09-15T21:19:48.309638Z",
       "status": "ongoing"
     },
     {
@@ -14107,7 +14108,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "السبت 14 نوفمبر 2020 - 06:15 مساءاً",
-      "last_updated": "2026-09-15T11:16:44.454049Z",
+      "last_updated": "2026-09-15T21:19:52.002769Z",
       "status": "ongoing"
     },
     {
@@ -14135,7 +14136,7 @@
       "episodes_count": 32,
       "last_episode": 36,
       "last_episode_date": "الجمعة 13 نوفمبر 2020 - 04:57 صباحا",
-      "last_updated": "2026-09-15T11:16:48.112213Z",
+      "last_updated": "2026-09-15T21:19:55.696936Z",
       "status": "ongoing"
     },
     {
@@ -14165,7 +14166,7 @@
       "episodes_count": 3,
       "last_episode": 3,
       "last_episode_date": "السبت 07 نوفمبر 2020 - 05:35 مساءاً",
-      "last_updated": "2026-09-15T11:16:51.774282Z",
+      "last_updated": "2026-09-15T21:19:59.392776Z",
       "status": "ongoing"
     },
     {
@@ -14194,7 +14195,7 @@
       "episodes_count": 4,
       "last_episode": 4,
       "last_episode_date": "الخميس 05 نوفمبر 2020 - 09:15 صباحا",
-      "last_updated": "2026-09-15T11:16:55.435623Z",
+      "last_updated": "2026-09-15T21:20:03.093237Z",
       "status": "ongoing"
     },
     {
@@ -14222,7 +14223,7 @@
       "episodes_count": 9,
       "last_episode": 9,
       "last_episode_date": "الجمعة 30 أكتوبر 2020 - 02:29 صباحا",
-      "last_updated": "2026-09-15T11:16:59.087548Z",
+      "last_updated": "2026-09-15T21:20:06.785704Z",
       "status": "ongoing"
     },
     {
@@ -14250,7 +14251,7 @@
       "episodes_count": 21,
       "last_episode": 21,
       "last_episode_date": "الأربعاء 28 أكتوبر 2020 - 05:26 مساءاً",
-      "last_updated": "2026-09-15T11:17:02.729109Z",
+      "last_updated": "2026-09-15T21:20:10.483862Z",
       "status": "ongoing"
     },
     {
@@ -14278,7 +14279,7 @@
       "episodes_count": 16,
       "last_episode": 16,
       "last_episode_date": "الأحد 25 أكتوبر 2020 - 03:11 صباحا",
-      "last_updated": "2026-09-15T11:17:06.452828Z",
+      "last_updated": "2026-09-15T21:20:14.174887Z",
       "status": "ongoing"
     },
     {
@@ -14304,7 +14305,7 @@
       "episodes_count": 6,
       "last_episode": 6,
       "last_episode_date": "الأحد 18 أكتوبر 2020 - 02:50 صباحا",
-      "last_updated": "2026-09-15T11:17:10.114718Z",
+      "last_updated": "2026-09-15T21:20:17.869702Z",
       "status": "ongoing"
     },
     {
@@ -14331,7 +14332,7 @@
       "episodes_count": 12,
       "last_episode": 12,
       "last_episode_date": "الجمعة 09 أكتوبر 2020 - 10:23 مساءاً",
-      "last_updated": "2026-09-15T11:17:13.758276Z",
+      "last_updated": "2026-09-15T21:20:21.560652Z",
       "status": "ongoing"
     },
     {
@@ -14359,7 +14360,7 @@
       "episodes_count": 17,
       "last_episode": 17,
       "last_episode_date": "الأربعاء 07 أكتوبر 2020 - 12:56 صباحا",
-      "last_updated": "2026-09-15T11:17:17.408662Z",
+      "last_updated": "2026-09-15T21:20:25.257529Z",
       "status": "ongoing"
     },
     {
@@ -14386,7 +14387,7 @@
       "episodes_count": 14,
       "last_episode": 14,
       "last_episode_date": "السبت 03 أكتوبر 2020 - 01:39 صباحا",
-      "last_updated": "2026-09-15T11:17:21.045530Z",
+      "last_updated": "2026-09-15T21:20:28.954465Z",
       "status": "ongoing"
     },
     {
@@ -14414,7 +14415,7 @@
       "episodes_count": 39,
       "last_episode": 40,
       "last_episode_date": "السبت 03 أكتوبر 2020 - 01:18 صباحا",
-      "last_updated": "2026-09-15T11:17:24.663769Z",
+      "last_updated": "2026-09-15T21:20:32.653440Z",
       "status": "ongoing"
     },
     {
@@ -14442,7 +14443,7 @@
       "episodes_count": 15,
       "last_episode": 15,
       "last_episode_date": "الجمعة 02 أكتوبر 2020 - 04:39 مساءاً",
-      "last_updated": "2026-09-15T11:17:28.314922Z",
+      "last_updated": "2026-09-15T21:20:36.344356Z",
       "status": "ongoing"
     },
     {
@@ -14469,7 +14470,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الأربعاء 30 سبتمبر 2020 - 07:16 مساءاً",
-      "last_updated": "2026-09-15T11:17:31.957795Z",
+      "last_updated": "2026-09-15T21:20:40.042666Z",
       "status": "ongoing"
     },
     {
@@ -14497,7 +14498,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الأربعاء 23 سبتمبر 2020 - 04:20 صباحا",
-      "last_updated": "2026-09-15T11:17:35.692067Z",
+      "last_updated": "2026-09-15T21:20:43.741551Z",
       "status": "ongoing"
     },
     {
@@ -14525,7 +14526,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الأربعاء 23 سبتمبر 2020 - 04:16 صباحا",
-      "last_updated": "2026-09-15T11:17:39.345092Z",
+      "last_updated": "2026-09-15T21:20:47.439707Z",
       "status": "ongoing"
     },
     {
@@ -14552,7 +14553,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الأربعاء 23 سبتمبر 2020 - 04:13 صباحا",
-      "last_updated": "2026-09-15T11:17:42.987688Z",
+      "last_updated": "2026-09-15T21:20:51.139452Z",
       "status": "ongoing"
     },
     {
@@ -14580,7 +14581,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الخميس 17 سبتمبر 2020 - 03:59 صباحا",
-      "last_updated": "2026-09-15T11:17:46.635206Z",
+      "last_updated": "2026-09-15T21:20:54.833371Z",
       "status": "ongoing"
     },
     {
@@ -14607,7 +14608,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الثلاثاء 15 سبتمبر 2020 - 06:15 مساءاً",
-      "last_updated": "2026-09-15T11:17:50.283242Z",
+      "last_updated": "2026-09-15T21:20:58.533150Z",
       "status": "ongoing"
     },
     {
@@ -14635,7 +14636,7 @@
       "episodes_count": 10,
       "last_episode": 10,
       "last_episode_date": "الأحد 13 سبتمبر 2020 - 03:59 صباحا",
-      "last_updated": "2026-09-15T11:17:53.929901Z",
+      "last_updated": "2026-09-15T21:21:02.224312Z",
       "status": "ongoing"
     },
     {
@@ -14664,7 +14665,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "السبت 12 سبتمبر 2020 - 05:15 مساءاً",
-      "last_updated": "2026-09-15T11:17:57.575870Z",
+      "last_updated": "2026-09-15T21:21:05.925163Z",
       "status": "ongoing"
     },
     {
@@ -14692,7 +14693,7 @@
       "episodes_count": 8,
       "last_episode": 8,
       "last_episode_date": "الخميس 10 سبتمبر 2020 - 02:52 مساءاً",
-      "last_updated": "2026-09-15T11:18:01.207991Z",
+      "last_updated": "2026-09-15T21:21:09.615441Z",
       "status": "ongoing"
     },
     {
@@ -14720,7 +14721,7 @@
       "episodes_count": 17,
       "last_episode": 17,
       "last_episode_date": "الجمعة 28 اغسطس 2020 - 10:28 مساءاً",
-      "last_updated": "2026-09-15T11:18:04.859863Z",
+      "last_updated": "2026-09-15T21:21:13.308358Z",
       "status": "ongoing"
     },
     {
@@ -14748,7 +14749,7 @@
       "episodes_count": 7,
       "last_episode": 34,
       "last_episode_date": "الجمعة 14 اغسطس 2020 - 04:23 صباحا",
-      "last_updated": "2026-09-15T11:18:08.555911Z",
+      "last_updated": "2026-09-15T21:21:17.005152Z",
       "status": "ongoing"
     },
     {
@@ -14776,7 +14777,7 @@
       "episodes_count": 35,
       "last_episode": 35,
       "last_episode_date": "الجمعة 07 اغسطس 2020 - 04:36 مساءاً",
-      "last_updated": "2026-09-15T11:18:12.201975Z",
+      "last_updated": "2026-09-15T21:21:20.702357Z",
       "status": "ongoing"
     },
     {
@@ -14804,7 +14805,7 @@
       "episodes_count": 120,
       "last_episode": 120,
       "last_episode_date": "الأحد 02 اغسطس 2020 - 03:58 صباحا",
-      "last_updated": "2026-09-15T11:18:15.860143Z",
+      "last_updated": "2026-09-15T21:21:24.407903Z",
       "status": "ongoing"
     },
     {
@@ -14832,7 +14833,7 @@
       "episodes_count": 7,
       "last_episode": 7,
       "last_episode_date": "الخميس 09 يوليو 2020 - 03:09 مساءاً",
-      "last_updated": "2026-09-15T11:18:19.526233Z",
+      "last_updated": "2026-09-15T21:21:28.103280Z",
       "status": "ongoing"
     },
     {
@@ -14862,7 +14863,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:18:23.157998Z",
+      "last_updated": "2026-09-15T21:21:31.798844Z",
       "status": "ongoing"
     },
     {
@@ -14891,7 +14892,7 @@
       "episodes_count": 1,
       "last_episode": 12,
       "last_episode_date": "الجمعة 03 يوليو 2020 - 01:02 صباحا",
-      "last_updated": "2026-09-15T11:18:26.793538Z",
+      "last_updated": "2026-09-15T21:21:35.498888Z",
       "status": "ongoing"
     },
     {
@@ -14924,7 +14925,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:18:30.436078Z",
+      "last_updated": "2026-09-15T21:21:39.193498Z",
       "status": "ongoing"
     },
     {
@@ -14951,7 +14952,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:18:34.096257Z",
+      "last_updated": "2026-09-15T21:21:42.888134Z",
       "status": "ongoing"
     },
     {
@@ -14980,7 +14981,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:18:37.872144Z",
+      "last_updated": "2026-09-15T21:21:46.581437Z",
       "status": "ongoing"
     },
     {
@@ -15007,7 +15008,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:18:41.498628Z",
+      "last_updated": "2026-09-15T21:21:50.276954Z",
       "status": "ongoing"
     },
     {
@@ -15034,7 +15035,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:18:45.181474Z",
+      "last_updated": "2026-09-15T21:21:53.975051Z",
       "status": "ongoing"
     },
     {
@@ -15063,7 +15064,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:18:48.831686Z",
+      "last_updated": "2026-09-15T21:21:57.669840Z",
       "status": "ongoing"
     },
     {
@@ -15091,7 +15092,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:18:52.472135Z",
+      "last_updated": "2026-09-15T21:22:01.369548Z",
       "status": "ongoing"
     },
     {
@@ -15119,7 +15120,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:18:56.110441Z",
+      "last_updated": "2026-09-15T21:22:05.065476Z",
       "status": "ongoing"
     },
     {
@@ -15147,7 +15148,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:18:59.759613Z",
+      "last_updated": "2026-09-15T21:22:08.762627Z",
       "status": "ongoing"
     },
     {
@@ -15174,7 +15175,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:19:03.392240Z",
+      "last_updated": "2026-09-15T21:22:12.460136Z",
       "status": "ongoing"
     },
     {
@@ -15201,7 +15202,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:19:07.041656Z",
+      "last_updated": "2026-09-15T21:22:16.153765Z",
       "status": "ongoing"
     },
     {
@@ -15229,7 +15230,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:19:10.711250Z",
+      "last_updated": "2026-09-15T21:22:19.846529Z",
       "status": "ongoing"
     },
     {
@@ -15257,7 +15258,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:19:14.360098Z",
+      "last_updated": "2026-09-15T21:22:23.542084Z",
       "status": "ongoing"
     },
     {
@@ -15285,7 +15286,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:19:18.026519Z",
+      "last_updated": "2026-09-15T21:22:27.229179Z",
       "status": "ongoing"
     },
     {
@@ -15315,7 +15316,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:19:21.660072Z",
+      "last_updated": "2026-09-15T21:22:30.923242Z",
       "status": "ongoing"
     },
     {
@@ -15343,7 +15344,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:19:25.322324Z",
+      "last_updated": "2026-09-15T21:22:34.616475Z",
       "status": "ongoing"
     },
     {
@@ -15370,7 +15371,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:19:28.976152Z",
+      "last_updated": "2026-09-15T21:22:38.311347Z",
       "status": "ongoing"
     },
     {
@@ -15397,7 +15398,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:19:32.611230Z",
+      "last_updated": "2026-09-15T21:22:42.004851Z",
       "status": "ongoing"
     },
     {
@@ -15426,7 +15427,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:19:36.281114Z",
+      "last_updated": "2026-09-15T21:22:45.696221Z",
       "status": "ongoing"
     },
     {
@@ -15455,7 +15456,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:19:39.980252Z",
+      "last_updated": "2026-09-15T21:22:49.395432Z",
       "status": "ongoing"
     },
     {
@@ -15483,7 +15484,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:19:43.621319Z",
+      "last_updated": "2026-09-15T21:22:53.085236Z",
       "status": "ongoing"
     },
     {
@@ -15509,7 +15510,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:19:47.264648Z",
+      "last_updated": "2026-09-15T21:22:56.776882Z",
       "status": "ongoing"
     },
     {
@@ -15538,7 +15539,7 @@
       "episodes_count": 112,
       "last_episode": 114,
       "last_episode_date": "السبت 14 مارس 2020 - 09:31 مساءاً",
-      "last_updated": "2026-09-15T11:19:50.928158Z",
+      "last_updated": "2026-09-15T21:23:00.477221Z",
       "status": "ongoing"
     },
     {
@@ -15567,7 +15568,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:19:54.588419Z",
+      "last_updated": "2026-09-15T21:23:04.168309Z",
       "status": "ongoing"
     },
     {
@@ -15599,7 +15600,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:19:58.228507Z",
+      "last_updated": "2026-09-15T21:23:07.865229Z",
       "status": "ongoing"
     },
     {
@@ -15627,7 +15628,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:20:01.870249Z",
+      "last_updated": "2026-09-15T21:23:11.557782Z",
       "status": "ongoing"
     },
     {
@@ -15656,7 +15657,7 @@
       "episodes_count": 27,
       "last_episode": 140,
       "last_episode_date": "الجمعة 14 فبراير 2020 - 07:21 مساءاً",
-      "last_updated": "2026-09-15T11:20:05.503061Z",
+      "last_updated": "2026-09-15T21:23:15.253742Z",
       "status": "ongoing"
     },
     {
@@ -15687,7 +15688,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:20:09.139519Z",
+      "last_updated": "2026-09-15T21:23:18.953881Z",
       "status": "ongoing"
     },
     {
@@ -15718,7 +15719,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:20:12.895141Z",
+      "last_updated": "2026-09-15T21:23:22.640278Z",
       "status": "ongoing"
     },
     {
@@ -15751,7 +15752,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:20:16.544093Z",
+      "last_updated": "2026-09-15T21:23:26.333056Z",
       "status": "ongoing"
     },
     {
@@ -15781,7 +15782,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:20:20.185091Z",
+      "last_updated": "2026-09-15T21:23:30.031667Z",
       "status": "ongoing"
     },
     {
@@ -15811,7 +15812,7 @@
       "episodes_count": 0,
       "last_episode": 0,
       "last_episode_date": "",
-      "last_updated": "2026-09-15T11:20:23.824875Z",
+      "last_updated": "2026-09-15T21:23:33.726934Z",
       "status": "ongoing"
     }
   ]
