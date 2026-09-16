@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "رومانسي",
     "كوميدي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
-    "#لعبة الحظ",
     "مدبلج",
-    "#Baht Oyunu",
-    "رمضان"
+    "#لعبة الحظ",
+    "رمضان",
+    "#Baht Oyunu"
   ],
   "quality": "720p",
   "duration": "120 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 17,
   "status": "ongoing",
-  "last_updated": "2026-09-16T02:14:52.893929Z",
+  "last_updated": "2026-09-16T11:26:26.590128Z",
   "episodes": [
     {
       "number": 1,
