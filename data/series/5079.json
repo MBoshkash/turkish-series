@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.2,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "رمضان",
-    "مدبلج",
     "#المدينة البعيدة الموسم الثاني",
-    "#Uzak.Sehir."
+    "#Uzak.Sehir.",
+    "مدبلج",
+    "رمضان"
   ],
   "quality": "WEB-DL",
   "duration": "141 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 36,
   "status": "ongoing",
-  "last_updated": "2026-09-16T20:34:14.801415Z",
+  "last_updated": "2026-09-17T01:56:58.289818Z",
   "episodes": [
     {
       "number": 1,
