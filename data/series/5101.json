@@ -10,11 +10,12 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
-    "رومانسي",
     "دراما",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
+    "مدبلج",
     "#Teşkilat",
     "#The Shadow Team",
     "رمضان",
@@ -26,7 +27,7 @@
   "cast": [],
   "total_episodes": 36,
   "status": "ongoing",
-  "last_updated": "2026-09-17T15:54:26.406556Z",
+  "last_updated": "2026-09-17T20:54:02.672144Z",
   "episodes": [
     {
       "number": 1,
