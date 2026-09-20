@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 7.7,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "#Bahari Beklerken",
     "رمضان",
-    "#بريق الأمل الموسم الاول"
+    "#Bahari Beklerken",
+    "#بريق الأمل الموسم الاول",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 175,
   "status": "ongoing",
-  "last_updated": "2026-09-20T10:26:21.836909Z",
+  "last_updated": "2026-09-20T15:18:27.941610Z",
   "episodes": [
     {
       "number": 1,

@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 7.1,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
     "#Kagit Ev",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-09-20T10:31:18.901451Z",
+  "last_updated": "2026-09-20T15:20:54.595531Z",
   "episodes": [
     {
       "number": 1,

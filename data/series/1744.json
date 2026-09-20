@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.9,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "#Fatma",
     "رمضان",
-    "#فاطمة 2021"
+    "#فاطمة 2021",
+    "#Fatma",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 6,
   "status": "ongoing",
-  "last_updated": "2026-09-20T10:31:43.519844Z",
+  "last_updated": "2026-09-20T15:21:06.803243Z",
   "episodes": [
     {
       "number": 1,

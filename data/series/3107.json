@@ -10,14 +10,14 @@
   "language": "التركية",
   "rating": 5.2,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
     "#مسلسل الطيبة",
-    "#Iyilik الموسم الاول"
+    "#Iyilik الموسم الاول",
+    "مدبلج"
   ],
   "quality": "720p",
   "duration": "",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-09-20T10:27:36.400940Z",
+  "last_updated": "2026-09-20T15:19:04.151291Z",
   "episodes": [
     {
       "number": 1,

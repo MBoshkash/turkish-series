@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 9.3,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#Maria ile Mustafa",
     "#ماريا ومصطفى",
     "#مشاهدة مسلسل ماريا ومصطفى",
-    "رمضان"
+    "رمضان",
+    "#Maria ile Mustafa"
   ],
   "quality": "720p",
   "duration": "150 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 17,
   "status": "ongoing",
-  "last_updated": "2026-09-20T10:32:15.005089Z",
+  "last_updated": "2026-09-20T15:21:23.081231Z",
   "episodes": [
     {
       "number": 1,
