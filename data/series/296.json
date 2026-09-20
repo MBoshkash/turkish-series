@@ -10,12 +10,12 @@
   "language": "التركية",
   "rating": 5.0,
   "genres": [
-    "كوميدي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
-    "#Ev yapimi",
-    "#صناعة منزلية"
+    "#صناعة منزلية",
+    "#Ev yapimi"
   ],
   "quality": "720p",
   "duration": "60 دقيقة",
@@ -23,6 +23,6 @@
   "cast": [],
   "total_episodes": 0,
   "status": "ongoing",
-  "last_updated": "2026-09-19T20:03:06.329178Z",
+  "last_updated": "2026-09-20T02:15:23.610076Z",
   "episodes": []
 }
