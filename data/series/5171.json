@@ -10,14 +10,12 @@
   "language": "التركية",
   "rating": 7.0,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "دراما"
   ],
   "tags": [
     "#الاعراف",
     "رمضان",
-    "مدبلج",
     "#بين الجنة والنار مترجم",
     "#Arafta - Beyound by Fate"
   ],
@@ -25,9 +23,9 @@
   "duration": "146 دقيقة",
   "age_rating": "",
   "cast": [],
-  "total_episodes": 82,
+  "total_episodes": 90,
   "status": "ongoing",
-  "last_updated": "2026-09-21T21:31:54.443872Z",
+  "last_updated": "2026-09-22T10:43:29.095775Z",
   "episodes": [
     {
       "number": 1,
@@ -519,6 +517,54 @@
       "number": 82,
       "title": "الحلقة 82",
       "date_added": "الأحد 14 يونيو 2026 - 10:39 مساءاً",
+      "servers_count": 2
+    },
+    {
+      "number": 83,
+      "title": "الحلقة 83",
+      "date_added": "الثلاثاء 22 سبتمبر 2026 - 12:20 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 84,
+      "title": "الحلقة 84",
+      "date_added": "الثلاثاء 22 سبتمبر 2026 - 12:20 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 85,
+      "title": "الحلقة 85",
+      "date_added": "الثلاثاء 22 سبتمبر 2026 - 12:20 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 86,
+      "title": "الحلقة 86",
+      "date_added": "الثلاثاء 22 سبتمبر 2026 - 12:21 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 87,
+      "title": "الحلقة 87",
+      "date_added": "الثلاثاء 22 سبتمبر 2026 - 12:21 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 88,
+      "title": "الحلقة 88",
+      "date_added": "الثلاثاء 22 سبتمبر 2026 - 12:21 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 89,
+      "title": "الحلقة 89",
+      "date_added": "الثلاثاء 22 سبتمبر 2026 - 12:21 صباحا",
+      "servers_count": 2
+    },
+    {
+      "number": 90,
+      "title": "الحلقة 90",
+      "date_added": "الثلاثاء 22 سبتمبر 2026 - 12:21 صباحا",
       "servers_count": 2
     }
   ]
