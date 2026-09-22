@@ -10,9 +10,9 @@
   "language": "التركية",
   "rating": 6.3,
   "genres": [
-    "كوميدي",
     "رومانسي",
-    "دراما"
+    "دراما",
+    "كوميدي"
   ],
   "tags": [
     "#مسلسل دون ان تشعر",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 9,
   "status": "ongoing",
-  "last_updated": "2026-09-22T10:45:37.836506Z",
+  "last_updated": "2026-09-22T16:03:41.317789Z",
   "episodes": [
     {
       "number": 1,
