@@ -11,13 +11,13 @@
   "rating": 7.2,
   "genres": [
     "دراما",
-    "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "رومانسي"
   ],
   "tags": [
-    "#Midnight at Pera Palace",
     "#منتصف الليل في بيرا بالاس",
-    "مدبلج"
+    "مدبلج",
+    "#Midnight at Pera Palace"
   ],
   "quality": "WEB-DL",
   "duration": "45 دقيقة",
@@ -25,7 +25,7 @@
   "cast": [],
   "total_episodes": 8,
   "status": "ongoing",
-  "last_updated": "2026-09-22T20:51:03.646324Z",
+  "last_updated": "2026-09-23T02:10:37.682412Z",
   "episodes": [
     {
       "number": 1,
