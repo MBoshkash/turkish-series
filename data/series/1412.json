@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 6.9,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "#Tozkoparan Iskender",
-    "مدبلج",
+    "رمضان",
     "#اسكندر العاصف",
-    "رمضان"
+    "مدبلج",
+    "#Tozkoparan Iskender"
   ],
   "quality": "720p",
   "duration": "70 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 3,
   "status": "ongoing",
-  "last_updated": "2026-09-30T19:57:01.284219Z",
+  "last_updated": "2026-10-01T03:00:38.371849Z",
   "episodes": [
     {
       "number": 1,

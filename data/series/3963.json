@@ -10,14 +10,15 @@
   "language": "التركية",
   "rating": 6.4,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
+    "رمضان",
     "#مسلسل الملحمة الاخيرة",
-    "مدبلج",
-    "#Son Destan الموسم الاول"
+    "#Son Destan الموسم الاول",
+    "مدبلج"
   ],
   "quality": "WEB-DL",
   "duration": "120 دقيقة",
@@ -25,7 +26,7 @@
   "cast": [],
   "total_episodes": 5,
   "status": "ongoing",
-  "last_updated": "2026-09-30T18:23:48.661623Z",
+  "last_updated": "2026-10-01T02:54:52.597452Z",
   "episodes": [
     {
       "number": 1,

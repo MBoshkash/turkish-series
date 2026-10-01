@@ -10,15 +10,15 @@
   "language": "العربية",
   "rating": 8.3,
   "genres": [
-    "دراما",
     "رومانسي",
-    "كوميدي"
+    "كوميدي",
+    "دراما"
   ],
   "tags": [
-    "مدبلج",
-    "#Poyraz Karayel الموسم الاول",
     "#بويراز كارايل الموسم الاول",
-    "رمضان"
+    "رمضان",
+    "مدبلج",
+    "#Poyraz Karayel الموسم الاول"
   ],
   "quality": "WEB-DL",
   "duration": "115 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 24,
   "status": "ongoing",
-  "last_updated": "2026-09-30T19:04:42.517956Z",
+  "last_updated": "2026-10-01T02:57:18.976733Z",
   "episodes": [
     {
       "number": 1,
