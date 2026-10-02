@@ -10,13 +10,13 @@
   "language": "التركية",
   "rating": 6.7,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "#Seni Çok Bekledim",
-    "مدبلج"
+    "رمضان",
+    "#Seni Çok Bekledim"
   ],
   "quality": "720p",
   "duration": "140 دقيقة",
@@ -24,7 +24,7 @@
   "cast": [],
   "total_episodes": 13,
   "status": "ongoing",
-  "last_updated": "2026-10-01T22:13:40.158108Z",
+  "last_updated": "2026-10-02T11:35:47.086325Z",
   "episodes": [
     {
       "number": 1,

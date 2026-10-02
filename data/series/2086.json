@@ -10,15 +10,15 @@
   "language": "التركية",
   "rating": 7.2,
   "genres": [
-    "دراما",
     "كوميدي",
-    "رومانسي"
+    "رومانسي",
+    "دراما"
   ],
   "tags": [
-    "رمضان",
     "مدبلج",
-    "#Kanunsuz Topraklar",
-    "#أراضي بلا قانون"
+    "رمضان",
+    "#أراضي بلا قانون",
+    "#Kanunsuz Topraklar"
   ],
   "quality": "720p",
   "duration": "150 دقيقة",
@@ -26,7 +26,7 @@
   "cast": [],
   "total_episodes": 16,
   "status": "ongoing",
-  "last_updated": "2026-10-01T22:11:04.641907Z",
+  "last_updated": "2026-10-02T11:34:39.349018Z",
   "episodes": [
     {
       "number": 1,
