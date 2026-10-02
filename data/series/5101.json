@@ -11,13 +11,13 @@
   "rating": 7.0,
   "genres": [
     "كوميدي",
-    "رومانسي",
-    "دراما"
+    "دراما",
+    "رومانسي"
   ],
   "tags": [
+    "#Teşkilat",
     "مدبلج",
     "#The Shadow Team",
-    "#Teşkilat",
     "#المنظمة الموسم السادس",
     "رمضان"
   ],
@@ -27,7 +27,7 @@
   "cast": [],
   "total_episodes": 36,
   "status": "ongoing",
-  "last_updated": "2026-10-02T11:31:04.685964Z",
+  "last_updated": "2026-10-02T17:11:18.634840Z",
   "episodes": [
     {
       "number": 1,
